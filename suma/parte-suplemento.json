@@ -1,11 +1,11 @@
 [
   {
     "id": "sup-q1",
-    "titulo": "Questão 1 — The parts of Penance, in particular, and first of contrition",
+    "titulo": "Questão 1 — As partes da Penitência, em particular, e a primeira da contrição",
     "children": [
       {
         "id": "sup-q1-a1",
-        "titulo": "Artigo 1 — Whether contrition is an assumed sorrow for sins, together with the purpose of confessing them and of making satisfaction for them?",
+        "titulo": "Artigo 1 — Se a contrição é uma tristeza assumida pelos pecados, juntamente com o propósito de confessá-los e de satisfazê-los?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -44,7 +44,7 @@
       },
       {
         "id": "sup-q1-a2",
-        "titulo": "Artigo 2 — Whether contrition is an act of virtue?",
+        "titulo": "Artigo 2 — Se a contrição é um ato de virtude?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -75,7 +75,7 @@
       },
       {
         "id": "sup-q1-a3",
-        "titulo": "Artigo 3 — Whether attrition can become contrition?",
+        "titulo": "Artigo 3 — Se o atrito pode se tornar contrição?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -108,11 +108,11 @@
   },
   {
     "id": "sup-q2",
-    "titulo": "Questão 2 — The object of contrition",
+    "titulo": "Questão 2 — O objeto da contrição",
     "children": [
       {
         "id": "sup-q2-a1",
-        "titulo": "Artigo 1 — Whether man should be contrite on account of the punishment, and not only on account of his sin?",
+        "titulo": "Artigo 1 — Se o homem deveria estar contrito por causa do castigo, e não apenas por causa do seu pecado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -143,7 +143,7 @@
       },
       {
         "id": "sup-q2-a2",
-        "titulo": "Artigo 2 — Whether contrition should be on account of original sin?",
+        "titulo": "Artigo 2 — Se a contrição deve ser por causa do pecado original?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -170,7 +170,7 @@
       },
       {
         "id": "sup-q2-a3",
-        "titulo": "Artigo 3 — Whether we should have contrition for every actual sin?",
+        "titulo": "Artigo 3 — Se deveríamos ter contrição por cada pecado real?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -221,7 +221,7 @@
       },
       {
         "id": "sup-q2-a4",
-        "titulo": "Artigo 4 — Whether a man is bound to have contrition for his future sins?",
+        "titulo": "Artigo 4 — Se um homem está obrigado a ter contrição pelos seus pecados futuros?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -252,7 +252,7 @@
       },
       {
         "id": "sup-q2-a5",
-        "titulo": "Artigo 5 — Whether a man ought to have contrition for another's sin?",
+        "titulo": "Artigo 5 — Se um homem deveria ter contrição pelo pecado de outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -283,7 +283,7 @@
       },
       {
         "id": "sup-q2-a6",
-        "titulo": "Artigo 6 — Whether it is necessary to have contrition for each mortal sin?",
+        "titulo": "Artigo 6 — Se é necessário ter contrição por cada pecado mortal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -320,11 +320,11 @@
   },
   {
     "id": "sup-q3",
-    "titulo": "Questão 3 — The degree of contrition",
+    "titulo": "Questão 3 — O grau de contrição",
     "children": [
       {
         "id": "sup-q3-a1",
-        "titulo": "Artigo 1 — Whether contrition is the greatest possible sorrow in the world?",
+        "titulo": "Artigo 1 — Se a contrição é a maior tristeza possível no mundo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -371,7 +371,7 @@
       },
       {
         "id": "sup-q3-a2",
-        "titulo": "Artigo 2 — Whether the sorrow of contrition can be too great?",
+        "titulo": "Artigo 2 — Se a tristeza da contrição pode ser grande demais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -406,7 +406,7 @@
       },
       {
         "id": "sup-q3-a3",
-        "titulo": "Artigo 3 — Whether sorrow for one sin should be greater than for another?",
+        "titulo": "Artigo 3 — Se a tristeza por um pecado deveria ser maior do que por outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -447,11 +447,11 @@
   },
   {
     "id": "sup-q4",
-    "titulo": "Questão 4 — The time for contrition",
+    "titulo": "Questão 4 — A hora da contrição",
     "children": [
       {
         "id": "sup-q4-a1",
-        "titulo": "Artigo 1 — Whether the whole of this life is the time for contrition?",
+        "titulo": "Artigo 1 — Se toda esta vida é tempo de contrição?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -506,7 +506,7 @@
       },
       {
         "id": "sup-q4-a2",
-        "titulo": "Artigo 2 — Whether it is expedient to grieve for sin continually?",
+        "titulo": "Artigo 2 — Se é conveniente lamentar continuamente o pecado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -545,7 +545,7 @@
       },
       {
         "id": "sup-q4-a3",
-        "titulo": "Artigo 3 — Whether our souls are contrite for sins even after this life?",
+        "titulo": "Artigo 3 — Se nossas almas estão contritas pelos pecados mesmo depois desta vida?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -586,11 +586,11 @@
   },
   {
     "id": "sup-q5",
-    "titulo": "Questão 5 — The effect of contrition",
+    "titulo": "Questão 5 — O efeito da contrição",
     "children": [
       {
         "id": "sup-q5-a1",
-        "titulo": "Artigo 1 — Whether the forgiveness of sin is the effect of contrition?",
+        "titulo": "Artigo 1 — Se o perdão dos pecados é efeito da contrição?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -629,7 +629,7 @@
       },
       {
         "id": "sup-q5-a2",
-        "titulo": "Artigo 2 — Whether contrition can take away the debt of punishment entirely?",
+        "titulo": "Artigo 2 — Se a contrição pode eliminar totalmente a dívida de punição?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -668,7 +668,7 @@
       },
       {
         "id": "sup-q5-a3",
-        "titulo": "Artigo 3 — Whether slight contrition suffices to blot out great sins?",
+        "titulo": "Artigo 3 — Se uma leve contrição é suficiente para apagar grandes pecados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -701,11 +701,11 @@
   },
   {
     "id": "sup-q6",
-    "titulo": "Questão 6 — Confession, as regards its necessity",
+    "titulo": "Questão 6 — Confissão, quanto à sua necessidade",
     "children": [
       {
         "id": "sup-q6-a1",
-        "titulo": "Artigo 1 — Whether confession is necessary for salvation?",
+        "titulo": "Artigo 1 — Se a confissão é necessária para a salvação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -752,7 +752,7 @@
       },
       {
         "id": "sup-q6-a2",
-        "titulo": "Artigo 2 — Whether confession is according to the natural law?",
+        "titulo": "Artigo 2 — Se a confissão está de acordo com a lei natural?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -791,7 +791,7 @@
       },
       {
         "id": "sup-q6-a3",
-        "titulo": "Artigo 3 — Whether all are bound to confession?",
+        "titulo": "Artigo 3 — Se todos estão obrigados à confissão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -830,7 +830,7 @@
       },
       {
         "id": "sup-q6-a4",
-        "titulo": "Artigo 4 — Whether it is lawful for a man to confess a sin which he has not committed?",
+        "titulo": "Artigo 4 — Se é lícito a um homem confessar um pecado que não cometeu?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -873,7 +873,7 @@
       },
       {
         "id": "sup-q6-a5",
-        "titulo": "Artigo 5 — Whether one is bound to confess at once?",
+        "titulo": "Artigo 5 — Se alguém é obrigado a confessar imediatamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -912,7 +912,7 @@
       },
       {
         "id": "sup-q6-a6",
-        "titulo": "Artigo 6 — Whether one can be dispensed from confession?",
+        "titulo": "Artigo 6 — Se alguém pode ser dispensado da confissão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -945,11 +945,11 @@
   },
   {
     "id": "sup-q7",
-    "titulo": "Questão 7 — The nature of confession",
+    "titulo": "Questão 7 — A natureza da confissão",
     "children": [
       {
         "id": "sup-q7-a1",
-        "titulo": "Artigo 1 — Whether Augustine fittingly defines confession?",
+        "titulo": "Artigo 1 — Se Agostinho define adequadamente a confissão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -992,7 +992,7 @@
       },
       {
         "id": "sup-q7-a2",
-        "titulo": "Artigo 2 — Whether confession is an act of virtue?",
+        "titulo": "Artigo 2 — Se a confissão é um ato de virtude?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1031,7 +1031,7 @@
       },
       {
         "id": "sup-q7-a3",
-        "titulo": "Artigo 3 — Whether confession is an act of the virtue of penance?",
+        "titulo": "Artigo 3 — Se a confissão é um ato da virtude da penitência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1088,11 +1088,11 @@
   },
   {
     "id": "sup-q8",
-    "titulo": "Questão 8 — The minister of confession",
+    "titulo": "Questão 8 — O ministro da confissão",
     "children": [
       {
         "id": "sup-q8-a1",
-        "titulo": "Artigo 1 — Whether it is necessary to confess to a priest?",
+        "titulo": "Artigo 1 — Se é necessário confessar-se a um padre?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1139,7 +1139,7 @@
       },
       {
         "id": "sup-q8-a2",
-        "titulo": "Artigo 2 — Whether it is ever lawful to confess to another than a priest?",
+        "titulo": "Artigo 2 — Se é lícito confessar-se a outra pessoa que não seja um padre?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1186,7 +1186,7 @@
       },
       {
         "id": "sup-q8-a3",
-        "titulo": "Artigo 3 — Whether, outside a case of necessity, anyone who is not a priest may hear the confession of venial sins?",
+        "titulo": "Artigo 3 — Se, fora de caso de necessidade, alguém que não seja sacerdote pode ouvir a confissão dos pecados veniais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1213,7 +1213,7 @@
       },
       {
         "id": "sup-q8-a4",
-        "titulo": "Artigo 4 — Whether it is necessary for one to confess to one's own priest?",
+        "titulo": "Artigo 4 — Se é necessário confessar-se ao próprio sacerdote?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1276,7 +1276,7 @@
       },
       {
         "id": "sup-q8-a5",
-        "titulo": "Artigo 5 — Whether it is lawful for anyone to confess to another than his own priest, in virtue of a privilege or a command given by a superior?",
+        "titulo": "Artigo 5 — Se é lícito a alguém confessar-se a outro que não o seu próprio sacerdote, em virtude de um privilégio ou de uma ordem dada por um superior?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1323,7 +1323,7 @@
       },
       {
         "id": "sup-q8-a6",
-        "titulo": "Artigo 6 — Whether a penitent, at the point of death, can be absolved by any priest?",
+        "titulo": "Artigo 6 — Se um penitente, à beira da morte, pode ser absolvido por qualquer sacerdote?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1362,7 +1362,7 @@
       },
       {
         "id": "sup-q8-a7",
-        "titulo": "Artigo 7 — Whether the temporal punishment is imposed according to the degree of the fault?",
+        "titulo": "Artigo 7 — Se a pena temporal é imposta de acordo com o grau da falta?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1411,11 +1411,11 @@
   },
   {
     "id": "sup-q9",
-    "titulo": "Questão 9 — The quality of confession",
+    "titulo": "Questão 9 — A qualidade da confissão",
     "children": [
       {
         "id": "sup-q9-a1",
-        "titulo": "Artigo 1 — Whether confession can be lacking in form?",
+        "titulo": "Artigo 1 — Se a confissão pode faltar na forma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1454,7 +1454,7 @@
       },
       {
         "id": "sup-q9-a2",
-        "titulo": "Artigo 2 — Whether confession should be entire?",
+        "titulo": "Artigo 2 — Se a confissão deve ser completa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1501,7 +1501,7 @@
       },
       {
         "id": "sup-q9-a3",
-        "titulo": "Artigo 3 — Whether one may confess through another, or by writing?",
+        "titulo": "Artigo 3 — Se alguém pode confessar por meio de outro ou por escrito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1540,7 +1540,7 @@
       },
       {
         "id": "sup-q9-a4",
-        "titulo": "Artigo 4 — Whether the sixteen conditions usually assigned are necessary for confession?",
+        "titulo": "Artigo 4 — Se as dezesseis condições normalmente atribuídas são necessárias para a confissão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1597,11 +1597,11 @@
   },
   {
     "id": "sup-q10",
-    "titulo": "Questão 10 — The effect of confession",
+    "titulo": "Questão 10 — O efeito da confissão",
     "children": [
       {
         "id": "sup-q10-a1",
-        "titulo": "Artigo 1 — Whether confession delivers one from the death of sin?",
+        "titulo": "Artigo 1 — Se a confissão livra alguém da morte do pecado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1632,7 +1632,7 @@
       },
       {
         "id": "sup-q10-a2",
-        "titulo": "Artigo 2 — Whether confession delivers from punishment in some way?",
+        "titulo": "Artigo 2 — Se a confissão livra da punição de alguma forma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1659,7 +1659,7 @@
       },
       {
         "id": "sup-q10-a3",
-        "titulo": "Artigo 3 — Whether confession opens paradise?",
+        "titulo": "Artigo 3 — Se a confissão abre o paraíso?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1690,7 +1690,7 @@
       },
       {
         "id": "sup-q10-a4",
-        "titulo": "Artigo 4 — Whether confession gives hope of salvation?",
+        "titulo": "Artigo 4 — Se a confissão dá esperança de salvação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1721,7 +1721,7 @@
       },
       {
         "id": "sup-q10-a5",
-        "titulo": "Artigo 5 — Whether a general confession suffices to blot out forgotten mortal sins?",
+        "titulo": "Artigo 5 — Se uma confissão geral é suficiente para apagar os pecados mortais esquecidos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1770,11 +1770,11 @@
   },
   {
     "id": "sup-q11",
-    "titulo": "Questão 11 — The seal of confession",
+    "titulo": "Questão 11 — O selo da confissão",
     "children": [
       {
         "id": "sup-q11-a1",
-        "titulo": "Artigo 1 — Whether in every case the priest is bound to hide the sins which he knows under the seal of confession?",
+        "titulo": "Artigo 1 — Se em todos os casos o sacerdote é obrigado a esconder os pecados que conhece sob o selo da confissão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1821,7 +1821,7 @@
       },
       {
         "id": "sup-q11-a2",
-        "titulo": "Artigo 2 — Whether the seal of confession extends to other matters than those which have reference to confession?",
+        "titulo": "Artigo 2 — Se o selo da confissão se estende a outros assuntos além daqueles que se referem à confissão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1848,7 +1848,7 @@
       },
       {
         "id": "sup-q11-a3",
-        "titulo": "Artigo 3 — Whether the priest alone is bound by the seal of confession?",
+        "titulo": "Artigo 3 — Se só o sacerdote está vinculado ao selo da confissão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1875,7 +1875,7 @@
       },
       {
         "id": "sup-q11-a4",
-        "titulo": "Artigo 4 — Whether by the penitent's permission, a priest may reveal to another a sin which he knows under the seal of confession?",
+        "titulo": "Artigo 4 — Se, com a permissão do penitente, um sacerdote pode revelar a outro um pecado que ele conhece sob o selo da confissão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1922,7 +1922,7 @@
       },
       {
         "id": "sup-q11-a5",
-        "titulo": "Artigo 5 — Whether a man may reveal that which he knows through confession and through some other source besides?",
+        "titulo": "Artigo 5 — Se um homem pode revelar o que sabe através da confissão e de alguma outra fonte além disso?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1971,11 +1971,11 @@
   },
   {
     "id": "sup-q12",
-    "titulo": "Questão 12 — Satisfaction, as to its nature",
+    "titulo": "Questão 12 — Satisfação, quanto à sua natureza",
     "children": [
       {
         "id": "sup-q12-a1",
-        "titulo": "Artigo 1 — Whether satisfaction is a virtue or an act of virtue?",
+        "titulo": "Artigo 1 — Se a satisfação é uma virtude ou um ato de virtude?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2014,7 +2014,7 @@
       },
       {
         "id": "sup-q12-a2",
-        "titulo": "Artigo 2 — Whether satisfaction is an act of justice?",
+        "titulo": "Artigo 2 — Se a satisfação é um ato de justiça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2053,7 +2053,7 @@
       },
       {
         "id": "sup-q12-a3",
-        "titulo": "Artigo 3 — Whether the definition of satisfaction given in the text is suitable?",
+        "titulo": "Artigo 3 — Se a definição de satisfação dada no texto é adequada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2114,11 +2114,11 @@
   },
   {
     "id": "sup-q13",
-    "titulo": "Questão 13 — The possibility of satisfaction",
+    "titulo": "Questão 13 — A possibilidade de satisfação",
     "children": [
       {
         "id": "sup-q13-a1",
-        "titulo": "Artigo 1 — Whether man can make satisfaction to God?",
+        "titulo": "Artigo 1 — Se o homem pode dar satisfação a Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2177,7 +2177,7 @@
       },
       {
         "id": "sup-q13-a2",
-        "titulo": "Artigo 2 — Whether one man can fulfill satisfactory punishment for another?",
+        "titulo": "Artigo 2 — Se um homem pode cumprir uma punição satisfatória para outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2226,11 +2226,11 @@
   },
   {
     "id": "sup-q14",
-    "titulo": "Questão 14 — The quality of satisfaction",
+    "titulo": "Questão 14 — A qualidade da satisfação",
     "children": [
       {
         "id": "sup-q14-a1",
-        "titulo": "Artigo 1 — Whether a man can satisfy for one sin without satisfying for another?",
+        "titulo": "Artigo 1 — Se um homem pode satisfazer um pecado sem satisfazer outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2269,7 +2269,7 @@
       },
       {
         "id": "sup-q14-a2",
-        "titulo": "Artigo 2 — Whether, when deprived of charity, a man can make satisfaction for sins for which he was previously contrite?",
+        "titulo": "Artigo 2 — Se, quando privado da caridade, um homem pode satisfazer os pecados pelos quais estava anteriormente arrependido?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2316,7 +2316,7 @@
       },
       {
         "id": "sup-q14-a3",
-        "titulo": "Artigo 3 — Whether previous satisfaction begins to avail after man is restored to charity?",
+        "titulo": "Artigo 3 — Se a satisfação anterior começa a valer depois que o homem é restaurado à caridade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2355,7 +2355,7 @@
       },
       {
         "id": "sup-q14-a4",
-        "titulo": "Artigo 4 — Whether works done without charity merit any, at least temporal, good?",
+        "titulo": "Artigo 4 — Se as obras feitas sem caridade merecem algum bem, pelo menos temporal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2386,7 +2386,7 @@
       },
       {
         "id": "sup-q14-a5",
-        "titulo": "Artigo 5 — Whether the aforesaid works avail for the mitigation of the pains of hell?",
+        "titulo": "Artigo 5 — Se as obras acima mencionadas servem para mitigar as dores do inferno?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2415,11 +2415,11 @@
   },
   {
     "id": "sup-q15",
-    "titulo": "Questão 15 — The means of making satisfaction",
+    "titulo": "Questão 15 — Os meios de fazer satisfação",
     "children": [
       {
         "id": "sup-q15-a1",
-        "titulo": "Artigo 1 — Whether satisfaction must be made by means of penal works?",
+        "titulo": "Artigo 1 — Se a satisfação deve ser feita por meio de obras penais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2458,7 +2458,7 @@
       },
       {
         "id": "sup-q15-a2",
-        "titulo": "Artigo 2 — Whether the scourges of the present life are satisfactory?",
+        "titulo": "Artigo 2 — Se os flagelos da vida presente são satisfatórios?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2497,7 +2497,7 @@
       },
       {
         "id": "sup-q15-a3",
-        "titulo": "Artigo 3 — Whether the works of satisfaction are suitably enumerated?",
+        "titulo": "Artigo 3 — Se as obras de satisfação são adequadamente enumeradas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2550,11 +2550,11 @@
   },
   {
     "id": "sup-q16",
-    "titulo": "Questão 16 — Those who receive the sacrament of penance",
+    "titulo": "Questão 16 — Aqueles que recebem o sacramento da penitência",
     "children": [
       {
         "id": "sup-q16-a1",
-        "titulo": "Artigo 1 — Whether penance can be in the innocent?",
+        "titulo": "Artigo 1 — Se a penitência pode estar nos inocentes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2593,7 +2593,7 @@
       },
       {
         "id": "sup-q16-a2",
-        "titulo": "Artigo 2 — Whether the saints in glory have penance?",
+        "titulo": "Artigo 2 — Se os santos na glória têm penitência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2636,7 +2636,7 @@
       },
       {
         "id": "sup-q16-a3",
-        "titulo": "Artigo 3 — Whether an angel can be the subject of penance?",
+        "titulo": "Artigo 3 — Se um anjo pode ser objeto de penitência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2681,11 +2681,11 @@
   },
   {
     "id": "sup-q17",
-    "titulo": "Questão 17 — The power of the keys",
+    "titulo": "Questão 17 — O poder das chaves",
     "children": [
       {
         "id": "sup-q17-a1",
-        "titulo": "Artigo 1 — Whether there should be keys in the Church?",
+        "titulo": "Artigo 1 — Se deveria haver chaves na Igreja?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2724,7 +2724,7 @@
       },
       {
         "id": "sup-q17-a2",
-        "titulo": "Artigo 2 — Whether the key is the power of binding and loosing, etc.?",
+        "titulo": "Artigo 2 — Se a chave é o poder de ligar e desligar, etc.?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2779,7 +2779,7 @@
       },
       {
         "id": "sup-q17-a3",
-        "titulo": "Artigo 3 — Whether there are two keys or only one?",
+        "titulo": "Artigo 3 — Se existem duas chaves ou apenas uma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2840,11 +2840,11 @@
   },
   {
     "id": "sup-q18",
-    "titulo": "Questão 18 — The effect of the keys",
+    "titulo": "Questão 18 — O efeito das teclas",
     "children": [
       {
         "id": "sup-q18-a1",
-        "titulo": "Artigo 1 — Whether the power of the keys extends to the remission of guilt? [St. Thomas here follows the opinion of Peter Lombard, and replies in the negative. Later in life he altered his opinion. Cf. III, 62, 1; III, 64, 1; III, 86, 6]",
+        "titulo": "Artigo 1 — Se o poder das chaves se estende à remissão da culpa? [S. Thomas aqui segue a opinião de Peter Lombard e responde negativamente. Mais tarde na vida, ele mudou de opinião. Cf. III, 62, 1; III, 64, 1; III, 86, 6]",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2879,7 +2879,7 @@
       },
       {
         "id": "sup-q18-a2",
-        "titulo": "Artigo 2 — Whether a priest can remit sin as to the punishment?",
+        "titulo": "Artigo 2 — Se um sacerdote pode perdoar pecados quanto à punição?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2926,7 +2926,7 @@
       },
       {
         "id": "sup-q18-a3",
-        "titulo": "Artigo 3 — Whether the priest can bind through the power of the keys?",
+        "titulo": "Artigo 3 — Se o sacerdote pode vincular através do poder das chaves?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2965,7 +2965,7 @@
       },
       {
         "id": "sup-q18-a4",
-        "titulo": "Artigo 4 — Whether the priest can bind and loose according to his own judgment?",
+        "titulo": "Artigo 4 — Se o sacerdote pode ligar e desligar de acordo com o seu próprio julgamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3006,11 +3006,11 @@
   },
   {
     "id": "sup-q19",
-    "titulo": "Questão 19 — The ministers of the keys",
+    "titulo": "Questão 19 — Os ministros das chaves",
     "children": [
       {
         "id": "sup-q19-a1",
-        "titulo": "Artigo 1 — Whether the priest of the Law had the keys?",
+        "titulo": "Artigo 1 — Se o sacerdote da Lei tinha as chaves?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3049,7 +3049,7 @@
       },
       {
         "id": "sup-q19-a2",
-        "titulo": "Artigo 2 — Whether Christ had the key?",
+        "titulo": "Artigo 2 — Se Cristo tinha a chave?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3080,7 +3080,7 @@
       },
       {
         "id": "sup-q19-a3",
-        "titulo": "Artigo 3 — Whether priests alone have the keys?",
+        "titulo": "Artigo 3 — Se só os sacerdotes têm as chaves?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3127,7 +3127,7 @@
       },
       {
         "id": "sup-q19-a4",
-        "titulo": "Artigo 4 — Whether holy men who are not priests have the keys?",
+        "titulo": "Artigo 4 — Se os homens santos que não são sacerdotes têm as chaves?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3158,7 +3158,7 @@
       },
       {
         "id": "sup-q19-a5",
-        "titulo": "Artigo 5 — Whether wicked priests have the use of the keys?",
+        "titulo": "Artigo 5 — Se os sacerdotes iníquos podem usar as chaves?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3205,7 +3205,7 @@
       },
       {
         "id": "sup-q19-a6",
-        "titulo": "Artigo 6 — Whether those who are schismatics, heretics, excommunicate, suspended or degraded have the use of the keys?",
+        "titulo": "Artigo 6 — Se os cismáticos, os hereges, os excomungados, os suspensos ou os degradados podem usar as chaves?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3246,11 +3246,11 @@
   },
   {
     "id": "sup-q20",
-    "titulo": "Questão 20 — Those on whom the power of the keys can be exercised",
+    "titulo": "Questão 20 — Aqueles sobre quem o poder das chaves pode ser exercido",
     "children": [
       {
         "id": "sup-q20-a1",
-        "titulo": "Artigo 1 — Whether a priest can use the key which he has, on any man?",
+        "titulo": "Artigo 1 — Se um padre pode usar a chave que possui em qualquer homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3289,7 +3289,7 @@
       },
       {
         "id": "sup-q20-a2",
-        "titulo": "Artigo 2 — Whether a priest can always absolve his subject?",
+        "titulo": "Artigo 2 — Se um padre pode sempre absolver o seu súbdito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3328,7 +3328,7 @@
       },
       {
         "id": "sup-q20-a3",
-        "titulo": "Artigo 3 — Whether a man can use the keys with regard to his superior?",
+        "titulo": "Artigo 3 — Se um homem pode usar as chaves em relação ao seu superior?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3369,11 +3369,11 @@
   },
   {
     "id": "sup-q21",
-    "titulo": "Questão 21 — The definition, congruity and cause of excommunication",
+    "titulo": "Questão 21 — A definição, congruência e causa da excomunhão",
     "children": [
       {
         "id": "sup-q21-a1",
-        "titulo": "Artigo 1 — Whether excommunication is suitably defined as separation from the communion of the Church, etc?",
+        "titulo": "Artigo 1 — Se a excomunhão é adequadamente definida como separação da comunhão da Igreja, etc.?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3416,7 +3416,7 @@
       },
       {
         "id": "sup-q21-a2",
-        "titulo": "Artigo 2 — Whether the Church should excommunicate anyone?",
+        "titulo": "Artigo 2 — Se a Igreja deveria excomungar alguém?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3455,7 +3455,7 @@
       },
       {
         "id": "sup-q21-a3",
-        "titulo": "Artigo 3 — Whether anyone should be excommunicated for inflicting temporal harm?",
+        "titulo": "Artigo 3 — Se alguém deveria ser excomungado por infligir danos temporais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3486,7 +3486,7 @@
       },
       {
         "id": "sup-q21-a4",
-        "titulo": "Artigo 4 — Whether an excommunication unjustly pronounced has any effect?",
+        "titulo": "Artigo 4 — Se uma excomunhão pronunciada injustamente tem algum efeito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3523,11 +3523,11 @@
   },
   {
     "id": "sup-q22",
-    "titulo": "Questão 22 — Those who can excommunicate or be excommunicated",
+    "titulo": "Questão 22 — Aqueles que podem excomungar ou ser excomungados",
     "children": [
       {
         "id": "sup-q22-a1",
-        "titulo": "Artigo 1 — Whether every priest can excommunicate?",
+        "titulo": "Artigo 1 — Se todo padre pode excomungar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3558,7 +3558,7 @@
       },
       {
         "id": "sup-q22-a2",
-        "titulo": "Artigo 2 — Whether those who are not priests can excommunicate?",
+        "titulo": "Artigo 2 — Se aqueles que não são sacerdotes podem excomungar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3589,7 +3589,7 @@
       },
       {
         "id": "sup-q22-a3",
-        "titulo": "Artigo 3 — Whether a man who is excommunicated or suspended can excommunicate another?",
+        "titulo": "Artigo 3 — Se um homem excomungado ou suspenso pode excomungar outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3620,7 +3620,7 @@
       },
       {
         "id": "sup-q22-a4",
-        "titulo": "Artigo 4 — Whether a man can excommunicate himself, his equal, or his superior?",
+        "titulo": "Artigo 4 — Se um homem pode excomungar a si mesmo, a seu igual ou a seu superior?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3659,7 +3659,7 @@
       },
       {
         "id": "sup-q22-a5",
-        "titulo": "Artigo 5 — Whether a sentence of excommunication can be passed on a body of men?",
+        "titulo": "Artigo 5 — Se uma sentença de excomunhão pode ser proferida a um grupo de homens?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3686,7 +3686,7 @@
       },
       {
         "id": "sup-q22-a6",
-        "titulo": "Artigo 6 — Whether a man can be excommunicated who is already under sentence of excommunication?",
+        "titulo": "Artigo 6 — Pode ser excomungado um homem que já esteja sob pena de excomunhão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3719,11 +3719,11 @@
   },
   {
     "id": "sup-q23",
-    "titulo": "Questão 23 — Communication with excommunicated persons",
+    "titulo": "Questão 23 — Comunicação com pessoas excomungadas",
     "children": [
       {
         "id": "sup-q23-a1",
-        "titulo": "Artigo 1 — Whether it is lawful, in matters purely corporal, to communicate with an excommunicated person?",
+        "titulo": "Artigo 1 — Se é lícito, em assuntos puramente corporais, comunicar-se com uma pessoa excomungada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3754,7 +3754,7 @@
       },
       {
         "id": "sup-q23-a2",
-        "titulo": "Artigo 2 — Whether a person incurs excommunication for communicating with one who is excommunicated?",
+        "titulo": "Artigo 2 — Se uma pessoa incorre em excomunhão por comunicar-se com alguém excomungado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3785,7 +3785,7 @@
       },
       {
         "id": "sup-q23-a3",
-        "titulo": "Artigo 3 — Whether it is always a mortal sin to communicate with an excommunicated person in other cases than those in which it is allowed?",
+        "titulo": "Artigo 3 — Se é sempre um pecado mortal comunicar-se com uma pessoa excomungada noutros casos que não aqueles em que é permitido?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3834,11 +3834,11 @@
   },
   {
     "id": "sup-q24",
-    "titulo": "Questão 24 — Absolution from excommunication",
+    "titulo": "Questão 24 — Absolvição da excomunhão",
     "children": [
       {
         "id": "sup-q24-a1",
-        "titulo": "Artigo 1 — Whether any priest can absolve his subject from excommunication?",
+        "titulo": "Artigo 1 — Qualquer sacerdote pode absolver o seu súbdito da excomunhão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3869,7 +3869,7 @@
       },
       {
         "id": "sup-q24-a2",
-        "titulo": "Artigo 2 — Whether anyone can be absolved against his will?",
+        "titulo": "Artigo 2 — Se alguém pode ser absolvido contra a sua vontade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3900,7 +3900,7 @@
       },
       {
         "id": "sup-q24-a3",
-        "titulo": "Artigo 3 — Whether a man can be absolved from one excommunication without being absolved from all?",
+        "titulo": "Artigo 3 — Se um homem pode ser absolvido de uma excomunhão sem ser absolvido de todas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3933,11 +3933,11 @@
   },
   {
     "id": "sup-q25",
-    "titulo": "Questão 25 — Indulgences",
+    "titulo": "Questão 25 — Indulgências",
     "children": [
       {
         "id": "sup-q25-a1",
-        "titulo": "Artigo 1 — Whether an indulgence can remit any part of the punishment due for the satisfaction of sins?",
+        "titulo": "Artigo 1 — Se uma indulgência pode perdoar qualquer parte da pena devida pela satisfação dos pecados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3988,7 +3988,7 @@
       },
       {
         "id": "sup-q25-a2",
-        "titulo": "Artigo 2 — Whether indulgences are as effective as they claim to be?",
+        "titulo": "Artigo 2 — Se as indulgências são tão eficazes quanto afirmam ser?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4043,7 +4043,7 @@
       },
       {
         "id": "sup-q25-a3",
-        "titulo": "Artigo 3 — Whether an indulgence ought to be granted for temporal help?",
+        "titulo": "Artigo 3 — Se deve ser concedida uma indulgência para ajuda temporal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4072,11 +4072,11 @@
   },
   {
     "id": "sup-q26",
-    "titulo": "Questão 26 — Those who can grant indulgences",
+    "titulo": "Questão 26 — Aqueles que podem conceder indulgências",
     "children": [
       {
         "id": "sup-q26-a1",
-        "titulo": "Artigo 1 — Whether every parish priest can grant indulgences?",
+        "titulo": "Artigo 1 — Se todo pároco pode conceder indulgências?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4099,7 +4099,7 @@
       },
       {
         "id": "sup-q26-a2",
-        "titulo": "Artigo 2 — Whether a deacon or another who is not a priest can grant an indulgence?",
+        "titulo": "Artigo 2 — Se um diácono ou outro que não seja sacerdote pode conceder indulgência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4122,7 +4122,7 @@
       },
       {
         "id": "sup-q26-a3",
-        "titulo": "Artigo 3 — Whether a bishop can grant indulgences?",
+        "titulo": "Artigo 3 — Se um bispo pode conceder indulgências?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4145,7 +4145,7 @@
       },
       {
         "id": "sup-q26-a4",
-        "titulo": "Artigo 4 — Whether indulgences can be granted by one who is in mortal sin?",
+        "titulo": "Artigo 4 — Se as indulgências podem ser concedidas a quem está em pecado mortal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4178,11 +4178,11 @@
   },
   {
     "id": "sup-q27",
-    "titulo": "Questão 27 — Those whom indulgences avail",
+    "titulo": "Questão 27 — Aqueles a quem as indulgências valem",
     "children": [
       {
         "id": "sup-q27-a1",
-        "titulo": "Artigo 1 — Whether an indulgence avails those who are in mortal sin?",
+        "titulo": "Artigo 1 — Se uma indulgência beneficia aqueles que estão em pecado mortal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4209,7 +4209,7 @@
       },
       {
         "id": "sup-q27-a2",
-        "titulo": "Artigo 2 — Whether indulgences avail religious?",
+        "titulo": "Artigo 2 — Se as indulgências têm valor religioso?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4240,7 +4240,7 @@
       },
       {
         "id": "sup-q27-a3",
-        "titulo": "Artigo 3 — Whether an indulgence can ever be granted to one who does not fulfill the conditions required?",
+        "titulo": "Artigo 3 — Poderá alguma vez ser concedida uma indulgência a quem não preencha as condições exigidas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4271,7 +4271,7 @@
       },
       {
         "id": "sup-q27-a4",
-        "titulo": "Artigo 4 — Whether an indulgence avails the person who grants it?",
+        "titulo": "Artigo 4 — Se uma indulgência beneficia quem a concede?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4308,11 +4308,11 @@
   },
   {
     "id": "sup-q28",
-    "titulo": "Questão 28 — The solemn rite of penance",
+    "titulo": "Questão 28 — O rito solene da penitência",
     "children": [
       {
         "id": "sup-q28-a1",
-        "titulo": "Artigo 1 — Whether a penance should be published or solemnized?",
+        "titulo": "Artigo 1 — Se uma penitência deve ser publicada ou solenizada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4351,7 +4351,7 @@
       },
       {
         "id": "sup-q28-a2",
-        "titulo": "Artigo 2 — Whether a solemn penance can be repeated?",
+        "titulo": "Artigo 2 — Se uma penitência solene pode ser repetida?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4382,7 +4382,7 @@
       },
       {
         "id": "sup-q28-a3",
-        "titulo": "Artigo 3 — Whether solemn penance should be imposed on women and clerics, and whether any priest can impose it?",
+        "titulo": "Artigo 3 — Se a penitência solene deve ser imposta às mulheres e aos clérigos, e se qualquer padre pode impô-la?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4419,11 +4419,11 @@
   },
   {
     "id": "sup-q29",
-    "titulo": "Questão 29 — Extreme Unction, as regards its essence and institution",
+    "titulo": "Questão 29 — Extrema Unção, quanto à sua essência e instituição",
     "children": [
       {
         "id": "sup-q29-a1",
-        "titulo": "Artigo 1 — Whether Extreme Unction is a sacrament?",
+        "titulo": "Artigo 1 — Se a Extrema Unção é um sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4462,7 +4462,7 @@
       },
       {
         "id": "sup-q29-a2",
-        "titulo": "Artigo 2 — Whether Extreme Unction is one sacrament?",
+        "titulo": "Artigo 2 — Se a Extrema Unção é um sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4501,7 +4501,7 @@
       },
       {
         "id": "sup-q29-a3",
-        "titulo": "Artigo 3 — Whether this sacrament was instituted by Christ?",
+        "titulo": "Artigo 3 — Se este sacramento foi instituído por Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4540,7 +4540,7 @@
       },
       {
         "id": "sup-q29-a4",
-        "titulo": "Artigo 4 — Whether olive oil is a suitable matter for this sacrament?",
+        "titulo": "Artigo 4 — Se o azeite é uma matéria adequada para este sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4579,7 +4579,7 @@
       },
       {
         "id": "sup-q29-a5",
-        "titulo": "Artigo 5 — Whether the oil ought to be consecrated?",
+        "titulo": "Artigo 5 — Se o óleo deve ser consagrado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4614,7 +4614,7 @@
       },
       {
         "id": "sup-q29-a6",
-        "titulo": "Artigo 6 — Whether the matter of this sacrament need be consecrated by a bishop?",
+        "titulo": "Artigo 6 — Se a matéria deste sacramento precisa ser consagrada por um bispo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4645,7 +4645,7 @@
       },
       {
         "id": "sup-q29-a7",
-        "titulo": "Artigo 7 — Whether this sacrament has a form?",
+        "titulo": "Artigo 7 — Se este sacramento tem uma forma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4684,7 +4684,7 @@
       },
       {
         "id": "sup-q29-a8",
-        "titulo": "Artigo 8 — Whether the form of this sacrament should be expressed by way of assertion or of petition?",
+        "titulo": "Artigo 8 — Se a forma deste sacramento deve ser expressa por meio de afirmação ou de petição?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4723,7 +4723,7 @@
       },
       {
         "id": "sup-q29-a9",
-        "titulo": "Artigo 9 — Whether the foregoing prayer is a suitable form for this sacrament?",
+        "titulo": "Artigo 9 — Se a oração anterior é uma forma adequada para este sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4760,11 +4760,11 @@
   },
   {
     "id": "sup-q30",
-    "titulo": "Questão 30 — The effect of this sacrament",
+    "titulo": "Questão 30 — O efeito deste sacramento",
     "children": [
       {
         "id": "sup-q30-a1",
-        "titulo": "Artigo 1 — Whether Extreme Unction avails for the remission of sins?",
+        "titulo": "Artigo 1 — Se a Extrema Unção serve para a remissão dos pecados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4803,7 +4803,7 @@
       },
       {
         "id": "sup-q30-a2",
-        "titulo": "Artigo 2 — Whether bodily health is an effect of this sacrament?",
+        "titulo": "Artigo 2 — Se a saúde corporal é um efeito deste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4838,7 +4838,7 @@
       },
       {
         "id": "sup-q30-a3",
-        "titulo": "Artigo 3 — Whether this sacrament imprints a character?",
+        "titulo": "Artigo 3 — Se este sacramento imprime um caráter?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4879,11 +4879,11 @@
   },
   {
     "id": "sup-q31",
-    "titulo": "Questão 31 — The minister of this sacrament",
+    "titulo": "Questão 31 — O ministro deste sacramento",
     "children": [
       {
         "id": "sup-q31-a1",
-        "titulo": "Artigo 1 — Whether a layman can confer this sacrament?",
+        "titulo": "Artigo 1 — Se um leigo pode conferir este sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4914,7 +4914,7 @@
       },
       {
         "id": "sup-q31-a2",
-        "titulo": "Artigo 2 — Whether deacons can confer this sacrament?",
+        "titulo": "Artigo 2 — Se os diáconos podem conferir este sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4945,7 +4945,7 @@
       },
       {
         "id": "sup-q31-a3",
-        "titulo": "Artigo 3 — Whether none but a bishop can confer this sacrament?",
+        "titulo": "Artigo 3 — Se ninguém, exceto um bispo, pode conferir este sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4978,11 +4978,11 @@
   },
   {
     "id": "sup-q32",
-    "titulo": "Questão 32 — On whom should the anointing of the sick be conferred and on what part of the body?",
+    "titulo": "Questão 32 — A quem deve ser conferida a unção dos enfermos e em que parte do corpo?",
     "children": [
       {
         "id": "sup-q32-a1",
-        "titulo": "Artigo 1 — Whether this sacrament ought to be conferred on those who are in good health?",
+        "titulo": "Artigo 1 — Se este sacramento deve ser conferido a quem goza de boa saúde?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5013,7 +5013,7 @@
       },
       {
         "id": "sup-q32-a2",
-        "titulo": "Artigo 2 — Whether this sacrament ought to be given in any kind of sickness?",
+        "titulo": "Artigo 2 — Se este sacramento deve ser administrado em qualquer tipo de doença?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5044,7 +5044,7 @@
       },
       {
         "id": "sup-q32-a3",
-        "titulo": "Artigo 3 — Whether this sacrament ought to be given to madmen and imbeciles?",
+        "titulo": "Artigo 3 — Se este sacramento deve ser dado aos loucos e aos imbecis?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5075,7 +5075,7 @@
       },
       {
         "id": "sup-q32-a4",
-        "titulo": "Artigo 4 — Whether this sacrament should be given to children?",
+        "titulo": "Artigo 4 — Se este sacramento deve ser dado às crianças?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5106,7 +5106,7 @@
       },
       {
         "id": "sup-q32-a5",
-        "titulo": "Artigo 5 — Whether the whole body should be anointed in this sacrament?",
+        "titulo": "Artigo 5 — Se todo o corpo deve ser ungido neste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5145,7 +5145,7 @@
       },
       {
         "id": "sup-q32-a6",
-        "titulo": "Artigo 6 — Whether the parts to be anointed are suitably assigned?",
+        "titulo": "Artigo 6 — Se as partes a serem ungidas estão adequadamente designadas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5188,7 +5188,7 @@
       },
       {
         "id": "sup-q32-a7",
-        "titulo": "Artigo 7 — Whether those who are deformed in those parts should be anointed?",
+        "titulo": "Artigo 7 — Se aqueles que estão deformados nessas partes deveriam ser ungidos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5213,11 +5213,11 @@
   },
   {
     "id": "sup-q33",
-    "titulo": "Questão 33 — The repetition of this sacrament",
+    "titulo": "Questão 33 — A repetição deste sacramento",
     "children": [
       {
         "id": "sup-q33-a1",
-        "titulo": "Artigo 1 — Whether this sacrament ought to be repeated?",
+        "titulo": "Artigo 1 — Se este sacramento deve ser repetido?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5248,7 +5248,7 @@
       },
       {
         "id": "sup-q33-a2",
-        "titulo": "Artigo 2 — Whether this sacrament ought to be repeated during the same sickness?",
+        "titulo": "Artigo 2 — Se este sacramento deve ser repetido durante a mesma doença?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5273,11 +5273,11 @@
   },
   {
     "id": "sup-q34",
-    "titulo": "Questão 34 — The sacrament of Order as to its essence and its parts",
+    "titulo": "Questão 34 — O sacramento da Ordem quanto à sua essência e suas partes",
     "children": [
       {
         "id": "sup-q34-a1",
-        "titulo": "Artigo 1 — Whether there should be Order in the Church?",
+        "titulo": "Artigo 1 — Se deveria haver ordem na Igreja?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5316,7 +5316,7 @@
       },
       {
         "id": "sup-q34-a2",
-        "titulo": "Artigo 2 — Whether Order is properly defined?",
+        "titulo": "Artigo 2 — Se a ordem está definida corretamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5359,7 +5359,7 @@
       },
       {
         "id": "sup-q34-a3",
-        "titulo": "Artigo 3 — Whether Order is a sacrament?",
+        "titulo": "Artigo 3 — Se a Ordem é um sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5398,7 +5398,7 @@
       },
       {
         "id": "sup-q34-a4",
-        "titulo": "Artigo 4 — Whether the form of this sacrament is suitably expressed?",
+        "titulo": "Artigo 4 — Se a forma deste sacramento é expressa adequadamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5441,7 +5441,7 @@
       },
       {
         "id": "sup-q34-a5",
-        "titulo": "Artigo 5 — Whether this sacrament has any matter?",
+        "titulo": "Artigo 5 — Se este sacramento tem alguma importância?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5478,11 +5478,11 @@
   },
   {
     "id": "sup-q35",
-    "titulo": "Questão 35 — The effect of this sacrament",
+    "titulo": "Questão 35 — O efeito deste sacramento",
     "children": [
       {
         "id": "sup-q35-a1",
-        "titulo": "Artigo 1 — Whether sanctifying grace is conferred in the sacrament of Order?",
+        "titulo": "Artigo 1 — Se a graça santificante é conferida no sacramento da Ordem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5521,7 +5521,7 @@
       },
       {
         "id": "sup-q35-a2",
-        "titulo": "Artigo 2 — Whether in the sacrament of Order a character is imprinted in connection with all the Orders?",
+        "titulo": "Artigo 2 — Se no sacramento da Ordem está impresso um caráter em conexão com todas as Ordens?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5556,7 +5556,7 @@
       },
       {
         "id": "sup-q35-a3",
-        "titulo": "Artigo 3 — Whether the character of Order presupposes the baptismal character?",
+        "titulo": "Artigo 3 — Se o caráter da Ordem pressupõe o caráter batismal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5587,7 +5587,7 @@
       },
       {
         "id": "sup-q35-a4",
-        "titulo": "Artigo 4 — Whether the character of Order necessarily presupposes the character of Confirmation?",
+        "titulo": "Artigo 4 — Se o carácter da Ordem pressupõe necessariamente o carácter da Confirmação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5618,7 +5618,7 @@
       },
       {
         "id": "sup-q35-a5",
-        "titulo": "Artigo 5 — Whether the character of one Order necessarily presupposes the character of another Order?",
+        "titulo": "Artigo 5 — Se o caráter de uma Ordem pressupõe necessariamente o caráter de outra Ordem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5651,11 +5651,11 @@
   },
   {
     "id": "sup-q36",
-    "titulo": "Questão 36 — The qualities required of those who receive this sacrament",
+    "titulo": "Questão 36 — As qualidades exigidas de quem recebe este sacramento",
     "children": [
       {
         "id": "sup-q36-a1",
-        "titulo": "Artigo 1 — Whether goodness of life is required of those who receive Orders?",
+        "titulo": "Artigo 1 — Se a bondade de vida é exigida daqueles que recebem Ordens?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5694,7 +5694,7 @@
       },
       {
         "id": "sup-q36-a2",
-        "titulo": "Artigo 2 — Whether knowledge of all Holy Writ is required?",
+        "titulo": "Artigo 2 — Se é necessário o conhecimento de todas as Escrituras Sagradas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5733,7 +5733,7 @@
       },
       {
         "id": "sup-q36-a3",
-        "titulo": "Artigo 3 — Whether a man obtains the degrees of Order by the merit of one's life?",
+        "titulo": "Artigo 3 — Se um homem obtém os graus da Ordem pelo mérito da sua vida?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5764,7 +5764,7 @@
       },
       {
         "id": "sup-q36-a4",
-        "titulo": "Artigo 4 — Whether he who raises the unworthy to Orders commits a sin?",
+        "titulo": "Artigo 4 — Se quem eleva os indignos às ordens comete pecado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5803,7 +5803,7 @@
       },
       {
         "id": "sup-q36-a5",
-        "titulo": "Artigo 5 — Whether a man who is in sin can without sin exercise the Order he has received? [Cf. III, 64, 6]",
+        "titulo": "Artigo 5 — Se um homem que está em pecado pode exercer sem pecado a Ordem que recebeu? [Cf. III, 64, 6]",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5852,11 +5852,11 @@
   },
   {
     "id": "sup-q37",
-    "titulo": "Questão 37 — The distinction of Orders, of their acts, and the imprinting of the character",
+    "titulo": "Questão 37 — A distinção das Ordens, dos seus atos e a impressão do caráter",
     "children": [
       {
         "id": "sup-q37-a1",
-        "titulo": "Artigo 1 — Whether we ought to distinguish several Orders?",
+        "titulo": "Artigo 1 — Se deveríamos distinguir várias Ordens?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5899,7 +5899,7 @@
       },
       {
         "id": "sup-q37-a2",
-        "titulo": "Artigo 2 — Whether there are seven Orders?",
+        "titulo": "Artigo 2 — Se existem sete Ordens?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5950,7 +5950,7 @@
       },
       {
         "id": "sup-q37-a3",
-        "titulo": "Artigo 3 — Whether the Order should be divided into those that are sacred and those that are not?",
+        "titulo": "Artigo 3 — Se a Ordem deveria ser dividida entre aqueles que são sagrados e aqueles que não o são?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5973,7 +5973,7 @@
       },
       {
         "id": "sup-q37-a4",
-        "titulo": "Artigo 4 — Whether the acts of the Orders are rightly assigned in the text?",
+        "titulo": "Artigo 4 — Se os atos das Ordens estão corretamente atribuídos no texto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6052,7 +6052,7 @@
       },
       {
         "id": "sup-q37-a5",
-        "titulo": "Artigo 5 — Whether the character is imprinted on a priest when the chalice is handed to him?",
+        "titulo": "Artigo 5 — Se o caráter é impresso no sacerdote quando o cálice lhe é entregue?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6121,11 +6121,11 @@
   },
   {
     "id": "sup-q38",
-    "titulo": "Questão 38 — Those who confer this sacrament",
+    "titulo": "Questão 38 — Aqueles que conferem este sacramento",
     "children": [
       {
         "id": "sup-q38-a1",
-        "titulo": "Artigo 1 — Whether a bishop alone confers the sacrament of Order?",
+        "titulo": "Artigo 1 — Se um bispo confere sozinho o sacramento da Ordem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6180,7 +6180,7 @@
       },
       {
         "id": "sup-q38-a2",
-        "titulo": "Artigo 2 — Whether heretics and those who are cut off from the Church can confer Orders? [Cf. III, 64, 5,9]",
+        "titulo": "Artigo 2 — Se os hereges e aqueles que estão afastados da Igreja podem conferir ordens? [Cf. III, 64, 5,9]",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6237,11 +6237,11 @@
   },
   {
     "id": "sup-q39",
-    "titulo": "Questão 39 — The impediments to this sacrament",
+    "titulo": "Questão 39 — Os impedimentos a este sacramento",
     "children": [
       {
         "id": "sup-q39-a1",
-        "titulo": "Artigo 1 — Whether the female sex is an impediment to receiving Orders?",
+        "titulo": "Artigo 1 — Se o sexo feminino é um impedimento para receber Ordens?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6272,7 +6272,7 @@
       },
       {
         "id": "sup-q39-a2",
-        "titulo": "Artigo 2 — Whether boys and those who lack the use of reason can receive Orders?",
+        "titulo": "Artigo 2 — Se os meninos e aqueles que não têm uso da razão podem receber Ordens?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6311,7 +6311,7 @@
       },
       {
         "id": "sup-q39-a3",
-        "titulo": "Artigo 3 — Whether the state of slavery is an impediment to receiving Orders?",
+        "titulo": "Artigo 3 — Se o estado de escravidão é um impedimento ao recebimento de Ordens?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6366,7 +6366,7 @@
       },
       {
         "id": "sup-q39-a4",
-        "titulo": "Artigo 4 — Whether a man should be debarred from receiving Orders on account of homicide?",
+        "titulo": "Artigo 4 — Se um homem deve ser impedido de receber ordens por homicídio?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6405,7 +6405,7 @@
       },
       {
         "id": "sup-q39-a5",
-        "titulo": "Artigo 5 — Whether those of illegitimate birth should be debarred from receiving Orders?",
+        "titulo": "Artigo 5 — Se aqueles de nascimento ilegítimo deveriam ser impedidos de receber Ordens?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6436,7 +6436,7 @@
       },
       {
         "id": "sup-q39-a6",
-        "titulo": "Artigo 6 — Whether lack of members should be an impediment?",
+        "titulo": "Artigo 6 — Se a falta de membros deve ser um impedimento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6461,11 +6461,11 @@
   },
   {
     "id": "sup-q40",
-    "titulo": "Questão 40 — The things annexed to the sacrament of Order",
+    "titulo": "Questão 40 — As coisas anexas ao sacramento da Ordem",
     "children": [
       {
         "id": "sup-q40-a1",
-        "titulo": "Artigo 1 — Whether those who are ordained ought to wear the tonsure?",
+        "titulo": "Artigo 1 — Se aqueles que são ordenados devem usar a tonsura?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6504,7 +6504,7 @@
       },
       {
         "id": "sup-q40-a2",
-        "titulo": "Artigo 2 — Whether the tonsure is an Order?",
+        "titulo": "Artigo 2 — Se a tonsura é uma Ordem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6543,7 +6543,7 @@
       },
       {
         "id": "sup-q40-a3",
-        "titulo": "Artigo 3 — Whether by receiving the tonsure a man renounces temporal goods?",
+        "titulo": "Artigo 3 — Se ao receber a tonsura o homem renuncia aos bens temporais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6582,7 +6582,7 @@
       },
       {
         "id": "sup-q40-a4",
-        "titulo": "Artigo 4 — Whether above the priestly Order there ought to be an episcopal power?",
+        "titulo": "Artigo 4 — Se acima da Ordem sacerdotal deveria haver um poder episcopal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6621,7 +6621,7 @@
       },
       {
         "id": "sup-q40-a5",
-        "titulo": "Artigo 5 — Whether the episcopate is an Order?",
+        "titulo": "Artigo 5 — Se o episcopado é uma Ordem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6656,7 +6656,7 @@
       },
       {
         "id": "sup-q40-a6",
-        "titulo": "Artigo 6 — Whether in the Church there can be anyone above the bishops?",
+        "titulo": "Artigo 6 — Se na Igreja pode haver alguém acima dos bispos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6695,7 +6695,7 @@
       },
       {
         "id": "sup-q40-a7",
-        "titulo": "Artigo 7 — Whether the vestments of the ministers are fittingly instituted in the Church?",
+        "titulo": "Artigo 7 — Se as vestes dos ministros estão adequadamente instituídas na Igreja?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6776,7 +6776,7 @@
     "children": [
       {
         "id": "sup-q41-a1",
-        "titulo": "Artigo 1 — Whether matrimony is of natural law?",
+        "titulo": "Artigo 1 — Se o matrimônio é de direito natural?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6823,7 +6823,7 @@
       },
       {
         "id": "sup-q41-a2",
-        "titulo": "Artigo 2 — Whether matrimony still comes under a precept?",
+        "titulo": "Artigo 2 — Se o matrimônio ainda está sujeito a um preceito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6862,7 +6862,7 @@
       },
       {
         "id": "sup-q41-a3",
-        "titulo": "Artigo 3 — Whether the marriage act is always sinful?",
+        "titulo": "Artigo 3 — Se o ato matrimonial é sempre pecaminoso?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6925,7 +6925,7 @@
       },
       {
         "id": "sup-q41-a4",
-        "titulo": "Artigo 4 — Whether the marriage act is meritorious?",
+        "titulo": "Artigo 4 — Se o ato matrimonial é meritório?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6974,11 +6974,11 @@
   },
   {
     "id": "sup-q42",
-    "titulo": "Questão 42 — Matrimony as a sacrament",
+    "titulo": "Questão 42 — Matrimônio como sacramento",
     "children": [
       {
         "id": "sup-q42-a1",
-        "titulo": "Artigo 1 — Whether matrimony is a sacrament?",
+        "titulo": "Artigo 1 — Se o matrimônio é um sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7037,7 +7037,7 @@
       },
       {
         "id": "sup-q42-a2",
-        "titulo": "Artigo 2 — Whether this sacrament ought to have been instituted before sin was committed?",
+        "titulo": "Artigo 2 — Se este sacramento deveria ter sido instituído antes do pecado ser cometido?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7092,7 +7092,7 @@
       },
       {
         "id": "sup-q42-a3",
-        "titulo": "Artigo 3 — Whether matrimony confers grace?",
+        "titulo": "Artigo 3 — Se o matrimônio confere graça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7139,7 +7139,7 @@
       },
       {
         "id": "sup-q42-a4",
-        "titulo": "Artigo 4 — Whether carnal intercourse is an integral part of this sacrament?",
+        "titulo": "Artigo 4 — Se a relação carnal é parte integrante deste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7188,11 +7188,11 @@
   },
   {
     "id": "sup-q43",
-    "titulo": "Questão 43 — Matrimony with regard to the betrothal",
+    "titulo": "Questão 43 — Matrimônio em relação ao noivado",
     "children": [
       {
         "id": "sup-q43-a1",
-        "titulo": "Artigo 1 — Whether a betrothal is a promise of future marriage?",
+        "titulo": "Artigo 1 — Se um noivado é uma promessa de casamento futuro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7251,7 +7251,7 @@
       },
       {
         "id": "sup-q43-a2",
-        "titulo": "Artigo 2 — Whether seven years is fittingly assigned as the age for betrothal?",
+        "titulo": "Artigo 2 — Se sete anos é apropriadamente designado como a idade para o noivado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7318,7 +7318,7 @@
       },
       {
         "id": "sup-q43-a3",
-        "titulo": "Artigo 3 — Whether a betrothal can be dissolved?",
+        "titulo": "Artigo 3 — Se um noivado pode ser dissolvido?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7395,11 +7395,11 @@
   },
   {
     "id": "sup-q44",
-    "titulo": "Questão 44 — The definition of Matrimony",
+    "titulo": "Questão 44 — A definição de Matrimônio",
     "children": [
       {
         "id": "sup-q44-a1",
-        "titulo": "Artigo 1 — Whether matrimony is a kind of joining?",
+        "titulo": "Artigo 1 — Se o matrimônio é uma espécie de união?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7438,7 +7438,7 @@
       },
       {
         "id": "sup-q44-a2",
-        "titulo": "Artigo 2 — Whether matrimony is fittingly named?",
+        "titulo": "Artigo 2 — Se o matrimônio tem um nome apropriado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7477,7 +7477,7 @@
       },
       {
         "id": "sup-q44-a3",
-        "titulo": "Artigo 3 — Whether matrimony is fittingly defined in the text?",
+        "titulo": "Artigo 3 — Se o matrimônio está adequadamente definido no texto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7518,11 +7518,11 @@
   },
   {
     "id": "sup-q45",
-    "titulo": "Questão 45 — The marriage consent considered in itself",
+    "titulo": "Questão 45 — O consentimento do casamento considerado em si",
     "children": [
       {
         "id": "sup-q45-a1",
-        "titulo": "Artigo 1 — Whether consent is the efficient cause of matrimony?",
+        "titulo": "Artigo 1 — Se o consentimento é a causa eficiente do matrimônio?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7561,7 +7561,7 @@
       },
       {
         "id": "sup-q45-a2",
-        "titulo": "Artigo 2 — Whether the consent needs to be expressed in words?",
+        "titulo": "Artigo 2 — Se o consentimento precisa ser expresso em palavras?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7600,7 +7600,7 @@
       },
       {
         "id": "sup-q45-a3",
-        "titulo": "Artigo 3 — Whether consent given in words expressive of the future makes a marriage?",
+        "titulo": "Artigo 3 — Se o consentimento dado em palavras que expressam o futuro constitui um casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7639,7 +7639,7 @@
       },
       {
         "id": "sup-q45-a4",
-        "titulo": "Artigo 4 — Whether, in the absence of inward consent, a marriage is made by consent given in words of the present?",
+        "titulo": "Artigo 4 — Se, na ausência de consentimento interior, o casamento é celebrado por consentimento dado nas palavras do presente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7678,7 +7678,7 @@
       },
       {
         "id": "sup-q45-a5",
-        "titulo": "Artigo 5 — Whether consent given secretly in words of the present makes a marriage?",
+        "titulo": "Artigo 5 — Se o consentimento dado secretamente em palavras do presente constitui um casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7727,11 +7727,11 @@
   },
   {
     "id": "sup-q46",
-    "titulo": "Questão 46 — The consent to which an oath or carnal intercourse is appended",
+    "titulo": "Questão 46 — O consentimento ao qual é anexado um juramento ou relação carnal",
     "children": [
       {
         "id": "sup-q46-a1",
-        "titulo": "Artigo 1 — Whether an oath added to the consent that is expressed in words of the future tense makes a marriage?",
+        "titulo": "Artigo 1 — Se um juramento adicionado ao consentimento expresso em palavras no futuro constitui um casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7774,7 +7774,7 @@
       },
       {
         "id": "sup-q46-a2",
-        "titulo": "Artigo 2 — Whether carnal intercourse after consent expressed in words of the future makes a marriage?",
+        "titulo": "Artigo 2 — Se a relação carnal após o consentimento expresso em palavras do futuro constitui um casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7823,11 +7823,11 @@
   },
   {
     "id": "sup-q47",
-    "titulo": "Questão 47 — Compulsory and conditional consent",
+    "titulo": "Questão 47 — Consentimento obrigatório e condicional",
     "children": [
       {
         "id": "sup-q47-a1",
-        "titulo": "Artigo 1 — Whether a compulsory consent is possible?",
+        "titulo": "Artigo 1 — Se um consentimento obrigatório é possível?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7858,7 +7858,7 @@
       },
       {
         "id": "sup-q47-a2",
-        "titulo": "Artigo 2 — Whether a constant man can be compelled by fear?",
+        "titulo": "Artigo 2 — Se um homem constante pode ser compelido pelo medo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7909,7 +7909,7 @@
       },
       {
         "id": "sup-q47-a3",
-        "titulo": "Artigo 3 — Whether compulsory consent invalidates a marriage?",
+        "titulo": "Artigo 3 — Se o consentimento obrigatório invalida o casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7948,7 +7948,7 @@
       },
       {
         "id": "sup-q47-a4",
-        "titulo": "Artigo 4 — Whether compulsory consent makes a marriage as regards the party who uses compulsion?",
+        "titulo": "Artigo 4 — Se o consentimento compulsório constitui um casamento no que diz respeito à parte que recorre à compulsão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7979,7 +7979,7 @@
       },
       {
         "id": "sup-q47-a5",
-        "titulo": "Artigo 5 — Whether conditional consent makes a marriage?",
+        "titulo": "Artigo 5 — Se o consentimento condicional constitui um casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8002,7 +8002,7 @@
       },
       {
         "id": "sup-q47-a6",
-        "titulo": "Artigo 6 — Whether one can be compelled by one's father's command to marry?",
+        "titulo": "Artigo 6 — Se alguém pode ser compelido pela ordem do pai a se casar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8051,11 +8051,11 @@
   },
   {
     "id": "sup-q48",
-    "titulo": "Questão 48 — The object of the consent",
+    "titulo": "Questão 48 — O objeto do consentimento",
     "children": [
       {
         "id": "sup-q48-a1",
-        "titulo": "Artigo 1 — Whether the consent that makes a marriage is a consent to carnal intercourse?",
+        "titulo": "Artigo 1 — Se o consentimento que constitui o casamento é um consentimento para a relação carnal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8106,7 +8106,7 @@
       },
       {
         "id": "sup-q48-a2",
-        "titulo": "Artigo 2 — Whether marriage can result from one person's consent to take another for a base motive?",
+        "titulo": "Artigo 2 — Se o casamento pode resultar do consentimento de uma pessoa em tomar outra por um motivo vil?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8163,11 +8163,11 @@
   },
   {
     "id": "sup-q49",
-    "titulo": "Questão 49 — The marriage goods",
+    "titulo": "Questão 49 — Os bens do casamento",
     "children": [
       {
         "id": "sup-q49-a1",
-        "titulo": "Artigo 1 — Whether certain blessings are necessary in order to excuse marriage?",
+        "titulo": "Artigo 1 — Se certas bênçãos são necessárias para desculpar o casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8214,7 +8214,7 @@
       },
       {
         "id": "sup-q49-a2",
-        "titulo": "Artigo 2 — Whether the goods of marriage are sufficiently enumerated?",
+        "titulo": "Artigo 2 — Se os bens do casamento estão suficientemente enumerados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8281,7 +8281,7 @@
       },
       {
         "id": "sup-q49-a3",
-        "titulo": "Artigo 3 — Whether the sacrament is the chief of the marriage goods?",
+        "titulo": "Artigo 3 — Se o sacramento é o principal dos bens matrimoniais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8336,7 +8336,7 @@
       },
       {
         "id": "sup-q49-a4",
-        "titulo": "Artigo 4 — Whether the marriage act is excused by the aforesaid goods?",
+        "titulo": "Artigo 4 — Se o ato matrimonial é dispensado pelos referidos bens?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8387,7 +8387,7 @@
       },
       {
         "id": "sup-q49-a5",
-        "titulo": "Artigo 5 — Whether the marriage act can be excused without the marriage goods?",
+        "titulo": "Artigo 5 — Se o ato matrimonial pode ser dispensado sem os bens matrimoniais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8434,7 +8434,7 @@
       },
       {
         "id": "sup-q49-a6",
-        "titulo": "Artigo 6 — Whether it is a mortal sin for a man to have knowledge of his wife, with the intention not of a marriage good but merely of pleasure?",
+        "titulo": "Artigo 6 — Se é pecado mortal um homem ter conhecimento de sua esposa, com a intenção não de um casamento bom, mas apenas de prazer?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8483,11 +8483,11 @@
   },
   {
     "id": "sup-q50",
-    "titulo": "Questão 50 — The impediments of marriage, in general",
+    "titulo": "Questão 50 — Os impedimentos do casamento, em geral",
     "children": [
       {
         "id": "sup-q50-a1",
-        "titulo": "Artigo 1 — Whether it is fitting that impediments should be assigned to marriage?",
+        "titulo": "Artigo 1 — Se é apropriado que sejam atribuídos impedimentos ao casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8572,11 +8572,11 @@
   },
   {
     "id": "sup-q51",
-    "titulo": "Questão 51 — The impediment of error",
+    "titulo": "Questão 51 — O impedimento do erro",
     "children": [
       {
         "id": "sup-q51-a1",
-        "titulo": "Artigo 1 — Whether it is right to reckon error as an impediment to marriage?",
+        "titulo": "Artigo 1 — Se é certo considerar o erro como um impedimento ao casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8623,7 +8623,7 @@
       },
       {
         "id": "sup-q51-a2",
-        "titulo": "Artigo 2 — Whether every error is an impediment to matrimony?",
+        "titulo": "Artigo 2 — Se todo erro é um impedimento ao matrimônio?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8708,11 +8708,11 @@
   },
   {
     "id": "sup-q52",
-    "titulo": "Questão 52 — The impediment of the condition of slavery",
+    "titulo": "Questão 52 — O impedimento da condição de escravidão",
     "children": [
       {
         "id": "sup-q52-a1",
-        "titulo": "Artigo 1 — Whether the condition of slavery is an impediment to matrimony?",
+        "titulo": "Artigo 1 — Se a condição de escravidão é um impedimento ao matrimônio?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8775,7 +8775,7 @@
       },
       {
         "id": "sup-q52-a2",
-        "titulo": "Artigo 2 — Whether a slave can marry without his master's consent?",
+        "titulo": "Artigo 2 — Se um escravo pode casar sem o consentimento do seu senhor?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8834,7 +8834,7 @@
       },
       {
         "id": "sup-q52-a3",
-        "titulo": "Artigo 3 — Whether slavery can supervene to marriage?",
+        "titulo": "Artigo 3 — Se a escravidão pode sobrevir ao casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8881,7 +8881,7 @@
       },
       {
         "id": "sup-q52-a4",
-        "titulo": "Artigo 4 — Whether children should follow the condition of their father?",
+        "titulo": "Artigo 4 — Se os filhos devem seguir a condição do pai?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8930,11 +8930,11 @@
   },
   {
     "id": "sup-q53",
-    "titulo": "Questão 53 — The impediment of vows and orders",
+    "titulo": "Questão 53 — O impedimento de votos e ordens",
     "children": [
       {
         "id": "sup-q53-a1",
-        "titulo": "Artigo 1 — Whether marriage already contracted should be annulled by the obligation of a simple vow?",
+        "titulo": "Artigo 1 — Se o casamento já contraído deve ser anulado pela obrigação de um simples voto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8985,7 +8985,7 @@
       },
       {
         "id": "sup-q53-a2",
-        "titulo": "Artigo 2 — Whether a solemn vow dissolves a marriage already contracted?",
+        "titulo": "Artigo 2 — Se um voto solene dissolve um casamento já contraído?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9024,7 +9024,7 @@
       },
       {
         "id": "sup-q53-a3",
-        "titulo": "Artigo 3 — Whether order is an impediment to matrimony?",
+        "titulo": "Artigo 3 — Se a ordem é um impedimento ao matrimônio?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9075,7 +9075,7 @@
       },
       {
         "id": "sup-q53-a4",
-        "titulo": "Artigo 4 — Whether a sacred order cannot supervene to matrimony?",
+        "titulo": "Artigo 4 — Se uma ordem sagrada não pode sobrevir ao matrimônio?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9132,11 +9132,11 @@
   },
   {
     "id": "sup-q54",
-    "titulo": "Questão 54 — The impediment of consanguinity",
+    "titulo": "Questão 54 — O impedimento da consanguinidade",
     "children": [
       {
         "id": "sup-q54-a1",
-        "titulo": "Artigo 1 — Whether consanguinity is rightly defined?",
+        "titulo": "Artigo 1 — Se a consanguinidade está corretamente definida?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9187,7 +9187,7 @@
       },
       {
         "id": "sup-q54-a2",
-        "titulo": "Artigo 2 — Whether consanguinity is fittingly distinguished by degrees and lines?",
+        "titulo": "Artigo 2 — Se a consanguinidade é adequadamente distinguida por graus e linhas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9254,7 +9254,7 @@
       },
       {
         "id": "sup-q54-a3",
-        "titulo": "Artigo 3 — Whether consanguinity is an impediment to marriage by virtue of the natural law?",
+        "titulo": "Artigo 3 — Se a consanguinidade é um impedimento ao casamento em virtude da lei natural?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9313,7 +9313,7 @@
       },
       {
         "id": "sup-q54-a4",
-        "titulo": "Artigo 4 — Whether the degrees of consanguinity that are an impediment to marriage could be fixed by the Church?",
+        "titulo": "Artigo 4 — Se os graus de consanguinidade que impedem o casamento poderiam ser fixados pela Igreja?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9386,11 +9386,11 @@
   },
   {
     "id": "sup-q55",
-    "titulo": "Questão 55 — The impediment of affinity",
+    "titulo": "Questão 55 — O impedimento da afinidade",
     "children": [
       {
         "id": "sup-q55-a1",
-        "titulo": "Artigo 1 — Whether a person contracts affinity through the marriage of a blood-relation?",
+        "titulo": "Artigo 1 — Se uma pessoa contrai afinidade através do casamento de um parente consanguíneo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9429,7 +9429,7 @@
       },
       {
         "id": "sup-q55-a2",
-        "titulo": "Artigo 2 — Whether affinity remains after the death of husband or wife?",
+        "titulo": "Artigo 2 — Se a afinidade permanece após a morte do marido ou da esposa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9460,7 +9460,7 @@
       },
       {
         "id": "sup-q55-a3",
-        "titulo": "Artigo 3 — Whether unlawful intercourse causes affinity?",
+        "titulo": "Artigo 3 — Se a relação sexual ilegal causa afinidade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9499,7 +9499,7 @@
       },
       {
         "id": "sup-q55-a4",
-        "titulo": "Artigo 4 — Whether affinity is caused by betrothal?",
+        "titulo": "Artigo 4 — Se a afinidade é causada pelo noivado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9538,7 +9538,7 @@
       },
       {
         "id": "sup-q55-a5",
-        "titulo": "Artigo 5 — Whether affinity is a cause of affinity?",
+        "titulo": "Artigo 5 — Se a afinidade é uma causa de afinidade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9601,7 +9601,7 @@
       },
       {
         "id": "sup-q55-a6",
-        "titulo": "Artigo 6 — Whether affinity is an impediment to marriage?",
+        "titulo": "Artigo 6 — Se a afinidade é um impedimento ao casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9632,7 +9632,7 @@
       },
       {
         "id": "sup-q55-a7",
-        "titulo": "Artigo 7 — Whether affinity in itself admits of degrees?",
+        "titulo": "Artigo 7 — Se a afinidade em si admite graus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9663,7 +9663,7 @@
       },
       {
         "id": "sup-q55-a8",
-        "titulo": "Artigo 8 — Whether the degrees of affinity extend in the same way as the degrees of consanguinity?",
+        "titulo": "Artigo 8 — Se os graus de afinidade se estendem da mesma forma que os graus de consanguinidade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9694,7 +9694,7 @@
       },
       {
         "id": "sup-q55-a9",
-        "titulo": "Artigo 9 — Whether a marriage contracted by persons with the degrees of affinity or consanguinity should always be annulled?",
+        "titulo": "Artigo 9 — Se o casamento contraído por pessoas com graus de afinidade ou consanguinidade deve ser sempre anulado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9733,7 +9733,7 @@
       },
       {
         "id": "sup-q55-a10",
-        "titulo": "Artigo 10 — Whether it is necessary to proceed by way of accusation for the annulment of a marriage contracted by persons related to each other by affinity or consanguinity?",
+        "titulo": "Artigo 10 — Se é necessário proceder por via de acusação à anulação de um casamento contraído por pessoas relacionadas entre si por afinidade ou consanguinidade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9780,7 +9780,7 @@
       },
       {
         "id": "sup-q55-a11",
-        "titulo": "Artigo 11 — Whether in a suit of this kind one should proceed by hearing witnesses in the same way as in other suits?",
+        "titulo": "Artigo 11 — Se num processo deste tipo se deve proceder ouvindo testemunhas da mesma forma que em outros processos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9809,11 +9809,11 @@
   },
   {
     "id": "sup-q56",
-    "titulo": "Questão 56 — The impediment of spiritual relationship",
+    "titulo": "Questão 56 — O impedimento do relacionamento espiritual",
     "children": [
       {
         "id": "sup-q56-a1",
-        "titulo": "Artigo 1 — Whether spiritual relationship is an impediment to marriage?",
+        "titulo": "Artigo 1 — Se o relacionamento espiritual é um impedimento ao casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9860,7 +9860,7 @@
       },
       {
         "id": "sup-q56-a2",
-        "titulo": "Artigo 2 — Whether spiritual relationship is contracted by baptism only?",
+        "titulo": "Artigo 2 — Se o relacionamento espiritual é contraído apenas pelo batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9935,7 +9935,7 @@
       },
       {
         "id": "sup-q56-a3",
-        "titulo": "Artigo 3 — Whether spiritual relationship is contracted between the person baptized and the person who raises him from the sacred font?",
+        "titulo": "Artigo 3 — Se se contrai uma relação espiritual entre o batizado e aquele que o eleva da fonte sagrada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9974,7 +9974,7 @@
       },
       {
         "id": "sup-q56-a4",
-        "titulo": "Artigo 4 — Whether spiritual relationship passes from husband to wife?",
+        "titulo": "Artigo 4 — Se o relacionamento espiritual passa de marido para esposa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10021,7 +10021,7 @@
       },
       {
         "id": "sup-q56-a5",
-        "titulo": "Artigo 5 — Whether spiritual relationship passes to the godfather's carnal children?",
+        "titulo": "Artigo 5 — Se a relação espiritual passa para os filhos carnais do padrinho?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10054,11 +10054,11 @@
   },
   {
     "id": "sup-q57",
-    "titulo": "Questão 57 — Legal relationship, which is by adoption",
+    "titulo": "Questão 57 — Relação jurídica, que é por adoção",
     "children": [
       {
         "id": "sup-q57-a1",
-        "titulo": "Artigo 1 — Whether adoption is rightly defined?",
+        "titulo": "Artigo 1 — Se a adoção está corretamente definida?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10121,7 +10121,7 @@
       },
       {
         "id": "sup-q57-a2",
-        "titulo": "Artigo 2 — Whether a tie that is an impediment to marriage is contracted through adoption?",
+        "titulo": "Artigo 2 — Se o vínculo que impede o casamento é contraído por adoção?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10156,7 +10156,7 @@
       },
       {
         "id": "sup-q57-a3",
-        "titulo": "Artigo 3 — Whether legal relationship is contracted only between the adopting father and the adopted child?",
+        "titulo": "Artigo 3 — Se a relação jurídica se contrai apenas entre o pai adoptivo e o filho adoptado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10209,11 +10209,11 @@
   },
   {
     "id": "sup-q58",
-    "titulo": "Questão 58 — The impediments of impotence, spell, frenzy or madness, incest and defective age",
+    "titulo": "Questão 58 — Os impedimentos de impotência, feitiço, frenesi ou loucura, incesto e idade defeituosa",
     "children": [
       {
         "id": "sup-q58-a1",
-        "titulo": "Artigo 1 — Whether impotence is an impediment to marriage?",
+        "titulo": "Artigo 1 — Se a impotência é um impedimento ao casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10276,7 +10276,7 @@
       },
       {
         "id": "sup-q58-a2",
-        "titulo": "Artigo 2 — Whether a spell can be an impediment to marriage?",
+        "titulo": "Artigo 2 — Se um feitiço pode ser um impedimento ao casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10323,7 +10323,7 @@
       },
       {
         "id": "sup-q58-a3",
-        "titulo": "Artigo 3 — Whether madness is an impediment to marriage?",
+        "titulo": "Artigo 3 — Se a loucura é um impedimento ao casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10370,7 +10370,7 @@
       },
       {
         "id": "sup-q58-a4",
-        "titulo": "Artigo 4 — Whether marriage is annulled by the husband committing incest with his wife's sister?",
+        "titulo": "Artigo 4 — Se o casamento é anulado pelo incesto do marido com a irmã da esposa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10401,7 +10401,7 @@
       },
       {
         "id": "sup-q58-a5",
-        "titulo": "Artigo 5 — Whether defective age is an impediment to marriage?",
+        "titulo": "Artigo 5 — Se a idade defeituosa é um impedimento ao casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10458,11 +10458,11 @@
   },
   {
     "id": "sup-q59",
-    "titulo": "Questão 59 — Disparity of worship as an impediment to marriage",
+    "titulo": "Questão 59 — Disparidade de culto como impedimento ao casamento",
     "children": [
       {
         "id": "sup-q59-a1",
-        "titulo": "Artigo 1 — Whether a believer can marry an unbeliever?",
+        "titulo": "Artigo 1 — Se um crente pode se casar com um incrédulo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10517,7 +10517,7 @@
       },
       {
         "id": "sup-q59-a2",
-        "titulo": "Artigo 2 — Whether there can be marriage between unbelievers?",
+        "titulo": "Artigo 2 — Se pode haver casamento entre incrédulos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10576,7 +10576,7 @@
       },
       {
         "id": "sup-q59-a3",
-        "titulo": "Artigo 3 — Whether the husband, being converted to the faith, may remain with his wife is she be unwilling to be converted?",
+        "titulo": "Artigo 3 — Se o marido, convertido à fé, pode permanecer com a esposa, ela não deseja se converter?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10635,7 +10635,7 @@
       },
       {
         "id": "sup-q59-a4",
-        "titulo": "Artigo 4 — Whether a believer can, after his conversion, put away his unbelieving wife if she be willing to cohabit with him without insult to the Creator?",
+        "titulo": "Artigo 4 — Se um crente pode, após a sua conversão, repudiar a sua esposa incrédula se ela estiver disposta a coabitar com ele sem insultar o Criador?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10690,7 +10690,7 @@
       },
       {
         "id": "sup-q59-a5",
-        "titulo": "Artigo 5 — Whether the believer who leaves his unbelieving wife can take another wife?",
+        "titulo": "Artigo 5 — Se o crente que abandona a sua esposa incrédula pode tomar outra esposa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10745,7 +10745,7 @@
       },
       {
         "id": "sup-q59-a6",
-        "titulo": "Artigo 6 — Whether other sins dissolve marriage?",
+        "titulo": "Artigo 6 — Se outros pecados dissolvem o casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10802,11 +10802,11 @@
   },
   {
     "id": "sup-q60",
-    "titulo": "Questão 60 — Wife-murder",
+    "titulo": "Questão 60 — Assassinato de esposa",
     "children": [
       {
         "id": "sup-q60-a1",
-        "titulo": "Artigo 1 — Whether it is lawful for a man to kill his wife if she be discovered in the act of adultery?",
+        "titulo": "Artigo 1 — Se é lícito um homem matar sua esposa se ela for descoberta em ato de adultério?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10853,7 +10853,7 @@
       },
       {
         "id": "sup-q60-a2",
-        "titulo": "Artigo 2 — Whether wife-murder is an impediment to marriage?",
+        "titulo": "Artigo 2 — Se o assassinato da esposa é um impedimento ao casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10902,11 +10902,11 @@
   },
   {
     "id": "sup-q61",
-    "titulo": "Questão 61 — The impediment to marriage, arising from a solemn vow",
+    "titulo": "Questão 61 — O impedimento ao casamento, decorrente de voto solene",
     "children": [
       {
         "id": "sup-q61-a1",
-        "titulo": "Artigo 1 — Whether one party after the marriage has been consummated can enter religion without the other's consent?",
+        "titulo": "Artigo 1 — Se uma das partes, após a consumação do casamento, pode aderir à religião sem o consentimento da outra?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10945,7 +10945,7 @@
       },
       {
         "id": "sup-q61-a2",
-        "titulo": "Artigo 2 — Whether before the marriage has been consummated one consort can enter religion without the other's consent?",
+        "titulo": "Artigo 2 — Se antes de o casamento ser consumado, um consorte pode aderir à religião sem o consentimento do outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10984,7 +10984,7 @@
       },
       {
         "id": "sup-q61-a3",
-        "titulo": "Artigo 3 — Whether the wife may take another husband if her husband has entered religion before the consummation of the marriage?",
+        "titulo": "Artigo 3 — Se a esposa pode tomar outro marido se o marido tiver entrado na religião antes da consumação do casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11025,11 +11025,11 @@
   },
   {
     "id": "sup-q62",
-    "titulo": "Questão 62 — The impediment that supervenes to marriage after its consummation, namely fornication",
+    "titulo": "Questão 62 — O impedimento que sobrevém ao casamento após a sua consumação, nomeadamente a fornicação",
     "children": [
       {
         "id": "sup-q62-a1",
-        "titulo": "Artigo 1 — Whether it is lawful for a husband to put away his wife on account of fornication?",
+        "titulo": "Artigo 1 — Se é lícito ao marido repudiar a esposa por causa de fornicação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11076,7 +11076,7 @@
       },
       {
         "id": "sup-q62-a2",
-        "titulo": "Artigo 2 — Whether the husband is bound by precept to put away his wife when she is guilty of fornication?",
+        "titulo": "Artigo 2 — Se o marido está obrigado por preceito a repudiar a esposa quando ela é culpada de fornicação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11139,7 +11139,7 @@
       },
       {
         "id": "sup-q62-a3",
-        "titulo": "Artigo 3 — Whether the husband can on his own judgment put away his wife on account of fornication?",
+        "titulo": "Artigo 3 — Se o marido pode, segundo seu próprio julgamento, repudiar a esposa por causa de fornicação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11198,7 +11198,7 @@
       },
       {
         "id": "sup-q62-a4",
-        "titulo": "Artigo 4 — Whether in a case of divorce husband and wife should be judged on a par with each other?",
+        "titulo": "Artigo 4 — Se, num caso de divórcio, marido e mulher devem ser julgados em pé de igualdade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11253,7 +11253,7 @@
       },
       {
         "id": "sup-q62-a5",
-        "titulo": "Artigo 5 — Whether a husband can marry again after having a divorce?",
+        "titulo": "Artigo 5 — Se um marido pode se casar novamente após o divórcio?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11300,7 +11300,7 @@
       },
       {
         "id": "sup-q62-a6",
-        "titulo": "Artigo 6 — Whether husband and wife may be reconciled after being divorced?",
+        "titulo": "Artigo 6 — Se marido e mulher podem se reconciliar após o divórcio?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11357,11 +11357,11 @@
   },
   {
     "id": "sup-q63",
-    "titulo": "Questão 63 — Second marriages",
+    "titulo": "Questão 63 — Segundos casamentos",
     "children": [
       {
         "id": "sup-q63-a1",
-        "titulo": "Artigo 1 — Whether a second marriage is lawful?",
+        "titulo": "Artigo 1 — Se um segundo casamento é legal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11408,7 +11408,7 @@
       },
       {
         "id": "sup-q63-a2",
-        "titulo": "Artigo 2 — Whether a second marriage is a sacrament?",
+        "titulo": "Artigo 2 — Se um segundo casamento é um sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11457,11 +11457,11 @@
   },
   {
     "id": "sup-q64",
-    "titulo": "Questão 64 — Things annexed to marriage, and first the payment of the marriage debt",
+    "titulo": "Questão 64 — Coisas anexas ao casamento e primeiro o pagamento da dívida matrimonial",
     "children": [
       {
         "id": "sup-q64-a1",
-        "titulo": "Artigo 1 — Whether husband and wife are mutually bound to the payment of the marriage debt?",
+        "titulo": "Artigo 1 — Se marido e mulher estão mutuamente obrigados ao pagamento da dívida conjugal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11508,7 +11508,7 @@
       },
       {
         "id": "sup-q64-a2",
-        "titulo": "Artigo 2 — Whether a husband is bound to pay the debt if his wife does not ask for it?",
+        "titulo": "Artigo 2 — Se o marido é obrigado a pagar a dívida se a esposa não a pedir?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11555,7 +11555,7 @@
       },
       {
         "id": "sup-q64-a3",
-        "titulo": "Artigo 3 — Whether it is allowable for a menstruous wife to ask for the marriage debt?",
+        "titulo": "Artigo 3 — É permitido que uma esposa menstruada peça a dívida do casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11590,7 +11590,7 @@
       },
       {
         "id": "sup-q64-a4",
-        "titulo": "Artigo 4 — Whether a menstruous woman should or may lawfully pay the marriage debt to her husband if he ask for it?",
+        "titulo": "Artigo 4 — Se uma mulher menstruada deve ou pode pagar legalmente a dívida do casamento ao marido, se ele pedir?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11629,7 +11629,7 @@
       },
       {
         "id": "sup-q64-a5",
-        "titulo": "Artigo 5 — Whether husband and wife are equal in the marriage act?",
+        "titulo": "Artigo 5 — Se marido e mulher são iguais no ato matrimonial?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11676,7 +11676,7 @@
       },
       {
         "id": "sup-q64-a6",
-        "titulo": "Artigo 6 — Whether husband and wife can take a vow contrary to the marriage debt without their mutual consent?",
+        "titulo": "Artigo 6 — Se marido e mulher podem fazer um voto contrário à dívida conjugal sem o consentimento mútuo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11723,7 +11723,7 @@
       },
       {
         "id": "sup-q64-a7",
-        "titulo": "Artigo 7 — Whether it is forbidden to demand the debt on holy days?",
+        "titulo": "Artigo 7 — É proibido exigir a dívida nos dias santos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11754,7 +11754,7 @@
       },
       {
         "id": "sup-q64-a8",
-        "titulo": "Artigo 8 — Whether it is a mortal sin to ask for the debt at a holy time?",
+        "titulo": "Artigo 8 — Se é pecado mortal pedir a dívida num momento sagrado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11785,7 +11785,7 @@
       },
       {
         "id": "sup-q64-a9",
-        "titulo": "Artigo 9 — Whether one spouse is bound to pay the debt to the other at a festal time?",
+        "titulo": "Artigo 9 — Se um dos cônjuges é obrigado a pagar a dívida ao outro numa época festiva?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11816,7 +11816,7 @@
       },
       {
         "id": "sup-q64-a10",
-        "titulo": "Artigo 10 — Whether weddings should be forbidden at certain times? [This article is omitted in the Leonine edition.]",
+        "titulo": "Artigo 10 — Se os casamentos deveriam ser proibidos em determinados horários? [Este artigo foi omitido na edição leonina.]",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11857,11 +11857,11 @@
   },
   {
     "id": "sup-q65",
-    "titulo": "Questão 65 — Plurality of wives",
+    "titulo": "Questão 65 — Pluralidade de esposas",
     "children": [
       {
         "id": "sup-q65-a1",
-        "titulo": "Artigo 1 — Whether it is against the natural law to have several wives?",
+        "titulo": "Artigo 1 — Se é contra a lei natural ter várias esposas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11940,7 +11940,7 @@
       },
       {
         "id": "sup-q65-a2",
-        "titulo": "Artigo 2 — Whether it was ever lawful to have several wives?",
+        "titulo": "Artigo 2 — Se alguma vez foi lícito ter várias esposas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11995,7 +11995,7 @@
       },
       {
         "id": "sup-q65-a3",
-        "titulo": "Artigo 3 — Whether it is against the natural law to have a concubine?",
+        "titulo": "Artigo 3 — Se é contra a lei natural ter uma concubina?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12050,7 +12050,7 @@
       },
       {
         "id": "sup-q65-a4",
-        "titulo": "Artigo 4 — Whether it is a mortal sin to have intercourse with a concubine?",
+        "titulo": "Artigo 4 — Se é pecado mortal ter relações sexuais com uma concubina?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12097,7 +12097,7 @@
       },
       {
         "id": "sup-q65-a5",
-        "titulo": "Artigo 5 — Whether it was ever lawful to have a concubine?",
+        "titulo": "Artigo 5 — Se alguma vez foi lícito ter uma concubina?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12138,11 +12138,11 @@
   },
   {
     "id": "sup-q66",
-    "titulo": "Questão 66 — Bigamy and of the irregularity contracted thereby",
+    "titulo": "Questão 66 — Bigamia e da irregularidade por ela contraída",
     "children": [
       {
         "id": "sup-q66-a1",
-        "titulo": "Artigo 1 — Whether irregularity attaches to bigamy?",
+        "titulo": "Artigo 1 — Se a irregularidade está ligada à bigamia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12177,7 +12177,7 @@
       },
       {
         "id": "sup-q66-a2",
-        "titulo": "Artigo 2 — Whether irregularity results from bigamy, when one husband has two wives, one in law, the other in fact?",
+        "titulo": "Artigo 2 — Será que a irregularidade resulta da bigamia, quando um marido tem duas esposas, uma de direito e a outra de facto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12208,7 +12208,7 @@
       },
       {
         "id": "sup-q66-a3",
-        "titulo": "Artigo 3 — Whether irregularity is contracted by marrying one who is not a virgin?",
+        "titulo": "Artigo 3 — Se contrai-se irregularidade ao casar com alguém que não é virgem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12251,7 +12251,7 @@
       },
       {
         "id": "sup-q66-a4",
-        "titulo": "Artigo 4 — Whether bigamy is removed by Baptism?",
+        "titulo": "Artigo 4 — Se a bigamia é eliminada pelo Batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12306,7 +12306,7 @@
       },
       {
         "id": "sup-q66-a5",
-        "titulo": "Artigo 5 — Whether it is lawful for a bigamist to receive a dispensation?",
+        "titulo": "Artigo 5 — Se é lícito que um bígamo receba uma dispensa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12355,11 +12355,11 @@
   },
   {
     "id": "sup-q67",
-    "titulo": "Questão 67 — The bill of divorce",
+    "titulo": "Questão 67 — A lei do divórcio",
     "children": [
       {
         "id": "sup-q67-a1",
-        "titulo": "Artigo 1 — Whether inseparableness of the wife is of natural law?",
+        "titulo": "Artigo 1 — Se a inseparabilidade da esposa é de lei natural?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12402,7 +12402,7 @@
       },
       {
         "id": "sup-q67-a2",
-        "titulo": "Artigo 2 — Whether it may have been lawful by dispensation to put away a wife?",
+        "titulo": "Artigo 2 — Se pode ter sido lícito por dispensação repudiar a esposa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12441,7 +12441,7 @@
       },
       {
         "id": "sup-q67-a3",
-        "titulo": "Artigo 3 — Whether it was lawful to divorce a wife under the Mosaic law?",
+        "titulo": "Artigo 3 — Se era lícito divorciar-se da esposa sob a lei mosaica?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12496,7 +12496,7 @@
       },
       {
         "id": "sup-q67-a4",
-        "titulo": "Artigo 4 — Whether it was lawful for a divorced wife to have another husband?",
+        "titulo": "Artigo 4 — Se era lícito que uma esposa divorciada tivesse outro marido?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12551,7 +12551,7 @@
       },
       {
         "id": "sup-q67-a5",
-        "titulo": "Artigo 5 — Whether a husband could lawfully take back the wife he had divorced?",
+        "titulo": "Artigo 5 — Se um marido poderia legalmente aceitar de volta a esposa da qual se divorciou?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12594,7 +12594,7 @@
       },
       {
         "id": "sup-q67-a6",
-        "titulo": "Artigo 6 — Whether the reason for divorce was hatred for the wife?",
+        "titulo": "Artigo 6 — Se o motivo do divórcio foi o ódio pela esposa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12641,7 +12641,7 @@
       },
       {
         "id": "sup-q67-a7",
-        "titulo": "Artigo 7 — Whether the causes of divorce had to be written in the bill?",
+        "titulo": "Artigo 7 — Se as causas do divórcio deveriam ser escritas no projeto de lei?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12670,11 +12670,11 @@
   },
   {
     "id": "sup-q68",
-    "titulo": "Questão 68 — Illegitimate children",
+    "titulo": "Questão 68 — Filhos ilegítimos",
     "children": [
       {
         "id": "sup-q68-a1",
-        "titulo": "Artigo 1 — Whether children born out of true marriage are illegitimate?",
+        "titulo": "Artigo 1 — Se os filhos nascidos de um casamento verdadeiro são ilegítimos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12705,7 +12705,7 @@
       },
       {
         "id": "sup-q68-a2",
-        "titulo": "Artigo 2 — Whether children should suffer any loss through being illegitimate?",
+        "titulo": "Artigo 2 — Se as crianças deveriam sofrer alguma perda por serem ilegítimas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12736,7 +12736,7 @@
       },
       {
         "id": "sup-q68-a3",
-        "titulo": "Artigo 3 — Whether an illegitimate son can be legitimized?",
+        "titulo": "Artigo 3 — Se um filho ilegítimo pode ser legitimado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12769,11 +12769,11 @@
   },
   {
     "id": "sup-q69",
-    "titulo": "Questão 69 — Matters concerning the resurrection, and first of the place where souls are after death",
+    "titulo": "Questão 69 — Assuntos relativos à ressurreição e, em primeiro lugar, ao lugar onde as almas estão após a morte",
     "children": [
       {
         "id": "sup-q69-a1",
-        "titulo": "Artigo 1 — Whether places are appointed to receive souls after death?",
+        "titulo": "Artigo 1 — Se são designados lugares para receber almas após a morte?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12812,7 +12812,7 @@
       },
       {
         "id": "sup-q69-a2",
-        "titulo": "Artigo 2 — Whether souls are conveyed to heaven or hell immediately after death?",
+        "titulo": "Artigo 2 — Se as almas são transportadas para o céu ou para o inferno imediatamente após a morte?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12859,7 +12859,7 @@
       },
       {
         "id": "sup-q69-a3",
-        "titulo": "Artigo 3 — Whether the souls who are in heaven or hell are able to go from thence?",
+        "titulo": "Artigo 3 — Se as almas que estão no céu ou no inferno podem sair de lá?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12914,7 +12914,7 @@
       },
       {
         "id": "sup-q69-a4",
-        "titulo": "Artigo 4 — Whether the limbo of hell is the same as Abraham's bosom?",
+        "titulo": "Artigo 4 — Se o limbo do inferno é igual ao seio de Abraão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12949,7 +12949,7 @@
       },
       {
         "id": "sup-q69-a5",
-        "titulo": "Artigo 5 — Whether limbo is the same as the hell of the damned?",
+        "titulo": "Artigo 5 — Se o limbo é o mesmo que o inferno dos condenados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12984,7 +12984,7 @@
       },
       {
         "id": "sup-q69-a6",
-        "titulo": "Artigo 6 — Whether the limbo of children is the same as the limbo of the Fathers?",
+        "titulo": "Artigo 6 — Se o limbo dos filhos é igual ao limbo dos Pais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13015,7 +13015,7 @@
       },
       {
         "id": "sup-q69-a7",
-        "titulo": "Artigo 7 — Whether so many abodes should be distinguished?",
+        "titulo": "Artigo 7 — Se tantas moradas deveriam ser distinguidas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13108,11 +13108,11 @@
   },
   {
     "id": "sup-q70",
-    "titulo": "Questão 70 — The quality of the soul after leaving the body, and of the punishment inflicted on it by material fire",
+    "titulo": "Questão 70 — A qualidade da alma após deixar o corpo e do castigo infligido a ela pelo fogo material",
     "children": [
       {
         "id": "sup-q70-a1",
-        "titulo": "Artigo 1 — Whether the sensitive powers remain in the separated soul? [Cf. I, 77, 8]",
+        "titulo": "Artigo 1 — Se os poderes sensíveis permanecem na alma separada? [Cf. Eu, 77, 8]",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13183,7 +13183,7 @@
       },
       {
         "id": "sup-q70-a2",
-        "titulo": "Artigo 2 — Whether the acts of the sensitive powers remain in the separated soul?",
+        "titulo": "Artigo 2 — Se os atos das potências sensíveis permanecem na alma separada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13238,7 +13238,7 @@
       },
       {
         "id": "sup-q70-a3",
-        "titulo": "Artigo 3 — Whether the separated soul can suffer from a bodily fire?",
+        "titulo": "Artigo 3 — Se a alma separada pode sofrer um incêndio corporal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13327,11 +13327,11 @@
   },
   {
     "id": "sup-q71",
-    "titulo": "Questão 71 — The suffrages for the dead",
+    "titulo": "Questão 71 — Os sufrágios pelos mortos",
     "children": [
       {
         "id": "sup-q71-a1",
-        "titulo": "Artigo 1 — Whether the suffrages of one person can profit others?",
+        "titulo": "Artigo 1 — Se os sufrágios de uma pessoa podem beneficiar outras?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13378,7 +13378,7 @@
       },
       {
         "id": "sup-q71-a2",
-        "titulo": "Artigo 2 — Whether the dead can be assisted by the works of the living?",
+        "titulo": "Artigo 2 — Se os mortos podem ser ajudados pelas obras dos vivos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13425,7 +13425,7 @@
       },
       {
         "id": "sup-q71-a3",
-        "titulo": "Artigo 3 — Whether suffrages performed by sinners profit the dead?",
+        "titulo": "Artigo 3 — Se os sufrágios realizados pelos pecadores beneficiam os mortos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13488,7 +13488,7 @@
       },
       {
         "id": "sup-q71-a4",
-        "titulo": "Artigo 4 — Whether suffrages offered by the living for the dead profit those who offer them?",
+        "titulo": "Artigo 4 — Se os sufrágios oferecidos pelos vivos aos mortos beneficiam aqueles que os oferecem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13515,7 +13515,7 @@
       },
       {
         "id": "sup-q71-a5",
-        "titulo": "Artigo 5 — Whether suffrages profit those who are in hell?",
+        "titulo": "Artigo 5 — Se os sufrágios beneficiam aqueles que estão no inferno?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13570,7 +13570,7 @@
       },
       {
         "id": "sup-q71-a6",
-        "titulo": "Artigo 6 — Whether suffrages profit those who are in purgatory?",
+        "titulo": "Artigo 6 — Se os sufrágios beneficiam aqueles que estão no purgatório?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13617,7 +13617,7 @@
       },
       {
         "id": "sup-q71-a7",
-        "titulo": "Artigo 7 — Whether suffrages avail the children who are in limbo?",
+        "titulo": "Artigo 7 — Se os sufrágios beneficiam as crianças que estão no limbo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13648,7 +13648,7 @@
       },
       {
         "id": "sup-q71-a8",
-        "titulo": "Artigo 8 — Whether suffrages profit the saints in heaven?",
+        "titulo": "Artigo 8 — Se os sufrágios beneficiam os santos no céu?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13695,7 +13695,7 @@
       },
       {
         "id": "sup-q71-a9",
-        "titulo": "Artigo 9 — Whether the prayers of the Church, the sacrifice of the altar and alms profit the departed?",
+        "titulo": "Artigo 9 — Se as orações da Igreja, o sacrifício do altar e a esmola beneficiam os falecidos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13754,7 +13754,7 @@
       },
       {
         "id": "sup-q71-a10",
-        "titulo": "Artigo 10 — Whether the indulgences of the Church profit the dead?",
+        "titulo": "Artigo 10 — Se as indulgências da Igreja beneficiam os mortos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13781,7 +13781,7 @@
       },
       {
         "id": "sup-q71-a11",
-        "titulo": "Artigo 11 — Whether the burial service profits the dead?",
+        "titulo": "Artigo 11 — Se o serviço funerário beneficia os mortos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13836,7 +13836,7 @@
       },
       {
         "id": "sup-q71-a12",
-        "titulo": "Artigo 12 — Whether suffrages offered for one deceased person profit the person for whom they are offered more than others?",
+        "titulo": "Artigo 12 — Se os sufrágios oferecidos a uma pessoa falecida beneficiam mais a pessoa a quem são oferecidos do que outras?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13879,7 +13879,7 @@
       },
       {
         "id": "sup-q71-a13",
-        "titulo": "Artigo 13 — Whether suffrages offered for several are of as much value to each one as if they had been offered for each in particular?",
+        "titulo": "Artigo 13 — Se os sufrágios oferecidos a vários têm tanto valor para cada um como se tivessem sido oferecidos a cada um em particular?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13922,7 +13922,7 @@
       },
       {
         "id": "sup-q71-a14",
-        "titulo": "Artigo 14 — Whether general suffrages avail those for whom special suffrages are not offered, as much as special suffrages avail those for whom they are offered in addition to general suffrages?",
+        "titulo": "Artigo 14 — Se os sufrágios gerais beneficiam aqueles a quem não são oferecidos sufrágios especiais, tanto quanto os sufrágios especiais beneficiam aqueles a quem são oferecidos, além dos sufrágios gerais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13959,11 +13959,11 @@
   },
   {
     "id": "sup-q72",
-    "titulo": "Questão 72 — Prayers with regard to the saints in heaven",
+    "titulo": "Questão 72 — Orações em relação aos santos no céu",
     "children": [
       {
         "id": "sup-q72-a1",
-        "titulo": "Artigo 1 — Whether the saints have knowledge of our prayers?",
+        "titulo": "Artigo 1 — Se os santos têm conhecimento de nossas orações?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14018,7 +14018,7 @@
       },
       {
         "id": "sup-q72-a2",
-        "titulo": "Artigo 2 — Whether we ought to call upon the saints to pray for us?",
+        "titulo": "Artigo 2 — Se deveríamos invocar os santos para orarem por nós?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14073,7 +14073,7 @@
       },
       {
         "id": "sup-q72-a3",
-        "titulo": "Artigo 3 — Whether the prayers which the saints pour forth to God for us are always granted?",
+        "titulo": "Artigo 3 — Se as orações que os santos fazem a Deus por nós são sempre atendidas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14142,11 +14142,11 @@
   },
   {
     "id": "sup-q73",
-    "titulo": "Questão 73 — The signs that will precede the judgment",
+    "titulo": "Questão 73 — Os sinais que precederão o julgamento",
     "children": [
       {
         "id": "sup-q73-a1",
-        "titulo": "Artigo 1 — Whether any signs will precede the Lord's coming to judgment?",
+        "titulo": "Artigo 1 — Se algum sinal precederá a vinda do Senhor para o julgamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14185,7 +14185,7 @@
       },
       {
         "id": "sup-q73-a2",
-        "titulo": "Artigo 2 — Whether towards the time of the judgment the sun and moon will be darkened in very truth?",
+        "titulo": "Artigo 2 — Se perto do tempo do julgamento o sol e a lua escurecerão de verdade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14224,7 +14224,7 @@
       },
       {
         "id": "sup-q73-a3",
-        "titulo": "Artigo 3 — Whether the virtues of heaven will be moved when our Lord shall come?",
+        "titulo": "Artigo 3 — Se as virtudes do céu serão abaladas quando nosso Senhor vier?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14261,11 +14261,11 @@
   },
   {
     "id": "sup-q74",
-    "titulo": "Questão 74 — The fire of the final conflagration",
+    "titulo": "Questão 74 — O fogo da conflagração final",
     "children": [
       {
         "id": "sup-q74-a1",
-        "titulo": "Artigo 1 — Whether the world is to be cleansed?",
+        "titulo": "Artigo 1 — Se o mundo deve ser purificado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14304,7 +14304,7 @@
       },
       {
         "id": "sup-q74-a2",
-        "titulo": "Artigo 2 — Whether the cleansing of the world will be effected by fire?",
+        "titulo": "Artigo 2 — Se a purificação do mundo será efetuada pelo fogo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14343,7 +14343,7 @@
       },
       {
         "id": "sup-q74-a3",
-        "titulo": "Artigo 3 — Whether the fire whereby the world will be cleansed will be of the same species with elemental fire?",
+        "titulo": "Artigo 3 — Se o fogo pelo qual o mundo será purificado será da mesma espécie do fogo elementar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14382,7 +14382,7 @@
       },
       {
         "id": "sup-q74-a4",
-        "titulo": "Artigo 4 — Whether that fire will cleanse also the higher heavens?",
+        "titulo": "Artigo 4 — Se esse fogo purificará também os céus superiores?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14421,7 +14421,7 @@
       },
       {
         "id": "sup-q74-a5",
-        "titulo": "Artigo 5 — Whether that fire will consume the other elements?",
+        "titulo": "Artigo 5 — Se esse fogo consumirá os outros elementos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14468,7 +14468,7 @@
       },
       {
         "id": "sup-q74-a6",
-        "titulo": "Artigo 6 — Whether all the elements will be cleansed by that fire?",
+        "titulo": "Artigo 6 — Se todos os elementos serão purificados por esse fogo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14515,7 +14515,7 @@
       },
       {
         "id": "sup-q74-a7",
-        "titulo": "Artigo 7 — Whether the fire of the final conflagration is to follow the judgment?",
+        "titulo": "Artigo 7 — Se o fogo da conflagração final seguirá o julgamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14558,7 +14558,7 @@
       },
       {
         "id": "sup-q74-a8",
-        "titulo": "Artigo 8 — Whether that fire will have such an effect on men as is described?",
+        "titulo": "Artigo 8 — Se esse fogo terá sobre os homens o efeito descrito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14613,7 +14613,7 @@
       },
       {
         "id": "sup-q74-a9",
-        "titulo": "Artigo 9 — Whether that fire will engulf the wicked?",
+        "titulo": "Artigo 9 — Se esse fogo engolirá os ímpios?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14654,11 +14654,11 @@
   },
   {
     "id": "sup-q75",
-    "titulo": "Questão 75 — The resurrection",
+    "titulo": "Questão 75 — A ressurreição",
     "children": [
       {
         "id": "sup-q75-a1",
-        "titulo": "Artigo 1 — Whether there is to be a resurrection of the body?",
+        "titulo": "Artigo 1 — Se haverá uma ressurreição do corpo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14713,7 +14713,7 @@
       },
       {
         "id": "sup-q75-a2",
-        "titulo": "Artigo 2 — Whether the resurrection will be for all without exception?",
+        "titulo": "Artigo 2 — Se a ressurreição será para todos, sem exceção?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14768,7 +14768,7 @@
       },
       {
         "id": "sup-q75-a3",
-        "titulo": "Artigo 3 — Whether the resurrection is natural?",
+        "titulo": "Artigo 3 — Se a ressurreição é natural?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14825,11 +14825,11 @@
   },
   {
     "id": "sup-q76",
-    "titulo": "Questão 76 — The cause of the resurrection",
+    "titulo": "Questão 76 — A causa da ressurreição",
     "children": [
       {
         "id": "sup-q76-a1",
-        "titulo": "Artigo 1 — Whether the resurrection of Christ is the cause of our resurrection?",
+        "titulo": "Artigo 1 — Se a ressurreição de Cristo é a causa da nossa ressurreição?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14876,7 +14876,7 @@
       },
       {
         "id": "sup-q76-a2",
-        "titulo": "Artigo 2 — Whether the sound of the trumpet will be the cause of our resurrection?",
+        "titulo": "Artigo 2 — Se o som da trombeta será a causa da nossa ressurreição?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14915,7 +14915,7 @@
       },
       {
         "id": "sup-q76-a3",
-        "titulo": "Artigo 3 — Whether the angels will do anything towards the resurrection?",
+        "titulo": "Artigo 3 — Se os anjos farão alguma coisa para a ressurreição?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14944,11 +14944,11 @@
   },
   {
     "id": "sup-q77",
-    "titulo": "Questão 77 — The time and manner of the resurrection",
+    "titulo": "Questão 77 — O tempo e a maneira da ressurreição",
     "children": [
       {
         "id": "sup-q77-a1",
-        "titulo": "Artigo 1 — Whether the time of our resurrection should be delayed till the end of the world?",
+        "titulo": "Artigo 1 — Se o tempo da nossa ressurreição deveria ser adiado até o fim do mundo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14995,7 +14995,7 @@
       },
       {
         "id": "sup-q77-a2",
-        "titulo": "Artigo 2 — Whether the time of our resurrection is hidden?",
+        "titulo": "Artigo 2 — Se o tempo da nossa ressurreição está oculto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15034,7 +15034,7 @@
       },
       {
         "id": "sup-q77-a3",
-        "titulo": "Artigo 3 — Whether the resurrection will take place at night-time?",
+        "titulo": "Artigo 3 — Se a ressurreição ocorrerá à noite?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15073,7 +15073,7 @@
       },
       {
         "id": "sup-q77-a4",
-        "titulo": "Artigo 4 — Whether the resurrection will happen suddenly or by degrees?",
+        "titulo": "Artigo 4 — Se a ressurreição acontecerá repentinamente ou gradualmente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15126,7 +15126,7 @@
     "children": [
       {
         "id": "sup-q78-a1",
-        "titulo": "Artigo 1 — Whether death will be the term \"wherefrom\" of the resurrection in all cases?",
+        "titulo": "Artigo 1 — Se a morte será o termo “de onde” da ressurreição em todos os casos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15173,7 +15173,7 @@
       },
       {
         "id": "sup-q78-a2",
-        "titulo": "Artigo 2 — Whether all will rise again from ashes?",
+        "titulo": "Artigo 2 — Se todos ressuscitarão das cinzas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15220,7 +15220,7 @@
       },
       {
         "id": "sup-q78-a3",
-        "titulo": "Artigo 3 — Whether the ashes from which the human body will be restored have any natural inclination towards the soul which will be united to them?",
+        "titulo": "Artigo 3 — Se as cinzas das quais o corpo humano será restaurado têm alguma inclinação natural para a alma que a elas se unirá?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15257,11 +15257,11 @@
   },
   {
     "id": "sup-q79",
-    "titulo": "Questão 79 — The conditions of those who rise again, and first of their identity",
+    "titulo": "Questão 79 — As condições daqueles que ressuscitam e, em primeiro lugar, a sua identidade",
     "children": [
       {
         "id": "sup-q79-a1",
-        "titulo": "Artigo 1 — Whether in the resurrection the soul will be reunited to the same identical body?",
+        "titulo": "Artigo 1 — Se na ressurreição a alma se reunirá ao mesmo corpo idêntico?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15312,7 +15312,7 @@
       },
       {
         "id": "sup-q79-a2",
-        "titulo": "Artigo 2 — Whether it will be identically the same man that shall rise again?",
+        "titulo": "Artigo 2 — Se será identicamente o mesmo homem que ressuscitará?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15359,7 +15359,7 @@
       },
       {
         "id": "sup-q79-a3",
-        "titulo": "Artigo 3 — Whether the ashes of the human body must needs, by the resurrection, return to the same parts of the body that were dissolved into them?",
+        "titulo": "Artigo 3 — Se as cinzas do corpo humano devem, pela ressurreição, retornar às mesmas partes do corpo que nelas foram dissolvidas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15400,11 +15400,11 @@
   },
   {
     "id": "sup-q80",
-    "titulo": "Questão 80 — The integrity of the bodies in the resurrection",
+    "titulo": "Questão 80 — A integridade dos corpos na ressurreição",
     "children": [
       {
         "id": "sup-q80-a1",
-        "titulo": "Artigo 1 — Whether all the members of the human body will rise again?",
+        "titulo": "Artigo 1 — Se todos os membros do corpo humano ressuscitarão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15443,7 +15443,7 @@
       },
       {
         "id": "sup-q80-a2",
-        "titulo": "Artigo 2 — Whether the hair and nails will rise again in the human body?",
+        "titulo": "Artigo 2 — Se os cabelos e as unhas crescerão novamente no corpo humano?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15482,7 +15482,7 @@
       },
       {
         "id": "sup-q80-a3",
-        "titulo": "Artigo 3 — Whether the humors will rise again in the body?",
+        "titulo": "Artigo 3 — Se os humores surgirão novamente no corpo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15521,7 +15521,7 @@
       },
       {
         "id": "sup-q80-a4",
-        "titulo": "Artigo 4 — Whether whatever in the body belonged to the truth of human nature will rise again in it?",
+        "titulo": "Artigo 4 — Será que tudo o que no corpo pertencia à verdade da natureza humana ressurgirá nele?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15588,7 +15588,7 @@
       },
       {
         "id": "sup-q80-a5",
-        "titulo": "Artigo 5 — Whether whatever was materially in a man's members will all rise again?",
+        "titulo": "Artigo 5 — Se tudo o que havia materialmente nos membros de um homem ressuscitará?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15629,11 +15629,11 @@
   },
   {
     "id": "sup-q81",
-    "titulo": "Questão 81 — The quality of those who rise again",
+    "titulo": "Questão 81 — A qualidade de quem se levanta novamente",
     "children": [
       {
         "id": "sup-q81-a1",
-        "titulo": "Artigo 1 — Whether all will rise again of the same age?",
+        "titulo": "Artigo 1 — Se todos ressuscitarão da mesma idade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15672,7 +15672,7 @@
       },
       {
         "id": "sup-q81-a2",
-        "titulo": "Artigo 2 — Whether all will rise again of the same stature?",
+        "titulo": "Artigo 2 — Se todos ressuscitarão da mesma estatura?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15715,7 +15715,7 @@
       },
       {
         "id": "sup-q81-a3",
-        "titulo": "Artigo 3 — Whether all will rise again of the male sex?",
+        "titulo": "Artigo 3 — Se todos ressuscitarão do sexo masculino?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15758,7 +15758,7 @@
       },
       {
         "id": "sup-q81-a4",
-        "titulo": "Artigo 4 — Whether all will rise again to animal life so as to exercise the functions of nutrition and generation?",
+        "titulo": "Artigo 4 — Se todos ressuscitarão para a vida animal para exercerem as funções de nutrição e geração?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15807,11 +15807,11 @@
   },
   {
     "id": "sup-q82",
-    "titulo": "Questão 82 — The impassibility of the bodies of the blessed after their resurrection",
+    "titulo": "Questão 82 — A impassibilidade dos corpos dos bem-aventurados após a ressurreição",
     "children": [
       {
         "id": "sup-q82-a1",
-        "titulo": "Artigo 1 — Whether the bodies of the saints will be impassible after the resurrection?",
+        "titulo": "Artigo 1 — Se os corpos dos santos ficarão impassíveis após a ressurreição?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15866,7 +15866,7 @@
       },
       {
         "id": "sup-q82-a2",
-        "titulo": "Artigo 2 — Whether all will be equally impassible?",
+        "titulo": "Artigo 2 — Se tudo será igualmente impassível?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15905,7 +15905,7 @@
       },
       {
         "id": "sup-q82-a3",
-        "titulo": "Artigo 3 — Whether impassibility excludes actual sensation from glorified bodies?",
+        "titulo": "Artigo 3 — Se a impassibilidade exclui a sensação real dos corpos glorificados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15964,7 +15964,7 @@
       },
       {
         "id": "sup-q82-a4",
-        "titulo": "Artigo 4 — Whether in the blessed, after the resurrection, all the senses will be in act?",
+        "titulo": "Artigo 4 — Seja no bem-aventurado, após a ressurreição, todos os sentidos estarão em ação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16029,11 +16029,11 @@
   },
   {
     "id": "sup-q83",
-    "titulo": "Questão 83 — The subtlety of the bodies of the blessed",
+    "titulo": "Questão 83 — A sutileza dos corpos dos bem-aventurados",
     "children": [
       {
         "id": "sup-q83-a1",
-        "titulo": "Artigo 1 — Whether subtlety is a property of the glorified body?",
+        "titulo": "Artigo 1 — Se a sutileza é uma propriedade do corpo glorificado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16060,7 +16060,7 @@
       },
       {
         "id": "sup-q83-a2",
-        "titulo": "Artigo 2 — Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified?",
+        "titulo": "Artigo 2 — Será que por causa desta sutileza um corpo glorificado pode estar no mesmo lugar que outro corpo não glorificado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16115,7 +16115,7 @@
       },
       {
         "id": "sup-q83-a3",
-        "titulo": "Artigo 3 — Whether it is possible, by a miracle, for two bodies to be in the same place?",
+        "titulo": "Artigo 3 — Se é possível, por milagre, que dois corpos estejam no mesmo lugar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16162,7 +16162,7 @@
       },
       {
         "id": "sup-q83-a4",
-        "titulo": "Artigo 4 — Whether one glorified body can be in the same place together with another glorified body?",
+        "titulo": "Artigo 4 — Se um corpo glorificado pode estar no mesmo lugar junto com outro corpo glorificado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16197,7 +16197,7 @@
       },
       {
         "id": "sup-q83-a5",
-        "titulo": "Artigo 5 — Whether by virtue of its subtlety a glorified body will no longer need to be in an equal place?",
+        "titulo": "Artigo 5 — Será que, em virtude da sua subtileza, um corpo glorificado já não necessitará de estar num lugar de igualdade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16236,7 +16236,7 @@
       },
       {
         "id": "sup-q83-a6",
-        "titulo": "Artigo 6 — Whether the glorified body, by reason of its subtlety, will be impalpable?",
+        "titulo": "Artigo 6 — Se o corpo glorificado, por sua sutileza, será impalpável?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16277,11 +16277,11 @@
   },
   {
     "id": "sup-q84",
-    "titulo": "Questão 84 — The agility of the bodies of the blessed",
+    "titulo": "Questão 84 — A agilidade dos corpos dos bem-aventurados",
     "children": [
       {
         "id": "sup-q84-a1",
-        "titulo": "Artigo 1 — Whether the glorified bodies will be agile?",
+        "titulo": "Artigo 1 — Se os corpos glorificados serão ágeis?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16328,7 +16328,7 @@
       },
       {
         "id": "sup-q84-a2",
-        "titulo": "Artigo 2 — Whether the saints will never use their agility for the purpose of movement?",
+        "titulo": "Artigo 2 — Se os santos nunca usarão sua agilidade para fins de movimento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16387,7 +16387,7 @@
       },
       {
         "id": "sup-q84-a3",
-        "titulo": "Artigo 3 — Whether the movement of the saints will be instantaneous?",
+        "titulo": "Artigo 3 — Se o movimento dos santos será instantâneo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16444,11 +16444,11 @@
   },
   {
     "id": "sup-q85",
-    "titulo": "Questão 85 — The clarity of the beatified bodies",
+    "titulo": "Questão 85 — A clareza dos corpos beatificados",
     "children": [
       {
         "id": "sup-q85-a1",
-        "titulo": "Artigo 1 — Whether clarity is becoming to the glorified body?",
+        "titulo": "Artigo 1 — Se a clareza é adequada ao corpo glorificado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16495,7 +16495,7 @@
       },
       {
         "id": "sup-q85-a2",
-        "titulo": "Artigo 2 — Whether the clarity of the glorified body is visible to the non-glorified eye?",
+        "titulo": "Artigo 2 — Se a clareza do corpo glorificado é visível aos olhos não glorificados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16534,7 +16534,7 @@
       },
       {
         "id": "sup-q85-a3",
-        "titulo": "Artigo 3 — Whether a glorified body will be necessarily seen by a non-glorified body?",
+        "titulo": "Artigo 3 — Se um corpo glorificado será necessariamente visto por um corpo não glorificado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16575,11 +16575,11 @@
   },
   {
     "id": "sup-q86",
-    "titulo": "Questão 86 — The conditions under which the bodies of the damned will rise again",
+    "titulo": "Questão 86 — As condições sob as quais os corpos dos condenados ressuscitarão",
     "children": [
       {
         "id": "sup-q86-a1",
-        "titulo": "Artigo 1 — Whether the bodies of the damned will rise again with their deformities?",
+        "titulo": "Artigo 1 — Se os corpos dos condenados ressuscitarão com as suas deformidades?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16618,7 +16618,7 @@
       },
       {
         "id": "sup-q86-a2",
-        "titulo": "Artigo 2 — Whether the bodies of the damned will be incorruptible?",
+        "titulo": "Artigo 2 — Se os corpos dos condenados serão incorruptíveis?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16657,7 +16657,7 @@
       },
       {
         "id": "sup-q86-a3",
-        "titulo": "Artigo 3 — Whether the bodies of the damned will be impassible?",
+        "titulo": "Artigo 3 — Se os corpos dos condenados ficarão impassíveis?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16706,11 +16706,11 @@
   },
   {
     "id": "sup-q87",
-    "titulo": "Questão 87 — The knowledge which, after rising again, men will have at the judgment concerning merits and demerits",
+    "titulo": "Questão 87 — O conhecimento que, depois de ressuscitar, os homens terão no julgamento dos méritos e deméritos",
     "children": [
       {
         "id": "sup-q87-a1",
-        "titulo": "Artigo 1 — Whether after the resurrection every one will know what sins he has committed?",
+        "titulo": "Artigo 1 — Se depois da ressurreição cada um saberá quais pecados cometeu?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16757,7 +16757,7 @@
       },
       {
         "id": "sup-q87-a2",
-        "titulo": "Artigo 2 — Whether every one will be able to read all that is in another's conscience?",
+        "titulo": "Artigo 2 — Se cada um será capaz de ler tudo o que está na consciência do outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16812,7 +16812,7 @@
       },
       {
         "id": "sup-q87-a3",
-        "titulo": "Artigo 3 — Whether all merits and demerits, one's own as well as those of others, will be seen by anyone at a single glance?",
+        "titulo": "Artigo 3 — Se todos os méritos e deméritos, tanto os próprios como os dos outros, serão vistos por qualquer pessoa num simples olhar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16841,11 +16841,11 @@
   },
   {
     "id": "sup-q88",
-    "titulo": "Questão 88 — The general judgment, as to the time and place at which it will be",
+    "titulo": "Questão 88 — O julgamento geral, quanto ao momento e local em que será",
     "children": [
       {
         "id": "sup-q88-a1",
-        "titulo": "Artigo 1 — Whether there will be a general judgment?",
+        "titulo": "Artigo 1 — Se haverá um julgamento geral?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16884,7 +16884,7 @@
       },
       {
         "id": "sup-q88-a2",
-        "titulo": "Artigo 2 — Whether the judgment will take place by word of mouth?",
+        "titulo": "Artigo 2 — Se o julgamento ocorrerá de boca em boca?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16923,7 +16923,7 @@
       },
       {
         "id": "sup-q88-a3",
-        "titulo": "Artigo 3 — Whether the time of the future judgment is unknown?",
+        "titulo": "Artigo 3 — Se o tempo do julgamento futuro é desconhecido?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16970,7 +16970,7 @@
       },
       {
         "id": "sup-q88-a4",
-        "titulo": "Artigo 4 — Whether the judgment will take place in the valley of Josaphat?",
+        "titulo": "Artigo 4 — Se o julgamento ocorrerá no vale de Josafá?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17011,11 +17011,11 @@
   },
   {
     "id": "sup-q89",
-    "titulo": "Questão 89 — Those who will judge and those who will be judged at the general judgment",
+    "titulo": "Questão 89 — Aqueles que julgarão e aqueles que serão julgados no julgamento geral",
     "children": [
       {
         "id": "sup-q89-a1",
-        "titulo": "Artigo 1 — Whether any men will judge together with Christ?",
+        "titulo": "Artigo 1 — Se algum homem julgará juntamente com Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17050,7 +17050,7 @@
       },
       {
         "id": "sup-q89-a2",
-        "titulo": "Artigo 2 — Whether the judicial power corresponds to voluntary poverty?",
+        "titulo": "Artigo 2 — Se o poder judicial corresponde à pobreza voluntária?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17105,7 +17105,7 @@
       },
       {
         "id": "sup-q89-a3",
-        "titulo": "Artigo 3 — Whether the angels will judge?",
+        "titulo": "Artigo 3 — Se os anjos julgarão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17144,7 +17144,7 @@
       },
       {
         "id": "sup-q89-a4",
-        "titulo": "Artigo 4 — Whether the demons will carry out the sentence of the Judge on the damned?",
+        "titulo": "Artigo 4 — Se os demônios cumprirão a sentença do Juiz sobre os condenados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17183,7 +17183,7 @@
       },
       {
         "id": "sup-q89-a5",
-        "titulo": "Artigo 5 — Whether all men will be present at the judgment?",
+        "titulo": "Artigo 5 — Se todos os homens estarão presentes no julgamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17222,7 +17222,7 @@
       },
       {
         "id": "sup-q89-a6",
-        "titulo": "Artigo 6 — Whether the good will be judged at the judgment?",
+        "titulo": "Artigo 6 — Se o bem será julgado no julgamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17261,7 +17261,7 @@
       },
       {
         "id": "sup-q89-a7",
-        "titulo": "Artigo 7 — Whether the wicked will be judged?",
+        "titulo": "Artigo 7 — Se os ímpios serão julgados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17292,7 +17292,7 @@
       },
       {
         "id": "sup-q89-a8",
-        "titulo": "Artigo 8 — Whether at the coming judgment the angels will be judged?",
+        "titulo": "Artigo 8 — Se no julgamento vindouro os anjos serão julgados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17329,11 +17329,11 @@
   },
   {
     "id": "sup-q90",
-    "titulo": "Questão 90 — The form of the judge in coming to the judgment",
+    "titulo": "Questão 90 — A forma do juiz ao chegar ao julgamento",
     "children": [
       {
         "id": "sup-q90-a1",
-        "titulo": "Artigo 1 — Whether Christ will judge under the form of His humanity?",
+        "titulo": "Artigo 1 — Se Cristo julgará sob a forma de Sua humanidade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17388,7 +17388,7 @@
       },
       {
         "id": "sup-q90-a2",
-        "titulo": "Artigo 2 — Whether at the judgment Christ will appear in His glorified humanity?",
+        "titulo": "Artigo 2 — Se no julgamento Cristo aparecerá em Sua humanidade glorificada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17447,7 +17447,7 @@
       },
       {
         "id": "sup-q90-a3",
-        "titulo": "Artigo 3 — Whether the Godhead can be seen by the wicked without joy?",
+        "titulo": "Artigo 3 — Se a Divindade pode ser vista pelos ímpios sem alegria?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17508,11 +17508,11 @@
   },
   {
     "id": "sup-q91",
-    "titulo": "Questão 91 — The quality of the world after the judgment",
+    "titulo": "Questão 91 — A qualidade do mundo após o julgamento",
     "children": [
       {
         "id": "sup-q91-a1",
-        "titulo": "Artigo 1 — Whether the world will be renewed?",
+        "titulo": "Artigo 1 — Se o mundo será renovado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17567,7 +17567,7 @@
       },
       {
         "id": "sup-q91-a2",
-        "titulo": "Artigo 2 — Whether the movement of the heavenly bodies will cease?",
+        "titulo": "Artigo 2 — Se o movimento dos corpos celestes cessará?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17658,7 +17658,7 @@
       },
       {
         "id": "sup-q91-a3",
-        "titulo": "Artigo 3 — Whether the brightness of the heavenly bodies will be increased at this renewal?",
+        "titulo": "Artigo 3 — Se o brilho dos corpos celestes aumentará nesta renovação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17721,7 +17721,7 @@
       },
       {
         "id": "sup-q91-a4",
-        "titulo": "Artigo 4 — Whether the elements will be renewed by an addition of brightness?",
+        "titulo": "Artigo 4 — Se os elementos serão renovados pela adição de brilho?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17776,7 +17776,7 @@
       },
       {
         "id": "sup-q91-a5",
-        "titulo": "Artigo 5 — Whether the plants and animals will remain in this renewal?",
+        "titulo": "Artigo 5 — Se as plantas e os animais permanecerão nesta renovação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17833,11 +17833,11 @@
   },
   {
     "id": "sup-q92",
-    "titulo": "Questão 92 — The vision of the divine essence in reference to the blessed",
+    "titulo": "Questão 92 — A visão da essência divina em referência aos bem-aventurados",
     "children": [
       {
         "id": "sup-q92-a1",
-        "titulo": "Artigo 1 — Whether the human intellect can attain to the vision of God in His essence?",
+        "titulo": "Artigo 1 — Se o intelecto humano pode atingir a visão de Deus em Sua essência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17980,7 +17980,7 @@
       },
       {
         "id": "sup-q92-a2",
-        "titulo": "Artigo 2 — Whether after the resurrection the saints will see God with the eyes of the body? [Cf. I, 12, 3]",
+        "titulo": "Artigo 2 — Se depois da ressurreição os santos verão Deus com os olhos do corpo? [Cf. Eu, 12, 3]",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18051,7 +18051,7 @@
       },
       {
         "id": "sup-q92-a3",
-        "titulo": "Artigo 3 — Whether the saints, seeing God, see all that God sees? [Cf. I, 12, 7,8]",
+        "titulo": "Artigo 3 — Se os santos, vendo a Deus, veem tudo o que Deus vê? [Cf. Eu, 12, 7,8]",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18164,11 +18164,11 @@
   },
   {
     "id": "sup-q93",
-    "titulo": "Questão 93 — The happiness of the saints and their mansions",
+    "titulo": "Questão 93 — A felicidade dos santos e suas mansões",
     "children": [
       {
         "id": "sup-q93-a1",
-        "titulo": "Artigo 1 — Whether the happiness of the saints will be greater after the judgment than before?",
+        "titulo": "Artigo 1 — Se a felicidade dos santos será maior depois do julgamento do que antes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18215,7 +18215,7 @@
       },
       {
         "id": "sup-q93-a2",
-        "titulo": "Artigo 2 — Whether the degrees of beatitude should be called mansions?",
+        "titulo": "Artigo 2 — Se os graus de bem-aventurança deveriam ser chamados de mansões?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18254,7 +18254,7 @@
       },
       {
         "id": "sup-q93-a3",
-        "titulo": "Artigo 3 — Whether the various mansions are distinguished according to the various degrees of charity?",
+        "titulo": "Artigo 3 — Se as diversas moradas se distinguem segundo os vários graus de caridade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18295,11 +18295,11 @@
   },
   {
     "id": "sup-q94",
-    "titulo": "Questão 94 — The relations of the saints towards the damned",
+    "titulo": "Questão 94 — As relações dos santos com os condenados",
     "children": [
       {
         "id": "sup-q94-a1",
-        "titulo": "Artigo 1 — Whether the blessed in heaven will see the sufferings of the damned?",
+        "titulo": "Artigo 1 — Se os abençoados no céu verão os sofrimentos dos condenados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18330,7 +18330,7 @@
       },
       {
         "id": "sup-q94-a2",
-        "titulo": "Artigo 2 — Whether the blessed pity the unhappiness of the damned?",
+        "titulo": "Artigo 2 — Se os bem-aventurados têm pena da infelicidade dos condenados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18361,7 +18361,7 @@
       },
       {
         "id": "sup-q94-a3",
-        "titulo": "Artigo 3 — Whether the blessed rejoice in the punishment of the wicked?",
+        "titulo": "Artigo 3 — Se os bem-aventurados se alegram com o castigo dos ímpios?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18402,11 +18402,11 @@
   },
   {
     "id": "sup-q95",
-    "titulo": "Questão 95 — The gifts, or dowry, of the blessed",
+    "titulo": "Questão 95 — Os presentes, ou dotes, dos abençoados",
     "children": [
       {
         "id": "sup-q95-a1",
-        "titulo": "Artigo 1 — Whether any gifts should be assigned as dowry to the blessed?",
+        "titulo": "Artigo 1 — Se algum presente deve ser atribuído como dote aos bem-aventurados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18461,7 +18461,7 @@
       },
       {
         "id": "sup-q95-a2",
-        "titulo": "Artigo 2 — Whether the dowry is the same as beatitude?",
+        "titulo": "Artigo 2 — Se o dote é o mesmo que bem-aventurança?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18516,7 +18516,7 @@
       },
       {
         "id": "sup-q95-a3",
-        "titulo": "Artigo 3 — Whether it is fitting that Christ should receive a dowry?",
+        "titulo": "Artigo 3 — Se é apropriado que Cristo receba um dote?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18571,7 +18571,7 @@
       },
       {
         "id": "sup-q95-a4",
-        "titulo": "Artigo 4 — Whether the angels receive the dowries?",
+        "titulo": "Artigo 4 — Se os anjos recebem os dotes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18626,7 +18626,7 @@
       },
       {
         "id": "sup-q95-a5",
-        "titulo": "Artigo 5 — Whether three dowries of the soul are suitably assigned?",
+        "titulo": "Artigo 5 — Se três dotes da alma são atribuídos adequadamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18695,11 +18695,11 @@
   },
   {
     "id": "sup-q96",
-    "titulo": "Questão 96 — The aureoles",
+    "titulo": "Questão 96 — As auréolas",
     "children": [
       {
         "id": "sup-q96-a1",
-        "titulo": "Artigo 1 — Whether the aureole is the same as the essential reward which is called the aurea?",
+        "titulo": "Artigo 1 — Se a auréola é o mesmo que a recompensa essencial chamada áurea?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18754,7 +18754,7 @@
       },
       {
         "id": "sup-q96-a2",
-        "titulo": "Artigo 2 — Whether the aureole differs from the fruit?",
+        "titulo": "Artigo 2 — Se a auréola difere da fruta?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18793,7 +18793,7 @@
       },
       {
         "id": "sup-q96-a3",
-        "titulo": "Artigo 3 — Whether a fruit is due to the virtue of continence alone?",
+        "titulo": "Artigo 3 — Se um fruto se deve apenas à virtude da continência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18848,7 +18848,7 @@
       },
       {
         "id": "sup-q96-a4",
-        "titulo": "Artigo 4 — Whether three fruits are fittingly assigned to the three parts of continence?",
+        "titulo": "Artigo 4 — Se três frutos são apropriadamente atribuídos às três partes da continência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18891,7 +18891,7 @@
       },
       {
         "id": "sup-q96-a5",
-        "titulo": "Artigo 5 — Whether an aureole is due on account of virginity?",
+        "titulo": "Artigo 5 — Se uma auréola é devida por causa da virgindade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18962,7 +18962,7 @@
       },
       {
         "id": "sup-q96-a6",
-        "titulo": "Artigo 6 — Whether an aureole is due to martyrs?",
+        "titulo": "Artigo 6 — Se uma auréola se deve aos mártires?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19073,7 +19073,7 @@
       },
       {
         "id": "sup-q96-a7",
-        "titulo": "Artigo 7 — Whether an aureole is due to doctors?",
+        "titulo": "Artigo 7 — Se uma auréola é devida aos médicos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19112,7 +19112,7 @@
       },
       {
         "id": "sup-q96-a8",
-        "titulo": "Artigo 8 — Whether an aureole is due to Christ?",
+        "titulo": "Artigo 8 — Se uma auréola é devida a Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19151,7 +19151,7 @@
       },
       {
         "id": "sup-q96-a9",
-        "titulo": "Artigo 9 — Whether an aureole is due to the angels?",
+        "titulo": "Artigo 9 — Se uma auréola é devida aos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19190,7 +19190,7 @@
       },
       {
         "id": "sup-q96-a10",
-        "titulo": "Artigo 10 — Whether an aureole is also due to the body?",
+        "titulo": "Artigo 10 — Se uma auréola também se deve ao corpo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19217,7 +19217,7 @@
       },
       {
         "id": "sup-q96-a11",
-        "titulo": "Artigo 11 — Whether three aureoles are fittingly assigned, those of virgins, of martyrs, and of doctors?",
+        "titulo": "Artigo 11 — Se três auréolas são apropriadamente designadas, as das virgens, das mártires e das médicas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19260,7 +19260,7 @@
       },
       {
         "id": "sup-q96-a12",
-        "titulo": "Artigo 12 — Whether the virgin's aureole is the greatest of all?",
+        "titulo": "Artigo 12 — Se a auréola da virgem é a maior de todas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19287,7 +19287,7 @@
       },
       {
         "id": "sup-q96-a13",
-        "titulo": "Artigo 13 — Whether one person has an aureole more excellently than another person?",
+        "titulo": "Artigo 13 — Se uma pessoa tem uma auréola mais excelente do que outra?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19320,11 +19320,11 @@
   },
   {
     "id": "sup-q97",
-    "titulo": "Questão 97 — The punishment of the damned",
+    "titulo": "Questão 97 — O castigo dos condenados",
     "children": [
       {
         "id": "sup-q97-a1",
-        "titulo": "Artigo 1 — Whether in hell the damned are tormented by the sole punishment of fire?",
+        "titulo": "Artigo 1 — Se no inferno os condenados são atormentados apenas pelo castigo do fogo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19363,7 +19363,7 @@
       },
       {
         "id": "sup-q97-a2",
-        "titulo": "Artigo 2 — Whether the worm of the damned is corporeal?",
+        "titulo": "Artigo 2 — Se o verme dos condenados é corpóreo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19394,7 +19394,7 @@
       },
       {
         "id": "sup-q97-a3",
-        "titulo": "Artigo 3 — Whether the weeping of the damned will be corporeal?",
+        "titulo": "Artigo 3 — Se o choro dos condenados será corpóreo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19417,7 +19417,7 @@
       },
       {
         "id": "sup-q97-a4",
-        "titulo": "Artigo 4 — Whether the damned are in material darkness?",
+        "titulo": "Artigo 4 — Se os condenados estão na escuridão material?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19444,7 +19444,7 @@
       },
       {
         "id": "sup-q97-a5",
-        "titulo": "Artigo 5 — Whether the fire of hell will be corporeal?",
+        "titulo": "Artigo 5 — Se o fogo do inferno será corpóreo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19487,7 +19487,7 @@
       },
       {
         "id": "sup-q97-a6",
-        "titulo": "Artigo 6 — Whether the fire of hell is of the same species as ours?",
+        "titulo": "Artigo 6 — Se o fogo do inferno é da mesma espécie que o nosso?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19534,7 +19534,7 @@
       },
       {
         "id": "sup-q97-a7",
-        "titulo": "Artigo 7 — Whether the fire of hell is beneath the earth?",
+        "titulo": "Artigo 7 — Se o fogo do inferno está debaixo da terra?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19583,11 +19583,11 @@
   },
   {
     "id": "sup-q98",
-    "titulo": "Questão 98 — The will and intellect of the damned",
+    "titulo": "Questão 98 — A vontade e o intelecto dos condenados",
     "children": [
       {
         "id": "sup-q98-a1",
-        "titulo": "Artigo 1 — Whether every act of will in the damned is evil?",
+        "titulo": "Artigo 1 — Se todo ato de vontade dos condenados é mau?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19626,7 +19626,7 @@
       },
       {
         "id": "sup-q98-a2",
-        "titulo": "Artigo 2 — Whether the damned repent of the evil they have done?",
+        "titulo": "Artigo 2 — Se os condenados se arrependem do mal que fizeram?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19673,7 +19673,7 @@
       },
       {
         "id": "sup-q98-a3",
-        "titulo": "Artigo 3 — Whether the damned by right and deliberate reason would wish not to be?",
+        "titulo": "Artigo 3 — Se os condenados pela razão correta e deliberada desejariam não ser?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19712,7 +19712,7 @@
       },
       {
         "id": "sup-q98-a4",
-        "titulo": "Artigo 4 — Whether in hell the damned would wish others were damned who are not damned?",
+        "titulo": "Artigo 4 — Se no inferno os condenados desejariam que outros que não o são fossem condenados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19751,7 +19751,7 @@
       },
       {
         "id": "sup-q98-a5",
-        "titulo": "Artigo 5 — Whether the damned hate God?",
+        "titulo": "Artigo 5 — Se os condenados odeiam a Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19782,7 +19782,7 @@
       },
       {
         "id": "sup-q98-a6",
-        "titulo": "Artigo 6 — Whether the damned demerit?",
+        "titulo": "Artigo 6 — Se o maldito demérito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19821,7 +19821,7 @@
       },
       {
         "id": "sup-q98-a7",
-        "titulo": "Artigo 7 — Whether the damned can make use of the knowledge they had in this world? [Cf. I, 89]",
+        "titulo": "Artigo 7 — Se os condenados podem fazer uso do conhecimento que possuíam neste mundo? [Cf. Eu, 89]",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19860,7 +19860,7 @@
       },
       {
         "id": "sup-q98-a8",
-        "titulo": "Artigo 8 — Whether the damned will ever think of God?",
+        "titulo": "Artigo 8 — Se os condenados algum dia pensarão em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19887,7 +19887,7 @@
       },
       {
         "id": "sup-q98-a9",
-        "titulo": "Artigo 9 — Whether the damned see the glory of the blessed?",
+        "titulo": "Artigo 9 — Se os condenados veem a glória dos bem-aventurados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19920,11 +19920,11 @@
   },
   {
     "id": "sup-q99",
-    "titulo": "Questão 99 — God's mercy and justice towards the damned",
+    "titulo": "Questão 99 — A misericórdia e a justiça de Deus para com os condenados",
     "children": [
       {
         "id": "sup-q99-a1",
-        "titulo": "Artigo 1 — Whether by Divine justice an eternal punishment is inflicted on sinners? [Cf. I-II, 87, 3,4",
+        "titulo": "Artigo 1 — Se pela justiça divina um castigo eterno é infligido aos pecadores? [Cf. I-II, 87, 3,4",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19987,7 +19987,7 @@
       },
       {
         "id": "sup-q99-a2",
-        "titulo": "Artigo 2 — Whether by God's mercy all punishment of the damned, both men and demons, comes to an end?",
+        "titulo": "Artigo 2 — Será que pela misericórdia de Deus todo castigo dos condenados, tanto homens como demônios, chega ao fim?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20026,7 +20026,7 @@
       },
       {
         "id": "sup-q99-a3",
-        "titulo": "Artigo 3 — Whether God's mercy suffers at least men to be punished eternally?",
+        "titulo": "Artigo 3 — Se a misericórdia de Deus permite que pelo menos os homens sejam punidos eternamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20081,7 +20081,7 @@
       },
       {
         "id": "sup-q99-a4",
-        "titulo": "Artigo 4 — Whether the punishment of Christians is brought to an end by the mercy of God?",
+        "titulo": "Artigo 4 — Se o castigo dos cristãos chega ao fim pela misericórdia de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20120,7 +20120,7 @@
       },
       {
         "id": "sup-q99-a5",
-        "titulo": "Artigo 5 — Whether all those who perform works of mercy will be punished eternally?",
+        "titulo": "Artigo 5 — Se todos aqueles que realizam obras de misericórdia serão punidos eternamente?",
         "conteudo": [
           {
             "tipo": "objecao",

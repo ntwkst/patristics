@@ -1,11 +1,11 @@
 [
   {
     "id": "p4-q1",
-    "titulo": "Questão 1 — Of The Fitness Of The Incarnation",
+    "titulo": "Questão 1 — Da aptidão da encarnação",
     "children": [
       {
         "id": "p4-q1-a1",
-        "titulo": "Artigo 1 — Whether It Was Fitting That God Should Become Incarnate?",
+        "titulo": "Artigo 1 — Se era apropriado que Deus encarnasse?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -52,7 +52,7 @@
       },
       {
         "id": "p4-q1-a2",
-        "titulo": "Artigo 2 — Whether It Was Necessary for the Restoration of the Human Race That the Word of God Should Become Incarnate?",
+        "titulo": "Artigo 2 — Se era necessário para a restauração da raça humana que a Palavra de Deus se encarnasse?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -95,7 +95,7 @@
       },
       {
         "id": "p4-q1-a3",
-        "titulo": "Artigo 3 — Whether, If Man Had Not Sinned, God Would Have Become Incarnate?",
+        "titulo": "Artigo 3 — Se o homem não tivesse pecado, Deus teria encarnado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -150,7 +150,7 @@
       },
       {
         "id": "p4-q1-a4",
-        "titulo": "Artigo 4 — Whether God Became Incarnate in Order to Take Away Actual Sin, Rather Than to Take Away Original Sin?",
+        "titulo": "Artigo 4 — Se Deus Se encarnou para eliminar o pecado real, em vez de eliminar o pecado original?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -189,7 +189,7 @@
       },
       {
         "id": "p4-q1-a5",
-        "titulo": "Artigo 5 — Whether It Was Fitting That God Should Become Incarnate in the Beginning of the Human Race?",
+        "titulo": "Artigo 5 — Seria apropriado que Deus encarnasse no início da raça humana?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -228,7 +228,7 @@
       },
       {
         "id": "p4-q1-a6",
-        "titulo": "Artigo 6 — Whether the Incarnation Ought to Have Been Put Off Till the End of the World?",
+        "titulo": "Artigo 6 — Se a encarnação deveria ter sido adiada até o fim do mundo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -269,11 +269,11 @@
   },
   {
     "id": "p4-q2",
-    "titulo": "Questão 2 — Of The Mode Of Union Of The Word Incarnate",
+    "titulo": "Questão 2 — Do modo de união da palavra encarnada",
     "children": [
       {
         "id": "p4-q2-a1",
-        "titulo": "Artigo 1 — Whether the Union of the Incarnate Word Took Place in the Nature?",
+        "titulo": "Artigo 1 — Se a União do Verbo Encarnado ocorreu na natureza?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -312,7 +312,7 @@
       },
       {
         "id": "p4-q2-a2",
-        "titulo": "Artigo 2 — Whether the Union of the Incarnate Word Took Place in the Person?",
+        "titulo": "Artigo 2 — Se a União do Verbo Encarnado ocorreu na Pessoa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -351,7 +351,7 @@
       },
       {
         "id": "p4-q2-a3",
-        "titulo": "Artigo 3 — Whether the Union of the Word Incarnate Took Place in the Suppositum or Hypostasis?",
+        "titulo": "Artigo 3 — Se a União do Verbo Encarnado ocorreu no Suppositum ou na Hipóstase?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -394,7 +394,7 @@
       },
       {
         "id": "p4-q2-a4",
-        "titulo": "Artigo 4 — Whether After the Incarnation the Person or Hypostasis of Christ Is Composite?",
+        "titulo": "Artigo 4 — Se após a Encarnação a Pessoa ou Hipóstase de Cristo é Composta?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -429,7 +429,7 @@
       },
       {
         "id": "p4-q2-a5",
-        "titulo": "Artigo 5 — Whether in Christ There Is Any Union of Soul and Body?",
+        "titulo": "Artigo 5 — Se em Cristo existe alguma união de alma e corpo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -468,7 +468,7 @@
       },
       {
         "id": "p4-q2-a6",
-        "titulo": "Artigo 6 — Whether the Human Nature Was United to the Word of God Accidentally?",
+        "titulo": "Artigo 6 — Se a natureza humana foi unida à Palavra de Deus acidentalmente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -515,7 +515,7 @@
       },
       {
         "id": "p4-q2-a7",
-        "titulo": "Artigo 7 — Whether the Union of the Divine Nature and the Human Is Anything Created?",
+        "titulo": "Artigo 7 — Se a união da natureza divina e do humano foi criada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -554,7 +554,7 @@
       },
       {
         "id": "p4-q2-a8",
-        "titulo": "Artigo 8 — Whether Union Is the Same As Assumption?",
+        "titulo": "Artigo 8 — Se União é o mesmo que Suposição?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -593,7 +593,7 @@
       },
       {
         "id": "p4-q2-a9",
-        "titulo": "Artigo 9 — Whether the Union of the Two Natures in Christ Is the Greatest of All Unions?",
+        "titulo": "Artigo 9 — Se a união das duas naturezas em Cristo é a maior de todas as uniões?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -636,7 +636,7 @@
       },
       {
         "id": "p4-q2-a10",
-        "titulo": "Artigo 10 — Whether the Union of the Incarnation Took Place by Grace?",
+        "titulo": "Artigo 10 — Se a União da Encarnação ocorreu pela graça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -671,7 +671,7 @@
       },
       {
         "id": "p4-q2-a11",
-        "titulo": "Artigo 11 — Whether Any Merits Preceded the Union of the Incarnation?",
+        "titulo": "Artigo 11 — Se algum mérito precedeu a união da encarnação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -706,7 +706,7 @@
       },
       {
         "id": "p4-q2-a12",
-        "titulo": "Artigo 12 — Whether the Grace of Union Was Natural to the Man Christ?",
+        "titulo": "Artigo 12 — Se a graça da união era natural para o homem Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -747,11 +747,11 @@
   },
   {
     "id": "p4-q3",
-    "titulo": "Questão 3 — Of The Mode Of Union On The Part Of The Person Assuming",
+    "titulo": "Questão 3 — Do modo de união por parte da pessoa que assume",
     "children": [
       {
         "id": "p4-q3-a1",
-        "titulo": "Artigo 1 — Whether It Is Befitting for a Divine Person to Assume?",
+        "titulo": "Artigo 1 — Se é próprio de uma pessoa divina assumir isso?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -790,7 +790,7 @@
       },
       {
         "id": "p4-q3-a2",
-        "titulo": "Artigo 2 — Whether It Is Befitting to the Divine Nature to Assume?",
+        "titulo": "Artigo 2 — Se é adequado à natureza divina assumir?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -829,7 +829,7 @@
       },
       {
         "id": "p4-q3-a3",
-        "titulo": "Artigo 3 — Whether the Nature Abstracted from the Personality Can Assume?",
+        "titulo": "Artigo 3 — Se a natureza abstraída da personalidade pode assumir?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -868,7 +868,7 @@
       },
       {
         "id": "p4-q3-a4",
-        "titulo": "Artigo 4 — Whether One Person Without Another Can Assume a Created Nature?",
+        "titulo": "Artigo 4 — Se uma pessoa sem outra pode assumir uma natureza criada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -907,7 +907,7 @@
       },
       {
         "id": "p4-q3-a5",
-        "titulo": "Artigo 5 — Whether Each of the Divine Persons Could Have Assumed Human Nature?",
+        "titulo": "Artigo 5 — Se cada uma das Pessoas Divinas poderia ter assumido a natureza humana?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -946,7 +946,7 @@
       },
       {
         "id": "p4-q3-a6",
-        "titulo": "Artigo 6 — Whether Several Divine Persons Can Assume One and the Same Individual Nature?",
+        "titulo": "Artigo 6 — Se várias pessoas divinas podem assumir uma e a mesma natureza individual?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -985,7 +985,7 @@
       },
       {
         "id": "p4-q3-a7",
-        "titulo": "Artigo 7 — Whether One Divine Person Can Assume Two Human Natures?",
+        "titulo": "Artigo 7 — Se uma pessoa divina pode assumir duas naturezas humanas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1028,7 +1028,7 @@
       },
       {
         "id": "p4-q3-a8",
-        "titulo": "Artigo 8 — Whether it was more fitting that the Person of the Son rather than any other Divine Person should assume human nature?",
+        "titulo": "Artigo 8 — Se seria mais apropriado que a Pessoa do Filho, e não qualquer outra Pessoa Divina, assumisse a natureza humana?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1069,11 +1069,11 @@
   },
   {
     "id": "p4-q4",
-    "titulo": "Questão 4 — Of The Mode Of Union On The Part Of The Human Nature",
+    "titulo": "Questão 4 — Do modo de união por parte da natureza humana",
     "children": [
       {
         "id": "p4-q4-a1",
-        "titulo": "Artigo 1 — Whether Human Nature Was More Assumable by the Son of God Than Any Other Nature?",
+        "titulo": "Artigo 1 — Se a natureza humana foi mais assumida pelo Filho de Deus do que qualquer outra natureza?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1120,7 +1120,7 @@
       },
       {
         "id": "p4-q4-a2",
-        "titulo": "Artigo 2 — Whether the Son of God Assumed a Person?",
+        "titulo": "Artigo 2 — Se o Filho de Deus assumiu uma pessoa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1159,7 +1159,7 @@
       },
       {
         "id": "p4-q4-a3",
-        "titulo": "Artigo 3 — Whether the Divine Person Assumed a Man?",
+        "titulo": "Artigo 3 — Se a Pessoa Divina Assumiu Homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1198,7 +1198,7 @@
       },
       {
         "id": "p4-q4-a4",
-        "titulo": "Artigo 4 — Whether the Son of God Ought to Have Assumed Human Nature Abstracted from All Individuals?",
+        "titulo": "Artigo 4 — Se o Filho de Deus deveria ter assumido a natureza humana abstraída de todos os indivíduos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1241,7 +1241,7 @@
       },
       {
         "id": "p4-q4-a5",
-        "titulo": "Artigo 5 — Whether the Son of God Ought to Have Assumed Human Nature in All Individuals?",
+        "titulo": "Artigo 5 — Se o Filho de Deus deveria ter assumido a natureza humana em todos os indivíduos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1280,7 +1280,7 @@
       },
       {
         "id": "p4-q4-a6",
-        "titulo": "Artigo 6 — Whether It Was Fitting for the Son of God to Assume Human Nature of the Stock of Adam?",
+        "titulo": "Artigo 6 — Se era apropriado que o Filho de Deus assumisse a natureza humana da linhagem de Adão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1321,11 +1321,11 @@
   },
   {
     "id": "p4-q5",
-    "titulo": "Questão 5 — Of The Parts Of Human Nature Which Were Assumed",
+    "titulo": "Questão 5 — Das partes da natureza humana que foram assumidas",
     "children": [
       {
         "id": "p4-q5-a1",
-        "titulo": "Artigo 1 — Whether the Son of God Ought to Have Assumed a True Body?",
+        "titulo": "Artigo 1 — Se o Filho de Deus deveria ter assumido um corpo verdadeiro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1364,7 +1364,7 @@
       },
       {
         "id": "p4-q5-a2",
-        "titulo": "Artigo 2 — Whether the Son of God Ought to Have Assumed a Carnal or Earthly Body?",
+        "titulo": "Artigo 2 — Se o Filho de Deus deveria ter assumido um corpo carnal ou terrestre?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1403,7 +1403,7 @@
       },
       {
         "id": "p4-q5-a3",
-        "titulo": "Artigo 3 — Whether the Son of God Assumed a Soul?",
+        "titulo": "Artigo 3 — Se o Filho de Deus assumiu uma alma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1444,11 +1444,11 @@
   },
   {
     "id": "p4-q6",
-    "titulo": "Questão 6 — Of The Order Of Assumption",
+    "titulo": "Questão 6 — Da Ordem Da Assunção",
     "children": [
       {
         "id": "p4-q6-a1",
-        "titulo": "Artigo 1 — Whether the Son of God Assumed Flesh Through the Medium of the Soul?",
+        "titulo": "Artigo 1 — Se o Filho de Deus assumiu a carne por meio da alma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1487,7 +1487,7 @@
       },
       {
         "id": "p4-q6-a2",
-        "titulo": "Artigo 2 — Whether the Son of God Assumed a Soul Through the Medium of the Spirit or Mind?",
+        "titulo": "Artigo 2 — Se o Filho de Deus assumiu uma alma por meio do Espírito ou da Mente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1526,7 +1526,7 @@
       },
       {
         "id": "p4-q6-a3",
-        "titulo": "Artigo 3 — Whether the Soul Was Assumed Before the Flesh by the Son of God?",
+        "titulo": "Artigo 3 — Se a alma foi assumida antes da carne pelo Filho de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1565,7 +1565,7 @@
       },
       {
         "id": "p4-q6-a4",
-        "titulo": "Artigo 4 — Whether the Flesh of Christ Was Assumed by the Word Before Being United to the Soul?",
+        "titulo": "Artigo 4 — Se a carne de Cristo foi assumida pelo Verbo antes de ser unida à alma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1604,7 +1604,7 @@
       },
       {
         "id": "p4-q6-a5",
-        "titulo": "Artigo 5 — Whether the Whole Human Nature Was Assumed Through the Medium of the Parts?",
+        "titulo": "Artigo 5 — Se toda a natureza humana foi assumida por meio das partes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1643,7 +1643,7 @@
       },
       {
         "id": "p4-q6-a6",
-        "titulo": "Artigo 6 — Whether the Human Nature Was Assumed Through the Medium of Grace?",
+        "titulo": "Artigo 6 — Se a natureza humana foi assumida por meio da graça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1684,11 +1684,11 @@
   },
   {
     "id": "p4-q7",
-    "titulo": "Questão 7 — Of The Grace Of Christ As An Individual Man",
+    "titulo": "Questão 7 — Da graça de Cristo como homem individual",
     "children": [
       {
         "id": "p4-q7-a1",
-        "titulo": "Artigo 1 — Whether in the Soul of Christ There Was Any Habitual Grace?",
+        "titulo": "Artigo 1 — Se na alma de Cristo havia alguma graça habitual?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1727,7 +1727,7 @@
       },
       {
         "id": "p4-q7-a2",
-        "titulo": "Artigo 2 — Whether in Christ There Were Virtues?",
+        "titulo": "Artigo 2 — Se em Cristo havia virtudes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1766,7 +1766,7 @@
       },
       {
         "id": "p4-q7-a3",
-        "titulo": "Artigo 3 — Whether in Christ There Was Faith?",
+        "titulo": "Artigo 3 — Se em Cristo havia fé?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1805,7 +1805,7 @@
       },
       {
         "id": "p4-q7-a5",
-        "titulo": "Artigo 5 — Whether in Christ There Were the Gifts?",
+        "titulo": "Artigo 5 — Se em Cristo existiam os dons?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1844,7 +1844,7 @@
       },
       {
         "id": "p4-q7-a6",
-        "titulo": "Artigo 6 — Whether in Christ There Was the Gift of Fear?",
+        "titulo": "Artigo 6 — Se em Cristo houve o dom do medo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1883,7 +1883,7 @@
       },
       {
         "id": "p4-q7-a7",
-        "titulo": "Artigo 7 — Whether the Gratuitous Graces Were in Christ?",
+        "titulo": "Artigo 7 — Se as graças gratuitas estavam em Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1922,7 +1922,7 @@
       },
       {
         "id": "p4-q7-a8",
-        "titulo": "Artigo 8 — Whether in Christ There Was the Gift of Prophecy?",
+        "titulo": "Artigo 8 — Se em Cristo houve o dom de profecia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1961,7 +1961,7 @@
       },
       {
         "id": "p4-q7-a9",
-        "titulo": "Artigo 9 — Whether in Christ There Was the Fulness of Grace?",
+        "titulo": "Artigo 9 — Se em Cristo havia a plenitude da graça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2000,7 +2000,7 @@
       },
       {
         "id": "p4-q7-a10",
-        "titulo": "Artigo 10 — Whether the Fulness of Grace Is Proper to Christ?",
+        "titulo": "Artigo 10 — Se a plenitude da graça é própria de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2039,7 +2039,7 @@
       },
       {
         "id": "p4-q7-a11",
-        "titulo": "Artigo 11 — Whether the Grace of Christ Is Infinite?",
+        "titulo": "Artigo 11 — Se a graça de Cristo é infinita?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2078,7 +2078,7 @@
       },
       {
         "id": "p4-q7-a12",
-        "titulo": "Artigo 12 — Whether the Grace of Christ Could Increase?",
+        "titulo": "Artigo 12 — Se a graça de Cristo poderia aumentar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2117,7 +2117,7 @@
       },
       {
         "id": "p4-q7-a13",
-        "titulo": "Artigo 13 — Whether the Habitual Grace of Christ Followed After the Union?",
+        "titulo": "Artigo 13 — Se a graça habitual de Cristo seguiu após a união?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2158,11 +2158,11 @@
   },
   {
     "id": "p4-q8",
-    "titulo": "Questão 8 — Of The Grace Of Christ, As He Is The Head Of The Church",
+    "titulo": "Questão 8 — Da graça de Cristo, como ele é o cabeça da igreja",
     "children": [
       {
         "id": "p4-q8-a1",
-        "titulo": "Artigo 1 — Whether Christ Is the Head of the Church?",
+        "titulo": "Artigo 1 — Se Cristo é o Cabeça da Igreja?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2201,7 +2201,7 @@
       },
       {
         "id": "p4-q8-a2",
-        "titulo": "Artigo 2 — Whether Christ Is the Head of Men As to Their Bodies or Only As to Their Souls?",
+        "titulo": "Artigo 2 — Se Cristo é a cabeça dos homens quanto aos seus corpos ou apenas quanto às suas almas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2240,7 +2240,7 @@
       },
       {
         "id": "p4-q8-a3",
-        "titulo": "Artigo 3 — Whether Christ Is the Head of All Men?",
+        "titulo": "Artigo 3 — Se Cristo é o cabeça de todos os homens?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2279,7 +2279,7 @@
       },
       {
         "id": "p4-q8-a4",
-        "titulo": "Artigo 4 — Whether Christ Is the Head of the Angels?",
+        "titulo": "Artigo 4 — Se Cristo é o cabeça dos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2318,7 +2318,7 @@
       },
       {
         "id": "p4-q8-a5",
-        "titulo": "Artigo 5 — Whether the Grace of Christ, As Head of the Church, Is the Same As His Habitual Grace, Inasmuch As He Is Man?",
+        "titulo": "Artigo 5 — Se a graça de Cristo, como Cabeça da Igreja, é igual à sua graça habitual, visto que ele é homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2357,7 +2357,7 @@
       },
       {
         "id": "p4-q8-a6",
-        "titulo": "Artigo 6 — Whether It Is Proper to Christ to Be Head of the Church?",
+        "titulo": "Artigo 6 — Se é próprio que Cristo seja o Cabeça da Igreja?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2396,7 +2396,7 @@
       },
       {
         "id": "p4-q8-a7",
-        "titulo": "Artigo 7 — Whether the Devil Is the Head of All the Wicked?",
+        "titulo": "Artigo 7 — Se o Diabo é o cabeça de todos os iníquos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2435,7 +2435,7 @@
       },
       {
         "id": "p4-q8-a8",
-        "titulo": "Artigo 8 — Whether Antichrist May Be Called the Head of All the Wicked?",
+        "titulo": "Artigo 8 — Se o Anticristo pode ser chamado de cabeça de todos os ímpios?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2476,11 +2476,11 @@
   },
   {
     "id": "p4-q9",
-    "titulo": "Questão 9 — Of Christ'S Knowledge In General",
+    "titulo": "Questão 9 — Do conhecimento de Cristo em geral",
     "children": [
       {
         "id": "p4-q9-a1",
-        "titulo": "Artigo 1 — Whether Christ Had Any Knowledge Besides the Divine?",
+        "titulo": "Artigo 1 — Se Cristo tinha algum conhecimento além do divino?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2519,7 +2519,7 @@
       },
       {
         "id": "p4-q9-a2",
-        "titulo": "Artigo 2 — Whether Christ Had the Knowledge Which the Blessed or Comprehensors Have?",
+        "titulo": "Artigo 2 — Se Cristo tinha o conhecimento que os bem-aventurados ou os compreensivos possuem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2558,7 +2558,7 @@
       },
       {
         "id": "p4-q9-a3",
-        "titulo": "Artigo 3 — Whether Christ Had an Imprinted or Infused Knowledge?",
+        "titulo": "Artigo 3 — Se Cristo teve um conhecimento impresso ou infundido?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2597,7 +2597,7 @@
       },
       {
         "id": "p4-q9-a4",
-        "titulo": "Artigo 4 — Whether Christ Had Any Acquired Knowledge?",
+        "titulo": "Artigo 4 — Se Cristo tinha algum conhecimento adquirido?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2638,11 +2638,11 @@
   },
   {
     "id": "p4-q10",
-    "titulo": "Questão 10 — Of The Beatific Knowledge Of Christ'S Soul",
+    "titulo": "Questão 10 — Do conhecimento beatífico da alma de Cristo",
     "children": [
       {
         "id": "p4-q10-a1",
-        "titulo": "Artigo 1 — Whether the Soul of Christ Comprehended the Word or the Divine Essence?",
+        "titulo": "Artigo 1 — Se a Alma de Cristo compreendeu a Palavra ou a Essência Divina?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2681,7 +2681,7 @@
       },
       {
         "id": "p4-q10-a2",
-        "titulo": "Artigo 2 — Whether the Son of God Knew All Things in the Word?",
+        "titulo": "Artigo 2 — Se o Filho de Deus sabia todas as coisas na Palavra?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2724,7 +2724,7 @@
       },
       {
         "id": "p4-q10-a3",
-        "titulo": "Artigo 3 — Whether the Soul of Christ Can Know the Infinite in the Word?",
+        "titulo": "Artigo 3 — Se a alma de Cristo pode conhecer o infinito na Palavra?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2763,7 +2763,7 @@
       },
       {
         "id": "p4-q10-a4",
-        "titulo": "Artigo 4 — Whether the Soul of Christ Sees the Word or the Divine Essence More Clearly Than Does Any Other Creature?",
+        "titulo": "Artigo 4 — Se a Alma de Cristo vê a Palavra ou a Essência Divina com mais clareza do que qualquer outra criatura?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2804,11 +2804,11 @@
   },
   {
     "id": "p4-q11",
-    "titulo": "Questão 11 — Of The Knowledge Imprinted Or Infused In The Soul Of Christ",
+    "titulo": "Questão 11 — Do conhecimento impresso ou infundido na alma de Cristo",
     "children": [
       {
         "id": "p4-q11-a1",
-        "titulo": "Artigo 1 — Whether by This Imprinted or Infused Knowledge Christ Knew All Things?",
+        "titulo": "Artigo 1 — Seja por esse conhecimento impresso ou infundido que Cristo sabia todas as coisas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2847,7 +2847,7 @@
       },
       {
         "id": "p4-q11-a2",
-        "titulo": "Artigo 2 — Whether Christ Could Use This Knowledge by Turning to Phantasms?",
+        "titulo": "Artigo 2 — Se Cristo poderia usar esse conhecimento recorrendo a fantasmas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2886,7 +2886,7 @@
       },
       {
         "id": "p4-q11-a3",
-        "titulo": "Artigo 3 — Whether This Knowledge Is Collative?",
+        "titulo": "Artigo 3 — Se este conhecimento é colativo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2925,7 +2925,7 @@
       },
       {
         "id": "p4-q11-a4",
-        "titulo": "Artigo 4 — Whether in Christ This Knowledge Was Greater Than the Knowledge of the Angels?",
+        "titulo": "Artigo 4 — Se em Cristo este conhecimento era maior que o conhecimento dos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2952,7 +2952,7 @@
       },
       {
         "id": "p4-q11-a5",
-        "titulo": "Artigo 5 — Whether This Knowledge Was Habitual?",
+        "titulo": "Artigo 5 — Se esse conhecimento era habitual?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2991,7 +2991,7 @@
       },
       {
         "id": "p4-q11-a6",
-        "titulo": "Artigo 6 — Whether This Knowledge Was Distinguished by Divers Habits?",
+        "titulo": "Artigo 6 — Se Este Conhecimento Foi Distinguido Por Diversos Hábitos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3032,11 +3032,11 @@
   },
   {
     "id": "p4-q12",
-    "titulo": "Questão 12 — Of The Acquired Or Empiric Knowledge Of Christ'S Soul",
+    "titulo": "Questão 12 — Do conhecimento adquirido ou empírico da alma de Cristo",
     "children": [
       {
         "id": "p4-q12-a1",
-        "titulo": "Artigo 1 — Whether Christ Knew All Things by This Acquired or Empiric Knowledge?",
+        "titulo": "Artigo 1 — Se Cristo sabia todas as coisas por meio desse conhecimento adquirido ou empírico?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3075,7 +3075,7 @@
       },
       {
         "id": "p4-q12-a2",
-        "titulo": "Artigo 2 — Whether Christ Advanced in Acquired or Empiric Knowledge?",
+        "titulo": "Artigo 2 — Se Cristo avançou em conhecimento adquirido ou empírico?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3114,7 +3114,7 @@
       },
       {
         "id": "p4-q12-a3",
-        "titulo": "Artigo 3 — Whether Christ Learned Anything from Man?",
+        "titulo": "Artigo 3 — Se Cristo aprendeu alguma coisa com o homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3153,7 +3153,7 @@
       },
       {
         "id": "p4-q12-a4",
-        "titulo": "Artigo 4 — Whether Christ Received Knowledge from the Angels?",
+        "titulo": "Artigo 4 — Se Cristo recebeu conhecimento dos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3194,11 +3194,11 @@
   },
   {
     "id": "p4-q13",
-    "titulo": "Questão 13 — Of The Power Of Christ'S Soul",
+    "titulo": "Questão 13 — Do poder da alma de Cristo",
     "children": [
       {
         "id": "p4-q13-a1",
-        "titulo": "Artigo 1 — Whether the Soul of Christ Had Omnipotence?",
+        "titulo": "Artigo 1 — Se a alma de Cristo tinha onipotência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3237,7 +3237,7 @@
       },
       {
         "id": "p4-q13-a2",
-        "titulo": "Artigo 2 — Whether the Soul of Christ Had Omnipotence with Regard to the Transmutation of Creatures?",
+        "titulo": "Artigo 2 — Se a alma de Cristo tinha onipotência no que diz respeito à transmutação das criaturas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3276,7 +3276,7 @@
       },
       {
         "id": "p4-q13-a3",
-        "titulo": "Artigo 3 — Whether the Soul of Christ Had Omnipotence with Regard to His Own Body?",
+        "titulo": "Artigo 3 — Se a alma de Cristo tinha onipotência em relação ao seu próprio corpo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3315,7 +3315,7 @@
       },
       {
         "id": "p4-q13-a4",
-        "titulo": "Artigo 4 — Whether the Soul of Christ Had Omnipotence As Regards the Execution of His Will?",
+        "titulo": "Artigo 4 — Se a alma de Cristo tinha onipotência no que diz respeito à execução de sua vontade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3356,11 +3356,11 @@
   },
   {
     "id": "p4-q14",
-    "titulo": "Questão 14 — Of The Defects Of Body Assumed By The Son Of God",
+    "titulo": "Questão 14 — Dos Defeitos do Corpo Assumidos pelo Filho de Deus",
     "children": [
       {
         "id": "p4-q14-a1",
-        "titulo": "Artigo 1 — Whether the Son of God in Human Nature Ought to Have Assumed Defects of Body?",
+        "titulo": "Artigo 1 — Se o Filho de Deus na natureza humana deveria ter assumido defeitos corporais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3407,7 +3407,7 @@
       },
       {
         "id": "p4-q14-a2",
-        "titulo": "Artigo 2 — Whether Christ Was of Necessity Subject to These Defects?",
+        "titulo": "Artigo 2 — Se Cristo estava necessariamente sujeito a esses defeitos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3446,7 +3446,7 @@
       },
       {
         "id": "p4-q14-a3",
-        "titulo": "Artigo 3 — Whether Christ Contracted These Defects?",
+        "titulo": "Artigo 3 — Se Cristo contraiu esses defeitos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3485,7 +3485,7 @@
       },
       {
         "id": "p4-q14-a4",
-        "titulo": "Artigo 4 — Whether Christ Ought to Have Assumed All the Bodily Defects of Men?",
+        "titulo": "Artigo 4 — Se Cristo deveria ter assumido todos os defeitos corporais dos homens?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3526,11 +3526,11 @@
   },
   {
     "id": "p4-q15",
-    "titulo": "Questão 15 — Of The Defects Of Soul Assumed By Christ",
+    "titulo": "Questão 15 — Dos defeitos da alma assumida por Cristo",
     "children": [
       {
         "id": "p4-q15-a1",
-        "titulo": "Artigo 1 — Whether There Was Sin in Christ?",
+        "titulo": "Artigo 1 — Se houve pecado em Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3585,7 +3585,7 @@
       },
       {
         "id": "p4-q15-a2",
-        "titulo": "Artigo 2 — Whether There Was the _Fomes_ of Sin in Christ?",
+        "titulo": "Artigo 2 — Se houve as formas do pecado em Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3624,7 +3624,7 @@
       },
       {
         "id": "p4-q15-a3",
-        "titulo": "Artigo 3 — Whether in Christ There Was Ignorance?",
+        "titulo": "Artigo 3 — Se em Cristo havia ignorância?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3663,7 +3663,7 @@
       },
       {
         "id": "p4-q15-a4",
-        "titulo": "Artigo 4 — Whether Christ's Soul Was Passible?",
+        "titulo": "Artigo 4 — Se a alma de Cristo era passível?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3702,7 +3702,7 @@
       },
       {
         "id": "p4-q15-a5",
-        "titulo": "Artigo 5 — Whether There Was Sensible Pain in Christ?",
+        "titulo": "Artigo 5 — Se houve dor sensível em Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3741,7 +3741,7 @@
       },
       {
         "id": "p4-q15-a6",
-        "titulo": "Artigo 6 — Whether There Was Sorrow in Christ?",
+        "titulo": "Artigo 6 — Se houve tristeza em Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3788,7 +3788,7 @@
       },
       {
         "id": "p4-q15-a7",
-        "titulo": "Artigo 7 — Whether There Was Fear in Christ?",
+        "titulo": "Artigo 7 — Se houve medo em Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3827,7 +3827,7 @@
       },
       {
         "id": "p4-q15-a8",
-        "titulo": "Artigo 8 — Whether There Was Wonder in Christ?",
+        "titulo": "Artigo 8 — Se houve maravilha em Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3866,7 +3866,7 @@
       },
       {
         "id": "p4-q15-a9",
-        "titulo": "Artigo 9 — Whether There Was Anger in Christ?",
+        "titulo": "Artigo 9 — Se houve raiva em Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3905,7 +3905,7 @@
       },
       {
         "id": "p4-q15-a10",
-        "titulo": "Artigo 10 — Whether Christ Was at Once a Wayfarer and a Comprehensor?",
+        "titulo": "Artigo 10 — Se Cristo foi ao mesmo tempo um viajante e um compreensor?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3946,11 +3946,11 @@
   },
   {
     "id": "p4-q16",
-    "titulo": "Questão 16 — Of Those Things Which Are Applicable To Christ In His Being And Becoming",
+    "titulo": "Questão 16 — Daquelas coisas que são aplicáveis a Cristo em seu ser e se tornar",
     "children": [
       {
         "id": "p4-q16-a1",
-        "titulo": "Artigo 1 — Whether This Is True: \"God Is Man\"?",
+        "titulo": "Artigo 1 — Se isto é verdade: “Deus é homem”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4001,7 +4001,7 @@
       },
       {
         "id": "p4-q16-a2",
-        "titulo": "Artigo 2 — Whether This Is True: \"Man Is God\"?",
+        "titulo": "Artigo 2 — Se isto é verdade: “O homem é Deus”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4040,7 +4040,7 @@
       },
       {
         "id": "p4-q16-a3",
-        "titulo": "Artigo 3 — Whether Christ Can Be Called a Lordly Man?* [*The question is hardly apposite in English. St. Thomas explains why we can say in Latin, e.g. _oratio dominica_ (the Lord's Prayer) or _passio dominica_ (Our Lord's Passion), but not speak of our Lord as _homo dominicus_ (a lordly man)].",
+        "titulo": "Artigo 3 — Se Cristo pode ser chamado de homem senhorial?* [*A questão dificilmente é apropriada em inglês. São Tomás explica por que podemos dizer em latim, por ex. _oratio dominica_ (o Pai Nosso) ou _passio dominica_ (a paixão de Nosso Senhor), mas não falar de nosso Senhor como _homo dominicus_ (um homem senhorial)].",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4079,7 +4079,7 @@
       },
       {
         "id": "p4-q16-a4",
-        "titulo": "Artigo 4 — Whether What Belongs to the Human Nature Can Be Predicated of God?",
+        "titulo": "Artigo 4 — Se o que pertence à natureza humana pode ser predicado por Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4118,7 +4118,7 @@
       },
       {
         "id": "p4-q16-a5",
-        "titulo": "Artigo 5 — Whether What Belongs to the Human Nature Can Be Predicated of the Divine Nature?",
+        "titulo": "Artigo 5 — Se o que pertence à natureza humana pode ser predicado da natureza divina?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4157,7 +4157,7 @@
       },
       {
         "id": "p4-q16-a6",
-        "titulo": "Artigo 6 — Whether This Is True: \"God Was Made Man\"?",
+        "titulo": "Artigo 6 — Se isto é verdade: “Deus foi feito homem”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4196,7 +4196,7 @@
       },
       {
         "id": "p4-q16-a7",
-        "titulo": "Artigo 7 — Whether This Is True: \"Man Was Made God\"?",
+        "titulo": "Artigo 7 — Se isto é verdade: “O homem foi feito Deus”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4239,7 +4239,7 @@
       },
       {
         "id": "p4-q16-a8",
-        "titulo": "Artigo 8 — Whether This Is True: \"Christ Is a Creature\"?",
+        "titulo": "Artigo 8 — Se isto é verdade: “Cristo é uma criatura”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4278,7 +4278,7 @@
       },
       {
         "id": "p4-q16-a9",
-        "titulo": "Artigo 9 — Whether This Man, i.e. Christ, Began to Be?",
+        "titulo": "Artigo 9 — Se este homem, isto é, Cristo, começou a existir?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4317,7 +4317,7 @@
       },
       {
         "id": "p4-q16-a10",
-        "titulo": "Artigo 10 — Whether This Is True: \"Christ As Man Is a Creature\"?",
+        "titulo": "Artigo 10 — Se isto é verdade: “Cristo, como homem, é uma criatura”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4356,7 +4356,7 @@
       },
       {
         "id": "p4-q16-a11",
-        "titulo": "Artigo 11 — Whether This Is True: \"Christ As Man Is God\"?",
+        "titulo": "Artigo 11 — Se isto é verdade: “Cristo, como homem, é Deus”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4395,7 +4395,7 @@
       },
       {
         "id": "p4-q16-a12",
-        "titulo": "Artigo 12 — Whether This Is True: \"Christ As Man Is a Hypostasis or Person\"?",
+        "titulo": "Artigo 12 — Se isto é verdade: “Cristo, como homem, é uma hipóstase ou uma pessoa”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4436,11 +4436,11 @@
   },
   {
     "id": "p4-q17",
-    "titulo": "Questão 17 — Of Christ'S Unity Of Being",
+    "titulo": "Questão 17 — Da Unidade do Ser de Cristo",
     "children": [
       {
         "id": "p4-q17-a1",
-        "titulo": "Artigo 1 — Whether Christ Is One or Two?",
+        "titulo": "Artigo 1 — Se Cristo é Um ou Dois?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4511,7 +4511,7 @@
       },
       {
         "id": "p4-q17-a2",
-        "titulo": "Artigo 2 — Whether There Is Only One Being in Christ?",
+        "titulo": "Artigo 2 — Se existe apenas um ser em Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4560,11 +4560,11 @@
   },
   {
     "id": "p4-q18",
-    "titulo": "Questão 18 — Of Christ'S Unity Of Will",
+    "titulo": "Questão 18 — Da unidade de vontade de Cristo",
     "children": [
       {
         "id": "p4-q18-a1",
-        "titulo": "Artigo 1 — Whether There Are Two Wills in Christ?",
+        "titulo": "Artigo 1 — Se existem duas vontades em Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4611,7 +4611,7 @@
       },
       {
         "id": "p4-q18-a2",
-        "titulo": "Artigo 2 — Whether in Christ There Was a Will of Sensuality Besides the Will of Reason?",
+        "titulo": "Artigo 2 — Se em Cristo havia uma vontade de sensualidade além da vontade da razão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4650,7 +4650,7 @@
       },
       {
         "id": "p4-q18-a3",
-        "titulo": "Artigo 3 — Whether in Christ There Were Two Wills As Regards the Reason?",
+        "titulo": "Artigo 3 — Se em Cristo havia duas vontades quanto à razão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4689,7 +4689,7 @@
       },
       {
         "id": "p4-q18-a4",
-        "titulo": "Artigo 4 — Whether There Was Free-will in Christ?",
+        "titulo": "Artigo 4 — Se houve livre arbítrio em Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4728,7 +4728,7 @@
       },
       {
         "id": "p4-q18-a5",
-        "titulo": "Artigo 5 — Whether the Human Will of Christ Was Altogether Conformed to the Divine Will in the Thing Willed?",
+        "titulo": "Artigo 5 — Se a vontade humana de Cristo foi totalmente conforme à vontade divina na coisa desejada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4767,7 +4767,7 @@
       },
       {
         "id": "p4-q18-a6",
-        "titulo": "Artigo 6 — Whether There Was Contrariety of Wills in Christ?",
+        "titulo": "Artigo 6 — Se houve contrariedade de vontades em Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4808,11 +4808,11 @@
   },
   {
     "id": "p4-q19",
-    "titulo": "Questão 19 — Of The Unity Of Christ'S Operation",
+    "titulo": "Questão 19 — Da unidade da operação de Cristo",
     "children": [
       {
         "id": "p4-q19-a1",
-        "titulo": "Artigo 1 — Whether in Christ There Is Only One Operation of the Godhead and Manhood?",
+        "titulo": "Artigo 1 — Se em Cristo existe apenas uma operação da divindade e da humanidade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4863,7 +4863,7 @@
       },
       {
         "id": "p4-q19-a2",
-        "titulo": "Artigo 2 — Whether in Christ There Are Several Human Operations?",
+        "titulo": "Artigo 2 — Se em Cristo existem diversas operações humanas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4898,7 +4898,7 @@
       },
       {
         "id": "p4-q19-a3",
-        "titulo": "Artigo 3 — Whether the Human Action of Christ Could Be Meritorious to Him?",
+        "titulo": "Artigo 3 — Se a ação humana de Cristo poderia ser meritória para ele?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4945,7 +4945,7 @@
       },
       {
         "id": "p4-q19-a4",
-        "titulo": "Artigo 4 — Whether Christ Could Merit for Others?",
+        "titulo": "Artigo 4 — Se Cristo poderia merecer os outros?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4986,11 +4986,11 @@
   },
   {
     "id": "p4-q20",
-    "titulo": "Questão 20 — Of Christ'S Subjection To The Father",
+    "titulo": "Questão 20 — Da sujeição de Cristo ao Pai",
     "children": [
       {
         "id": "p4-q20-a1",
-        "titulo": "Artigo 1 — Whether We May Say That Christ Is Subject to the Father?",
+        "titulo": "Artigo 1 — Podemos dizer que Cristo está sujeito ao Pai?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5029,7 +5029,7 @@
       },
       {
         "id": "p4-q20-a2",
-        "titulo": "Artigo 2 — Whether Christ Is Subject to Himself?",
+        "titulo": "Artigo 2 — Se Cristo está sujeito a si mesmo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5070,11 +5070,11 @@
   },
   {
     "id": "p4-q21",
-    "titulo": "Questão 21 — Of Christ'S Prayer",
+    "titulo": "Questão 21 — Da oração de Cristo",
     "children": [
       {
         "id": "p4-q21-a1",
-        "titulo": "Artigo 1 — Whether It Is Becoming of Christ to Pray?",
+        "titulo": "Artigo 1 — Se é próprio de Cristo orar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5113,7 +5113,7 @@
       },
       {
         "id": "p4-q21-a2",
-        "titulo": "Artigo 2 — Whether It Pertains to Christ to Pray According to His Sensuality?",
+        "titulo": "Artigo 2 — Se pertence a Cristo orar de acordo com sua sensualidade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5152,7 +5152,7 @@
       },
       {
         "id": "p4-q21-a3",
-        "titulo": "Artigo 3 — Whether It Was Fitting That Christ Should Pray for Himself?",
+        "titulo": "Artigo 3 — Se era apropriado que Cristo orasse por si mesmo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5191,7 +5191,7 @@
       },
       {
         "id": "p4-q21-a4",
-        "titulo": "Artigo 4 — Whether Christ's Prayer Was Always Heard?",
+        "titulo": "Artigo 4 — Se a oração de Cristo sempre foi ouvida?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5236,11 +5236,11 @@
   },
   {
     "id": "p4-q22",
-    "titulo": "Questão 22 — Of The Priesthood Of Christ",
+    "titulo": "Questão 22 — Do Sacerdócio de Cristo",
     "children": [
       {
         "id": "p4-q22-a1",
-        "titulo": "Artigo 1 — Whether It Is Fitting That Christ Should Be a Priest?",
+        "titulo": "Artigo 1 — Se é apropriado que Cristo seja sacerdote?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5279,7 +5279,7 @@
       },
       {
         "id": "p4-q22-a2",
-        "titulo": "Artigo 2 — Whether Christ Was Himself Both Priest and Victim?",
+        "titulo": "Artigo 2 — Se Cristo foi ele mesmo sacerdote e vítima?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5318,7 +5318,7 @@
       },
       {
         "id": "p4-q22-a3",
-        "titulo": "Artigo 3 — Whether the Effect of Christ's Priesthood Is the Expiation of Sins?",
+        "titulo": "Artigo 3 — Se o efeito do sacerdócio de Cristo é a expiação dos pecados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5357,7 +5357,7 @@
       },
       {
         "id": "p4-q22-a4",
-        "titulo": "Artigo 4 — Whether the Effect of the Priesthood of Christ Pertained Not Only to Others, but Also to Himself?",
+        "titulo": "Artigo 4 — Se o efeito do sacerdócio de Cristo não se referia apenas aos outros, mas também a si mesmo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5396,7 +5396,7 @@
       },
       {
         "id": "p4-q22-a5",
-        "titulo": "Artigo 5 — Whether the Priesthood of Christ Endures for Ever?",
+        "titulo": "Artigo 5 — Se o sacerdócio de Cristo dura para sempre?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5431,7 +5431,7 @@
       },
       {
         "id": "p4-q22-a6",
-        "titulo": "Artigo 6 — Whether the Priesthood of Christ Was According to the Order of Melchisedech?",
+        "titulo": "Artigo 6 — Se o Sacerdócio de Cristo estava de acordo com a Ordem de Melquisedeque?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5472,11 +5472,11 @@
   },
   {
     "id": "p4-q23",
-    "titulo": "Questão 23 — Of Adoption As Befitting To Christ",
+    "titulo": "Questão 23 — Da adoção como condizente com Cristo",
     "children": [
       {
         "id": "p4-q23-a1",
-        "titulo": "Artigo 1 — Whether It Is Fitting That God Should Adopt Sons?",
+        "titulo": "Artigo 1 — Se é apropriado que Deus adote filhos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5515,7 +5515,7 @@
       },
       {
         "id": "p4-q23-a2",
-        "titulo": "Artigo 2 — Whether It Is Fitting That the Whole Trinity Should Adopt?",
+        "titulo": "Artigo 2 — Se é apropriado que toda a Trindade adote?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5554,7 +5554,7 @@
       },
       {
         "id": "p4-q23-a3",
-        "titulo": "Artigo 3 — Whether It Is Proper to the Rational Nature to Be Adopted?",
+        "titulo": "Artigo 3 — Se é apropriado que a natureza racional seja adotada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5593,7 +5593,7 @@
       },
       {
         "id": "p4-q23-a4",
-        "titulo": "Artigo 4 — Whether Christ As Man Is the Adopted Son of God?",
+        "titulo": "Artigo 4 — Se Cristo, como homem, é o Filho adotivo de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5634,11 +5634,11 @@
   },
   {
     "id": "p4-q24",
-    "titulo": "Questão 24 — Of The Predestination Of Christ",
+    "titulo": "Questão 24 — Da predestinação de Cristo",
     "children": [
       {
         "id": "p4-q24-a1",
-        "titulo": "Artigo 1 — Whether It Is Befitting That Christ Should Be Predestinated?",
+        "titulo": "Artigo 1 — Se é apropriado que Cristo seja predestinado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5677,7 +5677,7 @@
       },
       {
         "id": "p4-q24-a2",
-        "titulo": "Artigo 2 — Whether This Proposition Is False: \"Christ As Man Was Predestinated to Be the Son of God\"?",
+        "titulo": "Artigo 2 — Se esta proposição é falsa: “Cristo, como homem, foi predestinado para ser o Filho de Deus”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5716,7 +5716,7 @@
       },
       {
         "id": "p4-q24-a3",
-        "titulo": "Artigo 3 — Whether Christ's Predestination Is the Exemplar of Ours?",
+        "titulo": "Artigo 3 — Se a predestinação de Cristo é o nosso exemplo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5751,7 +5751,7 @@
       },
       {
         "id": "p4-q24-a4",
-        "titulo": "Artigo 4 — Whether Christ's Predestination Is the Cause of Ours?",
+        "titulo": "Artigo 4 — Se a predestinação de Cristo é a nossa causa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5784,11 +5784,11 @@
   },
   {
     "id": "p4-q25",
-    "titulo": "Questão 25 — Of The Adoration Of Christ",
+    "titulo": "Questão 25 — Da Adoração De Cristo",
     "children": [
       {
         "id": "p4-q25-a1",
-        "titulo": "Artigo 1 — Whether Christ's Humanity and Godhead Are to Be Adored with the Same Adoration?",
+        "titulo": "Artigo 1 — Se a humanidade e a divindade de Cristo devem ser adoradas com a mesma adoração?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5827,7 +5827,7 @@
       },
       {
         "id": "p4-q25-a2",
-        "titulo": "Artigo 2 — Whether Christ's Humanity Should Be Adored with the Adoration of _Latria?_",
+        "titulo": "Artigo 2 — Se a humanidade de Cristo deve ser adorada com a adoração de _Latria?_",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5858,7 +5858,7 @@
       },
       {
         "id": "p4-q25-a3",
-        "titulo": "Artigo 3 — Whether the Image of Christ Should Be Adored with the Adoration of _Latria_?",
+        "titulo": "Artigo 3 — Se a imagem de Cristo deve ser adorada com a adoração de _Latria_?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5905,7 +5905,7 @@
       },
       {
         "id": "p4-q25-a4",
-        "titulo": "Artigo 4 — Whether Christ's Cross Should Be Worshipped with the Adoration of _Latria_?",
+        "titulo": "Artigo 4 — Se a cruz de Cristo deve ser adorada com a adoração de _Latria_?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5944,7 +5944,7 @@
       },
       {
         "id": "p4-q25-a5",
-        "titulo": "Artigo 5 — Whether the Mother of God Should Be Worshipped with the Adoration of _Latria_?",
+        "titulo": "Artigo 5 — Se a Mãe de Deus deve ser adorada com a adoração de _Latria_?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5983,7 +5983,7 @@
       },
       {
         "id": "p4-q25-a6",
-        "titulo": "Artigo 6 — Whether Any Kind of Worship Is Due to the Relics of the Saints?",
+        "titulo": "Artigo 6 — Se algum tipo de adoração é devido às relíquias dos santos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6024,11 +6024,11 @@
   },
   {
     "id": "p4-q26",
-    "titulo": "Questão 26 — Of Christ As Called The Mediator Of God And Man",
+    "titulo": "Questão 26 — De Cristo Chamado Mediador De Deus E Do Homem",
     "children": [
       {
         "id": "p4-q26-a1",
-        "titulo": "Artigo 1 — Whether It Is Proper to Christ to Be the Mediator of God and Man?",
+        "titulo": "Artigo 1 — Se é próprio de Cristo ser o mediador de Deus e do homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6067,7 +6067,7 @@
       },
       {
         "id": "p4-q26-a2",
-        "titulo": "Artigo 2 — Whether Christ, as Man, Is the Mediator of God and Men?",
+        "titulo": "Artigo 2 — Se Cristo, como homem, é o mediador de Deus e dos homens?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6108,11 +6108,11 @@
   },
   {
     "id": "p4-q27",
-    "titulo": "Questão 27 — Of The Sanctification Of The Blessed Virgin",
+    "titulo": "Questão 27 — Da Santificação da Santíssima Virgem",
     "children": [
       {
         "id": "p4-q27-a1",
-        "titulo": "Artigo 1 — Whether the Blessed Virgin Was Sanctified Before Her Birth from the Womb?",
+        "titulo": "Artigo 1 — Se a Santíssima Virgem foi santificada antes de nascer do ventre?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6159,7 +6159,7 @@
       },
       {
         "id": "p4-q27-a2",
-        "titulo": "Artigo 2 — Whether the Blessed Virgin Was Sanctified Before Animation?",
+        "titulo": "Artigo 2 — Se a Santíssima Virgem foi santificada antes da animação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6206,7 +6206,7 @@
       },
       {
         "id": "p4-q27-a3",
-        "titulo": "Artigo 3 — Whether the Blessed Virgin Was Cleansed from the Infection of the Fomes?",
+        "titulo": "Artigo 3 — Se a Santíssima Virgem foi purificada da infecção dos Fomes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6245,7 +6245,7 @@
       },
       {
         "id": "p4-q27-a4",
-        "titulo": "Artigo 4 — Whether by Being Sanctified in the Womb the Blessed Virgin Was Preserved from All Actual Sin?",
+        "titulo": "Artigo 4 — Se ao ser santificada no ventre a Santíssima Virgem foi preservada de todo pecado real?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6284,7 +6284,7 @@
       },
       {
         "id": "p4-q27-a5",
-        "titulo": "Artigo 5 — Whether, by Her Sanctification in the Womb, the Blessed Virgin Received the Fulness of Grace?",
+        "titulo": "Artigo 5 — Se, pela Sua Santificação no Ventre, a Santíssima Virgem Recebeu a Plenitude da Graça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6323,7 +6323,7 @@
       },
       {
         "id": "p4-q27-a6",
-        "titulo": "Artigo 6 — Whether After Christ, It Was Proper to the Blessed Virgin to Be Sanctified in the Womb?",
+        "titulo": "Artigo 6 — Se depois de Cristo era próprio da Santíssima Virgem ser santificada no ventre?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6364,11 +6364,11 @@
   },
   {
     "id": "p4-q28",
-    "titulo": "Questão 28 — Of The Virginity Of The Mother Of God",
+    "titulo": "Questão 28 — Da Virgindade Da Mãe De Deus",
     "children": [
       {
         "id": "p4-q28-a1",
-        "titulo": "Artigo 1 — Whether the Mother of God Was a Virgin in Conceiving Christ?",
+        "titulo": "Artigo 1 — Se a Mãe de Deus era virgem ao conceber Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6423,7 +6423,7 @@
       },
       {
         "id": "p4-q28-a2",
-        "titulo": "Artigo 2 — Whether Christ's Mother Was a Virgin in His Birth?",
+        "titulo": "Artigo 2 — Se a mãe de Cristo era virgem em seu nascimento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6462,7 +6462,7 @@
       },
       {
         "id": "p4-q28-a3",
-        "titulo": "Artigo 3 — Whether Christ's Mother Remained a Virgin After His Birth?",
+        "titulo": "Artigo 3 — Se a mãe de Cristo permaneceu virgem após seu nascimento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6525,7 +6525,7 @@
       },
       {
         "id": "p4-q28-a4",
-        "titulo": "Artigo 4 — Whether the Mother of God Took a Vow of Virginity?",
+        "titulo": "Artigo 4 — Se a Mãe de Deus fez voto de virgindade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6566,11 +6566,11 @@
   },
   {
     "id": "p4-q29",
-    "titulo": "Questão 29 — Of The Espousals Of The Mother Of God",
+    "titulo": "Questão 29 — Dos Esponsais Da Mãe De Deus",
     "children": [
       {
         "id": "p4-q29-a1",
-        "titulo": "Artigo 1 — Whether Christ Should Have Been Born of an Espoused Virgin?",
+        "titulo": "Artigo 1 — Se Cristo deveria ter nascido de uma virgem desposada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6617,7 +6617,7 @@
       },
       {
         "id": "p4-q29-a2",
-        "titulo": "Artigo 2 — Whether there was a true marriage between Mary and Joseph?",
+        "titulo": "Artigo 2 — Se houve um casamento verdadeiro entre Maria e José?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6658,11 +6658,11 @@
   },
   {
     "id": "p4-q30",
-    "titulo": "Questão 30 — Of The Annunciation Of The Blessed Virgin",
+    "titulo": "Questão 30 — Da Anunciação da Santíssima Virgem",
     "children": [
       {
         "id": "p4-q30-a1",
-        "titulo": "Artigo 1 — Whether It Was Necessary to Announce to the Blessed Virgin That Which Was to Be Done in Her?",
+        "titulo": "Artigo 1 — Se era necessário anunciar à Santíssima Virgem o que deveria ser feito nela?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6701,7 +6701,7 @@
       },
       {
         "id": "p4-q30-a2",
-        "titulo": "Artigo 2 — Whether the annunciation should have been made by an angel to the Blessed Virgin?",
+        "titulo": "Artigo 2 — Se a anunciação deveria ter sido feita por um anjo à Santíssima Virgem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6748,7 +6748,7 @@
       },
       {
         "id": "p4-q30-a3",
-        "titulo": "Artigo 3 — Whether the Angel of Annunciation Should Have Appeared to the Virgin in a Bodily Vision?",
+        "titulo": "Artigo 3 — Se o Anjo da Anunciação deveria ter aparecido à Virgem numa visão corporal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6787,7 +6787,7 @@
       },
       {
         "id": "p4-q30-a4",
-        "titulo": "Artigo 4 — Whether the Annunciation Took Place in Becoming Order?",
+        "titulo": "Artigo 4 — Se a Anunciação ocorreu em ordem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6828,11 +6828,11 @@
   },
   {
     "id": "p4-q31",
-    "titulo": "Questão 31 — Of The Matter From Which The Saviour'S Body Was Conceived",
+    "titulo": "Questão 31 — Da matéria da qual foi concebido o corpo do Salvador",
     "children": [
       {
         "id": "p4-q31-a1",
-        "titulo": "Artigo 1 — Whether the Flesh of Christ Was Derived from Adam?",
+        "titulo": "Artigo 1 — Se a carne de Cristo foi derivada de Adão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6871,7 +6871,7 @@
       },
       {
         "id": "p4-q31-a2",
-        "titulo": "Artigo 2 — Whether Christ Took Flesh of the Seed of David?",
+        "titulo": "Artigo 2 — Se Cristo assumiu a carne da semente de Davi?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6910,7 +6910,7 @@
       },
       {
         "id": "p4-q31-a3",
-        "titulo": "Artigo 3 — Whether Christ's Genealogy Is Suitably Traced by the Evangelists?",
+        "titulo": "Artigo 3 — Se a genealogia de Cristo foi adequadamente traçada pelos evangelistas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6969,7 +6969,7 @@
       },
       {
         "id": "p4-q31-a4",
-        "titulo": "Artigo 4 — Whether the Matter of Christ's Body Should Have Been Taken from a Woman?",
+        "titulo": "Artigo 4 — Se a matéria do corpo de Cristo deveria ter sido tirada de uma mulher?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7008,7 +7008,7 @@
       },
       {
         "id": "p4-q31-a5",
-        "titulo": "Artigo 5 — Whether the Flesh of Christ Was Conceived of the Virgin's Purest Blood?",
+        "titulo": "Artigo 5 — Se a carne de Cristo foi concebida com o sangue mais puro da Virgem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7047,7 +7047,7 @@
       },
       {
         "id": "p4-q31-a6",
-        "titulo": "Artigo 6 — Whether Christ's Body Was in Adam and the Other Patriarchs, As to Something Signate?",
+        "titulo": "Artigo 6 — Se o corpo de Cristo estava em Adão e nos outros patriarcas, quanto a algo assinalado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7086,7 +7086,7 @@
       },
       {
         "id": "p4-q31-a7",
-        "titulo": "Artigo 7 — Whether Christ's Flesh in the Patriarchs Was Infected by Sin?",
+        "titulo": "Artigo 7 — Se a carne de Cristo nos Patriarcas foi infectada pelo pecado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7125,7 +7125,7 @@
       },
       {
         "id": "p4-q31-a8",
-        "titulo": "Artigo 8 — Whether Christ Paid Tithes in Abraham's Loins?",
+        "titulo": "Artigo 8 — Se Cristo pagou o dízimo nos lombos de Abraão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7170,11 +7170,11 @@
   },
   {
     "id": "p4-q32",
-    "titulo": "Questão 32 — Of The Active Principle In Christ'S Conception",
+    "titulo": "Questão 32 — Do princípio ativo na concepção de Cristo",
     "children": [
       {
         "id": "p4-q32-a1",
-        "titulo": "Artigo 1 — Whether the Accomplishment of Christ's Conception Should Be Attributed to the Holy Ghost?",
+        "titulo": "Artigo 1 — Se a realização da concepção de Cristo deve ser atribuída ao Espírito Santo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7213,7 +7213,7 @@
       },
       {
         "id": "p4-q32-a2",
-        "titulo": "Artigo 2 — Whether It Should Be Said That Christ Was Conceived of (_de_) the Holy Ghost?",
+        "titulo": "Artigo 2 — Se deve ser dito que Cristo foi concebido pelo (_de_) Espírito Santo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7252,7 +7252,7 @@
       },
       {
         "id": "p4-q32-a3",
-        "titulo": "Artigo 3 — Whether the Holy Ghost Should Be Called Christ's Father in Respect of His Humanity?",
+        "titulo": "Artigo 3 — Se o Espírito Santo deve ser chamado de Pai de Cristo no que diz respeito à Sua humanidade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7287,7 +7287,7 @@
       },
       {
         "id": "p4-q32-a4",
-        "titulo": "Artigo 4 — Whether the Blessed Virgin Cooperated Actively in the Conception of Christ's Body?",
+        "titulo": "Artigo 4 — Se a Santíssima Virgem cooperou ativamente na concepção do Corpo de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7328,11 +7328,11 @@
   },
   {
     "id": "p4-q33",
-    "titulo": "Questão 33 — Of The Mode And Order Of Christ'S Conception",
+    "titulo": "Questão 33 — Do modo e da ordem da concepção de Cristo",
     "children": [
       {
         "id": "p4-q33-a1",
-        "titulo": "Artigo 1 — Whether Christ's Body Was Formed in the First Instant of Its Conception?",
+        "titulo": "Artigo 1 — Se o corpo de Cristo foi formado no primeiro instante da sua concepção?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7379,7 +7379,7 @@
       },
       {
         "id": "p4-q33-a2",
-        "titulo": "Artigo 2 — Whether Christ's Body Was Animated in the First Instant of Its Conception?",
+        "titulo": "Artigo 2 — Se o corpo de Cristo foi animado no primeiro instante de sua concepção?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7418,7 +7418,7 @@
       },
       {
         "id": "p4-q33-a3",
-        "titulo": "Artigo 3 — Whether Christ's Flesh Was First of All Conceived and Afterwards Assumed?",
+        "titulo": "Artigo 3 — Se a carne de Cristo foi primeiro concebida e depois assumida?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7453,7 +7453,7 @@
       },
       {
         "id": "p4-q33-a4",
-        "titulo": "Artigo 4 — Whether Christ's Conception Was Natural?",
+        "titulo": "Artigo 4 — Se a concepção de Cristo foi natural?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7494,11 +7494,11 @@
   },
   {
     "id": "p4-q34",
-    "titulo": "Questão 34 — Of The Perfection Of The Child Conceived",
+    "titulo": "Questão 34 — Da perfeição da criança concebida",
     "children": [
       {
         "id": "p4-q34-a1",
-        "titulo": "Artigo 1 — Whether Christ Was Sanctified in the First Instant of His Conception?",
+        "titulo": "Artigo 1 — Se Cristo foi santificado no primeiro instante de sua concepção?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7537,7 +7537,7 @@
       },
       {
         "id": "p4-q34-a2",
-        "titulo": "Artigo 2 — Whether Christ As Man Had the Use of Free-will in the First Instant of His Conception?",
+        "titulo": "Artigo 2 — Se Cristo, como homem, teve o uso do livre arbítrio no primeiro instante de sua concepção?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7576,7 +7576,7 @@
       },
       {
         "id": "p4-q34-a3",
-        "titulo": "Artigo 3 — Whether Christ Could Merit in the First Instant of His Conception?",
+        "titulo": "Artigo 3 — Se Cristo poderia merecer no primeiro instante de sua concepção?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7615,7 +7615,7 @@
       },
       {
         "id": "p4-q34-a4",
-        "titulo": "Artigo 4 — Whether Christ Was a Perfect Comprehensor in the First Instant of His Conception?",
+        "titulo": "Artigo 4 — Se Cristo foi um perfeito compreensivo no primeiro instante de sua concepção?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7652,11 +7652,11 @@
   },
   {
     "id": "p4-q35",
-    "titulo": "Questão 35 — Of Christ'S Nativity",
+    "titulo": "Questão 35 — Da Natividade de Cristo",
     "children": [
       {
         "id": "p4-q35-a1",
-        "titulo": "Artigo 1 — Whether Nativity Regards the Nature Rather Than the Person?",
+        "titulo": "Artigo 1 — Se a Natividade considera a natureza e não a pessoa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7695,7 +7695,7 @@
       },
       {
         "id": "p4-q35-a2",
-        "titulo": "Artigo 2 — Whether a Temporal Nativity Should Be Attributed to Christ?",
+        "titulo": "Artigo 2 — Se uma natividade temporal deve ser atribuída a Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7742,7 +7742,7 @@
       },
       {
         "id": "p4-q35-a3",
-        "titulo": "Artigo 3 — Whether the Blessed Virgin Can Be Called Christ's Mother in Respect of His Temporal Nativity?",
+        "titulo": "Artigo 3 — Se a Santíssima Virgem pode ser chamada de Mãe de Cristo em relação à Sua Natividade Temporal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7781,7 +7781,7 @@
       },
       {
         "id": "p4-q35-a4",
-        "titulo": "Artigo 4 — Whether the Blessed Virgin should be called the Mother of God?",
+        "titulo": "Artigo 4 — Se a Santíssima Virgem deveria ser chamada de Mãe de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7820,7 +7820,7 @@
       },
       {
         "id": "p4-q35-a5",
-        "titulo": "Artigo 5 — Whether There Are Two Filiations in Christ?",
+        "titulo": "Artigo 5 — Se existem duas filiações em Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7863,7 +7863,7 @@
       },
       {
         "id": "p4-q35-a6",
-        "titulo": "Artigo 6 — Whether Christ Was Born Without His Mother Suffering?",
+        "titulo": "Artigo 6 — Se Cristo nasceu sem o sofrimento de sua mãe?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7906,7 +7906,7 @@
       },
       {
         "id": "p4-q35-a7",
-        "titulo": "Artigo 7 — Whether Christ Should Have Been Born in Bethlehem?",
+        "titulo": "Artigo 7 — Se Cristo deveria ter nascido em Belém?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7949,7 +7949,7 @@
       },
       {
         "id": "p4-q35-a8",
-        "titulo": "Artigo 8 — Whether Christ Was Born at a Fitting Time?",
+        "titulo": "Artigo 8 — Se Cristo nasceu num momento adequado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7990,11 +7990,11 @@
   },
   {
     "id": "p4-q36",
-    "titulo": "Questão 36 — Of The Manifestation Of The Newly Born Christ",
+    "titulo": "Questão 36 — Da Manifestação do Cristo Recém Nascido",
     "children": [
       {
         "id": "p4-q36-a1",
-        "titulo": "Artigo 1 — Whether Christ's Birth Should Have Been Made Known to All?",
+        "titulo": "Artigo 1 — Se o nascimento de Cristo deveria ter sido divulgado a todos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8033,7 +8033,7 @@
       },
       {
         "id": "p4-q36-a2",
-        "titulo": "Artigo 2 — Whether Christ's Birth Should Have Been Made Known to Some?",
+        "titulo": "Artigo 2 — Se o nascimento de Cristo deveria ter sido divulgado a alguns?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8076,7 +8076,7 @@
       },
       {
         "id": "p4-q36-a3",
-        "titulo": "Artigo 3 — Whether Those to Whom Christ's Birth Was Made Known Were Suitably Chosen?",
+        "titulo": "Artigo 3 — Se aqueles a quem o nascimento de Cristo foi dado a conhecer foram adequadamente escolhidos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8131,7 +8131,7 @@
       },
       {
         "id": "p4-q36-a4",
-        "titulo": "Artigo 4 — Whether Christ Himself Should Have Made His Birth Known?",
+        "titulo": "Artigo 4 — Se o próprio Cristo deveria ter tornado conhecido o seu nascimento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8170,7 +8170,7 @@
       },
       {
         "id": "p4-q36-a5",
-        "titulo": "Artigo 5 — Whether Christ's Birth Should Have Been Manifested by Means of the Angels and the Star?",
+        "titulo": "Artigo 5 — Se o nascimento de Cristo deveria ter sido manifestado por meio dos anjos e da estrela?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8217,7 +8217,7 @@
       },
       {
         "id": "p4-q36-a6",
-        "titulo": "Artigo 6 — Whether Christ's Birth Was Made Known in a Becoming Order?",
+        "titulo": "Artigo 6 — Se o nascimento de Cristo foi divulgado numa ordem em formação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8256,7 +8256,7 @@
       },
       {
         "id": "p4-q36-a7",
-        "titulo": "Artigo 7 — Whether the Star Which Appeared to the Magi Belonged to the Heavenly System?",
+        "titulo": "Artigo 7 — Se a estrela que apareceu aos magos pertencia ao sistema celestial?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8295,7 +8295,7 @@
       },
       {
         "id": "p4-q36-a8",
-        "titulo": "Artigo 8 — Whether It Was Becoming That the Magi Should Come to Adore Christ and Pay Homage to Him?",
+        "titulo": "Artigo 8 — Seria conveniente que os magos viessem adorar a Cristo e prestar-lhe homenagem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8344,11 +8344,11 @@
   },
   {
     "id": "p4-q37",
-    "titulo": "Questão 37 — Of Christ'S Circumcision, And Of The Other Legal Observances Accomplished In Regard To The Child Christ",
+    "titulo": "Questão 37 — Da circuncisão de Cristo e das demais observâncias legais realizadas em relação ao menino Cristo",
     "children": [
       {
         "id": "p4-q37-a1",
-        "titulo": "Artigo 1 — Whether Christ Should Have Been Circumcised?",
+        "titulo": "Artigo 1 — Se Cristo deveria ter sido circuncidado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8387,7 +8387,7 @@
       },
       {
         "id": "p4-q37-a2",
-        "titulo": "Artigo 2 — Whether His Name Was Suitably Given to Christ?",
+        "titulo": "Artigo 2 — Se seu nome foi dado adequadamente a Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8426,7 +8426,7 @@
       },
       {
         "id": "p4-q37-a3",
-        "titulo": "Artigo 3 — Whether Christ Was Becomingly Presented in the Temple?",
+        "titulo": "Artigo 3 — Se Cristo foi apropriadamente apresentado no templo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8473,7 +8473,7 @@
       },
       {
         "id": "p4-q37-a4",
-        "titulo": "Artigo 4 — Whether It Was Fitting That the Mother of God Should Go to the Temple to Be Purified?",
+        "titulo": "Artigo 4 — Seria apropriado que a Mãe de Deus fosse ao templo para ser purificada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8514,11 +8514,11 @@
   },
   {
     "id": "p4-q38",
-    "titulo": "Questão 38 — Of The Baptism Of John",
+    "titulo": "Questão 38 — Do Batismo de João",
     "children": [
       {
         "id": "p4-q38-a1",
-        "titulo": "Artigo 1 — Whether It Was Fitting That John Should Baptize?",
+        "titulo": "Artigo 1 — Se era apropriado que João batizasse?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8557,7 +8557,7 @@
       },
       {
         "id": "p4-q38-a2",
-        "titulo": "Artigo 2 — Whether the Baptism of John Was from God?",
+        "titulo": "Artigo 2 — Se o batismo de João veio de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8596,7 +8596,7 @@
       },
       {
         "id": "p4-q38-a3",
-        "titulo": "Artigo 3 — Whether Grace Was Given in the Baptism of John?",
+        "titulo": "Artigo 3 — Se a graça foi concedida no batismo de João?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8635,7 +8635,7 @@
       },
       {
         "id": "p4-q38-a4",
-        "titulo": "Artigo 4 — Whether Christ Alone Should Have Been Baptized with the Baptism of John?",
+        "titulo": "Artigo 4 — Se somente Cristo deveria ter sido batizado com o batismo de João?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8674,7 +8674,7 @@
       },
       {
         "id": "p4-q38-a5",
-        "titulo": "Artigo 5 — Whether John's Baptism Should Have Ceased After Christ Was Baptized?",
+        "titulo": "Artigo 5 — Se o batismo de João deveria ter cessado depois que Cristo foi batizado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8713,7 +8713,7 @@
       },
       {
         "id": "p4-q38-a6",
-        "titulo": "Artigo 6 — Whether Those Who Had Been Baptized with John's Baptism Had to Be Baptized with the Baptism of Christ?",
+        "titulo": "Artigo 6 — Se aqueles que foram batizados com o batismo de João tiveram que ser batizados com o batismo de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8770,11 +8770,11 @@
   },
   {
     "id": "p4-q39",
-    "titulo": "Questão 39 — Of The Baptizing Of Christ",
+    "titulo": "Questão 39 — Do Batismo De Cristo",
     "children": [
       {
         "id": "p4-q39-a1",
-        "titulo": "Artigo 1 — Whether It Was Fitting That Christ Should Be Baptized?",
+        "titulo": "Artigo 1 — Se era apropriado que Cristo fosse batizado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8813,7 +8813,7 @@
       },
       {
         "id": "p4-q39-a2",
-        "titulo": "Artigo 2 — Whether It Was Fitting for Christ to Be Baptized with John's Baptism?",
+        "titulo": "Artigo 2 — Se era apropriado que Cristo fosse batizado com o batismo de João?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8852,7 +8852,7 @@
       },
       {
         "id": "p4-q39-a3",
-        "titulo": "Artigo 3 — Whether Christ Was Baptized at a Fitting Time?",
+        "titulo": "Artigo 3 — Se Cristo foi batizado num momento apropriado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8899,7 +8899,7 @@
       },
       {
         "id": "p4-q39-a4",
-        "titulo": "Artigo 4 — Whether Christ Should Have Been Baptized in the Jordan?",
+        "titulo": "Artigo 4 — Se Cristo deveria ter sido batizado no Jordão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8938,7 +8938,7 @@
       },
       {
         "id": "p4-q39-a5",
-        "titulo": "Artigo 5 — Whether the Heavens Should Have Been Opened Unto Christ at His Baptism?",
+        "titulo": "Artigo 5 — Se os céus deveriam ter sido abertos para Cristo em Seu batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8977,7 +8977,7 @@
       },
       {
         "id": "p4-q39-a6",
-        "titulo": "Artigo 6 — Whether It Is Fitting to Say That When Christ Was Baptized the Holy Ghost Came Down on Him in the Form of a Dove?",
+        "titulo": "Artigo 6 — Será apropriado dizer que quando Cristo foi batizado o Espírito Santo desceu sobre Ele na forma de uma pomba?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9024,7 +9024,7 @@
       },
       {
         "id": "p4-q39-a7",
-        "titulo": "Artigo 7 — Whether the Dove in Which the Holy Ghost Appeared Was Real?",
+        "titulo": "Artigo 7 — Se a pomba na qual o Espírito Santo apareceu era real?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9063,7 +9063,7 @@
       },
       {
         "id": "p4-q39-a8",
-        "titulo": "Artigo 8 — Whether It Was Becoming, When Christ Was Baptized That the Father's Voice Should Be Heard, Bearing Witness to the Son?",
+        "titulo": "Artigo 8 — Se convinha, quando Cristo foi batizado, que a voz do Pai fosse ouvida, dando testemunho do Filho?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9104,11 +9104,11 @@
   },
   {
     "id": "p4-q40",
-    "titulo": "Questão 40 — Of Christ'S Manner Of Life",
+    "titulo": "Questão 40 — Do modo de vida de Cristo",
     "children": [
       {
         "id": "p4-q40-a1",
-        "titulo": "Artigo 1 — Whether Christ Should Have Associated with Men, or Led a Solitary Life?",
+        "titulo": "Artigo 1 — Se Cristo deveria ter se associado com homens ou levado uma vida solitária?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9147,7 +9147,7 @@
       },
       {
         "id": "p4-q40-a2",
-        "titulo": "Artigo 2 — Whether It Was Becoming That Christ Should Lead an Austere Life in This World?",
+        "titulo": "Artigo 2 — Seria apropriado que Cristo levasse uma vida austera neste mundo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9186,7 +9186,7 @@
       },
       {
         "id": "p4-q40-a3",
-        "titulo": "Artigo 3 — Whether Christ Should Have Led a Life of Poverty in This World?",
+        "titulo": "Artigo 3 — Se Cristo deveria ter levado uma vida de pobreza neste mundo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9225,7 +9225,7 @@
       },
       {
         "id": "p4-q40-a4",
-        "titulo": "Artigo 4 — Whether Christ Conformed His Conduct to the Law?",
+        "titulo": "Artigo 4 — Se Cristo conformou sua conduta com a lei?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9266,11 +9266,11 @@
   },
   {
     "id": "p4-q41",
-    "titulo": "Questão 41 — Of Christ'S Temptation",
+    "titulo": "Questão 41 — Da tentação de Cristo",
     "children": [
       {
         "id": "p4-q41-a1",
-        "titulo": "Artigo 1 — Whether It Was Becoming That Christ Should Be Tempted?",
+        "titulo": "Artigo 1 — Se era apropriado que Cristo fosse tentado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9309,7 +9309,7 @@
       },
       {
         "id": "p4-q41-a2",
-        "titulo": "Artigo 2 — Whether Christ Should Have Been Tempted in the Desert?",
+        "titulo": "Artigo 2 — Se Cristo deveria ter sido tentado no deserto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9348,7 +9348,7 @@
       },
       {
         "id": "p4-q41-a3",
-        "titulo": "Artigo 3 — Whether Christ's Temptation Should Have Taken Place After His Fast?",
+        "titulo": "Artigo 3 — Se a tentação de Cristo deveria ter ocorrido após seu jejum?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9387,7 +9387,7 @@
       },
       {
         "id": "p4-q41-a4",
-        "titulo": "Artigo 4 — Whether the Mode and Order of the Temptation Were Becoming?",
+        "titulo": "Artigo 4 — Se o modo e a ordem da tentação estavam se tornando?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9460,11 +9460,11 @@
   },
   {
     "id": "p4-q42",
-    "titulo": "Questão 42 — Of Christ'S Doctrine",
+    "titulo": "Questão 42 — Da Doutrina de Cristo",
     "children": [
       {
         "id": "p4-q42-a1",
-        "titulo": "Artigo 1 — Whether Christ Should Have Preached Not Only to the Jews, but Also to the Gentiles?",
+        "titulo": "Artigo 1 — Se Cristo deveria ter pregado não apenas aos judeus, mas também aos gentios?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9503,7 +9503,7 @@
       },
       {
         "id": "p4-q42-a2",
-        "titulo": "Artigo 2 — Whether Christ Should Have Preached to the Jews Without Offending Them?",
+        "titulo": "Artigo 2 — Se Cristo deveria ter pregado aos judeus sem ofendê-los?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9542,7 +9542,7 @@
       },
       {
         "id": "p4-q42-a3",
-        "titulo": "Artigo 3 — Whether Christ Should Have Taught All Things Openly?",
+        "titulo": "Artigo 3 — Se Cristo deveria ter ensinado todas as coisas abertamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9581,7 +9581,7 @@
       },
       {
         "id": "p4-q42-a4",
-        "titulo": "Artigo 4 — Whether Christ Should Have Committed His Doctrine to Writing?",
+        "titulo": "Artigo 4 — Se Cristo deveria ter escrito sua doutrina por escrito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9622,11 +9622,11 @@
   },
   {
     "id": "p4-q43",
-    "titulo": "Questão 43 — Of The Miracles Worked By Christ, In General",
+    "titulo": "Questão 43 — Dos milagres realizados por Cristo, em geral",
     "children": [
       {
         "id": "p4-q43-a1",
-        "titulo": "Artigo 1 — Whether Christ Should Have Worked Miracles?",
+        "titulo": "Artigo 1 — Se Cristo deveria ter realizado milagres?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9665,7 +9665,7 @@
       },
       {
         "id": "p4-q43-a2",
-        "titulo": "Artigo 2 — Whether Christ Worked Miracles by Divine Power?",
+        "titulo": "Artigo 2 — Se Cristo operou milagres pelo poder divino?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9704,7 +9704,7 @@
       },
       {
         "id": "p4-q43-a3",
-        "titulo": "Artigo 3 — Whether Christ Began to Work Miracles When He Changed Water into Wine at the Marriage Feast?",
+        "titulo": "Artigo 3 — Se Cristo começou a fazer milagres quando transformou água em vinho na festa de casamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9743,7 +9743,7 @@
       },
       {
         "id": "p4-q43-a4",
-        "titulo": "Artigo 4 — Whether the Miracles Which Christ Worked Were a Sufficient Proof of His Godhead?",
+        "titulo": "Artigo 4 — Se os milagres que Cristo operou foram uma prova suficiente de Sua divindade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9784,11 +9784,11 @@
   },
   {
     "id": "p4-q44",
-    "titulo": "Questão 44 — Of",
+    "titulo": "Questão 44 — De",
     "children": [
       {
         "id": "p4-q44-a1",
-        "titulo": "Artigo 1 — Whether Those Miracles Were Fitting Which Christ Worked in Spiritual Substances?",
+        "titulo": "Artigo 1 — Se aqueles milagres eram adequados para que Cristo operou em substâncias espirituais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9835,7 +9835,7 @@
       },
       {
         "id": "p4-q44-a2",
-        "titulo": "Artigo 2 — Whether It Was Fitting That Christ Should Work Miracles in the Heavenly Bodies?",
+        "titulo": "Artigo 2 — Seria apropriado que Cristo operasse milagres nos corpos celestes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9874,7 +9874,7 @@
       },
       {
         "id": "p4-q44-a3",
-        "titulo": "Artigo 3 — Whether Christ Worked Miracles Fittingly on Men?",
+        "titulo": "Artigo 3 — Se Cristo operou milagres apropriadamente nos homens?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9921,7 +9921,7 @@
       },
       {
         "id": "p4-q44-a4",
-        "titulo": "Artigo 4 — Whether Christ Worked Miracles Fittingly on Irrational Creatures?",
+        "titulo": "Artigo 4 — Se Cristo operou milagres de maneira adequada em criaturas irracionais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9970,11 +9970,11 @@
   },
   {
     "id": "p4-q45",
-    "titulo": "Questão 45 — Of Christ'S Transfiguration",
+    "titulo": "Questão 45 — Da Transfiguração de Cristo",
     "children": [
       {
         "id": "p4-q45-a1",
-        "titulo": "Artigo 1 — Whether It Was Fitting That Christ Should Be Transfigured?",
+        "titulo": "Artigo 1 — Se era apropriado que Cristo fosse transfigurado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10013,7 +10013,7 @@
       },
       {
         "id": "p4-q45-a2",
-        "titulo": "Artigo 2 — Whether This Clarity Was the Clarity of Glory?",
+        "titulo": "Artigo 2 — Se esta clareza era a clareza da glória?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10056,7 +10056,7 @@
       },
       {
         "id": "p4-q45-a3",
-        "titulo": "Artigo 3 — Whether the Witnesses of the Transfiguration Were Fittingly Chosen?",
+        "titulo": "Artigo 3 — Se as Testemunhas da Transfiguração foram escolhidas apropriadamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10103,7 +10103,7 @@
       },
       {
         "id": "p4-q45-a4",
-        "titulo": "Artigo 4 — Whether the Testimony of the Father's Voice, Saying, \"This Is My Beloved Son,\" Was Fittingly Added?",
+        "titulo": "Artigo 4 — Será que o testemunho da voz do Pai, dizendo: “Este é meu filho amado”, foi acrescentado apropriadamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10152,11 +10152,11 @@
   },
   {
     "id": "p4-q46",
-    "titulo": "Questão 46 — The Passion Of Christ",
+    "titulo": "Questão 46 — A Paixão de Cristo",
     "children": [
       {
         "id": "p4-q46-a1",
-        "titulo": "Artigo 1 — Whether It Was Necessary for Christ to Suffer for the Deliverance of the Human Race?",
+        "titulo": "Artigo 1 — Se foi necessário que Cristo sofresse pela libertação da raça humana?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10203,7 +10203,7 @@
       },
       {
         "id": "p4-q46-a2",
-        "titulo": "Artigo 2 — Whether There Was Any Other Possible Way of Human Deliverance Besides the Passion of Christ?",
+        "titulo": "Artigo 2 — Se havia alguma outra forma possível de libertação humana além da paixão de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10250,7 +10250,7 @@
       },
       {
         "id": "p4-q46-a3",
-        "titulo": "Artigo 3 — Whether There Was Any More Suitable Way of Delivering the Human Race Than by Christ's Passion?",
+        "titulo": "Artigo 3 — Se havia alguma maneira mais adequada de libertar a raça humana do que pela paixão de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10289,7 +10289,7 @@
       },
       {
         "id": "p4-q46-a4",
-        "titulo": "Artigo 4 — Whether Christ Ought to Have Suffered on the Cross?",
+        "titulo": "Artigo 4 — Se Cristo deveria ter sofrido na cruz?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10328,7 +10328,7 @@
       },
       {
         "id": "p4-q46-a5",
-        "titulo": "Artigo 5 — Whether Christ Endured All Suffering?",
+        "titulo": "Artigo 5 — Se Cristo suportou todo o sofrimento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10367,7 +10367,7 @@
       },
       {
         "id": "p4-q46-a6",
-        "titulo": "Artigo 6 — Whether the Pain of Christ's Passion Was Greater Than All Other Pains?",
+        "titulo": "Artigo 6 — Se a dor da paixão de Cristo foi maior que todas as outras dores?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10430,7 +10430,7 @@
       },
       {
         "id": "p4-q46-a7",
-        "titulo": "Artigo 7 — Whether Christ Suffered in His Whole Soul?",
+        "titulo": "Artigo 7 — Se Cristo sofreu em toda a sua alma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10477,7 +10477,7 @@
       },
       {
         "id": "p4-q46-a8",
-        "titulo": "Artigo 8 — Whether Christ's Entire Soul Enjoyed Blessed Fruition During the Passion?",
+        "titulo": "Artigo 8 — Se toda a alma de Cristo desfrutou da abençoada fruição durante a paixão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10520,7 +10520,7 @@
       },
       {
         "id": "p4-q46-a9",
-        "titulo": "Artigo 9 — Whether Christ Suffered at a Suitable Time?",
+        "titulo": "Artigo 9 — Se Cristo sofreu num momento adequado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10567,7 +10567,7 @@
       },
       {
         "id": "p4-q46-a10",
-        "titulo": "Artigo 10 — Whether Christ Suffered in a Suitable Place?",
+        "titulo": "Artigo 10 — Se Cristo sofreu num lugar adequado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10606,7 +10606,7 @@
       },
       {
         "id": "p4-q46-a11",
-        "titulo": "Artigo 11 — Whether It Was Fitting for Christ to Be Crucified with Thieves?",
+        "titulo": "Artigo 11 — Se era apropriado que Cristo fosse crucificado com ladrões?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10645,7 +10645,7 @@
       },
       {
         "id": "p4-q46-a12",
-        "titulo": "Artigo 12 — Whether Christ's Passion Is to Be Attributed to His Godhead?",
+        "titulo": "Artigo 12 — Se a paixão de Cristo deve ser atribuída à sua divindade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10686,11 +10686,11 @@
   },
   {
     "id": "p4-q47",
-    "titulo": "Questão 47 — Of The Efficient Cause Of Christ'S Passion",
+    "titulo": "Questão 47 — Da Causa Eficiente da Paixão de Cristo",
     "children": [
       {
         "id": "p4-q47-a1",
-        "titulo": "Artigo 1 — Whether Christ Was Slain by Another or by Himself?",
+        "titulo": "Artigo 1 — Se Cristo foi morto por outro ou por ele mesmo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10729,7 +10729,7 @@
       },
       {
         "id": "p4-q47-a2",
-        "titulo": "Artigo 2 — Whether Christ Died Out of Obedience?",
+        "titulo": "Artigo 2 — Se Cristo morreu por obediência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10768,7 +10768,7 @@
       },
       {
         "id": "p4-q47-a3",
-        "titulo": "Artigo 3 — Whether God the Father Delivered Up Christ to the Passion?",
+        "titulo": "Artigo 3 — Se Deus Pai entregou Cristo à paixão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10807,7 +10807,7 @@
       },
       {
         "id": "p4-q47-a4",
-        "titulo": "Artigo 4 — Whether It Was Fitting for Christ to Suffer at the Hands of the Gentiles?",
+        "titulo": "Artigo 4 — Se era apropriado que Cristo sofresse nas mãos dos gentios?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10846,7 +10846,7 @@
       },
       {
         "id": "p4-q47-a5",
-        "titulo": "Artigo 5 — Whether Christ's Persecutors Knew Who He Was?",
+        "titulo": "Artigo 5 — Se os perseguidores de Cristo sabiam quem ele era?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10885,7 +10885,7 @@
       },
       {
         "id": "p4-q47-a6",
-        "titulo": "Artigo 6 — Whether the Sin of Those Who Crucified Christ Was Most Grievous?",
+        "titulo": "Artigo 6 — Se o pecado daqueles que crucificaram a Cristo foi muito grave?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10926,11 +10926,11 @@
   },
   {
     "id": "p4-q48",
-    "titulo": "Questão 48 — Of The Efficiency Of Christ'S Passion",
+    "titulo": "Questão 48 — Da eficiência da paixão de Cristo",
     "children": [
       {
         "id": "p4-q48-a1",
-        "titulo": "Artigo 1 — Whether Christ's Passion Brought About Our Salvation by Way of Merit?",
+        "titulo": "Artigo 1 — Se a paixão de Cristo trouxe nossa salvação por meio do mérito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10969,7 +10969,7 @@
       },
       {
         "id": "p4-q48-a2",
-        "titulo": "Artigo 2 — Whether Christ's Passion Brought About Our Salvation by Way of Atonement?",
+        "titulo": "Artigo 2 — Se a paixão de Cristo trouxe nossa salvação por meio da expiação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11008,7 +11008,7 @@
       },
       {
         "id": "p4-q48-a3",
-        "titulo": "Artigo 3 — Whether Christ's Passion Operated by Way of Sacrifice?",
+        "titulo": "Artigo 3 — Se a paixão de Cristo foi operada por meio de sacrifício?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11047,7 +11047,7 @@
       },
       {
         "id": "p4-q48-a5",
-        "titulo": "Artigo 5 — Whether It Is Proper to Christ to Be the Redeemer?",
+        "titulo": "Artigo 5 — Se é próprio de Cristo ser o Redentor?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11086,7 +11086,7 @@
       },
       {
         "id": "p4-q48-a6",
-        "titulo": "Artigo 6 — Whether Christ's Passion Brought About Our Salvation Efficiently?",
+        "titulo": "Artigo 6 — Se a paixão de Cristo trouxe nossa salvação de maneira eficiente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11127,11 +11127,11 @@
   },
   {
     "id": "p4-q49",
-    "titulo": "Questão 49 — Of The Effects Of Christ'S Passion",
+    "titulo": "Questão 49 — Dos efeitos da paixão de Cristo",
     "children": [
       {
         "id": "p4-q49-a1",
-        "titulo": "Artigo 1 — Whether We Were Delivered from Sin Through Christ's Passion?",
+        "titulo": "Artigo 1 — Se fomos libertos do pecado através da paixão de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11186,7 +11186,7 @@
       },
       {
         "id": "p4-q49-a2",
-        "titulo": "Artigo 2 — Whether We Were Delivered from the Devil's Power Through Christ's Passion?",
+        "titulo": "Artigo 2 — Se fomos libertos do poder do diabo através da paixão de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11225,7 +11225,7 @@
       },
       {
         "id": "p4-q49-a3",
-        "titulo": "Artigo 3 — Whether Men Were Freed from the Punishment of Sin Through Christ's Passion?",
+        "titulo": "Artigo 3 — Se os homens foram libertos do castigo do pecado através da paixão de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11264,7 +11264,7 @@
       },
       {
         "id": "p4-q49-a4",
-        "titulo": "Artigo 4 — Whether We Were Reconciled to God Through Christ's Passion?",
+        "titulo": "Artigo 4 — Se fomos reconciliados com Deus através da paixão de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11303,7 +11303,7 @@
       },
       {
         "id": "p4-q49-a5",
-        "titulo": "Artigo 5 — Whether Christ Opened the Gate of Heaven to Us by His Passion?",
+        "titulo": "Artigo 5 — Se Cristo nos abriu a porta do céu por meio de sua paixão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11350,7 +11350,7 @@
       },
       {
         "id": "p4-q49-a6",
-        "titulo": "Artigo 6 — Whether by His Passion Christ Merited to Be Exalted?",
+        "titulo": "Artigo 6 — Se por Sua Paixão Cristo mereceu ser exaltado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11391,11 +11391,11 @@
   },
   {
     "id": "p4-q50",
-    "titulo": "Questão 50 — Of The Death Of Christ",
+    "titulo": "Questão 50 — Da Morte De Cristo",
     "children": [
       {
         "id": "p4-q50-a1",
-        "titulo": "Artigo 1 — Whether It Was Fitting That Christ Should Die?",
+        "titulo": "Artigo 1 — Se era apropriado que Cristo morresse?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11434,7 +11434,7 @@
       },
       {
         "id": "p4-q50-a2",
-        "titulo": "Artigo 2 — Whether the Godhead Was Separated from the Flesh When Christ Died?",
+        "titulo": "Artigo 2 — Se a Divindade foi separada da carne quando Cristo morreu?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11473,7 +11473,7 @@
       },
       {
         "id": "p4-q50-a3",
-        "titulo": "Artigo 3 — Whether in Christ's Death There Was a Severance Between His Godhead and His Soul?",
+        "titulo": "Artigo 3 — Se na morte de Cristo houve uma separação entre sua divindade e sua alma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11520,7 +11520,7 @@
       },
       {
         "id": "p4-q50-a4",
-        "titulo": "Artigo 4 — Whether Christ Was a Man During the Three Days of His Death?",
+        "titulo": "Artigo 4 — Se Cristo foi um homem durante os três dias de sua morte?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11559,7 +11559,7 @@
       },
       {
         "id": "p4-q50-a5",
-        "titulo": "Artigo 5 — Whether Christ's Was Identically the Same Body Living and Dead?",
+        "titulo": "Artigo 5 — Se o corpo de Cristo era idênticamente o mesmo, vivo e morto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11598,7 +11598,7 @@
       },
       {
         "id": "p4-q50-a6",
-        "titulo": "Artigo 6 — Whether Christ's Death Conduced in Any Way to Our Salvation?",
+        "titulo": "Artigo 6 — Se a morte de Cristo conduziu de alguma forma à nossa salvação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11639,11 +11639,11 @@
   },
   {
     "id": "p4-q51",
-    "titulo": "Questão 51 — Of Christ'S Burial",
+    "titulo": "Questão 51 — Do sepultamento de Cristo",
     "children": [
       {
         "id": "p4-q51-a1",
-        "titulo": "Artigo 1 — Whether It Was Fitting for Christ to Be Buried?",
+        "titulo": "Artigo 1 — Se era apropriado que Cristo fosse sepultado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11682,7 +11682,7 @@
       },
       {
         "id": "p4-q51-a2",
-        "titulo": "Artigo 2 — Whether Christ Was Buried in a Becoming Manner?",
+        "titulo": "Artigo 2 — Se Cristo foi sepultado de maneira apropriada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11729,7 +11729,7 @@
       },
       {
         "id": "p4-q51-a3",
-        "titulo": "Artigo 3 — Whether Christ's Body Was Reduced to Dust in the Tomb?",
+        "titulo": "Artigo 3 — Se o corpo de Cristo foi reduzido a pó na tumba?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11768,7 +11768,7 @@
       },
       {
         "id": "p4-q51-a4",
-        "titulo": "Artigo 4 — Whether Christ Was in the Tomb Only One Day and Two Nights?",
+        "titulo": "Artigo 4 — Se Cristo esteve no túmulo apenas um dia e duas noites?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11809,11 +11809,11 @@
   },
   {
     "id": "p4-q52",
-    "titulo": "Questão 52 — Of Christ'S Descent Into Hell",
+    "titulo": "Questão 52 — Da Descida de Cristo ao Inferno",
     "children": [
       {
         "id": "p4-q52-a1",
-        "titulo": "Artigo 1 — Whether It Was Fitting for Christ to Descend into Hell?",
+        "titulo": "Artigo 1 — Se era apropriado que Cristo descesse ao inferno?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11852,7 +11852,7 @@
       },
       {
         "id": "p4-q52-a2",
-        "titulo": "Artigo 2 — Whether Christ Went Down into the Hell of the Lost?",
+        "titulo": "Artigo 2 — Se Cristo desceu ao inferno dos perdidos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11907,7 +11907,7 @@
       },
       {
         "id": "p4-q52-a3",
-        "titulo": "Artigo 3 — Whether the Whole Christ Was in Hell?",
+        "titulo": "Artigo 3 — Se todo o Cristo estava no inferno?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11946,7 +11946,7 @@
       },
       {
         "id": "p4-q52-a4",
-        "titulo": "Artigo 4 — Whether Christ Made Any Stay in Hell?",
+        "titulo": "Artigo 4 — Se Cristo fez com que alguém permanecesse no inferno?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11985,7 +11985,7 @@
       },
       {
         "id": "p4-q52-a5",
-        "titulo": "Artigo 5 — Whether Christ Descending into Hell Delivered the Holy Fathers from Thence?",
+        "titulo": "Artigo 5 — Se Cristo descendo ao inferno libertou os Santos Padres de lá?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12024,7 +12024,7 @@
       },
       {
         "id": "p4-q52-a6",
-        "titulo": "Artigo 6 — Whether Christ Delivered Any of the Lost from Hell?",
+        "titulo": "Artigo 6 — Se Cristo libertou algum dos perdidos do inferno?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12063,7 +12063,7 @@
       },
       {
         "id": "p4-q52-a7",
-        "titulo": "Artigo 7 — Whether the Children Who Died in Original Sin Were Delivered by Christ?",
+        "titulo": "Artigo 7 — Se as crianças que morreram no pecado original foram libertadas por Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12102,7 +12102,7 @@
       },
       {
         "id": "p4-q52-a8",
-        "titulo": "Artigo 8 — Whether Christ by His Descent into Hell Delivered Souls from Purgatory?",
+        "titulo": "Artigo 8 — Se Cristo, por Sua descida ao Inferno, libertou as almas do Purgatório?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12143,11 +12143,11 @@
   },
   {
     "id": "p4-q53",
-    "titulo": "Questão 53 — Of Christ'S Resurrection",
+    "titulo": "Questão 53 — Da Ressurreição de Cristo",
     "children": [
       {
         "id": "p4-q53-a1",
-        "titulo": "Artigo 1 — Whether It Was Necessary for Christ to Rise Again?",
+        "titulo": "Artigo 1 — Se era necessário que Cristo ressuscitasse?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12186,7 +12186,7 @@
       },
       {
         "id": "p4-q53-a2",
-        "titulo": "Artigo 2 — Whether It Was Fitting for Christ to Rise Again on the Third Day?",
+        "titulo": "Artigo 2 — Se era apropriado que Cristo ressuscitasse no terceiro dia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12225,7 +12225,7 @@
       },
       {
         "id": "p4-q53-a3",
-        "titulo": "Artigo 3 — Whether Christ Was the First to Rise from the Dead?",
+        "titulo": "Artigo 3 — Se Cristo foi o primeiro a ressuscitar dentre os mortos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12260,7 +12260,7 @@
       },
       {
         "id": "p4-q53-a4",
-        "titulo": "Artigo 4 — Whether Christ Was the Cause of His Own Resurrection?",
+        "titulo": "Artigo 4 — Se Cristo foi a causa de sua própria ressurreição?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12301,11 +12301,11 @@
   },
   {
     "id": "p4-q54",
-    "titulo": "Questão 54 — Of The Quality Of Christ Rising Again",
+    "titulo": "Questão 54 — Da qualidade de Cristo ressuscitando",
     "children": [
       {
         "id": "p4-q54-a1",
-        "titulo": "Artigo 1 — Whether Christ Had a True Body After His Resurrection?",
+        "titulo": "Artigo 1 — Se Cristo teve um corpo verdadeiro após sua ressurreição?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12344,7 +12344,7 @@
       },
       {
         "id": "p4-q54-a2",
-        "titulo": "Artigo 2 — Whether Christ's Body Rose Glorified? [*Some editions give this article as the third, following the order of the introduction to the question. But it is evident from the first sentence of the body of A. 3 (A. 2 in the aforesaid editions), that the order of the Leonine edition is correct.]",
+        "titulo": "Artigo 2 — Se o corpo de Cristo foi glorificado? [*Algumas edições apresentam este artigo como o terceiro, seguindo a ordem da introdução à questão. Mas é evidente pela primeira frase do corpo de A. 3 (A. 2 nas edições acima mencionadas), que a ordem da edição leonina está correta.]",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12383,7 +12383,7 @@
       },
       {
         "id": "p4-q54-a3",
-        "titulo": "Artigo 3 — Whether Christ's Body Rose Again Entire?",
+        "titulo": "Artigo 3 — Se o corpo de Cristo ressuscitou inteiro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12422,7 +12422,7 @@
       },
       {
         "id": "p4-q54-a4",
-        "titulo": "Artigo 4 — Whether Christ's Body Ought to Have Risen with Its Scars?",
+        "titulo": "Artigo 4 — Se o corpo de Cristo deveria ter ressuscitado com suas cicatrizes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12463,11 +12463,11 @@
   },
   {
     "id": "p4-q55",
-    "titulo": "Questão 55 — Of The Manifestation Of The Resurrection",
+    "titulo": "Questão 55 — Da Manifestação Da Ressurreição",
     "children": [
       {
         "id": "p4-q55-a1",
-        "titulo": "Artigo 1 — Whether Christ's Resurrection Ought to Have Been Manifested to All?",
+        "titulo": "Artigo 1 — Se a ressurreição de Cristo deveria ter sido manifestada a todos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12506,7 +12506,7 @@
       },
       {
         "id": "p4-q55-a2",
-        "titulo": "Artigo 2 — Whether It Was Fitting That the Disciples Should See Him Rise Again?",
+        "titulo": "Artigo 2 — Se era apropriado que os discípulos o vissem ressuscitar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12545,7 +12545,7 @@
       },
       {
         "id": "p4-q55-a3",
-        "titulo": "Artigo 3 — Whether Christ Ought to Have Lived Constantly with His Disciples After the Resurrection?",
+        "titulo": "Artigo 3 — Se Cristo deveria ter vivido constantemente com seus discípulos após a ressurreição?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12592,7 +12592,7 @@
       },
       {
         "id": "p4-q55-a4",
-        "titulo": "Artigo 4 — Whether Christ Should Have Appeared to the Disciples \"in Another Shape\"?",
+        "titulo": "Artigo 4 — Se Cristo deveria ter aparecido aos discípulos “em outra forma”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12631,7 +12631,7 @@
       },
       {
         "id": "p4-q55-a5",
-        "titulo": "Artigo 5 — Whether Christ Should Have Demonstrated the Truth of His Resurrection by Proofs?",
+        "titulo": "Artigo 5 — Se Cristo deveria ter demonstrado a verdade de sua ressurreição por meio de provas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12670,7 +12670,7 @@
       },
       {
         "id": "p4-q55-a6",
-        "titulo": "Artigo 6 — Whether the Proofs Which Christ Made Use of Manifested Sufficiently the Truth of His Resurrection?",
+        "titulo": "Artigo 6 — Se as provas que Cristo fez uso manifestaram suficientemente a verdade de sua ressurreição?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12727,11 +12727,11 @@
   },
   {
     "id": "p4-q56",
-    "titulo": "Questão 56 — Of The Causality Of Christ'S Resurrection",
+    "titulo": "Questão 56 — Da causalidade da ressurreição de Cristo",
     "children": [
       {
         "id": "p4-q56-a1",
-        "titulo": "Artigo 1 — Whether Christ's Resurrection Is the Cause of the Resurrection of Our Bodies?",
+        "titulo": "Artigo 1 — Se a ressurreição de Cristo é a causa da ressurreição de nossos corpos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12778,7 +12778,7 @@
       },
       {
         "id": "p4-q56-a2",
-        "titulo": "Artigo 2 — Whether Christ's Resurrection Is the Cause of the Resurrection of Souls?",
+        "titulo": "Artigo 2 — Se a ressurreição de Cristo é a causa da ressurreição das almas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12827,11 +12827,11 @@
   },
   {
     "id": "p4-q57",
-    "titulo": "Questão 57 — Of The Ascension Of Christ",
+    "titulo": "Questão 57 — Da Ascensão de Cristo",
     "children": [
       {
         "id": "p4-q57-a1",
-        "titulo": "Artigo 1 — Whether It Was Fitting for Christ to Ascend into Heaven?",
+        "titulo": "Artigo 1 — Se era apropriado que Cristo ascendesse ao céu?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12878,7 +12878,7 @@
       },
       {
         "id": "p4-q57-a2",
-        "titulo": "Artigo 2 — Whether Christ's Ascension into Heaven Belonged to Him According to His Divine Nature?",
+        "titulo": "Artigo 2 — Se a ascensão de Cristo ao céu lhe pertenceu de acordo com sua natureza divina?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12917,7 +12917,7 @@
       },
       {
         "id": "p4-q57-a3",
-        "titulo": "Artigo 3 — Whether Christ Ascended by His Own Power?",
+        "titulo": "Artigo 3 — Se Cristo ascendeu pelo seu próprio poder?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12956,7 +12956,7 @@
       },
       {
         "id": "p4-q57-a4",
-        "titulo": "Artigo 4 — Whether Christ Ascended Above All the Heavens?",
+        "titulo": "Artigo 4 — Se Cristo ascendeu acima de todos os céus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13011,7 +13011,7 @@
       },
       {
         "id": "p4-q57-a5",
-        "titulo": "Artigo 5 — Whether Christ's Body Ascended Above Every Spiritual Creature?",
+        "titulo": "Artigo 5 — Se o corpo de Cristo ascendeu acima de toda criatura espiritual?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13050,7 +13050,7 @@
       },
       {
         "id": "p4-q57-a6",
-        "titulo": "Artigo 6 — Whether Christ's Ascension Is the Cause of Our Salvation?",
+        "titulo": "Artigo 6 — Se a ascensão de Cristo é a causa da nossa salvação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13091,11 +13091,11 @@
   },
   {
     "id": "p4-q58",
-    "titulo": "Questão 58 — Of Christ'S Sitting At The Right Hand Of The Father",
+    "titulo": "Questão 58 — De Cristo Sentado à Direita do Pai",
     "children": [
       {
         "id": "p4-q58-a1",
-        "titulo": "Artigo 1 — Whether It Is Fitting That Christ Should Sit at the Right Hand of God the Father?",
+        "titulo": "Artigo 1 — Se é apropriado que Cristo se sente à direita de Deus, o Pai?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13134,7 +13134,7 @@
       },
       {
         "id": "p4-q58-a2",
-        "titulo": "Artigo 2 — Whether It Belongs to Christ As God to Sit at the Right Hand of the Father?",
+        "titulo": "Artigo 2 — Se pertence a Cristo, como Deus, sentar-se à direita do Pai?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13173,7 +13173,7 @@
       },
       {
         "id": "p4-q58-a3",
-        "titulo": "Artigo 3 — Whether It Belongs to Christ As Man to Sit at the Right Hand of the Father?",
+        "titulo": "Artigo 3 — Se pertence a Cristo como homem sentar-se à direita do Pai?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13216,7 +13216,7 @@
       },
       {
         "id": "p4-q58-a4",
-        "titulo": "Artigo 4 — Whether It Is Proper to Christ to Sit at the Right Hand of the Father?",
+        "titulo": "Artigo 4 — Se é próprio de Cristo sentar-se à direita do Pai?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13265,11 +13265,11 @@
   },
   {
     "id": "p4-q59",
-    "titulo": "Questão 59 — Of Christ'S Judiciary Power",
+    "titulo": "Questão 59 — Do Poder Judiciário de Cristo",
     "children": [
       {
         "id": "p4-q59-a1",
-        "titulo": "Artigo 1 — Whether Judiciary Power Is to Be Specially Attributed to Christ?",
+        "titulo": "Artigo 1 — Se o poder judiciário deve ser atribuído especialmente a Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13308,7 +13308,7 @@
       },
       {
         "id": "p4-q59-a2",
-        "titulo": "Artigo 2 — Whether Judiciary Power Belongs to Christ As Man?",
+        "titulo": "Artigo 2 — Se o poder judiciário pertence a Cristo como homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13347,7 +13347,7 @@
       },
       {
         "id": "p4-q59-a3",
-        "titulo": "Artigo 3 — Whether Christ Acquired His Judiciary Power by His Merits?",
+        "titulo": "Artigo 3 — Se Cristo adquiriu seu poder judiciário por seus méritos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13386,7 +13386,7 @@
       },
       {
         "id": "p4-q59-a4",
-        "titulo": "Artigo 4 — Whether Judiciary Power Belongs to Christ with Respect to All Human Affairs?",
+        "titulo": "Artigo 4 — Se o poder judiciário pertence a Cristo no que diz respeito a todos os assuntos humanos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13425,7 +13425,7 @@
       },
       {
         "id": "p4-q59-a5",
-        "titulo": "Artigo 5 — Whether After the Judgment That Takes Place in the Present Time, There Remains Yet Another General Judgment?",
+        "titulo": "Artigo 5 — Se depois do julgamento que ocorre no tempo presente ainda resta outro julgamento geral?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13464,7 +13464,7 @@
       },
       {
         "id": "p4-q59-a6",
-        "titulo": "Artigo 6 — Whether Christ's Judiciary Power Extends to the Angels?",
+        "titulo": "Artigo 6 — Se o poder judiciário de Cristo se estende aos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13505,11 +13505,11 @@
   },
   {
     "id": "p4-q60",
-    "titulo": "Questão 60 — What Is A Sacrament?",
+    "titulo": "Questão 60 — O que é um sacramento?",
     "children": [
       {
         "id": "p4-q60-a1",
-        "titulo": "Artigo 1 — Whether a Sacrament Is a Kind of Sign?",
+        "titulo": "Artigo 1 — Se um sacramento é uma espécie de sinal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13548,7 +13548,7 @@
       },
       {
         "id": "p4-q60-a2",
-        "titulo": "Artigo 2 — Whether Every Sign of a Holy Thing Is a Sacrament?",
+        "titulo": "Artigo 2 — Se todo sinal de uma coisa sagrada é um sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13587,7 +13587,7 @@
       },
       {
         "id": "p4-q60-a3",
-        "titulo": "Artigo 3 — Whether a Sacrament Is a Sign of One Thing Only?",
+        "titulo": "Artigo 3 — Se um sacramento é sinal de apenas uma coisa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13626,7 +13626,7 @@
       },
       {
         "id": "p4-q60-a4",
-        "titulo": "Artigo 4 — Whether a Sacrament Is Always Something Sensible?",
+        "titulo": "Artigo 4 — Se um sacramento é sempre algo sensato?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13665,7 +13665,7 @@
       },
       {
         "id": "p4-q60-a5",
-        "titulo": "Artigo 5 — Whether Determinate Things Are Required for a Sacrament?",
+        "titulo": "Artigo 5 — Se coisas determinadas são necessárias para um sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13704,7 +13704,7 @@
       },
       {
         "id": "p4-q60-a7",
-        "titulo": "Artigo 7 — Whether Determinate Words Are Required in the Sacraments?",
+        "titulo": "Artigo 7 — Se palavras determinadas são exigidas nos sacramentos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13743,7 +13743,7 @@
       },
       {
         "id": "p4-q60-a8",
-        "titulo": "Artigo 8 — Whether It Is Lawful to Add Anything to the Words in Which the Sacramental Form Consists?",
+        "titulo": "Artigo 8 — Se é lícito acrescentar algo às palavras em que consiste a forma sacramental?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13784,11 +13784,11 @@
   },
   {
     "id": "p4-q61",
-    "titulo": "Questão 61 — Of The Necessity Of The Sacraments",
+    "titulo": "Questão 61 — Da necessidade dos sacramentos",
     "children": [
       {
         "id": "p4-q61-a1",
-        "titulo": "Artigo 1 — Whether Sacraments Are Necessary for Man's Salvation?",
+        "titulo": "Artigo 1 — Se os sacramentos são necessários para a salvação do homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13827,7 +13827,7 @@
       },
       {
         "id": "p4-q61-a2",
-        "titulo": "Artigo 2 — Whether Before Sin Sacraments Were Necessary to Man?",
+        "titulo": "Artigo 2 — Se antes do pecado os sacramentos eram necessários ao homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13866,7 +13866,7 @@
       },
       {
         "id": "p4-q61-a3",
-        "titulo": "Artigo 3 — Whether There Should Have Been Sacraments After Sin, Before Christ?",
+        "titulo": "Artigo 3 — Se deveria ter havido sacramentos depois do pecado, antes de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13905,7 +13905,7 @@
       },
       {
         "id": "p4-q61-a4",
-        "titulo": "Artigo 4 — Whether There Was Need for Any Sacraments After Christ Came?",
+        "titulo": "Artigo 4 — Se houve necessidade de algum sacramento depois da vinda de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13946,11 +13946,11 @@
   },
   {
     "id": "p4-q62",
-    "titulo": "Questão 62 — Of The Sacraments' Principal Effect, Which Is Grace",
+    "titulo": "Questão 62 — Do efeito principal dos sacramentos, que é a graça",
     "children": [
       {
         "id": "p4-q62-a1",
-        "titulo": "Artigo 1 — Whether the Sacraments Are the Cause of Grace?",
+        "titulo": "Artigo 1 — Se os sacramentos são a causa da graça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13989,7 +13989,7 @@
       },
       {
         "id": "p4-q62-a2",
-        "titulo": "Artigo 2 — Whether Sacramental Grace Confers Anything in Addition to the Grace of the Virtues and Gifts?",
+        "titulo": "Artigo 2 — Se a graça sacramental confere algo além da graça das virtudes e dos dons?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14028,7 +14028,7 @@
       },
       {
         "id": "p4-q62-a3",
-        "titulo": "Artigo 3 — Whether the Sacraments of the New Law Contain Grace?",
+        "titulo": "Artigo 3 — Se os sacramentos da nova lei contêm graça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14067,7 +14067,7 @@
       },
       {
         "id": "p4-q62-a4",
-        "titulo": "Artigo 4 — Whether There Be in the Sacraments a Power of Causing Grace?",
+        "titulo": "Artigo 4 — Se existe nos sacramentos um poder de causar graça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14114,7 +14114,7 @@
       },
       {
         "id": "p4-q62-a5",
-        "titulo": "Artigo 5 — Whether the Sacraments of the New Law Derive Their Power from Christ's Passion?",
+        "titulo": "Artigo 5 — Se os sacramentos da nova lei derivam o seu poder da paixão de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14153,7 +14153,7 @@
       },
       {
         "id": "p4-q62-a6",
-        "titulo": "Artigo 6 — Whether the Sacraments of the Old Law Caused Grace?",
+        "titulo": "Artigo 6 — Se os sacramentos da antiga lei causaram graça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14194,11 +14194,11 @@
   },
   {
     "id": "p4-q63",
-    "titulo": "Questão 63 — Of The Other Effect Of The Sacraments, Which Is A Character",
+    "titulo": "Questão 63 — Do outro efeito dos sacramentos, que é um personagem",
     "children": [
       {
         "id": "p4-q63-a1",
-        "titulo": "Artigo 1 — Whether a Sacrament Imprints a Character on the Soul?",
+        "titulo": "Artigo 1 — Se um Sacramento imprime um caráter na alma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14237,7 +14237,7 @@
       },
       {
         "id": "p4-q63-a2",
-        "titulo": "Artigo 2 — Whether a Character Is a Spiritual Power?",
+        "titulo": "Artigo 2 — Se um personagem é um poder espiritual?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14284,7 +14284,7 @@
       },
       {
         "id": "p4-q63-a3",
-        "titulo": "Artigo 3 — Whether the Sacramental Character Is the Character of Christ?",
+        "titulo": "Artigo 3 — Se o caráter sacramental é o caráter de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14323,7 +14323,7 @@
       },
       {
         "id": "p4-q63-a4",
-        "titulo": "Artigo 4 — Whether the Character Be Subjected in the Powers of the Soul?",
+        "titulo": "Artigo 4 — Se o personagem está sujeito aos poderes da alma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14362,7 +14362,7 @@
       },
       {
         "id": "p4-q63-a5",
-        "titulo": "Artigo 5 — Whether a Character Can Be Blotted Out from the Soul?",
+        "titulo": "Artigo 5 — Se um personagem pode ser apagado da alma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14401,7 +14401,7 @@
       },
       {
         "id": "p4-q63-a6",
-        "titulo": "Artigo 6 — Whether a Character Is Imprinted by Each Sacrament of the New Law?",
+        "titulo": "Artigo 6 — Se um caráter é impresso em cada sacramento da nova lei?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14442,11 +14442,11 @@
   },
   {
     "id": "p4-q64",
-    "titulo": "Questão 64 — Of The Causes Of The Sacraments",
+    "titulo": "Questão 64 — Das Causas dos Sacramentos",
     "children": [
       {
         "id": "p4-q64-a1",
-        "titulo": "Artigo 1 — Whether God Alone, or the Minister Also, Works Inwardly Unto the Sacramental Effect?",
+        "titulo": "Artigo 1 — Quer somente Deus, ou também o ministro, opere interiormente para o efeito sacramental?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14485,7 +14485,7 @@
       },
       {
         "id": "p4-q64-a2",
-        "titulo": "Artigo 2 — Whether the Sacraments Are Instituted by God Alone?",
+        "titulo": "Artigo 2 — Se os sacramentos são instituídos somente por Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14528,7 +14528,7 @@
       },
       {
         "id": "p4-q64-a3",
-        "titulo": "Artigo 3 — Whether Christ As Man Had the Power of Producing the Inward Sacramental Effect?",
+        "titulo": "Artigo 3 — Se Cristo, como homem, tinha o poder de produzir o efeito sacramental interior?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14563,7 +14563,7 @@
       },
       {
         "id": "p4-q64-a4",
-        "titulo": "Artigo 4 — Whether Christ Could Communicate to Ministers the Power Which He Had in the Sacraments?",
+        "titulo": "Artigo 4 — Se Cristo poderia comunicar aos ministros o poder que tinha nos sacramentos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14602,7 +14602,7 @@
       },
       {
         "id": "p4-q64-a5",
-        "titulo": "Artigo 5 — Whether the Sacraments Can Be Conferred by Evil Ministers?",
+        "titulo": "Artigo 5 — Se os sacramentos podem ser conferidos por ministros maus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14641,7 +14641,7 @@
       },
       {
         "id": "p4-q64-a6",
-        "titulo": "Artigo 6 — Whether Wicked Men Sin in Administering the Sacraments?",
+        "titulo": "Artigo 6 — Se os homens ímpios pecam ao administrar os sacramentos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14680,7 +14680,7 @@
       },
       {
         "id": "p4-q64-a7",
-        "titulo": "Artigo 7 — Whether Angels Can Administer Sacraments?",
+        "titulo": "Artigo 7 — Se os anjos podem administrar sacramentos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14719,7 +14719,7 @@
       },
       {
         "id": "p4-q64-a8",
-        "titulo": "Artigo 8 — Whether the Minister's Intention Is Required for the Validity of a Sacrament?",
+        "titulo": "Artigo 8 — Se a intenção do ministro é necessária para a validade de um sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14758,7 +14758,7 @@
       },
       {
         "id": "p4-q64-a9",
-        "titulo": "Artigo 9 — Whether Faith Is Required of Necessity in the Minister of a Sacrament?",
+        "titulo": "Artigo 9 — Se a fé é necessária por necessidade no ministro de um sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14797,7 +14797,7 @@
       },
       {
         "id": "p4-q64-a10",
-        "titulo": "Artigo 10 — Whether the Validity of a Sacrament Requires a Good Intention in the Minister?",
+        "titulo": "Artigo 10 — Se a validade de um sacramento exige uma boa intenção do ministro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14838,11 +14838,11 @@
   },
   {
     "id": "p4-q65",
-    "titulo": "Questão 65 — Of The Number Of The Sacraments",
+    "titulo": "Questão 65 — Do número dos sacramentos",
     "children": [
       {
         "id": "p4-q65-a1",
-        "titulo": "Artigo 1 — Whether There Should Be Seven Sacraments?",
+        "titulo": "Artigo 1 — Se deveria haver sete sacramentos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14917,7 +14917,7 @@
       },
       {
         "id": "p4-q65-a2",
-        "titulo": "Artigo 2 — Whether the Order of the Sacraments, As Given Above, Is Becoming?",
+        "titulo": "Artigo 2 — Se a ordem dos sacramentos, conforme apresentada acima, está se tornando?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14972,7 +14972,7 @@
       },
       {
         "id": "p4-q65-a3",
-        "titulo": "Artigo 3 — Whether the Eucharist Is the Greatest of the Sacraments?",
+        "titulo": "Artigo 3 — Se a Eucaristia é o maior dos sacramentos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15019,7 +15019,7 @@
       },
       {
         "id": "p4-q65-a4",
-        "titulo": "Artigo 4 — Whether All the Sacraments Are Necessary for Salvation?",
+        "titulo": "Artigo 4 — Se todos os sacramentos são necessários para a salvação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15060,11 +15060,11 @@
   },
   {
     "id": "p4-q66",
-    "titulo": "Questão 66 — Of The Sacrament Of Baptism",
+    "titulo": "Questão 66 — Do Sacramento do Batismo",
     "children": [
       {
         "id": "p4-q66-a1",
-        "titulo": "Artigo 1 — Whether Baptism Is the Mere Washing?",
+        "titulo": "Artigo 1 — Se o batismo é uma mera lavagem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15103,7 +15103,7 @@
       },
       {
         "id": "p4-q66-a2",
-        "titulo": "Artigo 2 — Whether Baptism Was Instituted After Christ's Passion?",
+        "titulo": "Artigo 2 — Se o batismo foi instituído depois da paixão de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15142,7 +15142,7 @@
       },
       {
         "id": "p4-q66-a3",
-        "titulo": "Artigo 3 — Whether Water Is the Proper Matter of Baptism?",
+        "titulo": "Artigo 3 — Se a água é a matéria adequada do batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15197,7 +15197,7 @@
       },
       {
         "id": "p4-q66-a4",
-        "titulo": "Artigo 4 — Whether Plain Water Is Necessary for Baptism?",
+        "titulo": "Artigo 4 — Se a água pura é necessária para o batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15252,7 +15252,7 @@
       },
       {
         "id": "p4-q66-a5",
-        "titulo": "Artigo 5 — Whether This Be a Suitable Form of Baptism: \"I Baptize Thee in the Name of the Father, and of the Son, and of the Holy Ghost\"?",
+        "titulo": "Artigo 5 — Se esta é uma forma adequada de batismo: “Eu te batizo em nome do Pai, e do Filho, e do Espírito Santo”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15323,7 +15323,7 @@
       },
       {
         "id": "p4-q66-a6",
-        "titulo": "Artigo 6 — Whether Baptism Can Be Conferred in the Name of Christ?",
+        "titulo": "Artigo 6 — Se o batismo pode ser conferido em nome de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15362,7 +15362,7 @@
       },
       {
         "id": "p4-q66-a7",
-        "titulo": "Artigo 7 — Whether Immersion in Water Is Necessary for Baptism?",
+        "titulo": "Artigo 7 — Se a imersão em água é necessária para o batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15401,7 +15401,7 @@
       },
       {
         "id": "p4-q66-a8",
-        "titulo": "Artigo 8 — Whether Trine Immersion Is Essential to Baptism?",
+        "titulo": "Artigo 8 — Se a imersão em trígono é essencial para o batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15440,7 +15440,7 @@
       },
       {
         "id": "p4-q66-a9",
-        "titulo": "Artigo 9 — Whether Baptism May Be Reiterated?",
+        "titulo": "Artigo 9 — Se o batismo pode ser reiterado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15495,7 +15495,7 @@
       },
       {
         "id": "p4-q66-a10",
-        "titulo": "Artigo 10 — Whether the Church Observes a Suitable Rite in Baptizing?",
+        "titulo": "Artigo 10 — Se a Igreja observa um rito adequado no batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15542,7 +15542,7 @@
       },
       {
         "id": "p4-q66-a11",
-        "titulo": "Artigo 11 — Whether Three Kinds of Baptism Are Fittingly Described--viz. Baptism of Water, of Blood, and of the Spirit?",
+        "titulo": "Artigo 11 — Se três tipos de batismo são adequadamente descritos - viz. Batismo de Água, de Sangue e do Espírito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15581,7 +15581,7 @@
       },
       {
         "id": "p4-q66-a12",
-        "titulo": "Artigo 12 — Whether the Baptism of Blood Is the Most Excellent of These?",
+        "titulo": "Artigo 12 — Se o batismo de sangue é o mais excelente destes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15622,11 +15622,11 @@
   },
   {
     "id": "p4-q67",
-    "titulo": "Questão 67 — Of The Ministers By Whom The Sacrament Of Baptism Is Conferred",
+    "titulo": "Questão 67 — Dos ministros por quem é conferido o sacramento do Batismo",
     "children": [
       {
         "id": "p4-q67-a1",
-        "titulo": "Artigo 1 — Whether It Is Part of a Deacon's Duty to Baptize?",
+        "titulo": "Artigo 1 — Se batizar faz parte do dever do diácono?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15665,7 +15665,7 @@
       },
       {
         "id": "p4-q67-a2",
-        "titulo": "Artigo 2 — Whether to Baptize Is Part of the Priestly Office, or Proper to That of Bishops?",
+        "titulo": "Artigo 2 — Se batizar faz parte do ofício sacerdotal ou é próprio do ofício dos bispos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15704,7 +15704,7 @@
       },
       {
         "id": "p4-q67-a3",
-        "titulo": "Artigo 3 — Whether a Layman Can Baptize?",
+        "titulo": "Artigo 3 — Se um leigo pode batizar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15743,7 +15743,7 @@
       },
       {
         "id": "p4-q67-a4",
-        "titulo": "Artigo 4 — Whether a Woman Can Baptize?",
+        "titulo": "Artigo 4 — Se uma mulher pode batizar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15782,7 +15782,7 @@
       },
       {
         "id": "p4-q67-a5",
-        "titulo": "Artigo 5 — Whether One That Is Not Baptized Can Confer the Sacrament of Baptism?",
+        "titulo": "Artigo 5 — Se alguém que não é batizado pode conferir o sacramento do Batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15821,7 +15821,7 @@
       },
       {
         "id": "p4-q67-a6",
-        "titulo": "Artigo 6 — Whether Several Can Baptize at the Same Time?",
+        "titulo": "Artigo 6 — Se vários podem batizar ao mesmo tempo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15860,7 +15860,7 @@
       },
       {
         "id": "p4-q67-a7",
-        "titulo": "Artigo 7 — Whether in Baptism It Is Necessary for Someone to Raise the Baptized from the Sacred Font?",
+        "titulo": "Artigo 7 — Se no Batismo é necessário que alguém eleve o batizado da fonte sagrada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15899,7 +15899,7 @@
       },
       {
         "id": "p4-q67-a8",
-        "titulo": "Artigo 8 — Whether He Who Raises Anyone from the Sacred Font Is Bound to Instruct Him?",
+        "titulo": "Artigo 8 — Se aquele que eleva alguém da fonte sagrada está obrigado a instruí-lo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15940,11 +15940,11 @@
   },
   {
     "id": "p4-q68",
-    "titulo": "Questão 68 — Of Those Who Receive Baptism",
+    "titulo": "Questão 68 — Dos que Recebem o Batismo",
     "children": [
       {
         "id": "p4-q68-a1",
-        "titulo": "Artigo 1 — Whether All Are Bound to Receive Baptism?",
+        "titulo": "Artigo 1 — Se todos estão obrigados a receber o batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15983,7 +15983,7 @@
       },
       {
         "id": "p4-q68-a2",
-        "titulo": "Artigo 2 — Whether a Man Can Be Saved Without Baptism?",
+        "titulo": "Artigo 2 — Se um homem pode ser salvo sem batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16022,7 +16022,7 @@
       },
       {
         "id": "p4-q68-a3",
-        "titulo": "Artigo 3 — Whether Baptism Should Be Deferred?",
+        "titulo": "Artigo 3 — Se o batismo deve ser adiado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16061,7 +16061,7 @@
       },
       {
         "id": "p4-q68-a4",
-        "titulo": "Artigo 4 — Whether Sinners Should Be Baptized?",
+        "titulo": "Artigo 4 — Se os pecadores devem ser batizados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16100,7 +16100,7 @@
       },
       {
         "id": "p4-q68-a5",
-        "titulo": "Artigo 5 — Whether Works of Satisfaction Should Be Enjoined on Sinners That Have Been Baptized?",
+        "titulo": "Artigo 5 — Se as obras de satisfação devem ser impostas aos pecadores que foram batizados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16139,7 +16139,7 @@
       },
       {
         "id": "p4-q68-a6",
-        "titulo": "Artigo 6 — Whether Sinners Who Are Going to Be Baptized Are Bound to Confess Their Sins?",
+        "titulo": "Artigo 6 — Se os pecadores que vão ser batizados são obrigados a confessar seus pecados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16178,7 +16178,7 @@
       },
       {
         "id": "p4-q68-a7",
-        "titulo": "Artigo 7 — Whether the Intention of Receiving the Sacrament of Baptism Is Required on the Part of the One Baptized?",
+        "titulo": "Artigo 7 — Se a intenção de receber o sacramento do Batismo é exigida por parte do batizado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16217,7 +16217,7 @@
       },
       {
         "id": "p4-q68-a8",
-        "titulo": "Artigo 8 — Whether Faith Is Required on the Part of the One Baptized?",
+        "titulo": "Artigo 8 — Se é exigida fé da parte do batizado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16268,7 +16268,7 @@
       },
       {
         "id": "p4-q68-a9",
-        "titulo": "Artigo 9 — Whether Children Should Be Baptized?",
+        "titulo": "Artigo 9 — Se as crianças devem ser batizadas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16307,7 +16307,7 @@
       },
       {
         "id": "p4-q68-a10",
-        "titulo": "Artigo 10 — Whether Children of Jews or Other Unbelievers Should Be Baptized Against the Will of Their Parents?",
+        "titulo": "Artigo 10 — Se os filhos de judeus ou de outros incrédulos deveriam ser batizados contra a vontade dos pais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16346,7 +16346,7 @@
       },
       {
         "id": "p4-q68-a11",
-        "titulo": "Artigo 11 — Whether a Child Can Be Baptized While Yet in Its Mother's Womb?",
+        "titulo": "Artigo 11 — Se uma criança pode ser batizada ainda no ventre da mãe?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16393,7 +16393,7 @@
       },
       {
         "id": "p4-q68-a12",
-        "titulo": "Artigo 12 — Whether Madmen and Imbeciles Should Be Baptized?",
+        "titulo": "Artigo 12 — Se os loucos e os imbecis deveriam ser batizados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16434,11 +16434,11 @@
   },
   {
     "id": "p4-q69",
-    "titulo": "Questão 69 — Of The Effects Of Baptism",
+    "titulo": "Questão 69 — Dos efeitos do batismo",
     "children": [
       {
         "id": "p4-q69-a1",
-        "titulo": "Artigo 1 — Whether All Sins Are Taken Away by Baptism?",
+        "titulo": "Artigo 1 — Se todos os pecados são removidos pelo batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16477,7 +16477,7 @@
       },
       {
         "id": "p4-q69-a2",
-        "titulo": "Artigo 2 — Whether Man Is Freed by Baptism from All Debt of Punishment Due to Sin?",
+        "titulo": "Artigo 2 — Se o homem é libertado pelo batismo de toda dívida de punição devida ao pecado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16516,7 +16516,7 @@
       },
       {
         "id": "p4-q69-a3",
-        "titulo": "Artigo 3 — Whether Baptism Should Take Away the Penalties of Sin That Belong to This Life?",
+        "titulo": "Artigo 3 — Se o batismo deve eliminar as penalidades do pecado que pertencem a esta vida?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16555,7 +16555,7 @@
       },
       {
         "id": "p4-q69-a4",
-        "titulo": "Artigo 4 — Whether Grace and Virtues Are Bestowed on Man by Baptism?",
+        "titulo": "Artigo 4 — Se a graça e as virtudes são concedidas ao homem pelo batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16594,7 +16594,7 @@
       },
       {
         "id": "p4-q69-a5",
-        "titulo": "Artigo 5 — Whether Certain Acts of the Virtues Are Fittingly Set Down As Effects of Baptism, to Wit--Incorporation in Christ, Enlightenment, and Fruitfulness?",
+        "titulo": "Artigo 5 — Se certos atos das virtudes são apropriadamente considerados como efeitos do batismo, a saber: incorporação em Cristo, iluminação e fecundidade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16633,7 +16633,7 @@
       },
       {
         "id": "p4-q69-a6",
-        "titulo": "Artigo 6 — Whether Children Receive Grace and Virtue in Baptism?",
+        "titulo": "Artigo 6 — Se as crianças recebem graça e virtude no batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16680,7 +16680,7 @@
       },
       {
         "id": "p4-q69-a7",
-        "titulo": "Artigo 7 — Whether the Effect of Baptism Is to Open the Gates of the Heavenly Kingdom?",
+        "titulo": "Artigo 7 — Se o efeito do batismo é abrir as portas do reino celestial?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16719,7 +16719,7 @@
       },
       {
         "id": "p4-q69-a8",
-        "titulo": "Artigo 8 — Whether Baptism Has an Equal Effect in All?",
+        "titulo": "Artigo 8 — Se o batismo tem efeito igual em todos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16766,7 +16766,7 @@
       },
       {
         "id": "p4-q69-a9",
-        "titulo": "Artigo 9 — Whether Insincerity Hinders the Effect of Baptism?",
+        "titulo": "Artigo 9 — Se a falta de sinceridade prejudica o efeito do batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16805,7 +16805,7 @@
       },
       {
         "id": "p4-q69-a10",
-        "titulo": "Artigo 10 — Whether Baptism Produces Its Effect When the Insincerity Ceases?",
+        "titulo": "Artigo 10 — Se o batismo produz seu efeito quando cessa a insinceridade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16846,11 +16846,11 @@
   },
   {
     "id": "p4-q70",
-    "titulo": "Questão 70 — Of Circumcision",
+    "titulo": "Questão 70 — Da Circuncisão",
     "children": [
       {
         "id": "p4-q70-a1",
-        "titulo": "Artigo 1 — Whether Circumcision Was a Preparation For, and a Figure of Baptism?",
+        "titulo": "Artigo 1 — Se a circuncisão foi uma preparação e uma figura do batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16889,7 +16889,7 @@
       },
       {
         "id": "p4-q70-a2",
-        "titulo": "Artigo 2 — Whether Circumcision Was Instituted in a Fitting Manner?",
+        "titulo": "Artigo 2 — Se a circuncisão foi instituída de maneira adequada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16936,7 +16936,7 @@
       },
       {
         "id": "p4-q70-a3",
-        "titulo": "Artigo 3 — Whether the Rite of Circumcision Was Fitting?",
+        "titulo": "Artigo 3 — Se o rito da circuncisão era adequado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16975,7 +16975,7 @@
       },
       {
         "id": "p4-q70-a4",
-        "titulo": "Artigo 4 — Whether Circumcision Bestowed Sanctifying Grace?",
+        "titulo": "Artigo 4 — Se a circuncisão concedeu graça santificadora?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17032,11 +17032,11 @@
   },
   {
     "id": "p4-q71",
-    "titulo": "Questão 71 — Of The Preparations That Accompany Baptism",
+    "titulo": "Questão 71 — Dos preparativos que acompanham o batismo",
     "children": [
       {
         "id": "p4-q71-a1",
-        "titulo": "Artigo 1 — Whether Catechism Should Precede Baptism?",
+        "titulo": "Artigo 1 — Se o catecismo deve preceder o batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17075,7 +17075,7 @@
       },
       {
         "id": "p4-q71-a2",
-        "titulo": "Artigo 2 — Whether Exorcism Should Precede Baptism?",
+        "titulo": "Artigo 2 — Se o exorcismo deve preceder o batismo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17114,7 +17114,7 @@
       },
       {
         "id": "p4-q71-a3",
-        "titulo": "Artigo 3 — Whether What Is Done in the Exorcism Effects Anything, or Is a Mere Sign?",
+        "titulo": "Artigo 3 — Se o que é feito no exorcismo tem algum efeito ou é um mero sinal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17161,7 +17161,7 @@
       },
       {
         "id": "p4-q71-a4",
-        "titulo": "Artigo 4 — Whether It Belongs to a Priest to Catechize and Exorcize the Person to Be Baptized?",
+        "titulo": "Artigo 4 — Cabe ao sacerdote catequizar e exorcizar a pessoa a ser batizada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17202,11 +17202,11 @@
   },
   {
     "id": "p4-q72",
-    "titulo": "Questão 72 — Of The Sacrament Of Confirmation",
+    "titulo": "Questão 72 — Do Sacramento da Confirmação",
     "children": [
       {
         "id": "p4-q72-a1",
-        "titulo": "Artigo 1 — Whether Confirmation Is a Sacrament?",
+        "titulo": "Artigo 1 — Se a Confirmação é um Sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17253,7 +17253,7 @@
       },
       {
         "id": "p4-q72-a2",
-        "titulo": "Artigo 2 — Whether Chrism Is a Fitting Matter for This Sacrament?",
+        "titulo": "Artigo 2 — Se o Crisma é um assunto adequado para este sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17300,7 +17300,7 @@
       },
       {
         "id": "p4-q72-a3",
-        "titulo": "Artigo 3 — Whether It Is Essential to This Sacrament That the Chrism Which Is Its Matter Be Previously Consecrated by a Bishop?",
+        "titulo": "Artigo 3 — Se é essencial para este Sacramento que o Crisma de que trata seja previamente consagrado por um Bispo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17335,7 +17335,7 @@
       },
       {
         "id": "p4-q72-a4",
-        "titulo": "Artigo 4 — Whether the Proper Form of This Sacrament Is: \"I Sign Thee with the Sign of the Cross,\" Etc.?",
+        "titulo": "Artigo 4 — Se a forma adequada deste sacramento é: “Eu te assino com o sinal da cruz”, etc.?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17374,7 +17374,7 @@
       },
       {
         "id": "p4-q72-a5",
-        "titulo": "Artigo 5 — Whether the Sacrament of Confirmation Imprints a Character?",
+        "titulo": "Artigo 5 — Se o Sacramento da Confirmação imprime um caráter?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17413,7 +17413,7 @@
       },
       {
         "id": "p4-q72-a6",
-        "titulo": "Artigo 6 — Whether the Character of Confirmation Presupposes of Necessity, the Baptismal Character?",
+        "titulo": "Artigo 6 — Se o caráter da confirmação pressupõe a necessidade, o caráter batismal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17452,7 +17452,7 @@
       },
       {
         "id": "p4-q72-a7",
-        "titulo": "Artigo 7 — Whether Sanctifying Grace Is Bestowed in This Sacrament?",
+        "titulo": "Artigo 7 — Se a graça santificante é concedida neste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17491,7 +17491,7 @@
       },
       {
         "id": "p4-q72-a8",
-        "titulo": "Artigo 8 — Whether This Sacrament Should Be Given to All?",
+        "titulo": "Artigo 8 — Se este sacramento deve ser dado a todos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17538,7 +17538,7 @@
       },
       {
         "id": "p4-q72-a9",
-        "titulo": "Artigo 9 — Whether This Sacrament Should Be Given to Man on the Forehead?",
+        "titulo": "Artigo 9 — Se este sacramento deve ser dado ao homem na testa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17577,7 +17577,7 @@
       },
       {
         "id": "p4-q72-a10",
-        "titulo": "Artigo 10 — Whether He Who Is Confirmed Needs One to Stand* for Him? [*Literally, \"to hold him\"]",
+        "titulo": "Artigo 10 — Se aquele que foi confirmado precisa de alguém que o defenda*? [*Literalmente, \"para segurá-lo\"]",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17616,7 +17616,7 @@
       },
       {
         "id": "p4-q72-a11",
-        "titulo": "Artigo 11 — Whether Only a Bishop Can Confer This Sacrament?",
+        "titulo": "Artigo 11 — Se apenas um bispo pode conferir este sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17655,7 +17655,7 @@
       },
       {
         "id": "p4-q72-a12",
-        "titulo": "Artigo 12 — Whether the Rite of This Sacrament Is Appropriate?",
+        "titulo": "Artigo 12 — Se o rito deste sacramento é apropriado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17696,11 +17696,11 @@
   },
   {
     "id": "p4-q73",
-    "titulo": "Questão 73 — Of The Sacrament Of The Eucharist",
+    "titulo": "Questão 73 — Do Sacramento Da Eucaristia",
     "children": [
       {
         "id": "p4-q73-a1",
-        "titulo": "Artigo 1 — Whether the Eucharist Is a Sacrament?",
+        "titulo": "Artigo 1 — Se a Eucaristia é um Sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17739,7 +17739,7 @@
       },
       {
         "id": "p4-q73-a2",
-        "titulo": "Artigo 2 — Whether the Eucharist Is One Sacrament or Several?",
+        "titulo": "Artigo 2 — Se a Eucaristia é um ou vários sacramentos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17778,7 +17778,7 @@
       },
       {
         "id": "p4-q73-a3",
-        "titulo": "Artigo 3 — Whether the Eucharist Is Necessary for Salvation?",
+        "titulo": "Artigo 3 — Se a Eucaristia é necessária para a salvação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17817,7 +17817,7 @@
       },
       {
         "id": "p4-q73-a4",
-        "titulo": "Artigo 4 — Whether This Sacrament Is Suitably Called by Various Names?",
+        "titulo": "Artigo 4 — Se este sacramento é adequadamente chamado por vários nomes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17856,7 +17856,7 @@
       },
       {
         "id": "p4-q73-a5",
-        "titulo": "Artigo 5 — Whether the Institution of This Sacrament Was Appropriate?",
+        "titulo": "Artigo 5 — Se a instituição deste sacramento foi apropriada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17903,7 +17903,7 @@
       },
       {
         "id": "p4-q73-a6",
-        "titulo": "Artigo 6 — Whether the Paschal Lamb Was the Chief Figure of This Sacrament?",
+        "titulo": "Artigo 6 — Se o Cordeiro Pascal foi a figura principal deste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17932,11 +17932,11 @@
   },
   {
     "id": "p4-q74",
-    "titulo": "Questão 74 — Of The Matter Of This Sacrament",
+    "titulo": "Questão 74 — Da Matéria Deste Sacramento",
     "children": [
       {
         "id": "p4-q74-a1",
-        "titulo": "Artigo 1 — Whether the Matter of This Sacrament Is Bread and Wine?",
+        "titulo": "Artigo 1 — Se a matéria deste sacramento é pão e vinho?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17975,7 +17975,7 @@
       },
       {
         "id": "p4-q74-a2",
-        "titulo": "Artigo 2 — Whether a Determinate Quantity of Bread and Wine Is Required for the Matter of This Sacrament?",
+        "titulo": "Artigo 2 — Se uma quantidade determinada de pão e vinho é necessária para a questão deste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18014,7 +18014,7 @@
       },
       {
         "id": "p4-q74-a3",
-        "titulo": "Artigo 3 — Whether Wheaten Bread Is Required for the Matter of This Sacrament?",
+        "titulo": "Artigo 3 — Se o pão de trigo é necessário para a questão deste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18061,7 +18061,7 @@
       },
       {
         "id": "p4-q74-a4",
-        "titulo": "Artigo 4 — Whether This Sacrament Ought to Be Made of Unleavened Bread?",
+        "titulo": "Artigo 4 — Se este sacramento deve ser feito de pães ázimos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18108,7 +18108,7 @@
       },
       {
         "id": "p4-q74-a5",
-        "titulo": "Artigo 5 — Whether Wine of the Grape Is the Proper Matter of This Sacrament?",
+        "titulo": "Artigo 5 — Se o vinho da uva é a matéria adequada deste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18147,7 +18147,7 @@
       },
       {
         "id": "p4-q74-a6",
-        "titulo": "Artigo 6 — Whether Water Should Be Mixed with the Wine?",
+        "titulo": "Artigo 6 — Se a água deve ser misturada com o vinho?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18186,7 +18186,7 @@
       },
       {
         "id": "p4-q74-a7",
-        "titulo": "Artigo 7 — Whether the Mixing with Water Is Essential to This Sacrament?",
+        "titulo": "Artigo 7 — Se a mistura com água é essencial para este sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18225,7 +18225,7 @@
       },
       {
         "id": "p4-q74-a8",
-        "titulo": "Artigo 8 — Whether Water Should Be Added in Great Quantity?",
+        "titulo": "Artigo 8 — Se a água deve ser adicionada em grande quantidade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18266,11 +18266,11 @@
   },
   {
     "id": "p4-q75",
-    "titulo": "Questão 75 — Of The Change Of Bread And Wine Into The Body And Blood Of Christ",
+    "titulo": "Questão 75 — Da transformação do pão e do vinho no corpo e no sangue de Cristo",
     "children": [
       {
         "id": "p4-q75-a1",
-        "titulo": "Artigo 1 — Whether the Body of Christ Be in This Sacrament in Very Truth, or Merely As in a Figure or Sign?",
+        "titulo": "Artigo 1 — Se o Corpo de Cristo está neste Sacramento em Verdadeira Verdade ou Meramente como uma Figura ou Sinal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18317,7 +18317,7 @@
       },
       {
         "id": "p4-q75-a2",
-        "titulo": "Artigo 2 — Whether in This Sacrament the Substance of the Bread and Wine Remains After the Consecration?",
+        "titulo": "Artigo 2 — Se neste Sacramento a substância do pão e do vinho permanece após a consagração?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18356,7 +18356,7 @@
       },
       {
         "id": "p4-q75-a3",
-        "titulo": "Artigo 3 — Whether the Substance of the Bread or Wine Is Annihilated After the Consecration of This Sacrament, or Dissolved into Their Original Matter?",
+        "titulo": "Artigo 3 — Se a substância do pão ou do vinho é aniquilada após a consagração deste sacramento ou dissolvida em sua matéria original?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18395,7 +18395,7 @@
       },
       {
         "id": "p4-q75-a4",
-        "titulo": "Artigo 4 — Whether Bread Can Be Converted into the Body of Christ?",
+        "titulo": "Artigo 4 — Se o pão pode ser convertido no corpo de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18434,7 +18434,7 @@
       },
       {
         "id": "p4-q75-a5",
-        "titulo": "Artigo 5 — Whether the Accidents of the Bread and Wine Remain in This Sacrament After the Change?",
+        "titulo": "Artigo 5 — Se os acidentes do pão e do vinho permanecem neste sacramento após a mudança?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18477,7 +18477,7 @@
       },
       {
         "id": "p4-q75-a6",
-        "titulo": "Artigo 6 — Whether the Substantial Form of the Bread Remains in This Sacrament After the Consecration?",
+        "titulo": "Artigo 6 — Se a forma substancial do pão permanece neste sacramento após a consagração?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18516,7 +18516,7 @@
       },
       {
         "id": "p4-q75-a7",
-        "titulo": "Artigo 7 — Whether This Change Is Wrought Instantaneously?",
+        "titulo": "Artigo 7 — Se esta mudança é realizada instantaneamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18555,7 +18555,7 @@
       },
       {
         "id": "p4-q75-a8",
-        "titulo": "Artigo 8 — Whether This Proposition Is False: \"The Body of Christ Is Made Out of Bread\"?",
+        "titulo": "Artigo 8 — Se esta proposição é falsa: “O corpo de Cristo é feito de pão”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18604,11 +18604,11 @@
   },
   {
     "id": "p4-q76",
-    "titulo": "Questão 76 — Of The Way In Which Christ Is In This Sacrament",
+    "titulo": "Questão 76 — Da maneira como Cristo está neste sacramento",
     "children": [
       {
         "id": "p4-q76-a1",
-        "titulo": "Artigo 1 — Whether the Whole Christ Is Contained Under This Sacrament?",
+        "titulo": "Artigo 1 — Se todo o Cristo está contido neste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18647,7 +18647,7 @@
       },
       {
         "id": "p4-q76-a2",
-        "titulo": "Artigo 2 — Whether the Whole Christ Is Contained Under Each Species of This Sacrament?",
+        "titulo": "Artigo 2 — Se todo o Cristo está contido em cada espécie deste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18686,7 +18686,7 @@
       },
       {
         "id": "p4-q76-a3",
-        "titulo": "Artigo 3 — Whether Christ Is Entire Under Every Part of the Species of the Bread and Wine?",
+        "titulo": "Artigo 3 — Se Cristo está inteiro em cada parte das espécies do pão e do vinho?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18725,7 +18725,7 @@
       },
       {
         "id": "p4-q76-a4",
-        "titulo": "Artigo 4 — Whether the Whole Dimensive Quantity of Christ's Body Is in This Sacrament?",
+        "titulo": "Artigo 4 — Se toda a quantidade dimensional do corpo de Cristo está neste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18764,7 +18764,7 @@
       },
       {
         "id": "p4-q76-a5",
-        "titulo": "Artigo 5 — Whether Christ's Body Is in This Sacrament As in a Place?",
+        "titulo": "Artigo 5 — Se o corpo de Cristo está neste sacramento como se estivesse num lugar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18807,7 +18807,7 @@
       },
       {
         "id": "p4-q76-a6",
-        "titulo": "Artigo 6 — Whether Christ's Body Is in This Sacrament Movably?",
+        "titulo": "Artigo 6 — Se o corpo de Cristo está móvel neste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18846,7 +18846,7 @@
       },
       {
         "id": "p4-q76-a7",
-        "titulo": "Artigo 7 — Whether the Body of Christ, As It Is in This Sacrament, Can Be Seen by Any Eye, at Least by a Glorified One?",
+        "titulo": "Artigo 7 — Se o Corpo de Cristo, tal como está neste Sacramento, pode ser visto por qualquer olho, pelo menos por alguém glorificado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18885,7 +18885,7 @@
       },
       {
         "id": "p4-q76-a8",
-        "titulo": "Artigo 8 — Whether Christ's Body Is Truly There When Flesh or a Child Appears Miraculously in This Sacrament?",
+        "titulo": "Artigo 8 — Se o corpo de Cristo está realmente presente quando a carne ou uma criança aparece milagrosamente neste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18926,11 +18926,11 @@
   },
   {
     "id": "p4-q77",
-    "titulo": "Questão 77 — Of The Accidents Which Remain In This Sacrament",
+    "titulo": "Questão 77 — Dos acidentes que permanecem neste sacramento",
     "children": [
       {
         "id": "p4-q77-a1",
-        "titulo": "Artigo 1 — Whether the Accidents Remain in This Sacrament Without a Subject?",
+        "titulo": "Artigo 1 — Se os acidentes permanecem neste sacramento sem sujeito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18977,7 +18977,7 @@
       },
       {
         "id": "p4-q77-a2",
-        "titulo": "Artigo 2 — Whether in This Sacrament the Dimensive Quantity of the Bread or Wine Is the Subject of the Other Accidents?",
+        "titulo": "Artigo 2 — Se neste sacramento a quantidade volumosa de pão ou vinho é objeto de outros acidentes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19024,7 +19024,7 @@
       },
       {
         "id": "p4-q77-a3",
-        "titulo": "Artigo 3 — Whether the Species Remaining in This Sacrament Can Change External Objects?",
+        "titulo": "Artigo 3 — Se as espécies que permanecem neste sacramento podem mudar os objetos externos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19063,7 +19063,7 @@
       },
       {
         "id": "p4-q77-a4",
-        "titulo": "Artigo 4 — Whether the Sacramental Species Can Be Corrupted?",
+        "titulo": "Artigo 4 — Se as espécies sacramentais podem ser corrompidas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19106,7 +19106,7 @@
       },
       {
         "id": "p4-q77-a5",
-        "titulo": "Artigo 5 — Whether Anything Can Be Generated from the Sacramental Species?",
+        "titulo": "Artigo 5 — Se alguma coisa pode ser gerada a partir das espécies sacramentais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19149,7 +19149,7 @@
       },
       {
         "id": "p4-q77-a6",
-        "titulo": "Artigo 6 — Whether the Sacramental Species Can Nourish?",
+        "titulo": "Artigo 6 — Se as espécies sacramentais podem nutrir?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19188,7 +19188,7 @@
       },
       {
         "id": "p4-q77-a7",
-        "titulo": "Artigo 7 — Whether the Sacramental Species Are Broken in This Sacrament?",
+        "titulo": "Artigo 7 — Se as espécies sacramentais estão quebradas neste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19227,7 +19227,7 @@
       },
       {
         "id": "p4-q77-a8",
-        "titulo": "Artigo 8 — Whether Any Liquid Can Be Mingled with the Consecrated Wine?",
+        "titulo": "Artigo 8 — Qualquer líquido pode ser misturado ao vinho consagrado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19276,11 +19276,11 @@
   },
   {
     "id": "p4-q78",
-    "titulo": "Questão 78 — Of The Form Of This Sacrament",
+    "titulo": "Questão 78 — Da forma deste sacramento",
     "children": [
       {
         "id": "p4-q78-a1",
-        "titulo": "Artigo 1 — Whether This Is the Form of This Sacrament: \"This Is My Body,\" and \"This Is the Chalice of My Blood\"?",
+        "titulo": "Artigo 1 — Se esta é a forma deste sacramento: “Este é o meu corpo” e “Este é o cálice do meu sangue”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19327,7 +19327,7 @@
       },
       {
         "id": "p4-q78-a2",
-        "titulo": "Artigo 2 — Whether This Is the Proper Form for the Consecration of the Bread: \"This Is My Body\"?",
+        "titulo": "Artigo 2 — Se esta é a forma adequada para a consagração do pão: “Este é o meu corpo”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19382,7 +19382,7 @@
       },
       {
         "id": "p4-q78-a3",
-        "titulo": "Artigo 3 — Whether This Is the Proper Form for the Consecration of the Wine: \"This Is the Chalice of My Blood,\" Etc.?",
+        "titulo": "Artigo 3 — Se esta é a forma adequada para a consagração do vinho: “Este é o cálice do meu sangue”, etc.?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19469,7 +19469,7 @@
       },
       {
         "id": "p4-q78-a4",
-        "titulo": "Artigo 4 — Whether in the Aforesaid Words of the Forms There Be Any Created Power Which Causes the Consecration?",
+        "titulo": "Artigo 4 — Se nas mencionadas palavras das formas existe algum poder criado que causa a consagração?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19508,7 +19508,7 @@
       },
       {
         "id": "p4-q78-a5",
-        "titulo": "Artigo 5 — Whether the Aforesaid Expressions Are True?",
+        "titulo": "Artigo 5 — Se as expressões acima mencionadas são verdadeiras?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19547,7 +19547,7 @@
       },
       {
         "id": "p4-q78-a6",
-        "titulo": "Artigo 6 — Whether the Form of the Consecration of the Bread Accomplishes Its Effect Before the Form of the Consecration of the Wine Be Completed?",
+        "titulo": "Artigo 6 — Se a forma da consagração do pão realiza seu efeito antes que a forma da consagração do vinho seja concluída?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19588,11 +19588,11 @@
   },
   {
     "id": "p4-q79",
-    "titulo": "Questão 79 — Of The Effects Of This Sacrament",
+    "titulo": "Questão 79 — Dos efeitos deste sacramento",
     "children": [
       {
         "id": "p4-q79-a1",
-        "titulo": "Artigo 1 — Whether Grace Is Bestowed Through This Sacrament?",
+        "titulo": "Artigo 1 — Se a graça é concedida através deste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19631,7 +19631,7 @@
       },
       {
         "id": "p4-q79-a2",
-        "titulo": "Artigo 2 — Whether the Attaining of Glory Is an Effect of This Sacrament?",
+        "titulo": "Artigo 2 — Se a obtenção da glória é um efeito deste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19670,7 +19670,7 @@
       },
       {
         "id": "p4-q79-a3",
-        "titulo": "Artigo 3 — Whether the Forgiveness of Mortal Sin Is an Effect of This Sacrament?",
+        "titulo": "Artigo 3 — Se o perdão dos pecados mortais é um efeito deste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19709,7 +19709,7 @@
       },
       {
         "id": "p4-q79-a4",
-        "titulo": "Artigo 4 — Whether Venial Sins Are Forgiven Through This Sacrament?",
+        "titulo": "Artigo 4 — Se os pecados veniais são perdoados através deste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19748,7 +19748,7 @@
       },
       {
         "id": "p4-q79-a5",
-        "titulo": "Artigo 5 — Whether the Entire Punishment Due to Sin Is Forgiven Through This Sacrament?",
+        "titulo": "Artigo 5 — Se todo o castigo devido ao pecado é perdoado através deste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19787,7 +19787,7 @@
       },
       {
         "id": "p4-q79-a6",
-        "titulo": "Artigo 6 — Whether Man Is Preserved by This Sacrament from Future Sins?",
+        "titulo": "Artigo 6 — Se o homem é preservado por este sacramento dos pecados futuros?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19826,7 +19826,7 @@
       },
       {
         "id": "p4-q79-a7",
-        "titulo": "Artigo 7 — Whether This Sacrament Benefit Others Besides the Recipients?",
+        "titulo": "Artigo 7 — Se este sacramento beneficia outras pessoas além dos destinatários?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19865,7 +19865,7 @@
       },
       {
         "id": "p4-q79-a8",
-        "titulo": "Artigo 8 — Whether the Effect of This Sacrament Is Hindered by Venial Sin?",
+        "titulo": "Artigo 8 — Se o efeito deste sacramento é prejudicado pelo pecado venial?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19906,11 +19906,11 @@
   },
   {
     "id": "p4-q80",
-    "titulo": "Questão 80 — Of The Use Or Receiving Of This Sacrament In General",
+    "titulo": "Questão 80 — Do uso ou recebimento deste sacramento em geral",
     "children": [
       {
         "id": "p4-q80-a1",
-        "titulo": "Artigo 1 — Whether There Are Two Ways to Be Distinguished of Eating Christ's Body?",
+        "titulo": "Artigo 1 — Se existem duas maneiras de distinguir entre comer o corpo de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19949,7 +19949,7 @@
       },
       {
         "id": "p4-q80-a2",
-        "titulo": "Artigo 2 — Whether It Belongs to Man Alone to Eat This Sacrament Spiritually?",
+        "titulo": "Artigo 2 — Se pertence somente ao homem comer espiritualmente este sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19988,7 +19988,7 @@
       },
       {
         "id": "p4-q80-a3",
-        "titulo": "Artigo 3 — Whether the Just Man Alone May Eat Christ Sacramentally?",
+        "titulo": "Artigo 3 — Se só o justo pode comer Cristo sacramentalmente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20027,7 +20027,7 @@
       },
       {
         "id": "p4-q80-a4",
-        "titulo": "Artigo 4 — Whether the Sinner Sins in Receiving Christ's Body Sacramentally?",
+        "titulo": "Artigo 4 — Se o pecador peca ao receber sacramentalmente o corpo de Cristo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20082,7 +20082,7 @@
       },
       {
         "id": "p4-q80-a5",
-        "titulo": "Artigo 5 — Whether to Approach This Sacrament with Consciousness of Sin Is the Gravest of All Sins?",
+        "titulo": "Artigo 5 — Se devemos abordar este sacramento com consciência de que o pecado é o mais grave de todos os pecados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20121,7 +20121,7 @@
       },
       {
         "id": "p4-q80-a6",
-        "titulo": "Artigo 6 — Whether the Priest Ought to Deny the Body of Christ to the Sinner Seeking It?",
+        "titulo": "Artigo 6 — Se o sacerdote deveria negar o corpo de Cristo ao pecador que o busca?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20160,7 +20160,7 @@
       },
       {
         "id": "p4-q80-a7",
-        "titulo": "Artigo 7 — Whether the Seminal Loss That Occurs During Sleep Hinders Anyone from Receiving This Sacrament?",
+        "titulo": "Artigo 7 — Se a perda seminal que ocorre durante o sono impede alguém de receber este sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20215,7 +20215,7 @@
       },
       {
         "id": "p4-q80-a8",
-        "titulo": "Artigo 8 — Whether Food or Drink Taken Beforehand Hinders the Receiving of This Sacrament?",
+        "titulo": "Artigo 8 — Se a comida ou a bebida ingeridas antecipadamente impedem a recepção deste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20278,7 +20278,7 @@
       },
       {
         "id": "p4-q80-a9",
-        "titulo": "Artigo 9 — Whether Those Who Have Not the Use of Reason Ought to Receive This Sacrament?",
+        "titulo": "Artigo 9 — Se aqueles que não usam a razão devem receber este sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20317,7 +20317,7 @@
       },
       {
         "id": "p4-q80-a10",
-        "titulo": "Artigo 10 — Whether It Is Lawful to Receive This Sacrament Daily?",
+        "titulo": "Artigo 10 — Se é lícito receber este sacramento diariamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20372,7 +20372,7 @@
       },
       {
         "id": "p4-q80-a11",
-        "titulo": "Artigo 11 — Whether It Is Lawful to Abstain Altogether from Communion?",
+        "titulo": "Artigo 11 — Se é lícito abster-se completamente da comunhão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20411,7 +20411,7 @@
       },
       {
         "id": "p4-q80-a12",
-        "titulo": "Artigo 12 — Whether It Is Lawful to Receive the Body of Christ Without the Blood?",
+        "titulo": "Artigo 12 — Se é lícito receber o corpo de Cristo sem o sangue?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20452,11 +20452,11 @@
   },
   {
     "id": "p4-q81",
-    "titulo": "Questão 81 — Of The Use Which Christ Made Of This Sacrament At Its Institution",
+    "titulo": "Questão 81 — Do uso que Cristo fez deste sacramento em sua instituição",
     "children": [
       {
         "id": "p4-q81-a1",
-        "titulo": "Artigo 1 — Whether Christ Received His Own Body and Blood?",
+        "titulo": "Artigo 1 — Se Cristo recebeu seu próprio corpo e sangue?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20495,7 +20495,7 @@
       },
       {
         "id": "p4-q81-a2",
-        "titulo": "Artigo 2 — Whether Christ Gave His Body to Judas?",
+        "titulo": "Artigo 2 — Se Cristo entregou seu corpo a Judas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20534,7 +20534,7 @@
       },
       {
         "id": "p4-q81-a3",
-        "titulo": "Artigo 3 — Whether Christ Received and Gave to the Disciples His Impassible Body?",
+        "titulo": "Artigo 3 — Se Cristo recebeu e deu aos discípulos seu corpo impassível?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20573,7 +20573,7 @@
       },
       {
         "id": "p4-q81-a4",
-        "titulo": "Artigo 4 — Whether, If This Sacrament Had Been Reserved in a Pyx, or Consecrated at the Moment of Christ's Death by One of the Apostles, Christ Himself Would Have Died There?",
+        "titulo": "Artigo 4 — Se este sacramento tivesse sido reservado em uma píxide ou consagrado no momento da morte de Cristo por um dos apóstolos, o próprio Cristo teria morrido lá?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20614,11 +20614,11 @@
   },
   {
     "id": "p4-q82",
-    "titulo": "Questão 82 — Of The Minister Of This Sacrament",
+    "titulo": "Questão 82 — Do Ministro Deste Sacramento",
     "children": [
       {
         "id": "p4-q82-a1",
-        "titulo": "Artigo 1 — Whether the Consecration of This Sacrament Belongs to a Priest Alone?",
+        "titulo": "Artigo 1 — Se a consagração deste sacramento pertence apenas a um sacerdote?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20665,7 +20665,7 @@
       },
       {
         "id": "p4-q82-a2",
-        "titulo": "Artigo 2 — Whether Several Priests Can Consecrate One and the Same Host?",
+        "titulo": "Artigo 2 — Se vários sacerdotes podem consagrar uma mesma hóstia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20704,7 +20704,7 @@
       },
       {
         "id": "p4-q82-a3",
-        "titulo": "Artigo 3 — Whether Dispensing of This Sacrament Belongs to a Priest Alone?",
+        "titulo": "Artigo 3 — Se a dispensação deste sacramento pertence apenas a um sacerdote?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20743,7 +20743,7 @@
       },
       {
         "id": "p4-q82-a4",
-        "titulo": "Artigo 4 — Whether the Priest Who Consecrates Is Bound to Receive This Sacrament?",
+        "titulo": "Artigo 4 — Se o sacerdote que consagra está obrigado a receber este sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20782,7 +20782,7 @@
       },
       {
         "id": "p4-q82-a5",
-        "titulo": "Artigo 5 — Whether a Wicked Priest Can Consecrate the Eucharist?",
+        "titulo": "Artigo 5 — Se um sacerdote ímpio pode consagrar a Eucaristia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20821,7 +20821,7 @@
       },
       {
         "id": "p4-q82-a6",
-        "titulo": "Artigo 6 — Whether the Mass of a Sinful Priest Is of Less Worth Than the Mass of a Good Priest?",
+        "titulo": "Artigo 6 — Se a missa de um padre pecador vale menos do que a missa de um bom padre?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20860,7 +20860,7 @@
       },
       {
         "id": "p4-q82-a7",
-        "titulo": "Artigo 7 — Whether Heretics, Schismatics, and Excommunicated Persons Can Consecrate?",
+        "titulo": "Artigo 7 — Se os hereges, os cismáticos e os excomungados podem consagrar-se?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20899,7 +20899,7 @@
       },
       {
         "id": "p4-q82-a8",
-        "titulo": "Artigo 8 — Whether a Degraded Priest Can Consecrate This Sacrament?",
+        "titulo": "Artigo 8 — Se um sacerdote degradado pode consagrar este sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20938,7 +20938,7 @@
       },
       {
         "id": "p4-q82-a9",
-        "titulo": "Artigo 9 — Whether It Is Permissible to Receive Communion from Heretical, Excommunicate, or Sinful Priests, and to Hear Mass Said by Them?",
+        "titulo": "Artigo 9 — Se é permitido receber a Comunhão de sacerdotes heréticos, excomungados ou pecadores e ouvir a missa rezada por eles?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20985,7 +20985,7 @@
       },
       {
         "id": "p4-q82-a10",
-        "titulo": "Artigo 10 — Whether It Is Lawful for a Priest to Refrain Entirely from Consecrating the Eucharist?",
+        "titulo": "Artigo 10 — Se é lícito ao sacerdote abster-se totalmente de consagrar a Eucaristia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21026,11 +21026,11 @@
   },
   {
     "id": "p4-q83",
-    "titulo": "Questão 83 — Of The Rite Of This Sacrament",
+    "titulo": "Questão 83 — Do Rito Deste Sacramento",
     "children": [
       {
         "id": "p4-q83-a1",
-        "titulo": "Artigo 1 — Whether Christ Is Sacrificed in This Sacrament?",
+        "titulo": "Artigo 1 — Se Cristo é sacrificado neste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21069,7 +21069,7 @@
       },
       {
         "id": "p4-q83-a2",
-        "titulo": "Artigo 2 — Whether the Time for Celebrating This Mystery Has Been Properly Determined?",
+        "titulo": "Artigo 2 — Foi determinado corretamente o momento de celebrar este mistério?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21124,7 +21124,7 @@
       },
       {
         "id": "p4-q83-a3",
-        "titulo": "Artigo 3 — Whether This Sacrament Ought to Be Celebrated in a House and with Sacred Vessels?",
+        "titulo": "Artigo 3 — Se este sacramento deve ser celebrado em casa e com vasos sagrados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21203,7 +21203,7 @@
       },
       {
         "id": "p4-q83-a4",
-        "titulo": "Artigo 4 — Whether the Words Spoken in This Sacrament Are Properly Framed?",
+        "titulo": "Artigo 4 — Se as palavras proferidas neste sacramento estão devidamente enquadradas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21290,7 +21290,7 @@
       },
       {
         "id": "p4-q83-a5",
-        "titulo": "Artigo 5 — Whether the Actions Performed in Celebrating This Sacrament Are Becoming?",
+        "titulo": "Artigo 5 — Se as ações realizadas na celebração deste Sacramento estão se tornando adequadas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21401,7 +21401,7 @@
       },
       {
         "id": "p4-q83-a6",
-        "titulo": "Artigo 6 — Whether the Defects Occurring During the Celebration of This Sacrament Can Be Sufficiently Met by Observing the Church's Statutes?",
+        "titulo": "Artigo 6 — Se os defeitos que ocorrem durante a celebração deste Sacramento podem ser suficientemente resolvidos pela observação dos Estatutos da Igreja?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21474,11 +21474,11 @@
   },
   {
     "id": "p4-q84",
-    "titulo": "Questão 84 — Of The Sacrament Of Penance",
+    "titulo": "Questão 84 — Do Sacramento da Penitência",
     "children": [
       {
         "id": "p4-q84-a1",
-        "titulo": "Artigo 1 — Whether Penance Is a Sacrament?",
+        "titulo": "Artigo 1 — Se a penitência é um sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21517,7 +21517,7 @@
       },
       {
         "id": "p4-q84-a2",
-        "titulo": "Artigo 2 — Whether Sins Are the Proper Matter of This Sacrament?",
+        "titulo": "Artigo 2 — Se os pecados são a matéria adequada deste sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21556,7 +21556,7 @@
       },
       {
         "id": "p4-q84-a3",
-        "titulo": "Artigo 3 — Whether the Form of This Sacrament Is: \"I Absolve Thee\"?",
+        "titulo": "Artigo 3 — Se a forma deste sacramento é: “Eu te absolvo”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21611,7 +21611,7 @@
       },
       {
         "id": "p4-q84-a4",
-        "titulo": "Artigo 4 — Whether the Imposition of the Priest's Hands Is Necessary for This Sacrament?",
+        "titulo": "Artigo 4 — Se a imposição das mãos do sacerdote é necessária para este sacramento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21650,7 +21650,7 @@
       },
       {
         "id": "p4-q84-a5",
-        "titulo": "Artigo 5 — Whether This Sacrament Is Necessary for Salvation?",
+        "titulo": "Artigo 5 — Se este sacramento é necessário para a salvação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21689,7 +21689,7 @@
       },
       {
         "id": "p4-q84-a6",
-        "titulo": "Artigo 6 — Whether Penance Is a Second Plank After Shipwreck?",
+        "titulo": "Artigo 6 — Se a penitência é uma segunda tábua após o naufrágio?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21728,7 +21728,7 @@
       },
       {
         "id": "p4-q84-a7",
-        "titulo": "Artigo 7 — Whether This Sacrament Was Suitably Instituted in the New Law?",
+        "titulo": "Artigo 7 — Se este sacramento foi adequadamente instituído na nova lei?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21775,7 +21775,7 @@
       },
       {
         "id": "p4-q84-a8",
-        "titulo": "Artigo 8 — Whether Penance Should Last Till the End of Life?",
+        "titulo": "Artigo 8 — Se a penitência deve durar até o fim da vida?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21814,7 +21814,7 @@
       },
       {
         "id": "p4-q84-a9",
-        "titulo": "Artigo 9 — Whether Penance Can Be Continuous?",
+        "titulo": "Artigo 9 — Se a penitência pode ser contínua?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21853,7 +21853,7 @@
       },
       {
         "id": "p4-q84-a10",
-        "titulo": "Artigo 10 — Whether the Sacrament of Penance May Be Repeated?",
+        "titulo": "Artigo 10 — Se o Sacramento da Penitência pode ser repetido?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21918,11 +21918,11 @@
   },
   {
     "id": "p4-q85",
-    "titulo": "Questão 85 — Of Penance As A Virtue",
+    "titulo": "Questão 85 — Da penitência como virtude",
     "children": [
       {
         "id": "p4-q85-a1",
-        "titulo": "Artigo 1 — Whether Penance Is a Virtue?",
+        "titulo": "Artigo 1 — Se a penitência é uma virtude?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21961,7 +21961,7 @@
       },
       {
         "id": "p4-q85-a2",
-        "titulo": "Artigo 2 — Whether Penance Is a Special Virtue?",
+        "titulo": "Artigo 2 — Se a penitência é uma virtude especial?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22000,7 +22000,7 @@
       },
       {
         "id": "p4-q85-a3",
-        "titulo": "Artigo 3 — Whether the Virtue of Penance Is a Species of Justice?",
+        "titulo": "Artigo 3 — Se a virtude da penitência é uma espécie de justiça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22047,7 +22047,7 @@
       },
       {
         "id": "p4-q85-a4",
-        "titulo": "Artigo 4 — Whether the Will Is Properly the Subject of Penance?",
+        "titulo": "Artigo 4 — Se o testamento é propriamente objeto de penitência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22094,7 +22094,7 @@
       },
       {
         "id": "p4-q85-a5",
-        "titulo": "Artigo 5 — Whether Penance Originates from Fear?",
+        "titulo": "Artigo 5 — Se a penitência se origina do medo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22133,7 +22133,7 @@
       },
       {
         "id": "p4-q85-a6",
-        "titulo": "Artigo 6 — Whether Penance Is the First of the Virtues?",
+        "titulo": "Artigo 6 — Se a penitência é a primeira das virtudes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22174,11 +22174,11 @@
   },
   {
     "id": "p4-q86",
-    "titulo": "Questão 86 — Of The Effect Of Penance, As Regards The Pardon Of Mortal Sin",
+    "titulo": "Questão 86 — Do efeito da penitência no que diz respeito ao perdão do pecado mortal",
     "children": [
       {
         "id": "p4-q86-a1",
-        "titulo": "Artigo 1 — Whether All Sins Are Taken Away by Penance?",
+        "titulo": "Artigo 1 — Se todos os pecados são eliminados pela penitência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22217,7 +22217,7 @@
       },
       {
         "id": "p4-q86-a2",
-        "titulo": "Artigo 2 — Whether Sin Can Be Pardoned Without Penance?",
+        "titulo": "Artigo 2 — Se o pecado pode ser perdoado sem penitência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22256,7 +22256,7 @@
       },
       {
         "id": "p4-q86-a3",
-        "titulo": "Artigo 3 — Whether by Penance One Sin Can Be Pardoned Without Another?",
+        "titulo": "Artigo 3 — Se pela penitência um pecado pode ser perdoado sem outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22311,7 +22311,7 @@
       },
       {
         "id": "p4-q86-a4",
-        "titulo": "Artigo 4 — Whether the Debt of Punishment Remains After the Guilt Has Been Forgiven Through Penance?",
+        "titulo": "Artigo 4 — Se a dívida de punição permanece depois que a culpa foi perdoada por meio da penitência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22350,7 +22350,7 @@
       },
       {
         "id": "p4-q86-a5",
-        "titulo": "Artigo 5 — Whether the Remnants of Sin Are Removed When a Mortal Sin Is Forgiven?",
+        "titulo": "Artigo 5 — Se os restos do pecado são removidos quando um pecado mortal é perdoado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22389,7 +22389,7 @@
       },
       {
         "id": "p4-q86-a6",
-        "titulo": "Artigo 6 — Whether the Forgiveness of Guilt Is an Effect of Penance?",
+        "titulo": "Artigo 6 — Se o perdão da culpa é um efeito da penitência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22430,11 +22430,11 @@
   },
   {
     "id": "p4-q87",
-    "titulo": "Questão 87 — Of The Remission Of Venial Sin",
+    "titulo": "Questão 87 — Da Remissão Do Pecado Venial",
     "children": [
       {
         "id": "p4-q87-a1",
-        "titulo": "Artigo 1 — Whether Venial Sin Can Be Forgiven Without Penance?",
+        "titulo": "Artigo 1 — Se o pecado venial pode ser perdoado sem penitência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22473,7 +22473,7 @@
       },
       {
         "id": "p4-q87-a2",
-        "titulo": "Artigo 2 — Whether Infusion of Grace Is Necessary for the Remission of Venial Sins?",
+        "titulo": "Artigo 2 — Se a infusão da graça é necessária para a remissão dos pecados veniais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22512,7 +22512,7 @@
       },
       {
         "id": "p4-q87-a3",
-        "titulo": "Artigo 3 — Whether Venial Sins Are Removed by the Sprinkling of Holy Water and the Like?",
+        "titulo": "Artigo 3 — Se os pecados veniais são removidos pela aspersão de água benta e coisas semelhantes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22551,7 +22551,7 @@
       },
       {
         "id": "p4-q87-a4",
-        "titulo": "Artigo 4 — Whether Venial Sin Can Be Taken Away Without Mortal Sin?",
+        "titulo": "Artigo 4 — Se o pecado venial pode ser eliminado sem o pecado mortal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22592,11 +22592,11 @@
   },
   {
     "id": "p4-q88",
-    "titulo": "Questão 88 — Of The Return Of Sins Which Have Been Taken Away By Penance",
+    "titulo": "Questão 88 — Do retorno dos pecados que foram eliminados pela penitência",
     "children": [
       {
         "id": "p4-q88-a1",
-        "titulo": "Artigo 1 — Whether Sins Once Forgiven Return Through a Subsequent Sin?",
+        "titulo": "Artigo 1 — Se os pecados uma vez perdoados retornam através de um pecado subsequente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22643,7 +22643,7 @@
       },
       {
         "id": "p4-q88-a2",
-        "titulo": "Artigo 2 — Whether Sins That Have Been Forgiven, Return Through Ingratitude Which Is Shown Especially in Four Kinds of Sin?",
+        "titulo": "Artigo 2 — Se os pecados que foram perdoados retornam por meio da ingratidão, que é mostrada especialmente em quatro tipos de pecado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22682,7 +22682,7 @@
       },
       {
         "id": "p4-q88-a3",
-        "titulo": "Artigo 3 — Whether the Debt of Punishment That Arises Through Ingratitude in Respect of a Subsequent Sin Is As Great As That of the Sins Previously Pardoned?",
+        "titulo": "Artigo 3 — Se a dívida de punição que surge através da ingratidão em relação a um pecado subsequente é tão grande quanto a dos pecados anteriormente perdoados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22721,7 +22721,7 @@
       },
       {
         "id": "p4-q88-a4",
-        "titulo": "Artigo 4 — Whether the Ingratitude Whereby a Subsequent Sin Causes the Return of Previous Sins, Is a Special Sin?",
+        "titulo": "Artigo 4 — Se a ingratidão pela qual um pecado subsequente causa o retorno dos pecados anteriores é um pecado especial?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22750,11 +22750,11 @@
   },
   {
     "id": "p4-q89",
-    "titulo": "Questão 89 — Of The Recovery Of Virtue By Means Of Penance",
+    "titulo": "Questão 89 — Da recuperação da virtude por meio da penitência",
     "children": [
       {
         "id": "p4-q89-a1",
-        "titulo": "Artigo 1 — Whether the Virtues Are Restored Through Penance?",
+        "titulo": "Artigo 1 — Se as virtudes são restauradas pela penitência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22793,7 +22793,7 @@
       },
       {
         "id": "p4-q89-a2",
-        "titulo": "Artigo 2 — Whether, After Penance, Man Rises Again to Equal Virtue?",
+        "titulo": "Artigo 2 — Se, após a penitência, o homem se eleva novamente à igualdade de virtude?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22832,7 +22832,7 @@
       },
       {
         "id": "p4-q89-a3",
-        "titulo": "Artigo 3 — Whether, by Penance, Man Is Restored to His Former Dignity?",
+        "titulo": "Artigo 3 — Se, pela penitência, o homem é restaurado à sua antiga dignidade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22871,7 +22871,7 @@
       },
       {
         "id": "p4-q89-a4",
-        "titulo": "Artigo 4 — Whether Virtuous Deeds Done in Charity Can Be Deadened?",
+        "titulo": "Artigo 4 — Se ações virtuosas realizadas em caridade podem ser amortecidas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22910,7 +22910,7 @@
       },
       {
         "id": "p4-q89-a6",
-        "titulo": "Artigo 6 — Whether the Effect of Subsequent Penance Is to Quicken Even Dead Works?",
+        "titulo": "Artigo 6 — Se o efeito da penitência subsequente será acelerar até mesmo as obras mortas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22951,11 +22951,11 @@
   },
   {
     "id": "p4-q90",
-    "titulo": "Questão 90 — Of The Parts Of Penance, In General",
+    "titulo": "Questão 90 — Das partes da penitência, em geral",
     "children": [
       {
         "id": "p4-q90-a1",
-        "titulo": "Artigo 1 — Whether Penance Should Be Assigned Any Parts?",
+        "titulo": "Artigo 1 — Se a penitência deve receber alguma parte?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22994,7 +22994,7 @@
       },
       {
         "id": "p4-q90-a2",
-        "titulo": "Artigo 2 — Whether Contrition, Confession, and Satisfaction Are Fittingly Assigned As Parts of Penance?",
+        "titulo": "Artigo 2 — Se a contrição, a confissão e a satisfação são apropriadamente atribuídas como partes da penitência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23041,7 +23041,7 @@
       },
       {
         "id": "p4-q90-a3",
-        "titulo": "Artigo 3 — Whether These Three Are Integral Parts of Penance?",
+        "titulo": "Artigo 3 — Se estes três são partes integrantes da penitência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23080,7 +23080,7 @@
       },
       {
         "id": "p4-q90-a4",
-        "titulo": "Artigo 4 — Whether Penance Is Fittingly Divided into Penance Before Baptism, Penance for Mortal Sins, and Penance for Venial Sins?",
+        "titulo": "Artigo 4 — Se a penitência é adequadamente dividida em penitência antes do batismo, penitência pelos pecados mortais e penitência pelos pecados veniais?",
         "conteudo": [
           {
             "tipo": "objecao",

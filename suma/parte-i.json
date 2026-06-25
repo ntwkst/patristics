@@ -7,7 +7,7 @@
     "children": [
       {
         "id": "p1-q1-a1",
-        "titulo": "Artigo 1 — É necessária, além das disciplinas filosóficas, outra doutrina?",
+        "titulo": "Artigo 1 — É necessidade, além das disciplinas filosóficas, outra doutrina?",
         "subtitulo": "Utrum sit necessarium, praeter philosophicas disciplinas, aliam doctrinam haberi",
         "conteudo": [
           {
@@ -482,7 +482,7 @@
       },
       {
         "id": "p1-q3-a2",
-        "titulo": "Artigo 2 — Whether God Is Composed of Matter and Form?",
+        "titulo": "Artigo 2 — Se Deus é composto de matéria e forma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -521,7 +521,7 @@
       },
       {
         "id": "p1-q3-a3",
-        "titulo": "Artigo 3 — Whether God is the Same as His Essence or Nature?",
+        "titulo": "Artigo 3 — Se Deus é igual à sua essência ou natureza?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -577,7 +577,7 @@
       },
       {
         "id": "p1-q3-a5",
-        "titulo": "Artigo 5 — Whether God Is Contained in a Genus?",
+        "titulo": "Artigo 5 — Se Deus está contido num gênero?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -608,7 +608,7 @@
       },
       {
         "id": "p1-q3-a6",
-        "titulo": "Artigo 6 — Whether in God There Are Any Accidents?",
+        "titulo": "Artigo 6 — Se em Deus há algum acidente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -639,7 +639,7 @@
       },
       {
         "id": "p1-q3-a7",
-        "titulo": "Artigo 7 — Whether God Is Altogether Simple?",
+        "titulo": "Artigo 7 — Se Deus é totalmente simples?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -670,7 +670,7 @@
       },
       {
         "id": "p1-q3-a8",
-        "titulo": "Artigo 8 — Whether God Enters into the Composition of Other Things?",
+        "titulo": "Artigo 8 — Se Deus entra na composição de outras coisas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -715,7 +715,7 @@
     "children": [
       {
         "id": "p1-q4-a1",
-        "titulo": "Artigo 1 — Whether God is Perfect?",
+        "titulo": "Artigo 1 — Se Deus é Perfeito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -754,7 +754,7 @@
       },
       {
         "id": "p1-q4-a2",
-        "titulo": "Artigo 2 — Whether the Perfections of All Things Are in God?",
+        "titulo": "Artigo 2 — Se as perfeições de todas as coisas estão em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -789,7 +789,7 @@
       },
       {
         "id": "p1-q4-a3",
-        "titulo": "Artigo 3 — Whether Any Creature Can Be Like God?",
+        "titulo": "Artigo 3 — Se alguma criatura pode ser como Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -842,7 +842,7 @@
     "children": [
       {
         "id": "p1-q5-a1",
-        "titulo": "Artigo 1 — Whether Goodness Differs Really from Being?",
+        "titulo": "Artigo 1 — Se a bondade difere realmente do ser?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -881,7 +881,7 @@
       },
       {
         "id": "p1-q5-a2",
-        "titulo": "Artigo 2 — Whether Goodness Is Prior in Idea to Being?",
+        "titulo": "Artigo 2 — Se a bondade é anterior à ideia do ser?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -928,7 +928,7 @@
       },
       {
         "id": "p1-q5-a3",
-        "titulo": "Artigo 3 — Whether Every Being Is Good?",
+        "titulo": "Artigo 3 — Se todo ser é bom?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -975,7 +975,7 @@
       },
       {
         "id": "p1-q5-a4",
-        "titulo": "Artigo 4 — Whether Goodness Has the Aspect of a Final Cause?",
+        "titulo": "Artigo 4 — Se a bondade tem o aspecto de uma causa final?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1014,7 +1014,7 @@
       },
       {
         "id": "p1-q5-a5",
-        "titulo": "Artigo 5 — Whether the Essence of Goodness Consists in Mode, Species and Order?",
+        "titulo": "Artigo 5 — Se a essência do bem consiste em modo, espécie e ordem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1069,7 +1069,7 @@
       },
       {
         "id": "p1-q5-a6",
-        "titulo": "Artigo 6 — Whether Goodness Is Rightly Divided into the Virtuous*, the Useful and the Pleasant? [*\"Bonum honestum\" is the virtuous good considered as fitting. Cf. II-II, Q. 141, A. 3; Q. 145.]",
+        "titulo": "Artigo 6 — Se a bondade é corretamente dividida em virtuosa*, útil e agradável? [*\"Bonum honestum\" é o bem virtuoso considerado adequado. Cf. II-II, Q. 141, A. 3; Pergunta 145.]",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1114,7 +1114,7 @@
     "children": [
       {
         "id": "p1-q6-a1",
-        "titulo": "Artigo 1 — Whether God is good?",
+        "titulo": "Artigo 1 — Se Deus é bom?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1145,7 +1145,7 @@
       },
       {
         "id": "p1-q6-a2",
-        "titulo": "Artigo 2 — Whether God Is the Supreme Good?",
+        "titulo": "Artigo 2 — Se Deus é o Bem Supremo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1184,7 +1184,7 @@
       },
       {
         "id": "p1-q6-a3",
-        "titulo": "Artigo 3 — Whether to Be Essentially Good Belongs to God Alone?",
+        "titulo": "Artigo 3 — Ser essencialmente bom pertence somente a Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1223,7 +1223,7 @@
       },
       {
         "id": "p1-q6-a4",
-        "titulo": "Artigo 4 — Whether All Things Are Good by the Divine Goodness?",
+        "titulo": "Artigo 4 — Se todas as coisas são boas pela bondade divina?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1252,7 +1252,7 @@
     "children": [
       {
         "id": "p1-q7-a1",
-        "titulo": "Artigo 1 — Whether God Is Infinite?",
+        "titulo": "Artigo 1 — Se Deus é infinito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1287,7 +1287,7 @@
       },
       {
         "id": "p1-q7-a2",
-        "titulo": "Artigo 2 — Whether Anything but God Can Be Essentially Infinite?",
+        "titulo": "Artigo 2 — Se qualquer coisa além de Deus pode ser essencialmente infinita?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1326,7 +1326,7 @@
       },
       {
         "id": "p1-q7-a3",
-        "titulo": "Artigo 3 — Whether an Actually Infinite Magnitude Can Exist?",
+        "titulo": "Artigo 3 — Se uma magnitude realmente infinita pode existir?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1373,7 +1373,7 @@
       },
       {
         "id": "p1-q7-a4",
-        "titulo": "Artigo 4 — Whether an Infinite Multitude Can Exist?",
+        "titulo": "Artigo 4 — Se uma multidão infinita pode existir?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1418,7 +1418,7 @@
     "children": [
       {
         "id": "p1-q8-a1",
-        "titulo": "Artigo 1 — Whether God Is in All Things?",
+        "titulo": "Artigo 1 — Se Deus está em todas as coisas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1465,7 +1465,7 @@
       },
       {
         "id": "p1-q8-a2",
-        "titulo": "Artigo 2 — Whether God Is Everywhere?",
+        "titulo": "Artigo 2 — Se Deus está em toda parte?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1504,7 +1504,7 @@
       },
       {
         "id": "p1-q8-a3",
-        "titulo": "Artigo 3 — Whether God Is Everywhere by Essence, Presence and Power?",
+        "titulo": "Artigo 3 — Se Deus está em toda parte por essência, presença e poder?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1551,7 +1551,7 @@
       },
       {
         "id": "p1-q8-a4",
-        "titulo": "Artigo 4 — Whether to Be Everywhere Belongs to God Alone?",
+        "titulo": "Artigo 4 — Estar em todos os lugares pertence somente a Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1620,7 +1620,7 @@
     "children": [
       {
         "id": "p1-q9-a1",
-        "titulo": "Artigo 1 — Whether God is altogether immutable?",
+        "titulo": "Artigo 1 — Se Deus é totalmente imutável?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1659,7 +1659,7 @@
       },
       {
         "id": "p1-q9-a2",
-        "titulo": "Artigo 2 — Whether to Be Immutable Belongs to God Alone?",
+        "titulo": "Artigo 2 — Ser imutável pertence somente a Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1704,7 +1704,7 @@
     "children": [
       {
         "id": "p1-q10-a1",
-        "titulo": "Artigo 1 — Whether This Is a Good Definition of Eternity, \"The Simultaneously- Whole and Perfect Possession of Interminable Life\"?",
+        "titulo": "Artigo 1 — Se esta é uma boa definição de eternidade, “a posse simultânea e perfeita da vida interminável”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1763,7 +1763,7 @@
       },
       {
         "id": "p1-q10-a2",
-        "titulo": "Artigo 2 — Whether God is Eternal?",
+        "titulo": "Artigo 2 — Se Deus é eterno?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1810,7 +1810,7 @@
       },
       {
         "id": "p1-q10-a3",
-        "titulo": "Artigo 3 — Whether to Be Eternal Belongs to God Alone?",
+        "titulo": "Artigo 3 — Ser eterno pertence somente a Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1849,7 +1849,7 @@
       },
       {
         "id": "p1-q10-a4",
-        "titulo": "Artigo 4 — Whether Eternity Differs from Time?",
+        "titulo": "Artigo 4 — Se a eternidade difere do tempo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1888,7 +1888,7 @@
       },
       {
         "id": "p1-q10-a5",
-        "titulo": "Artigo 5 — The Difference of Aeviternity and Time",
+        "titulo": "Artigo 5 — A diferença entre eternidade e tempo",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1935,7 +1935,7 @@
       },
       {
         "id": "p1-q10-a6",
-        "titulo": "Artigo 6 — Whether There Is Only One Aeviternity?",
+        "titulo": "Artigo 6 — Se existe apenas uma eternidade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -1988,7 +1988,7 @@
     "children": [
       {
         "id": "p1-q11-a1",
-        "titulo": "Artigo 1 — Whether \"One\" Adds Anything to \"Being\"?",
+        "titulo": "Artigo 1 — Se “Um” acrescenta alguma coisa ao “Ser”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2031,7 +2031,7 @@
       },
       {
         "id": "p1-q11-a2",
-        "titulo": "Artigo 2 — Whether \"One\" and \"Many\" Are Opposed to Each Other?",
+        "titulo": "Artigo 2 — Se “Um” e “Muitos” são opostos um ao outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2082,7 +2082,7 @@
       },
       {
         "id": "p1-q11-a3",
-        "titulo": "Artigo 3 — Whether God Is One?",
+        "titulo": "Artigo 3 — Se Deus é Um?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2113,7 +2113,7 @@
       },
       {
         "id": "p1-q11-a4",
-        "titulo": "Artigo 4 — Whether God Is Supremely One?",
+        "titulo": "Artigo 4 — Se Deus é Supremamente Um?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2158,7 +2158,7 @@
     "children": [
       {
         "id": "p1-q12-a1",
-        "titulo": "Artigo 1 — Whether Any Created Intellect Can See the Essence of God?",
+        "titulo": "Artigo 1 — Se algum intelecto criado pode ver a essência de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2205,7 +2205,7 @@
       },
       {
         "id": "p1-q12-a2",
-        "titulo": "Artigo 2 — Whether the Essence of God Is Seen by the Created Intellect Through an Image?",
+        "titulo": "Artigo 2 — Se a essência de Deus é vista pelo intelecto criado através de uma imagem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2248,7 +2248,7 @@
       },
       {
         "id": "p1-q12-a3",
-        "titulo": "Artigo 3 — Whether the Essence of God Can Be Seen with the Bodily Eye?",
+        "titulo": "Artigo 3 — Se a essência de Deus pode ser vista com os olhos do corpo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2287,7 +2287,7 @@
       },
       {
         "id": "p1-q12-a4",
-        "titulo": "Artigo 4 — Whether Any Created Intellect by Its Natural Powers Can See the Divine Essence?",
+        "titulo": "Artigo 4 — Se algum intelecto criado por seus poderes naturais pode ver a essência divina?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2326,7 +2326,7 @@
       },
       {
         "id": "p1-q12-a5",
-        "titulo": "Artigo 5 — Whether the Created Intellect Needs Any Created Light in Order to See the Essence of God?",
+        "titulo": "Artigo 5 — Se o intelecto criado precisa de alguma luz criada para ver a essência de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2365,7 +2365,7 @@
       },
       {
         "id": "p1-q12-a6",
-        "titulo": "Artigo 6 — Whether of Those Who See the Essence of God, One Sees More Perfectly Than Another?",
+        "titulo": "Artigo 6 — Será que daqueles que vêem a essência de Deus, um vê mais perfeitamente do que outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2400,7 +2400,7 @@
       },
       {
         "id": "p1-q12-a7",
-        "titulo": "Artigo 7 — Whether Those Who See the Essence of God Comprehend Him?",
+        "titulo": "Artigo 7 — Se aqueles que vêem a essência de Deus o compreendem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2439,7 +2439,7 @@
       },
       {
         "id": "p1-q12-a8",
-        "titulo": "Artigo 8 — Whether Those Who See the Essence of God See All in God?",
+        "titulo": "Artigo 8 — Se aqueles que veem a essência de Deus veem tudo em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2486,7 +2486,7 @@
       },
       {
         "id": "p1-q12-a9",
-        "titulo": "Artigo 9 — Whether What Is Seen in God by Those Who See the Divine Essence, Is Seen Through Any Similitude?",
+        "titulo": "Artigo 9 — Se o que é visto em Deus por aqueles que vêem a Essência Divina é visto através de alguma semelhança?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2517,7 +2517,7 @@
       },
       {
         "id": "p1-q12-a10",
-        "titulo": "Artigo 10 — Whether Those Who See the Essence of God See All They See in It at the Same Time?",
+        "titulo": "Artigo 10 — Se aqueles que vêem a essência de Deus vêem tudo o que nela vêem ao mesmo tempo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2548,7 +2548,7 @@
       },
       {
         "id": "p1-q12-a11",
-        "titulo": "Artigo 11 — Whether Anyone in This Life Can See the Essence of God?",
+        "titulo": "Artigo 11 — Se alguém nesta vida pode ver a essência de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2595,7 +2595,7 @@
       },
       {
         "id": "p1-q12-a12",
-        "titulo": "Artigo 12 — Whether God Can Be Known in This Life by Natural Reason?",
+        "titulo": "Artigo 12 — Se Deus pode ser conhecido nesta vida pela razão natural?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2634,7 +2634,7 @@
       },
       {
         "id": "p1-q12-a13",
-        "titulo": "Artigo 13 — Whether by Grace a Higher Knowledge of God Can Be Obtained Than by Natural Reason?",
+        "titulo": "Artigo 13 — Se pela graça pode ser obtido um conhecimento mais elevado de Deus do que pela razão natural?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2679,7 +2679,7 @@
     "children": [
       {
         "id": "p1-q13-a1",
-        "titulo": "Artigo 1 — Whether a Name Can Be Given to God?",
+        "titulo": "Artigo 1 — Pode-se dar um nome a Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2718,7 +2718,7 @@
       },
       {
         "id": "p1-q13-a2",
-        "titulo": "Artigo 2 — Whether Any Name Can Be Applied to God Substantially?",
+        "titulo": "Artigo 2 — Qualquer nome pode ser aplicado substancialmente a Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2761,7 +2761,7 @@
       },
       {
         "id": "p1-q13-a3",
-        "titulo": "Artigo 3 — Whether Any Name Can Be Applied to God in Its Literal Sense?",
+        "titulo": "Artigo 3 — Se algum nome pode ser aplicado a Deus em seu sentido literal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2800,7 +2800,7 @@
       },
       {
         "id": "p1-q13-a4",
-        "titulo": "Artigo 4 — Whether Names Applied to God Are Synonymous?",
+        "titulo": "Artigo 4 — Se os nomes aplicados a Deus são sinônimos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2835,7 +2835,7 @@
       },
       {
         "id": "p1-q13-a5",
-        "titulo": "Artigo 5 — Whether What Is Said of God and of Creatures Is Univocally Predicated of Them?",
+        "titulo": "Artigo 5 — Se o que é dito de Deus e das criaturas é univocamente predicado delas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2874,7 +2874,7 @@
       },
       {
         "id": "p1-q13-a6",
-        "titulo": "Artigo 6 — Whether Names Predicated of God Are Predicated Primarily of Creatures?",
+        "titulo": "Artigo 6 — Se os nomes predicados de Deus são predicados principalmente de criaturas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2913,7 +2913,7 @@
       },
       {
         "id": "p1-q13-a7",
-        "titulo": "Artigo 7 — Whether Names Which Imply Relation to Creatures Are Predicated of God Temporally?",
+        "titulo": "Artigo 7 — Se os nomes que implicam relação com as criaturas são predicados de Deus temporalmente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -2976,7 +2976,7 @@
       },
       {
         "id": "p1-q13-a8",
-        "titulo": "Artigo 8 — Whether This Name \"God\" Is a Name of the Nature?",
+        "titulo": "Artigo 8 — Se este nome “Deus” é um nome da natureza?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3007,7 +3007,7 @@
       },
       {
         "id": "p1-q13-a9",
-        "titulo": "Artigo 9 — Whether This Name \"God\" Is Communicable?",
+        "titulo": "Artigo 9 — Se este nome “Deus” é transmissível?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3046,7 +3046,7 @@
       },
       {
         "id": "p1-q13-a10",
-        "titulo": "Artigo 10 — Whether This Name \"God\" Is Applied to God Univocally by Nature, by Participation, and According to Opinion?",
+        "titulo": "Artigo 10 — Se este nome “Deus” é aplicado a Deus univocamente pela natureza, pela participação e de acordo com a opinião?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3085,7 +3085,7 @@
       },
       {
         "id": "p1-q13-a11",
-        "titulo": "Artigo 11 — Whether This Name, HE WHO IS, Is the Most Proper Name of God?",
+        "titulo": "Artigo 11 — Se este nome, AQUELE QUE É, é o nome mais próprio de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3124,7 +3124,7 @@
       },
       {
         "id": "p1-q13-a12",
-        "titulo": "Artigo 12 — Whether Affirmative Propositions Can Be Formed About God?",
+        "titulo": "Artigo 12 — É possível formar proposições afirmativas sobre Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3169,7 +3169,7 @@
     "children": [
       {
         "id": "p1-q14-a1",
-        "titulo": "Artigo 1 — Whether There Is Knowledge [*Scientia] in God?",
+        "titulo": "Artigo 1 — Se existe conhecimento [*Scientia] em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3208,7 +3208,7 @@
       },
       {
         "id": "p1-q14-a2",
-        "titulo": "Artigo 2 — Whether God Understands Himself?",
+        "titulo": "Artigo 2 — Se Deus se entende?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3247,7 +3247,7 @@
       },
       {
         "id": "p1-q14-a3",
-        "titulo": "Artigo 3 — Whether God Comprehends Himself?",
+        "titulo": "Artigo 3 — Se Deus se compreende?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3278,7 +3278,7 @@
       },
       {
         "id": "p1-q14-a4",
-        "titulo": "Artigo 4 — Whether the Act of God's Intellect Is His Substance?",
+        "titulo": "Artigo 4 — Se o ato do intelecto de Deus é a sua substância?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3313,7 +3313,7 @@
       },
       {
         "id": "p1-q14-a5",
-        "titulo": "Artigo 5 — Whether God Knows Things Other Than Himself?",
+        "titulo": "Artigo 5 — Se Deus conhece outras coisas além de si mesmo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3352,7 +3352,7 @@
       },
       {
         "id": "p1-q14-a6",
-        "titulo": "Artigo 6 — Whether God Knows Things Other Than Himself by Proper Knowledge?",
+        "titulo": "Artigo 6 — Se Deus conhece outras coisas além de si mesmo pelo conhecimento adequado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3391,7 +3391,7 @@
       },
       {
         "id": "p1-q14-a7",
-        "titulo": "Artigo 7 — Whether the Knowledge of God Is Discursive?",
+        "titulo": "Artigo 7 — Se o conhecimento de Deus é discursivo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3430,7 +3430,7 @@
       },
       {
         "id": "p1-q14-a8",
-        "titulo": "Artigo 8 — Whether the Knowledge of God Is the Cause of Things?",
+        "titulo": "Artigo 8 — Se o conhecimento de Deus é a causa das coisas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3469,7 +3469,7 @@
       },
       {
         "id": "p1-q14-a9",
-        "titulo": "Artigo 9 — Whether God Has Knowledge of Things That Are Not?",
+        "titulo": "Artigo 9 — Se Deus tem conhecimento de coisas que não existem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3508,7 +3508,7 @@
       },
       {
         "id": "p1-q14-a10",
-        "titulo": "Artigo 10 — Whether God Knows Evil Things?",
+        "titulo": "Artigo 10 — Se Deus conhece coisas más?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3555,7 +3555,7 @@
       },
       {
         "id": "p1-q14-a11",
-        "titulo": "Artigo 11 — Whether God Knows Singular Things?",
+        "titulo": "Artigo 11 — Se Deus conhece coisas singulares?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3594,7 +3594,7 @@
       },
       {
         "id": "p1-q14-a12",
-        "titulo": "Artigo 12 — Whether God Can Know Infinite Things?",
+        "titulo": "Artigo 12 — Se Deus pode conhecer coisas infinitas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3633,7 +3633,7 @@
       },
       {
         "id": "p1-q14-a13",
-        "titulo": "Artigo 13 — Whether the Knowledge of God Is of Future Contingent Things?",
+        "titulo": "Artigo 13 — Se o conhecimento de Deus se refere a coisas futuras contingentes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3672,7 +3672,7 @@
       },
       {
         "id": "p1-q14-a14",
-        "titulo": "Artigo 14 — Whether God Knows Enunciable Things?",
+        "titulo": "Artigo 14 — Se Deus conhece coisas enunciáveis?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3703,7 +3703,7 @@
       },
       {
         "id": "p1-q14-a15",
-        "titulo": "Artigo 15 — Whether the Knowledge of God Is Variable?",
+        "titulo": "Artigo 15 — Se o conhecimento de Deus é variável?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3742,7 +3742,7 @@
       },
       {
         "id": "p1-q14-a16",
-        "titulo": "Artigo 16 — Whether God Has a Speculative Knowledge of Things?",
+        "titulo": "Artigo 16 — Se Deus tem conhecimento especulativo das coisas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3783,7 +3783,7 @@
     "children": [
       {
         "id": "p1-q15-a1",
-        "titulo": "Artigo 1 — Whether There Are Ideas?",
+        "titulo": "Artigo 1 — Se existem ideias?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3822,7 +3822,7 @@
       },
       {
         "id": "p1-q15-a2",
-        "titulo": "Artigo 2 — Whether Ideas Are Many?",
+        "titulo": "Artigo 2 — Se as ideias são muitas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3873,7 +3873,7 @@
       },
       {
         "id": "p1-q15-a3",
-        "titulo": "Artigo 3 — Whether There Are Ideas of All Things That God Knows?",
+        "titulo": "Artigo 3 — Se existem ideias sobre todas as coisas que Deus conhece?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3926,7 +3926,7 @@
     "children": [
       {
         "id": "p1-q16-a1",
-        "titulo": "Artigo 1 — Whether Truth Resides Only in the Intellect?",
+        "titulo": "Artigo 1 — Se a verdade reside apenas no intelecto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3965,7 +3965,7 @@
       },
       {
         "id": "p1-q16-a2",
-        "titulo": "Artigo 2 — Whether Truth Resides Only in the Intellect Composing and Dividing?",
+        "titulo": "Artigo 2 — Se a verdade reside apenas na composição e divisão do intelecto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -3988,7 +3988,7 @@
       },
       {
         "id": "p1-q16-a3",
-        "titulo": "Artigo 3 — Whether the True and Being Are Convertible Terms?",
+        "titulo": "Artigo 3 — Se o verdadeiro e o ser são termos conversíveis?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4027,7 +4027,7 @@
       },
       {
         "id": "p1-q16-a4",
-        "titulo": "Artigo 4 — Whether Good Is Logically Prior to the True?",
+        "titulo": "Artigo 4 — Se o bem é logicamente anterior ao verdadeiro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4066,7 +4066,7 @@
       },
       {
         "id": "p1-q16-a5",
-        "titulo": "Artigo 5 — Whether God Is Truth?",
+        "titulo": "Artigo 5 — Se Deus é a verdade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4105,7 +4105,7 @@
       },
       {
         "id": "p1-q16-a6",
-        "titulo": "Artigo 6 — Whether There Is Only One Truth, According to Which All Things Are True?",
+        "titulo": "Artigo 6 — Se existe apenas uma verdade, segundo a qual todas as coisas são verdadeiras?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4136,7 +4136,7 @@
       },
       {
         "id": "p1-q16-a7",
-        "titulo": "Artigo 7 — Whether Created Truth Is Eternal?",
+        "titulo": "Artigo 7 — Se a verdade criada é eterna?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4183,7 +4183,7 @@
       },
       {
         "id": "p1-q16-a8",
-        "titulo": "Artigo 8 — Whether Truth Is Immutable?",
+        "titulo": "Artigo 8 — Se a verdade é imutável?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4236,7 +4236,7 @@
     "children": [
       {
         "id": "p1-q17-a1",
-        "titulo": "Artigo 1 — Whether Falsity Exists in Things?",
+        "titulo": "Artigo 1 — Se a falsidade existe nas coisas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4283,7 +4283,7 @@
       },
       {
         "id": "p1-q17-a2",
-        "titulo": "Artigo 2 — Whether There Is Falsity in the Senses?",
+        "titulo": "Artigo 2 — Se existe falsidade nos sentidos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4322,7 +4322,7 @@
       },
       {
         "id": "p1-q17-a3",
-        "titulo": "Artigo 3 — Whether Falsity Is in the Intellect?",
+        "titulo": "Artigo 3 — Se a falsidade está no intelecto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4353,7 +4353,7 @@
       },
       {
         "id": "p1-q17-a4",
-        "titulo": "Artigo 4 — Whether True and False Are Contraries?",
+        "titulo": "Artigo 4 — Se verdadeiro e falso são contrários?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4398,7 +4398,7 @@
     "children": [
       {
         "id": "p1-q18-a1",
-        "titulo": "Artigo 1 — Whether to Live Belongs to All Natural Things?",
+        "titulo": "Artigo 1 — Viver pertence a todas as coisas naturais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4437,7 +4437,7 @@
       },
       {
         "id": "p1-q18-a2",
-        "titulo": "Artigo 2 — Whether Life Is an Operation?",
+        "titulo": "Artigo 2 — Se a vida é uma operação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4472,7 +4472,7 @@
       },
       {
         "id": "p1-q18-a3",
-        "titulo": "Artigo 3 — Whether Life Is Properly Attributed to God?",
+        "titulo": "Artigo 3 — Se a vida é corretamente atribuída a Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4511,7 +4511,7 @@
       },
       {
         "id": "p1-q18-a4",
-        "titulo": "Artigo 4 — Whether All Things Are Life in God?",
+        "titulo": "Artigo 4 — Se todas as coisas são vida em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4564,7 +4564,7 @@
     "children": [
       {
         "id": "p1-q19-a1",
-        "titulo": "Artigo 1 — Whether There Is Will in God?",
+        "titulo": "Artigo 1 — Se existe vontade em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4603,7 +4603,7 @@
       },
       {
         "id": "p1-q19-a2",
-        "titulo": "Artigo 2 — Whether God Wills Things Apart from Himself?",
+        "titulo": "Artigo 2 — Se Deus deseja as coisas à parte de si mesmo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4650,7 +4650,7 @@
       },
       {
         "id": "p1-q19-a3",
-        "titulo": "Artigo 3 — Whether Whatever God Wills He Wills Necessarily?",
+        "titulo": "Artigo 3 — Se tudo o que Deus deseja, ele deseja necessariamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4713,7 +4713,7 @@
       },
       {
         "id": "p1-q19-a4",
-        "titulo": "Artigo 4 — Whether the Will of God Is the Cause of Things?",
+        "titulo": "Artigo 4 — Se a vontade de Deus é a causa das coisas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4760,7 +4760,7 @@
       },
       {
         "id": "p1-q19-a5",
-        "titulo": "Artigo 5 — Whether Any Cause Can Be Assigned to the Divine Will?",
+        "titulo": "Artigo 5 — Se alguma causa pode ser atribuída à vontade divina?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4799,7 +4799,7 @@
       },
       {
         "id": "p1-q19-a6",
-        "titulo": "Artigo 6 — Whether the Will of God Is Always Fulfilled?",
+        "titulo": "Artigo 6 — Se a vontade de Deus é sempre cumprida?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4838,7 +4838,7 @@
       },
       {
         "id": "p1-q19-a7",
-        "titulo": "Artigo 7 — Whether the Will of God Is Changeable?",
+        "titulo": "Artigo 7 — Se a vontade de Deus é mutável?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4885,7 +4885,7 @@
       },
       {
         "id": "p1-q19-a8",
-        "titulo": "Artigo 8 — Whether the Will of God Imposes Necessity on the Things Willed?",
+        "titulo": "Artigo 8 — Se a vontade de Deus impõe necessidade às coisas desejadas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4924,7 +4924,7 @@
       },
       {
         "id": "p1-q19-a9",
-        "titulo": "Artigo 9 — Whether God Wills Evils?",
+        "titulo": "Artigo 9 — Se Deus deseja os males?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4963,7 +4963,7 @@
       },
       {
         "id": "p1-q19-a10",
-        "titulo": "Artigo 10 — Whether God Has Free-Will?",
+        "titulo": "Artigo 10 — Se Deus tem livre-arbítrio?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -4994,7 +4994,7 @@
       },
       {
         "id": "p1-q19-a11",
-        "titulo": "Artigo 11 — Whether the Will of Expression Is to Be Distinguished in God?",
+        "titulo": "Artigo 11 — Se a vontade de expressão deve ser distinguida em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5025,7 +5025,7 @@
       },
       {
         "id": "p1-q19-a12",
-        "titulo": "Artigo 12 — Whether Five Expressions of Will Are Rightly Assigned to the Divine Will?",
+        "titulo": "Artigo 12 — Se cinco expressões de vontade são corretamente atribuídas à vontade divina?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5074,7 +5074,7 @@
     "children": [
       {
         "id": "p1-q20-a1",
-        "titulo": "Artigo 1 — Whether Love Exists in God?",
+        "titulo": "Artigo 1 — Se o amor existe em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5113,7 +5113,7 @@
       },
       {
         "id": "p1-q20-a2",
-        "titulo": "Artigo 2 — Whether God Loves All Things?",
+        "titulo": "Artigo 2 — Se Deus ama todas as coisas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5160,7 +5160,7 @@
       },
       {
         "id": "p1-q20-a3",
-        "titulo": "Artigo 3 — Whether God Loves All Things Equally?",
+        "titulo": "Artigo 3 — Se Deus ama todas as coisas igualmente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5199,7 +5199,7 @@
       },
       {
         "id": "p1-q20-a4",
-        "titulo": "Artigo 4 — Whether God Always Loves More the Better Things?",
+        "titulo": "Artigo 4 — Se Deus sempre ama mais as coisas melhores?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5260,7 +5260,7 @@
     "children": [
       {
         "id": "p1-q21-a1",
-        "titulo": "Artigo 1 — Whether There Is Justice in God?",
+        "titulo": "Artigo 1 — Se existe justiça em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5307,7 +5307,7 @@
       },
       {
         "id": "p1-q21-a2",
-        "titulo": "Artigo 2 — Whether the Justice of God Is Truth?",
+        "titulo": "Artigo 2 — Se a justiça de Deus é a verdade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5338,7 +5338,7 @@
       },
       {
         "id": "p1-q21-a3",
-        "titulo": "Artigo 3 — Whether Mercy Can Be Attributed to God?",
+        "titulo": "Artigo 3 — Se a misericórdia pode ser atribuída a Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5369,7 +5369,7 @@
       },
       {
         "id": "p1-q21-a4",
-        "titulo": "Artigo 4 — Whether in Every Work of God There Are Mercy and Justice?",
+        "titulo": "Artigo 4 — Se em cada obra de Deus há misericórdia e justiça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5422,7 +5422,7 @@
     "children": [
       {
         "id": "p1-q22-a1",
-        "titulo": "Artigo 1 — Whether Providence Can Suitably Be Attributed to God?",
+        "titulo": "Artigo 1 — Se a Providência pode ser adequadamente atribuída a Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5461,7 +5461,7 @@
       },
       {
         "id": "p1-q22-a2",
-        "titulo": "Artigo 2 — Whether Everything Is Subject to the Providence of God?",
+        "titulo": "Artigo 2 — Se tudo está sujeito à providência de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5516,7 +5516,7 @@
       },
       {
         "id": "p1-q22-a3",
-        "titulo": "Artigo 3 — Whether God Has Immediate Providence Over Everything?",
+        "titulo": "Artigo 3 — Se Deus tem providência imediata sobre tudo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5555,7 +5555,7 @@
       },
       {
         "id": "p1-q22-a4",
-        "titulo": "Artigo 4 — Whether Providence Imposes Any Necessity on Things Foreseen?",
+        "titulo": "Artigo 4 — Se a Providência impõe alguma necessidade às coisas previstas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5600,7 +5600,7 @@
     "children": [
       {
         "id": "p1-q23-a1",
-        "titulo": "Artigo 1 — Whether Men Are Predestined by God?",
+        "titulo": "Artigo 1 — Se os homens são predestinados por Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5647,7 +5647,7 @@
       },
       {
         "id": "p1-q23-a2",
-        "titulo": "Artigo 2 — Whether Predestination Places Anything in the Predestined?",
+        "titulo": "Artigo 2 — Se a predestinação coloca alguma coisa nos predestinados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5694,7 +5694,7 @@
       },
       {
         "id": "p1-q23-a3",
-        "titulo": "Artigo 3 — Whether God Reprobates Any Man?",
+        "titulo": "Artigo 3 — Se Deus reprova qualquer homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5733,7 +5733,7 @@
       },
       {
         "id": "p1-q23-a4",
-        "titulo": "Artigo 4 — Whether the Predestined Are Chosen by God? [*\"Eligantur.\"]",
+        "titulo": "Artigo 4 — Se os predestinados são escolhidos por Deus? [*\"Elegantur.\"]",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5772,7 +5772,7 @@
       },
       {
         "id": "p1-q23-a5",
-        "titulo": "Artigo 5 — Whether the Foreknowledge of Merits Is the Cause of Predestination?",
+        "titulo": "Artigo 5 — Se a presciência dos méritos é a causa da predestinação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5811,7 +5811,7 @@
       },
       {
         "id": "p1-q23-a6",
-        "titulo": "Artigo 6 — Whether Predestination Is Certain?",
+        "titulo": "Artigo 6 — Se a predestinação é certa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5850,7 +5850,7 @@
       },
       {
         "id": "p1-q23-a7",
-        "titulo": "Artigo 7 — Whether the Number of the Predestined Is Certain?",
+        "titulo": "Artigo 7 — Se o número dos predestinados é certo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5889,7 +5889,7 @@
       },
       {
         "id": "p1-q23-a8",
-        "titulo": "Artigo 8 — Whether Predestination Can Be Furthered by the Prayers of the Saints?",
+        "titulo": "Artigo 8 — Se a predestinação pode ser promovida pelas orações dos santos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5934,7 +5934,7 @@
     "children": [
       {
         "id": "p1-q24-a1",
-        "titulo": "Artigo 1 — Whether the Book of Life Is the Same As Predestination?",
+        "titulo": "Artigo 1 — Se o Livro da Vida é o mesmo que a Predestinação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -5973,7 +5973,7 @@
       },
       {
         "id": "p1-q24-a2",
-        "titulo": "Artigo 2 — Whether the Book of Life Regards Only the Life of Glory of the Predestined?",
+        "titulo": "Artigo 2 — Se o Livro da Vida considera apenas a vida de glória dos predestinados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6008,7 +6008,7 @@
       },
       {
         "id": "p1-q24-a3",
-        "titulo": "Artigo 3 — Whether Anyone May Be Blotted Out of the Book of Life?",
+        "titulo": "Artigo 3 — Se alguém pode ser apagado do livro da vida?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6053,7 +6053,7 @@
     "children": [
       {
         "id": "p1-q25-a1",
-        "titulo": "Artigo 1 — Whether There Is Power in God?",
+        "titulo": "Artigo 1 — Se há poder em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6100,7 +6100,7 @@
       },
       {
         "id": "p1-q25-a2",
-        "titulo": "Artigo 2 — Whether the Power of God Is Infinite?",
+        "titulo": "Artigo 2 — Se o poder de Deus é infinito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6139,7 +6139,7 @@
       },
       {
         "id": "p1-q25-a3",
-        "titulo": "Artigo 3 — Whether God Is Omnipotent?",
+        "titulo": "Artigo 3 — Se Deus é Onipotente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6186,7 +6186,7 @@
       },
       {
         "id": "p1-q25-a4",
-        "titulo": "Artigo 4 — Whether God Can Make the Past Not to Have Been?",
+        "titulo": "Artigo 4 — Se Deus pode fazer com que o passado não tenha existido?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6225,7 +6225,7 @@
       },
       {
         "id": "p1-q25-a5",
-        "titulo": "Artigo 5 — Whether God Can Do What He Does Not?",
+        "titulo": "Artigo 5 — Se Deus pode fazer o que não faz?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6264,7 +6264,7 @@
       },
       {
         "id": "p1-q25-a6",
-        "titulo": "Artigo 6 — Whether God Can Do Better Than What He Does?",
+        "titulo": "Artigo 6 — Se Deus pode fazer melhor do que aquilo que faz?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6317,7 +6317,7 @@
     "children": [
       {
         "id": "p1-q26-a1",
-        "titulo": "Artigo 1 — Whether Beatitude Belongs to God?",
+        "titulo": "Artigo 1 — Se a bem-aventurança pertence a Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6348,7 +6348,7 @@
       },
       {
         "id": "p1-q26-a2",
-        "titulo": "Artigo 2 — Whether God Is Called Blessed in Respect of His Intellect?",
+        "titulo": "Artigo 2 — Se Deus é chamado de abençoado em relação ao seu intelecto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6379,7 +6379,7 @@
       },
       {
         "id": "p1-q26-a3",
-        "titulo": "Artigo 3 — Whether God Is the Beatitude of Each of the Blessed?",
+        "titulo": "Artigo 3 — Se Deus é a bem-aventurança de cada um dos bem-aventurados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6410,7 +6410,7 @@
       },
       {
         "id": "p1-q26-a4",
-        "titulo": "Artigo 4 — Whether All Other Beatitude Is Included in the Beatitude of God?",
+        "titulo": "Artigo 4 — Se todas as outras bem-aventuranças estão incluídas na bem-aventurança de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6447,7 +6447,7 @@
     "children": [
       {
         "id": "p1-q27-a1",
-        "titulo": "Artigo 1 — Whether There Is Procession in God?",
+        "titulo": "Artigo 1 — Se há procissão em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6486,7 +6486,7 @@
       },
       {
         "id": "p1-q27-a2",
-        "titulo": "Artigo 2 — Whether Any Procession in God Can Be Called Generation?",
+        "titulo": "Artigo 2 — Qualquer procissão em Deus pode ser chamada de geração?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6525,7 +6525,7 @@
       },
       {
         "id": "p1-q27-a3",
-        "titulo": "Artigo 3 — Whether Any Other Procession Exists in God Besides That of the Word?",
+        "titulo": "Artigo 3 — Se existe alguma outra processão em Deus além daquela da Palavra?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6564,7 +6564,7 @@
       },
       {
         "id": "p1-q27-a4",
-        "titulo": "Artigo 4 — Whether the Procession of Love in God Is Generation?",
+        "titulo": "Artigo 4 — Se a Procissão de Amor em Deus é Geração?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6603,7 +6603,7 @@
       },
       {
         "id": "p1-q27-a5",
-        "titulo": "Artigo 5 — Whether There Are More Than Two Processions in God?",
+        "titulo": "Artigo 5 — Se há mais de duas procissões em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6648,7 +6648,7 @@
     "children": [
       {
         "id": "p1-q28-a1",
-        "titulo": "Artigo 1 — Whether There Are Real Relations in God?",
+        "titulo": "Artigo 1 — Se existem relações reais em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6695,7 +6695,7 @@
       },
       {
         "id": "p1-q28-a2",
-        "titulo": "Artigo 2 — Whether Relation in God Is the Same As His Essence?",
+        "titulo": "Artigo 2 — Se a relação em Deus é igual à sua essência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6734,7 +6734,7 @@
       },
       {
         "id": "p1-q28-a3",
-        "titulo": "Artigo 3 — Whether the Relations in God Are Really Distinguished from Each Other?",
+        "titulo": "Artigo 3 — Se as relações em Deus são realmente distintas umas das outras?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6773,7 +6773,7 @@
       },
       {
         "id": "p1-q28-a4",
-        "titulo": "Artigo 4 — Whether in God There Are Only Four Real Relations--Paternity, Filiation, Spiration, and Procession?",
+        "titulo": "Artigo 4 — Se em Deus existem apenas quatro relações reais – paternidade, filiação, espiração e processão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6830,7 +6830,7 @@
     "children": [
       {
         "id": "p1-q29-a1",
-        "titulo": "Artigo 1 — The Definition of \"Person\"",
+        "titulo": "Artigo 1 — A definição de \"pessoa\"",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6881,7 +6881,7 @@
       },
       {
         "id": "p1-q29-a2",
-        "titulo": "Artigo 2 — Whether \"Person\" Is the Same As Hypostasis, Subsistence, and Essence?",
+        "titulo": "Artigo 2 — Se “Pessoa” é o mesmo que Hipóstase, Subsistência e Essência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6936,7 +6936,7 @@
       },
       {
         "id": "p1-q29-a3",
-        "titulo": "Artigo 3 — Whether the Word \"Person\" Should Be Said of God?",
+        "titulo": "Artigo 3 — Se a palavra “Pessoa” deve ser dita sobre Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -6983,7 +6983,7 @@
       },
       {
         "id": "p1-q29-a4",
-        "titulo": "Artigo 4 — Whether This Word \"Person\" Signifies Relation?",
+        "titulo": "Artigo 4 — Se esta palavra “pessoa” significa relação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7040,7 +7040,7 @@
     "children": [
       {
         "id": "p1-q30-a1",
-        "titulo": "Artigo 1 — Whether There Are Several Persons in God?",
+        "titulo": "Artigo 1 — Se existem várias pessoas em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7087,7 +7087,7 @@
       },
       {
         "id": "p1-q30-a2",
-        "titulo": "Artigo 2 — Whether There Are More Than Three Persons in God?",
+        "titulo": "Artigo 2 — Se há mais de três pessoas em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7142,7 +7142,7 @@
       },
       {
         "id": "p1-q30-a3",
-        "titulo": "Artigo 3 — Whether the Numeral Terms Denote Anything Real in God?",
+        "titulo": "Artigo 3 — Se os termos numéricos denotam algo real em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7181,7 +7181,7 @@
       },
       {
         "id": "p1-q30-a4",
-        "titulo": "Artigo 4 — Whether This Term \"Person\" Can Be Common to the Three Persons?",
+        "titulo": "Artigo 4 — Se este termo “pessoa” pode ser comum às três pessoas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7226,7 +7226,7 @@
     "children": [
       {
         "id": "p1-q31-a1",
-        "titulo": "Artigo 1 — Whether There Is Trinity in God?",
+        "titulo": "Artigo 1 — Se existe Trindade em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7281,7 +7281,7 @@
       },
       {
         "id": "p1-q31-a2",
-        "titulo": "Artigo 2 — Whether the Son Is Other Than the Father?",
+        "titulo": "Artigo 2 — Se o Filho é Diferente do Pai?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7328,7 +7328,7 @@
       },
       {
         "id": "p1-q31-a3",
-        "titulo": "Artigo 3 — Whether the Exclusive Word \"Alone\" Should Be Added to the Essential Term in God?",
+        "titulo": "Artigo 3 — Se a palavra exclusiva “somente” deveria ser acrescentada ao termo essencial em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7367,7 +7367,7 @@
       },
       {
         "id": "p1-q31-a4",
-        "titulo": "Artigo 4 — Whether an Exclusive Diction Can Be Joined to the Personal Term?",
+        "titulo": "Artigo 4 — Pode-se juntar uma dicção exclusiva ao termo pessoal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7416,7 +7416,7 @@
     "children": [
       {
         "id": "p1-q32-a1",
-        "titulo": "Artigo 1 — Whether the Trinity of the Divine Persons Can Be Known by Natural Reason?",
+        "titulo": "Artigo 1 — Se a Trindade das Pessoas Divinas pode ser conhecida pela razão natural?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7455,7 +7455,7 @@
       },
       {
         "id": "p1-q32-a2",
-        "titulo": "Artigo 2 — Whether There Are Notions in God?",
+        "titulo": "Artigo 2 — Se existem noções em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7494,7 +7494,7 @@
       },
       {
         "id": "p1-q32-a3",
-        "titulo": "Artigo 3 — Whether There Are Five Notions?",
+        "titulo": "Artigo 3 — Se existem cinco noções?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7549,7 +7549,7 @@
       },
       {
         "id": "p1-q32-a4",
-        "titulo": "Artigo 4 — Whether It Is Lawful to Have Various Contrary Opinions of Notions?",
+        "titulo": "Artigo 4 — Se é lícito ter várias opiniões contrárias sobre noções?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7578,7 +7578,7 @@
     "children": [
       {
         "id": "p1-q33-a1",
-        "titulo": "Artigo 1 — Whether It Belongs to the Father to Be the Principle?",
+        "titulo": "Artigo 1 — Se pertence ao Pai ser o princípio?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7617,7 +7617,7 @@
       },
       {
         "id": "p1-q33-a2",
-        "titulo": "Artigo 2 — Whether This Name \"Father\" Is Properly the Name of a Divine Person?",
+        "titulo": "Artigo 2 — Se este nome “Pai” é corretamente o nome de uma pessoa divina?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7664,7 +7664,7 @@
       },
       {
         "id": "p1-q33-a3",
-        "titulo": "Artigo 3 — Whether This Name \"Father\" Is Applied to God, Firstly As a Personal Name?",
+        "titulo": "Artigo 3 — Se este nome “Pai” é aplicado a Deus, primeiramente como nome pessoal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7699,7 +7699,7 @@
       },
       {
         "id": "p1-q33-a4",
-        "titulo": "Artigo 4 — Whether It Is Proper to the Father to Be Unbegotten?",
+        "titulo": "Artigo 4 — Se é próprio do Pai ser Ingênito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7760,7 +7760,7 @@
     "children": [
       {
         "id": "p1-q34-a1",
-        "titulo": "Artigo 1 — Whether Word in God Is a Personal Name?",
+        "titulo": "Artigo 1 — Se a Palavra em Deus é um nome pessoal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7807,7 +7807,7 @@
       },
       {
         "id": "p1-q34-a2",
-        "titulo": "Artigo 2 — Whether \"Word\" Is the Son's Proper Name?",
+        "titulo": "Artigo 2 — Se “Palavra” é o nome próprio do Filho?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7862,7 +7862,7 @@
       },
       {
         "id": "p1-q34-a3",
-        "titulo": "Artigo 3 — Whether the Name \"Word\" Imports Relation to Creatures?",
+        "titulo": "Artigo 3 — Se o nome “Palavra” importa relação com criaturas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7923,7 +7923,7 @@
     "children": [
       {
         "id": "p1-q35-a1",
-        "titulo": "Artigo 1 — Whether Image in God Is Said Personally?",
+        "titulo": "Artigo 1 — Se a imagem em Deus é dita pessoalmente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -7962,7 +7962,7 @@
       },
       {
         "id": "p1-q35-a2",
-        "titulo": "Artigo 2 — Whether the Name of Image Is Proper to the Son?",
+        "titulo": "Artigo 2 — Se o nome da imagem é próprio do filho?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8007,7 +8007,7 @@
     "children": [
       {
         "id": "p1-q36-a1",
-        "titulo": "Artigo 1 — Whether This Name \"Holy Ghost\" Is the Proper Name of One Divine Person?",
+        "titulo": "Artigo 1 — Se este nome “Espírito Santo” é o nome próprio de uma pessoa divina?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8046,7 +8046,7 @@
       },
       {
         "id": "p1-q36-a2",
-        "titulo": "Artigo 2 — Whether the Holy Ghost Proceeds from the Son?",
+        "titulo": "Artigo 2 — Se o Espírito Santo procede do Filho?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8117,7 +8117,7 @@
       },
       {
         "id": "p1-q36-a3",
-        "titulo": "Artigo 3 — Whether the Holy Ghost Proceeds from the Father Through the Son?",
+        "titulo": "Artigo 3 — Se o Espírito Santo procede do Pai através do Filho?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8168,7 +8168,7 @@
       },
       {
         "id": "p1-q36-a4",
-        "titulo": "Artigo 4 — Whether the Father and the Son Are One Principle of the Holy Ghost?",
+        "titulo": "Artigo 4 — Se o Pai e o Filho são um só princípio do Espírito Santo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8245,7 +8245,7 @@
     "children": [
       {
         "id": "p1-q37-a1",
-        "titulo": "Artigo 1 — Whether \"Love\" Is the Proper Name of the Holy Ghost?",
+        "titulo": "Artigo 1 — Se “Amor” é o nome próprio do Espírito Santo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8292,7 +8292,7 @@
       },
       {
         "id": "p1-q37-a2",
-        "titulo": "Artigo 2 — Whether the Father and the Son Love Each Other by the Holy Ghost?",
+        "titulo": "Artigo 2 — Se o Pai e o Filho se amam pelo Espírito Santo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8337,7 +8337,7 @@
     "children": [
       {
         "id": "p1-q38-a1",
-        "titulo": "Artigo 1 — Whether \"Gift\" Is a Personal Name?",
+        "titulo": "Artigo 1 — Se “presente” é um nome pessoal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8384,7 +8384,7 @@
       },
       {
         "id": "p1-q38-a2",
-        "titulo": "Artigo 2 — Whether \"Gift\" Is the Proper Name of the Holy Ghost?",
+        "titulo": "Artigo 2 — Se “dom” é o nome próprio do Espírito Santo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8429,7 +8429,7 @@
     "children": [
       {
         "id": "p1-q39-a1",
-        "titulo": "Artigo 1 — Whether in God the Essence Is the Same As the Person?",
+        "titulo": "Artigo 1 — Se em Deus a essência é a mesma que a pessoa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8468,7 +8468,7 @@
       },
       {
         "id": "p1-q39-a2",
-        "titulo": "Artigo 2 — Whether It Must Be Said That the Three Persons Are of One Essence?",
+        "titulo": "Artigo 2 — Deve-se dizer que as três pessoas têm uma única essência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8531,7 +8531,7 @@
       },
       {
         "id": "p1-q39-a3",
-        "titulo": "Artigo 3 — Whether Essential Names Should Be Predicated in the Singular of the Three Persons?",
+        "titulo": "Artigo 3 — Se os nomes essenciais devem ser predicados no singular das três pessoas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8578,7 +8578,7 @@
       },
       {
         "id": "p1-q39-a4",
-        "titulo": "Artigo 4 — Whether the Concrete Essential Names Can Stand for the Person?",
+        "titulo": "Artigo 4 — Se os nomes essenciais concretos podem representar a pessoa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8637,7 +8637,7 @@
       },
       {
         "id": "p1-q39-a5",
-        "titulo": "Artigo 5 — Whether Abstract Essential Names Can Stand for the Person?",
+        "titulo": "Artigo 5 — Se nomes essenciais abstratos podem representar a pessoa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8700,7 +8700,7 @@
       },
       {
         "id": "p1-q39-a6",
-        "titulo": "Artigo 6 — Whether the Persons Can Be Predicated of the Essential Terms?",
+        "titulo": "Artigo 6 — Se as Pessoas Podem Ser Predicadas dos Termos Essenciais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8735,7 +8735,7 @@
       },
       {
         "id": "p1-q39-a7",
-        "titulo": "Artigo 7 — Whether the Essential Names Should Be Appropriated to the Persons?",
+        "titulo": "Artigo 7 — Se os nomes essenciais devem ser apropriados às pessoas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8774,7 +8774,7 @@
       },
       {
         "id": "p1-q39-a8",
-        "titulo": "Artigo 8 — Whether the Essential Attributes Are Appropriated to the Persons in a Fitting Manner by the Holy Doctors?",
+        "titulo": "Artigo 8 — Se os atributos essenciais são apropriados às pessoas de maneira adequada pelos santos doutores?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8811,7 +8811,7 @@
     "children": [
       {
         "id": "p1-q40-a1",
-        "titulo": "Artigo 1 — Whether Relation Is the Same As Person?",
+        "titulo": "Artigo 1 — Se a relação é igual à pessoa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8850,7 +8850,7 @@
       },
       {
         "id": "p1-q40-a2",
-        "titulo": "Artigo 2 — Whether the Persons Are Distinguished by the Relations?",
+        "titulo": "Artigo 2 — Se as pessoas se distinguem pelas relações?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8897,7 +8897,7 @@
       },
       {
         "id": "p1-q40-a3",
-        "titulo": "Artigo 3 — Whether the Hypostases Remain If the Relations Are Mentally Abstracted from the Persons?",
+        "titulo": "Artigo 3 — Se as hipóstases permanecerão se as relações forem mentalmente abstraídas das pessoas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8936,7 +8936,7 @@
       },
       {
         "id": "p1-q40-a4",
-        "titulo": "Artigo 4 — Whether the properties presuppose the notional acts?",
+        "titulo": "Artigo 4 — Se as propriedades pressupõem os atos nocionais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -8981,7 +8981,7 @@
     "children": [
       {
         "id": "p1-q41-a1",
-        "titulo": "Artigo 1 — Whether the Notional Acts Are to Be Attributed to the Persons?",
+        "titulo": "Artigo 1 — Se os atos nocionais devem ser atribuídos às pessoas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9020,7 +9020,7 @@
       },
       {
         "id": "p1-q41-a2",
-        "titulo": "Artigo 2 — Whether the Notional Acts Are Voluntary?",
+        "titulo": "Artigo 2 — Se os atos nocionais são voluntários?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9079,7 +9079,7 @@
       },
       {
         "id": "p1-q41-a3",
-        "titulo": "Artigo 3 — Whether the Notional Acts Proceed from Something?",
+        "titulo": "Artigo 3 — Se os atos nocionais procedem de alguma coisa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9126,7 +9126,7 @@
       },
       {
         "id": "p1-q41-a4",
-        "titulo": "Artigo 4 — Whether in God There Is a Power in Respect of the Notional Acts?",
+        "titulo": "Artigo 4 — Se em Deus existe um poder em relação aos atos nocionais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9165,7 +9165,7 @@
       },
       {
         "id": "p1-q41-a5",
-        "titulo": "Artigo 5 — Whether the Power of Begetting Signifies a Relation, and Not the Essence?",
+        "titulo": "Artigo 5 — Se o poder de gerar significa uma relação e não a essência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9204,7 +9204,7 @@
       },
       {
         "id": "p1-q41-a6",
-        "titulo": "Artigo 6 — Whether Several Persons Can Be the Term of One Notional Act?",
+        "titulo": "Artigo 6 — Se várias pessoas podem ser o termo de um ato nocional?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9249,7 +9249,7 @@
     "children": [
       {
         "id": "p1-q42-a1",
-        "titulo": "Artigo 1 — Whether There Is Equality in God?",
+        "titulo": "Artigo 1 — Se existe igualdade em Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9296,7 +9296,7 @@
       },
       {
         "id": "p1-q42-a2",
-        "titulo": "Artigo 2 — Whether the Person Proceeding Is Co-eternal with His Principle, As the Son with the Father?",
+        "titulo": "Artigo 2 — Se a pessoa que procede é coeterna com seu princípio, como o Filho com o Pai?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9343,7 +9343,7 @@
       },
       {
         "id": "p1-q42-a3",
-        "titulo": "Artigo 3 — Whether in the Divine Persons There Exists an Order of Nature?",
+        "titulo": "Artigo 3 — Se nas Pessoas Divinas existe uma ordem da natureza?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9390,7 +9390,7 @@
       },
       {
         "id": "p1-q42-a4",
-        "titulo": "Artigo 4 — Whether the Son Is Equal to the Father in Greatness?",
+        "titulo": "Artigo 4 — Se o Filho é igual ao Pai em grandeza?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9429,7 +9429,7 @@
       },
       {
         "id": "p1-q42-a5",
-        "titulo": "Artigo 5 — Whether the Son Is in the Father, and Conversely?",
+        "titulo": "Artigo 5 — Se o Filho está no Pai e vice-versa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9468,7 +9468,7 @@
       },
       {
         "id": "p1-q42-a6",
-        "titulo": "Artigo 6 — Whether the Son Is Equal to the Father in Power?",
+        "titulo": "Artigo 6 — Se o Filho é igual ao Pai em poder?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9513,7 +9513,7 @@
     "children": [
       {
         "id": "p1-q43-a1",
-        "titulo": "Artigo 1 — Whether a Divine Person Can Be Properly Sent?",
+        "titulo": "Artigo 1 — Se uma pessoa divina pode ser enviada corretamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9552,7 +9552,7 @@
       },
       {
         "id": "p1-q43-a2",
-        "titulo": "Artigo 2 — Whether Mission Is Eternal, or Only Temporal?",
+        "titulo": "Artigo 2 — Se a missão é eterna ou apenas temporal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9591,7 +9591,7 @@
       },
       {
         "id": "p1-q43-a3",
-        "titulo": "Artigo 3 — Whether the Invisible Mission of the Divine Person Is Only According to the Gift of Sanctifying Grace?",
+        "titulo": "Artigo 3 — Se a missão invisível da pessoa divina está apenas de acordo com o dom da graça santificadora?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9638,7 +9638,7 @@
       },
       {
         "id": "p1-q43-a4",
-        "titulo": "Artigo 4 — Whether the Father Can Be Fittingly Sent?",
+        "titulo": "Artigo 4 — Se o Pai pode ser enviado adequadamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9677,7 +9677,7 @@
       },
       {
         "id": "p1-q43-a5",
-        "titulo": "Artigo 5 — Whether It Is Fitting for the Son to Be Sent Invisibly?",
+        "titulo": "Artigo 5 — Se é apropriado que o Filho seja enviado de forma invisível?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9716,7 +9716,7 @@
       },
       {
         "id": "p1-q43-a6",
-        "titulo": "Artigo 6 — Whether the Invisible Mission Is to All Who Participate Grace?",
+        "titulo": "Artigo 6 — Se a missão invisível é graça para todos os que participam?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9763,7 +9763,7 @@
       },
       {
         "id": "p1-q43-a7",
-        "titulo": "Artigo 7 — Whether It Is Fitting for the Holy Ghost to Be Sent Visibly?",
+        "titulo": "Artigo 7 — Se é adequado que o Espírito Santo seja enviado de forma visível?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9826,7 +9826,7 @@
       },
       {
         "id": "p1-q43-a8",
-        "titulo": "Artigo 8 — Whether a Divine Person Is Sent Only by the Person Whence He Proceeds Eternally?",
+        "titulo": "Artigo 8 — Se uma pessoa divina é enviada apenas pela pessoa de onde procede eternamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9859,7 +9859,7 @@
     "children": [
       {
         "id": "p1-q44-a1",
-        "titulo": "Artigo 1 — Whether It Is Necessary That Every Being Be Created by God?",
+        "titulo": "Artigo 1 — Se é necessário que todo ser seja criado por Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9898,7 +9898,7 @@
       },
       {
         "id": "p1-q44-a2",
-        "titulo": "Artigo 2 — Whether Primary Matter Is Created by God?",
+        "titulo": "Artigo 2 — Se a matéria primária foi criada por Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9937,7 +9937,7 @@
       },
       {
         "id": "p1-q44-a3",
-        "titulo": "Artigo 3 — Whether the Exemplar Cause Is Anything Besides God?",
+        "titulo": "Artigo 3 — Se a causa exemplar é algo além de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -9984,7 +9984,7 @@
       },
       {
         "id": "p1-q44-a4",
-        "titulo": "Artigo 4 — Whether God Is the Final Cause of All Things?",
+        "titulo": "Artigo 4 — Se Deus é a causa final de todas as coisas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10037,7 +10037,7 @@
     "children": [
       {
         "id": "p1-q45-a1",
-        "titulo": "Artigo 1 — Whether to Create Is to Make Something from Nothing?",
+        "titulo": "Artigo 1 — Criar é fazer algo do nada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10076,7 +10076,7 @@
       },
       {
         "id": "p1-q45-a2",
-        "titulo": "Artigo 2 — Whether God Can Create Anything?",
+        "titulo": "Artigo 2 — Se Deus pode criar alguma coisa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10123,7 +10123,7 @@
       },
       {
         "id": "p1-q45-a3",
-        "titulo": "Artigo 3 — Whether Creation Is Anything in the Creature?",
+        "titulo": "Artigo 3 — Se a criação é algo na criatura?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10162,7 +10162,7 @@
       },
       {
         "id": "p1-q45-a4",
-        "titulo": "Artigo 4 — Whether to Be Created Belongs to Composite and Subsisting Things?",
+        "titulo": "Artigo 4 — Ser criado pertence a coisas compostas e subsistentes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10201,7 +10201,7 @@
       },
       {
         "id": "p1-q45-a5",
-        "titulo": "Artigo 5 — Whether It Belongs to God Alone to Create?",
+        "titulo": "Artigo 5 — Cabe somente a Deus criar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10240,7 +10240,7 @@
       },
       {
         "id": "p1-q45-a6",
-        "titulo": "Artigo 6 — Whether to Create Is Proper to Any Person?",
+        "titulo": "Artigo 6 — Criar é adequado para qualquer pessoa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10279,7 +10279,7 @@
       },
       {
         "id": "p1-q45-a7",
-        "titulo": "Artigo 7 — Whether in Creatures Is Necessarily Found a Trace of the Trinity?",
+        "titulo": "Artigo 7 — Se nas criaturas se encontra necessariamente um vestígio da Trindade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10318,7 +10318,7 @@
       },
       {
         "id": "p1-q45-a8",
-        "titulo": "Artigo 8 — Whether Creation Is Mingled with Works of Nature and Art?",
+        "titulo": "Artigo 8 — Se a criação está misturada com obras da natureza e da arte?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10371,7 +10371,7 @@
     "children": [
       {
         "id": "p1-q46-a1",
-        "titulo": "Artigo 1 — Whether the Universe of Creatures Always Existed?",
+        "titulo": "Artigo 1 — Se o Universo das Criaturas Sempre Existiu?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10466,7 +10466,7 @@
       },
       {
         "id": "p1-q46-a2",
-        "titulo": "Artigo 2 — Whether It Is an Article of Faith That the World Began?",
+        "titulo": "Artigo 2 — Se o fato de o mundo ter começado é um artigo de fé?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10545,7 +10545,7 @@
       },
       {
         "id": "p1-q46-a3",
-        "titulo": "Artigo 3 — Whether the Creation of Things Was in the Beginning of Time?",
+        "titulo": "Artigo 3 — Se a criação das coisas ocorreu no início dos tempos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10590,7 +10590,7 @@
     "children": [
       {
         "id": "p1-q47-a1",
-        "titulo": "Artigo 1 — Whether the Multitude and Distinction of Things Come from God?",
+        "titulo": "Artigo 1 — Se a multidão e a distinção das coisas vêm de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10633,7 +10633,7 @@
       },
       {
         "id": "p1-q47-a2",
-        "titulo": "Artigo 2 — Whether the Inequality of Things Is from God?",
+        "titulo": "Artigo 2 — Se a desigualdade das coisas vem de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10672,7 +10672,7 @@
       },
       {
         "id": "p1-q47-a3",
-        "titulo": "Artigo 3 — Whether There Is Only One World?",
+        "titulo": "Artigo 3 — Se existe apenas um mundo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10717,7 +10717,7 @@
     "children": [
       {
         "id": "p1-q48-a1",
-        "titulo": "Artigo 1 — Whether Evil Is a Nature?",
+        "titulo": "Artigo 1 — Se o mal é uma natureza?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10772,7 +10772,7 @@
       },
       {
         "id": "p1-q48-a2",
-        "titulo": "Artigo 2 — Whether Evil Is Found in Things?",
+        "titulo": "Artigo 2 — Se o mal é encontrado nas coisas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10811,7 +10811,7 @@
       },
       {
         "id": "p1-q48-a3",
-        "titulo": "Artigo 3 — Whether Evil Is in Good As in Its Subject?",
+        "titulo": "Artigo 3 — Se o mal está no bem como no seu objeto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10858,7 +10858,7 @@
       },
       {
         "id": "p1-q48-a4",
-        "titulo": "Artigo 4 — Whether Evil Corrupts the Whole Good?",
+        "titulo": "Artigo 4 — Se o mal corrompe todo o bem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -10901,7 +10901,7 @@
       },
       {
         "id": "p1-q48-a5",
-        "titulo": "Artigo 5 — Whether Evil Is Adequately Divided into Pain* and Fault?",
+        "titulo": "Artigo 5 — Se o mal está adequadamente dividido em dor* e culpa?",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -10952,7 +10952,7 @@
       },
       {
         "id": "p1-q48-a6",
-        "titulo": "Artigo 6 — Whether Pain Has the Nature of Evil More Than Fault Has?",
+        "titulo": "Artigo 6 — Se a dor tem mais natureza de mal do que a culpa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11001,7 +11001,7 @@
     "children": [
       {
         "id": "p1-q49-a1",
-        "titulo": "Artigo 1 — Whether Good Can Be the Cause of Evil?",
+        "titulo": "Artigo 1 — Se o bem pode ser a causa do mal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11048,7 +11048,7 @@
       },
       {
         "id": "p1-q49-a2",
-        "titulo": "Artigo 2 — Whether the Supreme Good, God, Is the Cause of Evil?",
+        "titulo": "Artigo 2 — Se o Supremo Bem, Deus, é a causa do mal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11087,7 +11087,7 @@
       },
       {
         "id": "p1-q49-a3",
-        "titulo": "Artigo 3 — Whether There Be One Supreme Evil Which Is the Cause of Every Evil?",
+        "titulo": "Artigo 3 — Se existe um mal supremo que é a causa de todo mal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11156,7 +11156,7 @@
     "children": [
       {
         "id": "p1-q50-a1",
-        "titulo": "Artigo 1 — Whether an Angel Is Altogether Incorporeal?",
+        "titulo": "Artigo 1 — Se um anjo é totalmente incorpóreo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11195,7 +11195,7 @@
       },
       {
         "id": "p1-q50-a2",
-        "titulo": "Artigo 2 — Whether an Angel Is Composed of Matter and Form?",
+        "titulo": "Artigo 2 — Se um anjo é composto de matéria e forma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11242,7 +11242,7 @@
       },
       {
         "id": "p1-q50-a3",
-        "titulo": "Artigo 3 — Whether the Angels Exist in Any Great Number?",
+        "titulo": "Artigo 3 — Se os anjos existem em grande número?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11289,7 +11289,7 @@
       },
       {
         "id": "p1-q50-a4",
-        "titulo": "Artigo 4 — Whether the Angels Differ in Species?",
+        "titulo": "Artigo 4 — Se os anjos diferem em espécies?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11336,7 +11336,7 @@
       },
       {
         "id": "p1-q50-a5",
-        "titulo": "Artigo 5 — Whether the Angels Are Incorruptible?",
+        "titulo": "Artigo 5 — Se os anjos são incorruptíveis?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11381,7 +11381,7 @@
     "children": [
       {
         "id": "p1-q51-a1",
-        "titulo": "Artigo 1 — Whether the Angels Have Bodies Naturally United to Them?",
+        "titulo": "Artigo 1 — Se os anjos têm corpos naturalmente unidos a eles?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11420,7 +11420,7 @@
       },
       {
         "id": "p1-q51-a2",
-        "titulo": "Artigo 2 — Whether Angels Assume Bodies?",
+        "titulo": "Artigo 2 — Se os anjos assumem corpos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11459,7 +11459,7 @@
       },
       {
         "id": "p1-q51-a3",
-        "titulo": "Artigo 3 — Whether the Angels Exercise Functions of Life in the Bodies Assumed?",
+        "titulo": "Artigo 3 — Se os Anjos Exercem Funções de Vida nos Corpos Assumidos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11528,7 +11528,7 @@
     "children": [
       {
         "id": "p1-q52-a1",
-        "titulo": "Artigo 1 — Whether an Angel Is in a Place?",
+        "titulo": "Artigo 1 — Se um anjo está em um lugar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11555,7 +11555,7 @@
       },
       {
         "id": "p1-q52-a2",
-        "titulo": "Artigo 2 — Whether an Angel Can Be in Several Places at Once?",
+        "titulo": "Artigo 2 — Se um anjo pode estar em vários lugares ao mesmo tempo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11582,7 +11582,7 @@
       },
       {
         "id": "p1-q52-a3",
-        "titulo": "Artigo 3 — Whether Several Angels Can Be at the Same Time in the Same Place?",
+        "titulo": "Artigo 3 — Se vários anjos podem estar ao mesmo tempo no mesmo lugar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11627,7 +11627,7 @@
     "children": [
       {
         "id": "p1-q53-a1",
-        "titulo": "Artigo 1 — Whether an Angel Can Be Moved Locally?",
+        "titulo": "Artigo 1 — Se um anjo pode ser movido localmente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11666,7 +11666,7 @@
       },
       {
         "id": "p1-q53-a2",
-        "titulo": "Artigo 2 — Whether an Angel Passes Through Intermediate Space?",
+        "titulo": "Artigo 2 — Se um anjo passa pelo espaço intermediário?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11701,7 +11701,7 @@
       },
       {
         "id": "p1-q53-a3",
-        "titulo": "Artigo 3 — Whether the Movement of an Angel Is Instantaneous?",
+        "titulo": "Artigo 3 — Se o movimento de um anjo é instantâneo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11746,7 +11746,7 @@
     "children": [
       {
         "id": "p1-q54-a1",
-        "titulo": "Artigo 1 — Whether an Angel's Act of Understanding Is His Substance?",
+        "titulo": "Artigo 1 — Se o ato de compreensão de um anjo é a sua substância?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11785,7 +11785,7 @@
       },
       {
         "id": "p1-q54-a2",
-        "titulo": "Artigo 2 — Whether in the Angel to Understand Is to Exist?",
+        "titulo": "Artigo 2 — Se no Anjo Compreender é Existir?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11816,7 +11816,7 @@
       },
       {
         "id": "p1-q54-a3",
-        "titulo": "Artigo 3 — Whether an Angel's Power of Intelligence Is His Essence?",
+        "titulo": "Artigo 3 — Se o poder de inteligência de um anjo é sua essência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11855,7 +11855,7 @@
       },
       {
         "id": "p1-q54-a4",
-        "titulo": "Artigo 4 — Whether There Is an Active and a Passive Intellect in an Angel?",
+        "titulo": "Artigo 4 — Se existe um intelecto ativo e um intelecto passivo em um anjo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11886,7 +11886,7 @@
       },
       {
         "id": "p1-q54-a5",
-        "titulo": "Artigo 5 — Whether There Is Only Intellectual Knowledge in the Angels?",
+        "titulo": "Artigo 5 — Se existe apenas conhecimento intelectual nos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11919,7 +11919,7 @@
     "children": [
       {
         "id": "p1-q55-a1",
-        "titulo": "Artigo 1 — Whether the Angels Know All Things by Their Substance?",
+        "titulo": "Artigo 1 — Se os anjos conhecem todas as coisas pela sua substância?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11958,7 +11958,7 @@
       },
       {
         "id": "p1-q55-a2",
-        "titulo": "Artigo 2 — Whether the Angels Understand by Species Drawn from Things?",
+        "titulo": "Artigo 2 — Se os anjos entendem por espécies extraídas das coisas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -11997,7 +11997,7 @@
       },
       {
         "id": "p1-q55-a3",
-        "titulo": "Artigo 3 — Whether the Higher Angels Understand by More Universal Species Than the Lower Angels?",
+        "titulo": "Artigo 3 — Se os anjos superiores entendem por espécies mais universais do que os anjos inferiores?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12042,7 +12042,7 @@
     "children": [
       {
         "id": "p1-q56-a1",
-        "titulo": "Artigo 1 — Whether an Angel Knows Himself?",
+        "titulo": "Artigo 1 — Se um anjo conhece a si mesmo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12081,7 +12081,7 @@
       },
       {
         "id": "p1-q56-a2",
-        "titulo": "Artigo 2 — Whether One Angel Knows Another?",
+        "titulo": "Artigo 2 — Se um anjo conhece outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12128,7 +12128,7 @@
       },
       {
         "id": "p1-q56-a3",
-        "titulo": "Artigo 3 — Whether an Angel Knows God by His Own Natural Principles?",
+        "titulo": "Artigo 3 — Se um anjo conhece a Deus pelos seus próprios princípios naturais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12173,7 +12173,7 @@
     "children": [
       {
         "id": "p1-q57-a1",
-        "titulo": "Artigo 1 — Whether the Angels Know Material Things?",
+        "titulo": "Artigo 1 — Se os anjos conhecem coisas materiais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12212,7 +12212,7 @@
       },
       {
         "id": "p1-q57-a2",
-        "titulo": "Artigo 2 — Whether an Angel Knows Singulars?",
+        "titulo": "Artigo 2 — Se um anjo conhece singulares?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12251,7 +12251,7 @@
       },
       {
         "id": "p1-q57-a3",
-        "titulo": "Artigo 3 — Whether Angels Know the Future?",
+        "titulo": "Artigo 3 — Se os anjos conhecem o futuro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12298,7 +12298,7 @@
       },
       {
         "id": "p1-q57-a4",
-        "titulo": "Artigo 4 — Whether Angels Know Secret Thoughts?",
+        "titulo": "Artigo 4 — Se os anjos conhecem pensamentos secretos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12337,7 +12337,7 @@
       },
       {
         "id": "p1-q57-a5",
-        "titulo": "Artigo 5 — Whether the Angels Know the Mysteries of Grace?",
+        "titulo": "Artigo 5 — Se os anjos conhecem os mistérios da graça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12382,7 +12382,7 @@
     "children": [
       {
         "id": "p1-q58-a1",
-        "titulo": "Artigo 1 — Whether the Angel's Intellect Is Sometimes in Potentiality, Sometimes in Act?",
+        "titulo": "Artigo 1 — Se o intelecto do Anjo está às vezes em potencial, às vezes em ato?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12421,7 +12421,7 @@
       },
       {
         "id": "p1-q58-a2",
-        "titulo": "Artigo 2 — Whether an Angel Can Understand Many Things at the Same Time?",
+        "titulo": "Artigo 2 — Se um anjo pode compreender muitas coisas ao mesmo tempo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12456,7 +12456,7 @@
       },
       {
         "id": "p1-q58-a3",
-        "titulo": "Artigo 3 — Whether an Angel's Knowledge Is Discursive?",
+        "titulo": "Artigo 3 — Se o conhecimento de um anjo é discursivo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12495,7 +12495,7 @@
       },
       {
         "id": "p1-q58-a4",
-        "titulo": "Artigo 4 — Whether the Angels Understand by Composing and Dividing?",
+        "titulo": "Artigo 4 — Se os Anjos Compreendem Compondo e Dividindo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12534,7 +12534,7 @@
       },
       {
         "id": "p1-q58-a5",
-        "titulo": "Artigo 5 — Whether There Can Be Falsehood in the Intellect of an Angel?",
+        "titulo": "Artigo 5 — Pode haver falsidade no intelecto de um anjo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12561,7 +12561,7 @@
       },
       {
         "id": "p1-q58-a6",
-        "titulo": "Artigo 6 — Whether There Is a \"Morning\" and an \"Evening\" Knowledge in the Angels?",
+        "titulo": "Artigo 6 — Se existe um conhecimento “matutino” e um “vespertino” nos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12600,7 +12600,7 @@
       },
       {
         "id": "p1-q58-a7",
-        "titulo": "Artigo 7 — Whether the Morning and Evening Knowledge Are One?",
+        "titulo": "Artigo 7 — Se o conhecimento matinal e vespertino são um só?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12645,7 +12645,7 @@
     "children": [
       {
         "id": "p1-q59-a1",
-        "titulo": "Artigo 1 — Whether There Is Will in the Angels?",
+        "titulo": "Artigo 1 — Se existe vontade nos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12684,7 +12684,7 @@
       },
       {
         "id": "p1-q59-a2",
-        "titulo": "Artigo 2 — Whether in the Angels the Will Differs from the Intellect?",
+        "titulo": "Artigo 2 — Se nos anjos a vontade difere do intelecto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12723,7 +12723,7 @@
       },
       {
         "id": "p1-q59-a3",
-        "titulo": "Artigo 3 — Whether There Is Free-Will in the Angels?",
+        "titulo": "Artigo 3 — Se existe livre arbítrio nos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12762,7 +12762,7 @@
       },
       {
         "id": "p1-q59-a4",
-        "titulo": "Artigo 4 — Whether There Is an Irascible and a Concupiscible Appetite in the Angels?",
+        "titulo": "Artigo 4 — Se existe um apetite irascível e um apetite concupiscível nos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12807,7 +12807,7 @@
     "children": [
       {
         "id": "p1-q60-a1",
-        "titulo": "Artigo 1 — Whether There Is Natural Love or Dilection in an Angel?",
+        "titulo": "Artigo 1 — Se existe amor natural ou dileção em um anjo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12846,7 +12846,7 @@
       },
       {
         "id": "p1-q60-a2",
-        "titulo": "Artigo 2 — Whether There Is Love of Choice in the Angels?",
+        "titulo": "Artigo 2 — Se existe amor de escolha nos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12877,7 +12877,7 @@
       },
       {
         "id": "p1-q60-a3",
-        "titulo": "Artigo 3 — Whether the Angel Loves Himself with Both Natural Love, and Love of Choice?",
+        "titulo": "Artigo 3 — Se o anjo se ama tanto com amor natural quanto com amor de escolha?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12916,7 +12916,7 @@
       },
       {
         "id": "p1-q60-a4",
-        "titulo": "Artigo 4 — Whether an Angel Loves Another with Natural Love As He Loves Himself?",
+        "titulo": "Artigo 4 — Se um anjo ama outro com amor natural como ama a si mesmo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -12955,7 +12955,7 @@
       },
       {
         "id": "p1-q60-a5",
-        "titulo": "Artigo 5 — Whether an angel by natural love loves God more than he loves himself?",
+        "titulo": "Artigo 5 — Se um anjo, por amor natural, ama a Deus mais do que a si mesmo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13016,7 +13016,7 @@
     "children": [
       {
         "id": "p1-q61-a1",
-        "titulo": "Artigo 1 — Whether the Angels Have a Cause of Their Existence?",
+        "titulo": "Artigo 1 — Se os anjos têm uma causa para sua existência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13051,7 +13051,7 @@
       },
       {
         "id": "p1-q61-a2",
-        "titulo": "Artigo 2 — Whether the Angel Was Produced by God from Eternity?",
+        "titulo": "Artigo 2 — Se o anjo foi produzido por Deus desde a eternidade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13090,7 +13090,7 @@
       },
       {
         "id": "p1-q61-a3",
-        "titulo": "Artigo 3 — Whether the Angels Were Created Before the Corporeal World?",
+        "titulo": "Artigo 3 — Se os anjos foram criados antes do mundo corpóreo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13129,7 +13129,7 @@
       },
       {
         "id": "p1-q61-a4",
-        "titulo": "Artigo 4 — Whether the Angels Were Created in the Empyrean Heaven?",
+        "titulo": "Artigo 4 — Se os anjos foram criados no céu empíreo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13174,7 +13174,7 @@
     "children": [
       {
         "id": "p1-q62-a1",
-        "titulo": "Artigo 1 — Whether the Angels Were Created in Beatitude?",
+        "titulo": "Artigo 1 — Se os anjos foram criados na bem-aventurança?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13213,7 +13213,7 @@
       },
       {
         "id": "p1-q62-a2",
-        "titulo": "Artigo 2 — Whether an Angel Needs Grace in Order to Turn to God?",
+        "titulo": "Artigo 2 — Se um anjo precisa de graça para se voltar para Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13252,7 +13252,7 @@
       },
       {
         "id": "p1-q62-a3",
-        "titulo": "Artigo 3 — Whether the Angels Were Created in Grace?",
+        "titulo": "Artigo 3 — Se os anjos foram criados na graça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13291,7 +13291,7 @@
       },
       {
         "id": "p1-q62-a4",
-        "titulo": "Artigo 4 — Whether an Angel Merits His Beatitude?",
+        "titulo": "Artigo 4 — Se um anjo merece sua bem-aventurança?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13326,7 +13326,7 @@
       },
       {
         "id": "p1-q62-a5",
-        "titulo": "Artigo 5 — Whether the Angel Obtained Beatitude Immediately After One Act of Merit?",
+        "titulo": "Artigo 5 — Se o anjo obteve a beatitude imediatamente após um ato de mérito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13365,7 +13365,7 @@
       },
       {
         "id": "p1-q62-a6",
-        "titulo": "Artigo 6 — Whether the Angels Receive Grace and Glory According to the Degree of Their Natural Gifts?",
+        "titulo": "Artigo 6 — Se os anjos recebem graça e glória de acordo com o grau de seus dons naturais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13404,7 +13404,7 @@
       },
       {
         "id": "p1-q62-a7",
-        "titulo": "Artigo 7 — Whether Natural Knowledge and Love Remain in the Beatified Angels?",
+        "titulo": "Artigo 7 — Se o conhecimento natural e o amor permanecem nos anjos beatificados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13443,7 +13443,7 @@
       },
       {
         "id": "p1-q62-a8",
-        "titulo": "Artigo 8 — Whether a Beatified Angel Can Sin?",
+        "titulo": "Artigo 8 — Se um anjo beatificado pode pecar?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13482,7 +13482,7 @@
       },
       {
         "id": "p1-q62-a9",
-        "titulo": "Artigo 9 — Whether the Beatified Angels Advance in Beatitude?",
+        "titulo": "Artigo 9 — Se os anjos beatificados avançam em bem-aventurança?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13527,7 +13527,7 @@
     "children": [
       {
         "id": "p1-q63-a1",
-        "titulo": "Artigo 1 — Whether the Evil of Fault Can Be in the Angels?",
+        "titulo": "Artigo 1 — Se o mal da culpa pode estar nos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13574,7 +13574,7 @@
       },
       {
         "id": "p1-q63-a2",
-        "titulo": "Artigo 2 — Whether Only the Sin of Pride and Envy Can Exist in an Angel?",
+        "titulo": "Artigo 2 — Se apenas o pecado do orgulho e da inveja pode existir em um anjo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13613,7 +13613,7 @@
       },
       {
         "id": "p1-q63-a3",
-        "titulo": "Artigo 3 — Whether the Devil Desired to Be As God?",
+        "titulo": "Artigo 3 — Se o Diabo desejava ser como Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13640,7 +13640,7 @@
       },
       {
         "id": "p1-q63-a4",
-        "titulo": "Artigo 4 — Whether Any Demons Are Naturally Wicked?",
+        "titulo": "Artigo 4 — Se algum demônio é naturalmente mau?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13679,7 +13679,7 @@
       },
       {
         "id": "p1-q63-a5",
-        "titulo": "Artigo 5 — Whether the Devil Was Wicked by the Fault of His Own Will in the First Instant of His Creation?",
+        "titulo": "Artigo 5 — Se o Diabo foi mau por culpa de sua própria vontade no primeiro instante de sua criação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13730,7 +13730,7 @@
       },
       {
         "id": "p1-q63-a6",
-        "titulo": "Artigo 6 — Whether There Was Any Interval Between the Creation and the Fall of the Angel?",
+        "titulo": "Artigo 6 — Houve algum intervalo entre a criação e a queda do anjo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13777,7 +13777,7 @@
       },
       {
         "id": "p1-q63-a7",
-        "titulo": "Artigo 7 — Whether the Highest Angel Among Those Who Sinned Was the Highest of All?",
+        "titulo": "Artigo 7 — Se o anjo mais elevado entre aqueles que pecaram era o mais elevado de todos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13816,7 +13816,7 @@
       },
       {
         "id": "p1-q63-a8",
-        "titulo": "Artigo 8 — Whether the Sin of the Highest Angel Was the Cause of the Others Sinning?",
+        "titulo": "Artigo 8 — Se o pecado do Anjo Supremo foi a causa do pecado dos outros?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13855,7 +13855,7 @@
       },
       {
         "id": "p1-q63-a9",
-        "titulo": "Artigo 9 — Whether Those Who Sinned Were As Many As Those Who Remained Firm?",
+        "titulo": "Artigo 9 — Se os que pecaram foram tantos quanto os que permaneceram firmes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13896,7 +13896,7 @@
     "children": [
       {
         "id": "p1-q64-a1",
-        "titulo": "Artigo 1 — Whether the Demons' Intellect Is Darkened by Privation of the Knowledge of All Truth?",
+        "titulo": "Artigo 1 — Se o intelecto dos demônios está obscurecido pela privação do conhecimento de toda a verdade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -13951,7 +13951,7 @@
       },
       {
         "id": "p1-q64-a2",
-        "titulo": "Artigo 2 — Whether the Will of the Demons Is Obstinate in Evil?",
+        "titulo": "Artigo 2 — Se a vontade dos demônios está obstinada no mal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14006,7 +14006,7 @@
       },
       {
         "id": "p1-q64-a3",
-        "titulo": "Artigo 3 — Whether There Is Sorrow in the Demons?",
+        "titulo": "Artigo 3 — Se há tristeza nos demônios?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14045,7 +14045,7 @@
       },
       {
         "id": "p1-q64-a4",
-        "titulo": "Artigo 4 — Whether Our Atmosphere Is the Demons' Place of Punishment?",
+        "titulo": "Artigo 4 — Se a nossa atmosfera é o lugar de punição dos demônios?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14090,7 +14090,7 @@
     "children": [
       {
         "id": "p1-q65-a1",
-        "titulo": "Artigo 1 — Whether Corporeal Creatures Are from God?",
+        "titulo": "Artigo 1 — Se as criaturas corpóreas vêm de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14129,7 +14129,7 @@
       },
       {
         "id": "p1-q65-a2",
-        "titulo": "Artigo 2 — Whether Corporeal Things Were Made on Account of God's Goodness?",
+        "titulo": "Artigo 2 — Se as coisas corporais foram feitas por causa da bondade de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14168,7 +14168,7 @@
       },
       {
         "id": "p1-q65-a3",
-        "titulo": "Artigo 3 — Whether Corporeal Creatures Were Produced by God Through the Medium of the Angels?",
+        "titulo": "Artigo 3 — Se as criaturas corpóreas foram produzidas por Deus por meio dos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14207,7 +14207,7 @@
       },
       {
         "id": "p1-q65-a4",
-        "titulo": "Artigo 4 — Whether the Forms of Bodies Are from the Angels?",
+        "titulo": "Artigo 4 — Se as formas dos corpos vêm dos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14252,7 +14252,7 @@
     "children": [
       {
         "id": "p1-q66-a1",
-        "titulo": "Artigo 1 — Whether Formlessness of Created Matter Preceded in Time its Formation?",
+        "titulo": "Artigo 1 — Se a ausência de forma da matéria criada precedeu no tempo a sua formação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14291,7 +14291,7 @@
       },
       {
         "id": "p1-q66-a2",
-        "titulo": "Artigo 2 — Whether the Formless Matter of All Corporeal Things Is the Same?",
+        "titulo": "Artigo 2 — Se a matéria informe de todas as coisas corpóreas é a mesma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14338,7 +14338,7 @@
       },
       {
         "id": "p1-q66-a3",
-        "titulo": "Artigo 3 — Whether the Empyrean Heaven Was Created at the Same Time As Formless Matter?",
+        "titulo": "Artigo 3 — Se o Céu Empíreo foi criado ao mesmo tempo que a matéria informe?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14389,7 +14389,7 @@
       },
       {
         "id": "p1-q66-a4",
-        "titulo": "Artigo 4 — Whether Time Was Created Simultaneously with Formless Matter?",
+        "titulo": "Artigo 4 — Se o tempo foi criado simultaneamente com a matéria informe?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14450,7 +14450,7 @@
     "children": [
       {
         "id": "p1-q67-a1",
-        "titulo": "Artigo 1 — Whether the Word \"Light\" Is Used in Its Proper Sense in Speaking of Spiritual Things?",
+        "titulo": "Artigo 1 — Se a palavra “luz” é usada em seu sentido correto ao falar de coisas espirituais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14477,7 +14477,7 @@
       },
       {
         "id": "p1-q67-a2",
-        "titulo": "Artigo 2 — Whether Light Is a Body?",
+        "titulo": "Artigo 2 — Se a luz é um corpo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14516,7 +14516,7 @@
       },
       {
         "id": "p1-q67-a3",
-        "titulo": "Artigo 3 — Whether Light Is a Quality?",
+        "titulo": "Artigo 3 — Se a luz é uma qualidade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14555,7 +14555,7 @@
       },
       {
         "id": "p1-q67-a4",
-        "titulo": "Artigo 4 — Whether the Production of Light Is Fittingly Assigned to the First Day?",
+        "titulo": "Artigo 4 — Se a produção de luz está apropriadamente atribuída ao primeiro dia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14608,7 +14608,7 @@
     "children": [
       {
         "id": "p1-q68-a1",
-        "titulo": "Artigo 1 — Whether the Firmament Was Made on the Second Day?",
+        "titulo": "Artigo 1 — Se o Firmamento foi feito no segundo dia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14639,7 +14639,7 @@
       },
       {
         "id": "p1-q68-a2",
-        "titulo": "Artigo 2 — Whether There Are Waters Above the Firmament?",
+        "titulo": "Artigo 2 — Se existem águas acima do firmamento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14674,7 +14674,7 @@
       },
       {
         "id": "p1-q68-a3",
-        "titulo": "Artigo 3 — Whether the Firmament Divides Waters from Waters?",
+        "titulo": "Artigo 3 — Se o Firmamento separa águas de águas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14717,7 +14717,7 @@
       },
       {
         "id": "p1-q68-a4",
-        "titulo": "Artigo 4 — Whether There Is Only One Heaven?",
+        "titulo": "Artigo 4 — Se existe apenas um céu?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14762,7 +14762,7 @@
     "children": [
       {
         "id": "p1-q69-a1",
-        "titulo": "Artigo 1 — Whether It Was Fitting That the Gathering Together of the Waters Should Take Place, As Recorded, on the Third Day?",
+        "titulo": "Artigo 1 — Se era apropriado que o ajuntamento das águas ocorresse, conforme registrado, no terceiro dia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14817,7 +14817,7 @@
       },
       {
         "id": "p1-q69-a2",
-        "titulo": "Artigo 2 — Whether It Was Fitting That the Production of Plants Should Take Place on the Third Day?",
+        "titulo": "Artigo 2 — Se era apropriado que a produção de plantas ocorresse no terceiro dia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14862,7 +14862,7 @@
     "children": [
       {
         "id": "p1-q70-a1",
-        "titulo": "Artigo 1 — Whether the Lights Ought to Have Been Produced on the Fourth Day?",
+        "titulo": "Artigo 1 — Se as luzes deveriam ter sido produzidas no quarto dia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14917,7 +14917,7 @@
       },
       {
         "id": "p1-q70-a2",
-        "titulo": "Artigo 2 — Whether the Cause Assigned for the Production of the Lights Is Reasonable?",
+        "titulo": "Artigo 2 — Se a causa atribuída para a produção das luzes é razoável?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -14972,7 +14972,7 @@
       },
       {
         "id": "p1-q70-a3",
-        "titulo": "Artigo 3 — Whether the Lights of Heaven Are Living Beings?",
+        "titulo": "Artigo 3 — Se as luzes do céu são seres vivos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15033,7 +15033,7 @@
     "children": [
       {
         "id": "p1-q73-a1",
-        "titulo": "Artigo 1 — Whether the Completion of the Divine Works Ought to Be Ascribed to the Seventh Day?",
+        "titulo": "Artigo 1 — Se a conclusão das obras divinas deve ser atribuída ao sétimo dia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15072,7 +15072,7 @@
       },
       {
         "id": "p1-q73-a2",
-        "titulo": "Artigo 2 — Whether God Rested on the Seventh Day from All His Work?",
+        "titulo": "Artigo 2 — Se Deus descansou no sétimo dia de toda a sua obra?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15111,7 +15111,7 @@
       },
       {
         "id": "p1-q73-a3",
-        "titulo": "Artigo 3 — Whether Blessing and Sanctifying Are Due to the Seventh Day?",
+        "titulo": "Artigo 3 — Se a bênção e a santificação são devidas ao sétimo dia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15156,7 +15156,7 @@
     "children": [
       {
         "id": "p1-q74-a1",
-        "titulo": "Artigo 1 — Whether these days are sufficiently enumerated?",
+        "titulo": "Artigo 1 — Se estes dias são suficientemente enumerados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15207,7 +15207,7 @@
       },
       {
         "id": "p1-q74-a2",
-        "titulo": "Artigo 2 — Whether All These Days Are One Day?",
+        "titulo": "Artigo 2 — Se todos esses dias são um dia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15258,7 +15258,7 @@
       },
       {
         "id": "p1-q74-a3",
-        "titulo": "Artigo 3 — Whether Scripture Uses Suitable Words to Express the Work of the Six Days?",
+        "titulo": "Artigo 3 — Se as Escrituras usam palavras adequadas para expressar a obra dos seis dias?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15327,7 +15327,7 @@
     "children": [
       {
         "id": "p1-q75-a1",
-        "titulo": "Artigo 1 — Whether the Soul Is a Body?",
+        "titulo": "Artigo 1 — Se a alma é um corpo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15366,7 +15366,7 @@
       },
       {
         "id": "p1-q75-a2",
-        "titulo": "Artigo 2 — Whether the Human Soul Is Something Subsistent?",
+        "titulo": "Artigo 2 — Se a alma humana é algo subsistente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15405,7 +15405,7 @@
       },
       {
         "id": "p1-q75-a3",
-        "titulo": "Artigo 3 — Whether the Souls of Brute Animals Are Subsistent?",
+        "titulo": "Artigo 3 — Se as almas dos animais brutos são subsistentes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15444,7 +15444,7 @@
       },
       {
         "id": "p1-q75-a4",
-        "titulo": "Artigo 4 — Whether the Soul Is Man?",
+        "titulo": "Artigo 4 — Se a alma é o homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15475,7 +15475,7 @@
       },
       {
         "id": "p1-q75-a5",
-        "titulo": "Artigo 5 — Whether the Soul Is Composed of Matter and Form?",
+        "titulo": "Artigo 5 — Se a alma é composta de matéria e forma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15522,7 +15522,7 @@
       },
       {
         "id": "p1-q75-a6",
-        "titulo": "Artigo 6 — Whether the Human Soul Is Incorruptible?",
+        "titulo": "Artigo 6 — Se a alma humana é incorruptível?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15561,7 +15561,7 @@
       },
       {
         "id": "p1-q75-a7",
-        "titulo": "Artigo 7 — Whether the Soul Is of the Same Species As an Angel?",
+        "titulo": "Artigo 7 — Se a alma é da mesma espécie de um anjo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15606,7 +15606,7 @@
     "children": [
       {
         "id": "p1-q76-a1",
-        "titulo": "Artigo 1 — Whether the Intellectual Principle Is United to the Body As Its Form?",
+        "titulo": "Artigo 1 — Se o princípio intelectual está unido ao corpo como forma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15661,7 +15661,7 @@
       },
       {
         "id": "p1-q76-a2",
-        "titulo": "Artigo 2 — Whether the Intellectual Principle Is Multiplied According to the Number of Bodies?",
+        "titulo": "Artigo 2 — Se o princípio intelectual é multiplicado de acordo com o número de corpos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15728,7 +15728,7 @@
       },
       {
         "id": "p1-q76-a3",
-        "titulo": "Artigo 3 — Whether Besides the Intellectual Soul There Are in Man Other Souls Essentially Different from One Another?",
+        "titulo": "Artigo 3 — Se além da alma intelectual existem no homem outras almas essencialmente diferentes umas das outras?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15775,7 +15775,7 @@
       },
       {
         "id": "p1-q76-a4",
-        "titulo": "Artigo 4 — Whether in Man There Is Another Form Besides the Intellectual Soul?",
+        "titulo": "Artigo 4 — Se no homem existe outra forma além da alma intelectual?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15822,7 +15822,7 @@
       },
       {
         "id": "p1-q76-a5",
-        "titulo": "Artigo 5 — Whether the Intellectual Soul Is Properly United to Such a Body?",
+        "titulo": "Artigo 5 — Se a alma intelectual está devidamente unida a tal corpo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15869,7 +15869,7 @@
       },
       {
         "id": "p1-q76-a6",
-        "titulo": "Artigo 6 — Whether the Intellectual Soul Is United to the Body Through the Medium of Accidental Dispositions?",
+        "titulo": "Artigo 6 — Se a alma intelectual está unida ao corpo por meio de disposições acidentais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15912,7 +15912,7 @@
       },
       {
         "id": "p1-q76-a7",
-        "titulo": "Artigo 7 — Whether the Soul Is United to the Animal Body by Means of a Body?",
+        "titulo": "Artigo 7 — Se a alma está unida ao corpo animal por meio de um corpo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -15951,7 +15951,7 @@
       },
       {
         "id": "p1-q76-a8",
-        "titulo": "Artigo 8 — Whether the Soul Is in Each Part of the Body?",
+        "titulo": "Artigo 8 — Se a alma está em cada parte do corpo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16012,7 +16012,7 @@
     "children": [
       {
         "id": "p1-q77-a1",
-        "titulo": "Artigo 1 — Whether the Essence of the Soul Is Its Power?",
+        "titulo": "Artigo 1 — Se a essência da alma é o seu poder?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16083,7 +16083,7 @@
       },
       {
         "id": "p1-q77-a2",
-        "titulo": "Artigo 2 — Whether There Are Several Powers of the Soul?",
+        "titulo": "Artigo 2 — Se existem vários poderes da alma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16122,7 +16122,7 @@
       },
       {
         "id": "p1-q77-a3",
-        "titulo": "Artigo 3 — Whether the Powers Are Distinguished by Their Acts and Objects?",
+        "titulo": "Artigo 3 — Se os poderes se distinguem pelos seus atos e objetivos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16169,7 +16169,7 @@
       },
       {
         "id": "p1-q77-a4",
-        "titulo": "Artigo 4 — Whether Among the Powers of the Soul There Is Order?",
+        "titulo": "Artigo 4 — Se entre os poderes da alma existe ordem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16208,7 +16208,7 @@
       },
       {
         "id": "p1-q77-a5",
-        "titulo": "Artigo 5 — Whether All the Powers of the Soul Are in the Soul As Their Subject?",
+        "titulo": "Artigo 5 — Se todos os poderes da alma estão na alma como seu sujeito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16247,7 +16247,7 @@
       },
       {
         "id": "p1-q77-a6",
-        "titulo": "Artigo 6 — Whether the Powers of the Soul Flow from Its Essence?",
+        "titulo": "Artigo 6 — Se os poderes da alma fluem de sua essência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16290,7 +16290,7 @@
       },
       {
         "id": "p1-q77-a7",
-        "titulo": "Artigo 7 — Whether One Power of the Soul Arises from Another?",
+        "titulo": "Artigo 7 — Se um poder da alma surge de outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16329,7 +16329,7 @@
       },
       {
         "id": "p1-q77-a8",
-        "titulo": "Artigo 8 — Whether All the Powers Remain in the Soul When Separated from the Body?",
+        "titulo": "Artigo 8 — Se todos os poderes permanecem na alma quando separados do corpo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16398,7 +16398,7 @@
     "children": [
       {
         "id": "p1-q78-a1",
-        "titulo": "Artigo 1 — Whether There Are to Be Distinguished Five Genera of Powers in the Soul?",
+        "titulo": "Artigo 1 — Se devem ser distinguidos cinco gêneros de poderes na alma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16437,7 +16437,7 @@
       },
       {
         "id": "p1-q78-a2",
-        "titulo": "Artigo 2 — Whether the Parts of the Vegetative Soul Are Fittingly Described As the Nutritive, Augmentative, and Generative?",
+        "titulo": "Artigo 2 — Se as partes da alma vegetativa são adequadamente descritas como nutritivas, aumentativas e geradoras?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16484,7 +16484,7 @@
       },
       {
         "id": "p1-q78-a3",
-        "titulo": "Artigo 3 — Whether the Five Exterior Senses Are Properly Distinguished?",
+        "titulo": "Artigo 3 — Se os cinco sentidos exteriores estão devidamente diferenciados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16535,7 +16535,7 @@
       },
       {
         "id": "p1-q78-a4",
-        "titulo": "Artigo 4 — Whether the Interior Senses Are Suitably Distinguished?",
+        "titulo": "Artigo 4 — Se os sentidos interiores são adequadamente diferenciados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16604,7 +16604,7 @@
     "children": [
       {
         "id": "p1-q79-a1",
-        "titulo": "Artigo 1 — Whether the Intellect Is a Power of the Soul?",
+        "titulo": "Artigo 1 — Se o intelecto é um poder da alma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16651,7 +16651,7 @@
       },
       {
         "id": "p1-q79-a2",
-        "titulo": "Artigo 2 — Whether the Intellect Is a Passive Power?",
+        "titulo": "Artigo 2 — Se o intelecto é um poder passivo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16690,7 +16690,7 @@
       },
       {
         "id": "p1-q79-a3",
-        "titulo": "Artigo 3 — Whether There Is an Active Intellect?",
+        "titulo": "Artigo 3 — Se existe um intelecto ativo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16733,7 +16733,7 @@
       },
       {
         "id": "p1-q79-a4",
-        "titulo": "Artigo 4 — Whether the Active Intellect Is Something in the Soul?",
+        "titulo": "Artigo 4 — Se o intelecto ativo está na alma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16792,7 +16792,7 @@
       },
       {
         "id": "p1-q79-a5",
-        "titulo": "Artigo 5 — Whether the Active Intellect Is One in All?",
+        "titulo": "Artigo 5 — Se o intelecto ativo é um em todos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16831,7 +16831,7 @@
       },
       {
         "id": "p1-q79-a6",
-        "titulo": "Artigo 6 — Whether Memory Is in the Intellectual Part of the Soul?",
+        "titulo": "Artigo 6 — Se a memória está na parte intelectual da alma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16870,7 +16870,7 @@
       },
       {
         "id": "p1-q79-a7",
-        "titulo": "Artigo 7 — Whether the Intellectual Memory Is a Power Distinct from the Intellect?",
+        "titulo": "Artigo 7 — Se a memória intelectual é um poder distinto do intelecto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16913,7 +16913,7 @@
       },
       {
         "id": "p1-q79-a8",
-        "titulo": "Artigo 8 — Whether the Reason Is Distinct from the Intellect?",
+        "titulo": "Artigo 8 — Se a razão é distinta do intelecto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16952,7 +16952,7 @@
       },
       {
         "id": "p1-q79-a9",
-        "titulo": "Artigo 9 — Whether the Higher and Lower Reason Are Distinct Powers?",
+        "titulo": "Artigo 9 — Se a razão superior e a inferior são poderes distintos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -16999,7 +16999,7 @@
       },
       {
         "id": "p1-q79-a10",
-        "titulo": "Artigo 10 — Whether Intelligence Is a Power Distinct from Intellect?",
+        "titulo": "Artigo 10 — Se a inteligência é um poder distinto do intelecto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17038,7 +17038,7 @@
       },
       {
         "id": "p1-q79-a11",
-        "titulo": "Artigo 11 — Whether the Speculative and Practical Intellects Are Distinct Powers?",
+        "titulo": "Artigo 11 — Se os intelectos especulativos e práticos são poderes distintos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17077,7 +17077,7 @@
       },
       {
         "id": "p1-q79-a12",
-        "titulo": "Artigo 12 — Whether Synderesis Is a Special Power of the Soul Distinct from the Others?",
+        "titulo": "Artigo 12 — Se a sinderese é um poder especial da alma distinto dos outros?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17116,7 +17116,7 @@
       },
       {
         "id": "p1-q79-a13",
-        "titulo": "Artigo 13 — Whether Conscience Be a Power?",
+        "titulo": "Artigo 13 — Se a consciência é um poder?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17161,7 +17161,7 @@
     "children": [
       {
         "id": "p1-q80-a1",
-        "titulo": "Artigo 1 — Whether the Appetite Is a Special Power of the Soul?",
+        "titulo": "Artigo 1 — Se o apetite é um poder especial da alma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17200,7 +17200,7 @@
       },
       {
         "id": "p1-q80-a2",
-        "titulo": "Artigo 2 — Whether the Sensitive and Intellectual Appetites Are Distinct Powers?",
+        "titulo": "Artigo 2 — Se os apetites sensíveis e intelectuais são poderes distintos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17245,7 +17245,7 @@
     "children": [
       {
         "id": "p1-q81-a1",
-        "titulo": "Artigo 1 — Whether Sensuality Is Only Appetitive?",
+        "titulo": "Artigo 1 — Se a sensualidade é apenas apetitosa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17284,7 +17284,7 @@
       },
       {
         "id": "p1-q81-a2",
-        "titulo": "Artigo 2 — Whether the Sensitive Appetite Is Divided into the Irascible and Concupiscible As Distinct Powers?",
+        "titulo": "Artigo 2 — Se o apetite sensível se divide em irascível e concupiscível como potências distintas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17323,7 +17323,7 @@
       },
       {
         "id": "p1-q81-a3",
-        "titulo": "Artigo 3 — Whether the irascible and concupiscible appetites obey reason?",
+        "titulo": "Artigo 3 — Se os apetites irascíveis e concupiscíveis obedecem à razão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17372,7 +17372,7 @@
     "children": [
       {
         "id": "p1-q82-a1",
-        "titulo": "Artigo 1 — Whether the Will Desires Something of Necessity?",
+        "titulo": "Artigo 1 — Se a vontade deseja algo por necessidade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17411,7 +17411,7 @@
       },
       {
         "id": "p1-q82-a2",
-        "titulo": "Artigo 2 — Whether the Will Desires of Necessity, Whatever It Desires?",
+        "titulo": "Artigo 2 — Se a vontade deseja a necessidade, o que ela deseja?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17450,7 +17450,7 @@
       },
       {
         "id": "p1-q82-a3",
-        "titulo": "Artigo 3 — Whether the Will Is a Higher Power Than the Intellect?",
+        "titulo": "Artigo 3 — Se a vontade é um poder superior ao intelecto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17493,7 +17493,7 @@
       },
       {
         "id": "p1-q82-a4",
-        "titulo": "Artigo 4 — Whether the Will Moves the Intellect?",
+        "titulo": "Artigo 4 — Se a vontade move o intelecto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17532,7 +17532,7 @@
       },
       {
         "id": "p1-q82-a5",
-        "titulo": "Artigo 5 — Whether We Should Distinguish Irascible and Concupiscible Parts in the Superior Appetite?",
+        "titulo": "Artigo 5 — Se devemos distinguir as partes irascíveis e concupiscíveis no apetite superior?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17573,7 +17573,7 @@
     "children": [
       {
         "id": "p1-q83-a1",
-        "titulo": "Artigo 1 — Whether Man Has Free-Will?",
+        "titulo": "Artigo 1 — Se o homem tem livre arbítrio?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17628,7 +17628,7 @@
       },
       {
         "id": "p1-q83-a2",
-        "titulo": "Artigo 2 — Whether Free-Will Is a Power?",
+        "titulo": "Artigo 2 — Se o livre arbítrio é um poder?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17667,7 +17667,7 @@
       },
       {
         "id": "p1-q83-a3",
-        "titulo": "Artigo 3 — Whether Free-will Is an Appetitive Power?",
+        "titulo": "Artigo 3 — Se o livre arbítrio é um poder apetitivo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17706,7 +17706,7 @@
       },
       {
         "id": "p1-q83-a4",
-        "titulo": "Artigo 4 — Whether Free-will Is a Power Distinct from the Will?",
+        "titulo": "Artigo 4 — Se o livre arbítrio é um poder distinto da vontade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17751,7 +17751,7 @@
     "children": [
       {
         "id": "p1-q84-a1",
-        "titulo": "Artigo 1 — Whether the Soul Knows Bodies Through the Intellect?",
+        "titulo": "Artigo 1 — Se a alma conhece os corpos através do intelecto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17790,7 +17790,7 @@
       },
       {
         "id": "p1-q84-a2",
-        "titulo": "Artigo 2 — Whether the Soul Understands Corporeal Things Through Its Essence?",
+        "titulo": "Artigo 2 — Se a alma compreende as coisas corpóreas através de sua essência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17829,7 +17829,7 @@
       },
       {
         "id": "p1-q84-a3",
-        "titulo": "Artigo 3 — Whether the Soul Understands All Things Through Innate Species?",
+        "titulo": "Artigo 3 — Se a alma compreende todas as coisas através de espécies inatas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17868,7 +17868,7 @@
       },
       {
         "id": "p1-q84-a4",
-        "titulo": "Artigo 4 — Whether the Intelligible Species Are Derived by the Soul from Certain Separate Forms?",
+        "titulo": "Artigo 4 — Se as espécies inteligíveis são derivadas pela alma de certas formas separadas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17907,7 +17907,7 @@
       },
       {
         "id": "p1-q84-a5",
-        "titulo": "Artigo 5 — Whether the Intellectual Soul Knows Material Things in the Eternal Types?",
+        "titulo": "Artigo 5 — Se a alma intelectual conhece as coisas materiais nos tipos eternos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17934,7 +17934,7 @@
       },
       {
         "id": "p1-q84-a6",
-        "titulo": "Artigo 6 — Whether Intellectual Knowledge Is Derived from Sensible Things?",
+        "titulo": "Artigo 6 — Se o conhecimento intelectual é derivado de coisas sensatas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -17973,7 +17973,7 @@
       },
       {
         "id": "p1-q84-a7",
-        "titulo": "Artigo 7 — Whether the Intellect Can Actually Understand Through the Intelligible Species of Which It Is Possessed, Without Turning to the Phantasms?",
+        "titulo": "Artigo 7 — Se o intelecto pode realmente compreender através das espécies inteligíveis que possui, sem recorrer aos fantasmas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18012,7 +18012,7 @@
       },
       {
         "id": "p1-q84-a8",
-        "titulo": "Artigo 8 — Whether the Judgment of the Intellect Is Hindered Through Suspension of the Sensitive Powers?",
+        "titulo": "Artigo 8 — Se o julgamento do intelecto é prejudicado pela suspensão dos poderes sensíveis?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18049,7 +18049,7 @@
     "children": [
       {
         "id": "p1-q85-a1",
-        "titulo": "Artigo 1 — Whether Our Intellect Understands Corporeal and Material Things by Abstraction from Phantasms?",
+        "titulo": "Artigo 1 — Se nosso intelecto compreende coisas corpóreas e materiais por abstração de fantasmas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18108,7 +18108,7 @@
       },
       {
         "id": "p1-q85-a2",
-        "titulo": "Artigo 2 — Whether the Intelligible Species Abstracted from the Phantasm Is Related to Our Intellect As That Which Is Understood?",
+        "titulo": "Artigo 2 — Se a espécie inteligível abstraída do fantasma está relacionada ao nosso intelecto como aquilo que é compreendido?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18147,7 +18147,7 @@
       },
       {
         "id": "p1-q85-a3",
-        "titulo": "Artigo 3 — Whether the More Universal Is First in Our Intellectual Cognition?",
+        "titulo": "Artigo 3 — Se o mais universal está em primeiro lugar na nossa cognição intelectual?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18194,7 +18194,7 @@
       },
       {
         "id": "p1-q85-a4",
-        "titulo": "Artigo 4 — Whether We Can Understand Many Things at the Same Time?",
+        "titulo": "Artigo 4 — Se podemos compreender muitas coisas ao mesmo tempo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18241,7 +18241,7 @@
       },
       {
         "id": "p1-q85-a5",
-        "titulo": "Artigo 5 — Whether Our Intellect Understands by Composition and Division?",
+        "titulo": "Artigo 5 — Se o nosso intelecto entende por composição e divisão?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18280,7 +18280,7 @@
       },
       {
         "id": "p1-q85-a6",
-        "titulo": "Artigo 6 — Whether the Intellect Can Be False?",
+        "titulo": "Artigo 6 — Se o intelecto pode ser falso?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18311,7 +18311,7 @@
       },
       {
         "id": "p1-q85-a7",
-        "titulo": "Artigo 7 — Whether One Person Can Understand One and the Same Thing Better Than Another Can?",
+        "titulo": "Artigo 7 — Se uma pessoa pode compreender uma e a mesma coisa melhor do que outra?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18342,7 +18342,7 @@
       },
       {
         "id": "p1-q85-a8",
-        "titulo": "Artigo 8 — Whether the Intellect Understands the Indivisible Before the Divisible?",
+        "titulo": "Artigo 8 — Se o intelecto compreende o indivisível antes do divisível?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18387,7 +18387,7 @@
     "children": [
       {
         "id": "p1-q86-a1",
-        "titulo": "Artigo 1 — Whether Our Intellect Knows Singulars?",
+        "titulo": "Artigo 1 — Se nosso intelecto conhece singulares?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18430,7 +18430,7 @@
       },
       {
         "id": "p1-q86-a2",
-        "titulo": "Artigo 2 — Whether Our Intellect Can Know the Infinite?",
+        "titulo": "Artigo 2 — Se nosso intelecto pode conhecer o infinito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18477,7 +18477,7 @@
       },
       {
         "id": "p1-q86-a3",
-        "titulo": "Artigo 3 — Whether Our Intellect Can Know Contingent Things?",
+        "titulo": "Artigo 3 — Se nosso intelecto pode conhecer coisas contingentes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18500,7 +18500,7 @@
       },
       {
         "id": "p1-q86-a4",
-        "titulo": "Artigo 4 — Whether Our Intellect Can Know the Future?",
+        "titulo": "Artigo 4 — Se nosso intelecto pode conhecer o futuro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18545,7 +18545,7 @@
     "children": [
       {
         "id": "p1-q87-a1",
-        "titulo": "Artigo 1 — Whether the Intellectual Soul Knows Itself by Its Essence?",
+        "titulo": "Artigo 1 — Se a alma intelectual se conhece pela sua essência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18584,7 +18584,7 @@
       },
       {
         "id": "p1-q87-a2",
-        "titulo": "Artigo 2 — Whether Our Intellect Knows the Habits of the Soul by Their Essence?",
+        "titulo": "Artigo 2 — Se o nosso intelecto conhece os hábitos da alma pela sua essência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18623,7 +18623,7 @@
       },
       {
         "id": "p1-q87-a3",
-        "titulo": "Artigo 3 — Whether Our Intellect Knows Its Own Act?",
+        "titulo": "Artigo 3 — Se o nosso intelecto conhece o seu próprio ato?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18666,7 +18666,7 @@
       },
       {
         "id": "p1-q87-a4",
-        "titulo": "Artigo 4 — Whether the Intellect Understands the Act of the Will?",
+        "titulo": "Artigo 4 — Se o intelecto compreende o ato da vontade?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18711,7 +18711,7 @@
     "children": [
       {
         "id": "p1-q88-a1",
-        "titulo": "Artigo 1 — Whether the Human Soul in the Present State of Life Can Understand Immaterial Substances in Themselves?",
+        "titulo": "Artigo 1 — Se a alma humana no atual estado de vida pode compreender as substâncias imateriais em si?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18766,7 +18766,7 @@
       },
       {
         "id": "p1-q88-a2",
-        "titulo": "Artigo 2 — Whether Our Intellect Can Understand Immaterial Substances Through Its Knowledge of Material Things?",
+        "titulo": "Artigo 2 — Se nosso intelecto pode compreender substâncias imateriais por meio de seu conhecimento de coisas materiais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18817,7 +18817,7 @@
       },
       {
         "id": "p1-q88-a3",
-        "titulo": "Artigo 3 — Whether God Is the First Object Known by the Human Mind?",
+        "titulo": "Artigo 3 — Se Deus é o primeiro objeto conhecido pela mente humana?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18862,7 +18862,7 @@
     "children": [
       {
         "id": "p1-q89-a1",
-        "titulo": "Artigo 1 — Whether the Separated Soul Can Understand Anything?",
+        "titulo": "Artigo 1 — Se a alma separada pode compreender alguma coisa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18901,7 +18901,7 @@
       },
       {
         "id": "p1-q89-a2",
-        "titulo": "Artigo 2 — Whether the Separated Soul Understands Separate Substances?",
+        "titulo": "Artigo 2 — Se a alma separada compreende as substâncias separadas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18940,7 +18940,7 @@
       },
       {
         "id": "p1-q89-a3",
-        "titulo": "Artigo 3 — Whether the Separated Soul Knows All Natural Things?",
+        "titulo": "Artigo 3 — Se a alma separada conhece todas as coisas naturais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -18979,7 +18979,7 @@
       },
       {
         "id": "p1-q89-a4",
-        "titulo": "Artigo 4 — Whether the Separated Soul Knows Singulars?",
+        "titulo": "Artigo 4 — Se a alma separada conhece os singulares?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19018,7 +19018,7 @@
       },
       {
         "id": "p1-q89-a5",
-        "titulo": "Artigo 5 — Whether the Habit of Knowledge Here Acquired Remains in the Separated Soul?",
+        "titulo": "Artigo 5 — Se o hábito do conhecimento aqui adquirido permanece na alma separada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19065,7 +19065,7 @@
       },
       {
         "id": "p1-q89-a6",
-        "titulo": "Artigo 6 — Whether the Act of Knowledge Acquired Here Remains in the Separated Soul?",
+        "titulo": "Artigo 6 — Se o ato de conhecimento aqui adquirido permanece na alma separada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19104,7 +19104,7 @@
       },
       {
         "id": "p1-q89-a7",
-        "titulo": "Artigo 7 — Whether Local Distance Impedes the Knowledge in the Separated Soul?",
+        "titulo": "Artigo 7 — Se a distância local impede o conhecimento na alma separada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19143,7 +19143,7 @@
       },
       {
         "id": "p1-q89-a8",
-        "titulo": "Artigo 8 — Whether Separated Souls Know What Takes Place on Earth?",
+        "titulo": "Artigo 8 — Se as almas separadas sabem o que acontece na Terra?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19188,7 +19188,7 @@
     "children": [
       {
         "id": "p1-q90-a1",
-        "titulo": "Artigo 1 — Whether the Soul Was Made or Was of God's Substance?",
+        "titulo": "Artigo 1 — Se a alma foi feita ou era da substância de Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19227,7 +19227,7 @@
       },
       {
         "id": "p1-q90-a2",
-        "titulo": "Artigo 2 — Whether the Soul Was Produced by Creation?",
+        "titulo": "Artigo 2 — Se a alma foi produzida pela criação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19266,7 +19266,7 @@
       },
       {
         "id": "p1-q90-a3",
-        "titulo": "Artigo 3 — Whether the Rational Soul Is Produced by God Immediately?",
+        "titulo": "Artigo 3 — Se a Alma Racional é Produzida por Deus Imediatamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19293,7 +19293,7 @@
       },
       {
         "id": "p1-q90-a4",
-        "titulo": "Artigo 4 — Whether the Human Soul Was Produced Before the Body?",
+        "titulo": "Artigo 4 — Se a alma humana foi produzida antes do corpo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19338,7 +19338,7 @@
     "children": [
       {
         "id": "p1-q91-a1",
-        "titulo": "Artigo 1 — Whether the Body of the First Man Was Made of the Slime of the Earth?",
+        "titulo": "Artigo 1 — Se o corpo do primeiro homem foi feito do lodo da terra?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19385,7 +19385,7 @@
       },
       {
         "id": "p1-q91-a2",
-        "titulo": "Artigo 2 — Whether the Human Body Was Immediately Produced by God?",
+        "titulo": "Artigo 2 — Se o corpo humano foi produzido imediatamente por Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19432,7 +19432,7 @@
       },
       {
         "id": "p1-q91-a3",
-        "titulo": "Artigo 3 — Whether the Body of Man Was Given an Apt Disposition?",
+        "titulo": "Artigo 3 — Se o corpo do homem recebeu uma disposição adequada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19471,7 +19471,7 @@
       },
       {
         "id": "p1-q91-a4",
-        "titulo": "Artigo 4 — Whether the Production of the Human Body Is Fittingly Described in Scripture?",
+        "titulo": "Artigo 4 — Se a produção do corpo humano é descrita apropriadamente nas Escrituras?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19528,7 +19528,7 @@
     "children": [
       {
         "id": "p1-q92-a1",
-        "titulo": "Artigo 1 — Whether the Woman Should Have Been Made in the First Production of Things?",
+        "titulo": "Artigo 1 — Se a mulher deveria ter sido feita na primeira produção das coisas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19567,7 +19567,7 @@
       },
       {
         "id": "p1-q92-a2",
-        "titulo": "Artigo 2 — Whether Woman Should Have Been Made from Man?",
+        "titulo": "Artigo 2 — Se a mulher deveria ter sido feita do homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19602,7 +19602,7 @@
       },
       {
         "id": "p1-q92-a3",
-        "titulo": "Artigo 3 — Whether the Woman Was Fittingly Made from the Rib of Man?",
+        "titulo": "Artigo 3 — Se a mulher foi adequadamente feita da costela do homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19637,7 +19637,7 @@
       },
       {
         "id": "p1-q92-a4",
-        "titulo": "Artigo 4 — Whether the Woman Was Formed Immediately by God?",
+        "titulo": "Artigo 4 — Se a mulher foi formada imediatamente por Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19682,7 +19682,7 @@
     "children": [
       {
         "id": "p1-q93-a1",
-        "titulo": "Artigo 1 — Whether the Image of God Is in Man?",
+        "titulo": "Artigo 1 — Se a imagem de Deus está no homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19721,7 +19721,7 @@
       },
       {
         "id": "p1-q93-a2",
-        "titulo": "Artigo 2 — Whether the Image of God Is to Be Found in Irrational Creatures?",
+        "titulo": "Artigo 2 — Se a imagem de Deus pode ser encontrada em criaturas irracionais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19768,7 +19768,7 @@
       },
       {
         "id": "p1-q93-a3",
-        "titulo": "Artigo 3 — Whether the Angels Are More to the Image of God Than Man Is?",
+        "titulo": "Artigo 3 — Se os anjos são mais parecidos com a imagem de Deus do que o homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19807,7 +19807,7 @@
       },
       {
         "id": "p1-q93-a4",
-        "titulo": "Artigo 4 — Whether the Image of God Is Found in Every Man?",
+        "titulo": "Artigo 4 — Se a imagem de Deus se encontra em cada homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19838,7 +19838,7 @@
       },
       {
         "id": "p1-q93-a5",
-        "titulo": "Artigo 5 — Whether the Image of God Is in Man According to the Trinity of Persons?",
+        "titulo": "Artigo 5 — Se a imagem de Deus está no homem segundo a Trindade das Pessoas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19877,7 +19877,7 @@
       },
       {
         "id": "p1-q93-a6",
-        "titulo": "Artigo 6 — Whether the Image of God Is in Man As Regards the Mind Only?",
+        "titulo": "Artigo 6 — Se a imagem de Deus está no homem apenas no que diz respeito à mente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19924,7 +19924,7 @@
       },
       {
         "id": "p1-q93-a7",
-        "titulo": "Artigo 7 — Whether the Image of God Is to Be Found in the Acts of the Soul?",
+        "titulo": "Artigo 7 — Se a imagem de Deus pode ser encontrada nos atos da alma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -19971,7 +19971,7 @@
       },
       {
         "id": "p1-q93-a8",
-        "titulo": "Artigo 8 — Whether the Image of the Divine Trinity Is in the Soul Only by Comparison with God As Its Object?",
+        "titulo": "Artigo 8 — Se a imagem da Trindade Divina está na alma apenas por comparação com Deus como seu objeto?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20022,7 +20022,7 @@
       },
       {
         "id": "p1-q93-a9",
-        "titulo": "Artigo 9 — Whether \"Likeness\" Is Properly Distinguished from \"Image\"?",
+        "titulo": "Artigo 9 — Se “semelhança” é adequadamente distinguida de “imagem”?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20075,7 +20075,7 @@
     "children": [
       {
         "id": "p1-q94-a1",
-        "titulo": "Artigo 1 — Whether the First Man Saw God Through His Essence?",
+        "titulo": "Artigo 1 — Se o primeiro homem viu Deus através da sua essência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20114,7 +20114,7 @@
       },
       {
         "id": "p1-q94-a2",
-        "titulo": "Artigo 2 — Whether Adam in the State of Innocence Saw the Angels Through Their Essence?",
+        "titulo": "Artigo 2 — Se Adão, no estado de inocência, viu os anjos através de sua essência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20149,7 +20149,7 @@
       },
       {
         "id": "p1-q94-a3",
-        "titulo": "Artigo 3 — Whether the First Man Knew All Things?",
+        "titulo": "Artigo 3 — Se o primeiro homem sabia todas as coisas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20188,7 +20188,7 @@
       },
       {
         "id": "p1-q94-a4",
-        "titulo": "Artigo 4 — Whether Man in His First State Could Be Deceived?",
+        "titulo": "Artigo 4 — Se o homem em seu primeiro estado poderia ser enganado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20249,7 +20249,7 @@
     "children": [
       {
         "id": "p1-q95-a1",
-        "titulo": "Artigo 1 — Whether the First Man Was Created in Grace?",
+        "titulo": "Artigo 1 — Se o primeiro homem foi criado na graça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20312,7 +20312,7 @@
       },
       {
         "id": "p1-q95-a2",
-        "titulo": "Artigo 2 — Whether Passions Existed in the Soul of the First Man?",
+        "titulo": "Artigo 2 — Se existiam paixões na alma do primeiro homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20351,7 +20351,7 @@
       },
       {
         "id": "p1-q95-a3",
-        "titulo": "Artigo 3 — Whether Adam Had All the Virtues?",
+        "titulo": "Artigo 3 — Se Adão tinha todas as virtudes?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20406,7 +20406,7 @@
       },
       {
         "id": "p1-q95-a4",
-        "titulo": "Artigo 4 — Whether the Actions of the First Man Were Less Meritorious Than Ours Are?",
+        "titulo": "Artigo 4 — Se as ações do primeiro homem foram menos meritórias do que as nossas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20451,7 +20451,7 @@
     "children": [
       {
         "id": "p1-q96-a1",
-        "titulo": "Artigo 1 — Whether Adam in the State of Innocence Had Mastership Over the Animals?",
+        "titulo": "Artigo 1 — Se Adão, no estado de inocência, tinha domínio sobre os animais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20498,7 +20498,7 @@
       },
       {
         "id": "p1-q96-a2",
-        "titulo": "Artigo 2 — Whether Man Had Mastership Over All Other Creatures?",
+        "titulo": "Artigo 2 — Se o homem tinha domínio sobre todas as outras criaturas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20525,7 +20525,7 @@
       },
       {
         "id": "p1-q96-a3",
-        "titulo": "Artigo 3 — Whether Men Were Equal in the State of Innocence?",
+        "titulo": "Artigo 3 — Se os homens eram iguais no estado de inocência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20564,7 +20564,7 @@
       },
       {
         "id": "p1-q96-a4",
-        "titulo": "Artigo 4 — Whether in the State of Innocence Man Would Have Been Master Over Man?",
+        "titulo": "Artigo 4 — Se no estado de inocência o homem teria dominado o homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20597,7 +20597,7 @@
     "children": [
       {
         "id": "p1-q97-a1",
-        "titulo": "Artigo 1 — Whether in the State of Innocence Man Would Have Been Immortal?",
+        "titulo": "Artigo 1 — Se no estado de inocência o homem teria sido imortal?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20636,7 +20636,7 @@
       },
       {
         "id": "p1-q97-a2",
-        "titulo": "Artigo 2 — Whether in the State of Innocence Man Would Have Been Passible?",
+        "titulo": "Artigo 2 — Se no estado de inocência o homem teria sido passível?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20675,7 +20675,7 @@
       },
       {
         "id": "p1-q97-a3",
-        "titulo": "Artigo 3 — Whether in the State of Innocence Man Had Need of Food?",
+        "titulo": "Artigo 3 — Se no estado de inocência o homem precisava de comida?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20722,7 +20722,7 @@
       },
       {
         "id": "p1-q97-a4",
-        "titulo": "Artigo 4 — Whether in the State of Innocence Man Would Have Acquired Immortality by the Tree of Life?",
+        "titulo": "Artigo 4 — Se no estado de inocência o homem teria adquirido a imortalidade pela árvore da vida?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20755,7 +20755,7 @@
     "children": [
       {
         "id": "p1-q98-a1",
-        "titulo": "Artigo 1 — Whether in the State of Innocence Generation Existed?",
+        "titulo": "Artigo 1 — Se existiu geração no estado de inocência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20794,7 +20794,7 @@
       },
       {
         "id": "p1-q98-a2",
-        "titulo": "Artigo 2 — Whether in the State of Innocence There Would Have Been Generation by Coition?",
+        "titulo": "Artigo 2 — Se no estado de inocência teria havido geração por coito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20847,7 +20847,7 @@
     "children": [
       {
         "id": "p1-q99-a1",
-        "titulo": "Artigo 1 — Whether in the State of Innocence Children Would Have Had Perfect Strength of Body As to the Use of Its Members Immediately After Birth?",
+        "titulo": "Artigo 1 — Se no estado de inocência as crianças teriam tido força corporal perfeita quanto ao uso de seus membros imediatamente após o nascimento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20890,7 +20890,7 @@
       },
       {
         "id": "p1-q99-a2",
-        "titulo": "Artigo 2 — Whether, in the Primitive State, Women Would Have Been Born?",
+        "titulo": "Artigo 2 — Se, no Estado Primitivo, as mulheres teriam nascido?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20935,7 +20935,7 @@
     "children": [
       {
         "id": "p1-q100-a1",
-        "titulo": "Artigo 1 — Whether Men Would Have Been Born in a State of Righteousness?",
+        "titulo": "Artigo 1 — Se os homens teriam nascido num estado de justiça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -20970,7 +20970,7 @@
       },
       {
         "id": "p1-q100-a2",
-        "titulo": "Artigo 2 — Whether in the State of Innocence Children Would Have Been Born Confirmed in Righteousness?",
+        "titulo": "Artigo 2 — Se no estado de inocência as crianças teriam nascido confirmadas na justiça?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21023,7 +21023,7 @@
     "children": [
       {
         "id": "p1-q101-a1",
-        "titulo": "Artigo 1 — Whether in the State of Innocence Children Would Have Been Born with Perfect Knowledge?",
+        "titulo": "Artigo 1 — Se no estado de inocência as crianças teriam nascido com conhecimento perfeito?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21062,7 +21062,7 @@
       },
       {
         "id": "p1-q101-a2",
-        "titulo": "Artigo 2 — Whether Children Would Have Had Perfect Use of Reason at Birth?",
+        "titulo": "Artigo 2 — Se as crianças teriam feito uso perfeito da razão ao nascer?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21099,7 +21099,7 @@
     "children": [
       {
         "id": "p1-q102-a1",
-        "titulo": "Artigo 1 — Whether Paradise Is a Corporeal Place?",
+        "titulo": "Artigo 1 — Se o Paraíso é um lugar corpóreo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21154,7 +21154,7 @@
       },
       {
         "id": "p1-q102-a2",
-        "titulo": "Artigo 2 — Whether Paradise Was a Place Adapted to Be the Abode of Man?",
+        "titulo": "Artigo 2 — Se o Paraíso foi um lugar adaptado para ser a morada do homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21201,7 +21201,7 @@
       },
       {
         "id": "p1-q102-a3",
-        "titulo": "Artigo 3 — Whether Man Was Placed in Paradise to Dress It and Keep It?",
+        "titulo": "Artigo 3 — Se o homem foi colocado no paraíso para vesti-lo e guardá-lo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21228,7 +21228,7 @@
       },
       {
         "id": "p1-q102-a4",
-        "titulo": "Artigo 4 — Whether Man Was Created in Paradise?",
+        "titulo": "Artigo 4 — Se o homem foi criado no Paraíso?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21269,7 +21269,7 @@
     "children": [
       {
         "id": "p1-q103-a1",
-        "titulo": "Artigo 1 — Whether the World Is Governed by Anyone?",
+        "titulo": "Artigo 1 — Se o mundo é governado por alguém?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21308,7 +21308,7 @@
       },
       {
         "id": "p1-q103-a2",
-        "titulo": "Artigo 2 — Whether the End of the Government of the World Is Something Outside the World?",
+        "titulo": "Artigo 2 — Se o fim do governo do mundo é algo fora do mundo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21347,7 +21347,7 @@
       },
       {
         "id": "p1-q103-a3",
-        "titulo": "Artigo 3 — Whether the World Is Governed by One?",
+        "titulo": "Artigo 3 — Se o mundo é governado por um?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21386,7 +21386,7 @@
       },
       {
         "id": "p1-q103-a4",
-        "titulo": "Artigo 4 — Whether the Effect of Government Is One or Many?",
+        "titulo": "Artigo 4 — Se o efeito do governo é um ou muitos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21417,7 +21417,7 @@
       },
       {
         "id": "p1-q103-a5",
-        "titulo": "Artigo 5 — Whether All Things Are Subject to the Divine Government?",
+        "titulo": "Artigo 5 — Se todas as coisas estão sujeitas ao governo divino?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21456,7 +21456,7 @@
       },
       {
         "id": "p1-q103-a6",
-        "titulo": "Artigo 6 — Whether all things are immediately governed by God?",
+        "titulo": "Artigo 6 — Se todas as coisas são imediatamente governadas por Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21495,7 +21495,7 @@
       },
       {
         "id": "p1-q103-a7",
-        "titulo": "Artigo 7 — Whether Anything Can Happen Outside the Order of the Divine Government?",
+        "titulo": "Artigo 7 — Se algo pode acontecer fora da ordem do governo divino?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21534,7 +21534,7 @@
       },
       {
         "id": "p1-q103-a8",
-        "titulo": "Artigo 8 — Whether anything can resist the order of the Divine government?",
+        "titulo": "Artigo 8 — Se alguma coisa pode resistir à ordem do governo Divino?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21575,7 +21575,7 @@
     "children": [
       {
         "id": "p1-q104-a1",
-        "titulo": "Artigo 1 — Whether Creatures Need to Be Kept in Being by God?",
+        "titulo": "Artigo 1 — Se as criaturas precisam ser mantidas em existência por Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21626,7 +21626,7 @@
       },
       {
         "id": "p1-q104-a2",
-        "titulo": "Artigo 2 — Whether God Preserves Every Creature Immediately?",
+        "titulo": "Artigo 2 — Se Deus preserva todas as criaturas imediatamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21665,7 +21665,7 @@
       },
       {
         "id": "p1-q104-a3",
-        "titulo": "Artigo 3 — Whether God Can Annihilate Anything?",
+        "titulo": "Artigo 3 — Se Deus pode aniquilar alguma coisa?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21704,7 +21704,7 @@
       },
       {
         "id": "p1-q104-a4",
-        "titulo": "Artigo 4 — Whether Anything Is Annihilated?",
+        "titulo": "Artigo 4 — Se alguma coisa foi aniquilada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21749,7 +21749,7 @@
     "children": [
       {
         "id": "p1-q105-a1",
-        "titulo": "Artigo 1 — Whether God Can Move the Matter Immediately to the Form?",
+        "titulo": "Artigo 1 — Se Deus pode mover a matéria imediatamente para a forma?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21788,7 +21788,7 @@
       },
       {
         "id": "p1-q105-a2",
-        "titulo": "Artigo 2 — Whether God Can Move a Body Immediately?",
+        "titulo": "Artigo 2 — Se Deus pode mover um corpo imediatamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21827,7 +21827,7 @@
       },
       {
         "id": "p1-q105-a3",
-        "titulo": "Artigo 3 — Whether God Moves the Created Intellect Immediately?",
+        "titulo": "Artigo 3 — Se Deus move imediatamente o intelecto criado?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21866,7 +21866,7 @@
       },
       {
         "id": "p1-q105-a4",
-        "titulo": "Artigo 4 — Whether God Can Move the Created Will?",
+        "titulo": "Artigo 4 — Se Deus pode mover a vontade criada?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21905,7 +21905,7 @@
       },
       {
         "id": "p1-q105-a5",
-        "titulo": "Artigo 5 — Whether God Works in Every Agent?",
+        "titulo": "Artigo 5 — Se Deus trabalha em cada agente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21944,7 +21944,7 @@
       },
       {
         "id": "p1-q105-a6",
-        "titulo": "Artigo 6 — Whether God Can Do Anything Outside the Established Order of Nature?",
+        "titulo": "Artigo 6 — Se Deus pode fazer algo fora da ordem estabelecida pela natureza?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -21987,7 +21987,7 @@
       },
       {
         "id": "p1-q105-a7",
-        "titulo": "Artigo 7 — Whether Whatever God Does Outside the Natural Order Is Miraculous?",
+        "titulo": "Artigo 7 — Se tudo o que Deus faz fora da ordem natural é milagroso?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22026,7 +22026,7 @@
       },
       {
         "id": "p1-q105-a8",
-        "titulo": "Artigo 8 — Whether One Miracle Is Greater Than Another?",
+        "titulo": "Artigo 8 — Se um milagre é maior que outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22055,7 +22055,7 @@
     "children": [
       {
         "id": "p1-q106-a1",
-        "titulo": "Artigo 1 — Whether One Angel Enlightens Another?",
+        "titulo": "Artigo 1 — Se um anjo ilumina outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22094,7 +22094,7 @@
       },
       {
         "id": "p1-q106-a2",
-        "titulo": "Artigo 2 — Whether one angel moves another angel's will?",
+        "titulo": "Artigo 2 — Se um anjo move a vontade de outro anjo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22133,7 +22133,7 @@
       },
       {
         "id": "p1-q106-a3",
-        "titulo": "Artigo 3 — Whether an Inferior Angel Can Enlighten a Superior Angel?",
+        "titulo": "Artigo 3 — Se um anjo inferior pode iluminar um anjo superior?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22172,7 +22172,7 @@
       },
       {
         "id": "p1-q106-a4",
-        "titulo": "Artigo 4 — Whether the Superior Angel Enlightens the Inferior As Regards All He Himself Knows?",
+        "titulo": "Artigo 4 — Se o anjo superior ilumina o inferior no que diz respeito a tudo o que ele mesmo sabe?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22217,7 +22217,7 @@
     "children": [
       {
         "id": "p1-q107-a1",
-        "titulo": "Artigo 1 — Whether One Angel Speaks to Another?",
+        "titulo": "Artigo 1 — Se um anjo fala com outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22256,7 +22256,7 @@
       },
       {
         "id": "p1-q107-a2",
-        "titulo": "Artigo 2 — Whether the Inferior Angel Speaks to the Superior?",
+        "titulo": "Artigo 2 — Se o anjo inferior fala com o superior?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22287,7 +22287,7 @@
       },
       {
         "id": "p1-q107-a3",
-        "titulo": "Artigo 3 — Whether an Angel Speaks to God?",
+        "titulo": "Artigo 3 — Se um anjo fala com Deus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22318,7 +22318,7 @@
       },
       {
         "id": "p1-q107-a4",
-        "titulo": "Artigo 4 — Whether Local Distance Influences the Angelic Speech?",
+        "titulo": "Artigo 4 — Se a distância local influencia a fala angélica?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22349,7 +22349,7 @@
       },
       {
         "id": "p1-q107-a5",
-        "titulo": "Artigo 5 — Whether All the Angels Know What One Speaks to Another?",
+        "titulo": "Artigo 5 — Se todos os anjos sabem o que um fala ao outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22386,7 +22386,7 @@
     "children": [
       {
         "id": "p1-q108-a1",
-        "titulo": "Artigo 1 — Whether All the Angels Are of One Hierarchy?",
+        "titulo": "Artigo 1 — Se todos os anjos pertencem a uma mesma hierarquia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22425,7 +22425,7 @@
       },
       {
         "id": "p1-q108-a2",
-        "titulo": "Artigo 2 — Whether There Are Several Orders in One Hierarchy?",
+        "titulo": "Artigo 2 — Existem vários pedidos em uma hierarquia?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22464,7 +22464,7 @@
       },
       {
         "id": "p1-q108-a3",
-        "titulo": "Artigo 3 — Whether There Are Many Angels in One Order?",
+        "titulo": "Artigo 3 — Se há muitos anjos numa só ordem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22503,7 +22503,7 @@
       },
       {
         "id": "p1-q108-a4",
-        "titulo": "Artigo 4 — Whether the Distinction of Hierarchies and Orders Comes from the Angelic Nature?",
+        "titulo": "Artigo 4 — Se a distinção entre hierarquias e ordens vem da natureza angélica?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22530,7 +22530,7 @@
       },
       {
         "id": "p1-q108-a5",
-        "titulo": "Artigo 5 — Whether the Orders of the Angels Are Properly Named?",
+        "titulo": "Artigo 5 — Se as ordens dos anjos são nomeadas corretamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22593,7 +22593,7 @@
       },
       {
         "id": "p1-q108-a6",
-        "titulo": "Artigo 6 — Whether the Grades of the Orders Are Properly Assigned?",
+        "titulo": "Artigo 6 — Se as notas dos pedidos foram atribuídas corretamente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22640,7 +22640,7 @@
       },
       {
         "id": "p1-q108-a7",
-        "titulo": "Artigo 7 — Whether the Orders Will Outlast the Day of Judgment?",
+        "titulo": "Artigo 7 — Se as ordens durarão mais que o Dia do Juízo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22679,7 +22679,7 @@
       },
       {
         "id": "p1-q108-a8",
-        "titulo": "Artigo 8 — Whether Men Are Taken Up into the Angelic Orders?",
+        "titulo": "Artigo 8 — Se os homens são incluídos nas ordens angélicas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22724,7 +22724,7 @@
     "children": [
       {
         "id": "p1-q109-a1",
-        "titulo": "Artigo 1 — Whether There Are Orders Among the Demons?",
+        "titulo": "Artigo 1 — Se existem ordens entre os demônios?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22767,7 +22767,7 @@
       },
       {
         "id": "p1-q109-a2",
-        "titulo": "Artigo 2 — Whether among the demons there is precedence?",
+        "titulo": "Artigo 2 — Se entre os demônios há precedência?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22806,7 +22806,7 @@
       },
       {
         "id": "p1-q109-a3",
-        "titulo": "Artigo 3 — Whether There Is Enlightenment in the Demons?",
+        "titulo": "Artigo 3 — Se existe iluminação nos demônios?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22837,7 +22837,7 @@
       },
       {
         "id": "p1-q109-a4",
-        "titulo": "Artigo 4 — Whether the Good Angels Have Precedence Over the Bad Angels?",
+        "titulo": "Artigo 4 — Se os anjos bons têm precedência sobre os anjos maus?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22882,7 +22882,7 @@
     "children": [
       {
         "id": "p1-q110-a1",
-        "titulo": "Artigo 1 — Whether the Corporeal Creature Is Governed by the Angels?",
+        "titulo": "Artigo 1 — Se a criatura corpórea é governada pelos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22921,7 +22921,7 @@
       },
       {
         "id": "p1-q110-a2",
-        "titulo": "Artigo 2 — Whether Corporeal Matter Obeys the Mere Will of an Angel?",
+        "titulo": "Artigo 2 — Se a matéria corpórea obedece à mera vontade de um anjo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22960,7 +22960,7 @@
       },
       {
         "id": "p1-q110-a3",
-        "titulo": "Artigo 3 — Whether Bodies Obey the Angels As Regards Local Motion?",
+        "titulo": "Artigo 3 — Se os corpos obedecem aos anjos no que diz respeito ao movimento local?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -22999,7 +22999,7 @@
       },
       {
         "id": "p1-q110-a4",
-        "titulo": "Artigo 4 — Whether Angels Can Work Miracles?",
+        "titulo": "Artigo 4 — Se os anjos podem fazer milagres?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23052,7 +23052,7 @@
     "children": [
       {
         "id": "p1-q111-a1",
-        "titulo": "Artigo 1 — Whether an Angel Can Enlighten Man?",
+        "titulo": "Artigo 1 — Se um anjo pode iluminar o homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23091,7 +23091,7 @@
       },
       {
         "id": "p1-q111-a2",
-        "titulo": "Artigo 2 — Whether the Angels Can Change the Will of Man?",
+        "titulo": "Artigo 2 — Se os anjos podem mudar a vontade do homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23130,7 +23130,7 @@
       },
       {
         "id": "p1-q111-a3",
-        "titulo": "Artigo 3 — Whether an Angel Can Change Man's Imagination?",
+        "titulo": "Artigo 3 — Se um anjo pode mudar a imaginação do homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23177,7 +23177,7 @@
       },
       {
         "id": "p1-q111-a4",
-        "titulo": "Artigo 4 — Whether an Angel Can Change the Human Senses?",
+        "titulo": "Artigo 4 — Se um anjo pode mudar os sentidos humanos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23222,7 +23222,7 @@
     "children": [
       {
         "id": "p1-q112-a1",
-        "titulo": "Artigo 1 — Whether the Angels Are Sent on Works of Ministry?",
+        "titulo": "Artigo 1 — Se os anjos são enviados para obras ministeriais?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23273,7 +23273,7 @@
       },
       {
         "id": "p1-q112-a2",
-        "titulo": "Artigo 2 — Whether All the Angels Are Sent in Ministry?",
+        "titulo": "Artigo 2 — Se todos os anjos são enviados no ministério?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23316,7 +23316,7 @@
       },
       {
         "id": "p1-q112-a3",
-        "titulo": "Artigo 3 — Whether All the Angels Who Are Sent, Assist?",
+        "titulo": "Artigo 3 — Se todos os anjos enviados ajudam?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23355,7 +23355,7 @@
       },
       {
         "id": "p1-q112-a4",
-        "titulo": "Artigo 4 — Whether All the Angels of the Second Hierarchy Are Sent?",
+        "titulo": "Artigo 4 — Se todos os anjos da segunda hierarquia foram enviados?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23392,7 +23392,7 @@
     "children": [
       {
         "id": "p1-q113-a1",
-        "titulo": "Artigo 1 — Whether Men Are Guarded by the Angels?",
+        "titulo": "Artigo 1 — Se os homens são guardados pelos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23431,7 +23431,7 @@
       },
       {
         "id": "p1-q113-a2",
-        "titulo": "Artigo 2 — Whether Each Man Is Guarded by an Angel?",
+        "titulo": "Artigo 2 — Se cada homem é guardado por um anjo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23470,7 +23470,7 @@
       },
       {
         "id": "p1-q113-a3",
-        "titulo": "Artigo 3 — Whether to Guard Men Belongs Only to the Lowest Order of Angels?",
+        "titulo": "Artigo 3 — Se guardar os homens pertence apenas à ordem mais baixa dos anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23509,7 +23509,7 @@
       },
       {
         "id": "p1-q113-a4",
-        "titulo": "Artigo 4 — Whether Angels Are Appointed to the Guardianship of All Men?",
+        "titulo": "Artigo 4 — Se os anjos são nomeados para a tutela de todos os homens?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23548,7 +23548,7 @@
       },
       {
         "id": "p1-q113-a5",
-        "titulo": "Artigo 5 — Whether an Angel Is Appointed to Guard a Man from His Birth?",
+        "titulo": "Artigo 5 — Se um anjo foi designado para proteger um homem desde o seu nascimento?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23587,7 +23587,7 @@
       },
       {
         "id": "p1-q113-a6",
-        "titulo": "Artigo 6 — Whether the Angel Guardian Ever Forsakes a Man?",
+        "titulo": "Artigo 6 — Se o anjo guardião alguma vez abandona um homem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23618,7 +23618,7 @@
       },
       {
         "id": "p1-q113-a7",
-        "titulo": "Artigo 7 — Whether Angels Grieve for the Ills of Those Whom They Guard?",
+        "titulo": "Artigo 7 — Se os anjos sofrem pelos males daqueles a quem protegem?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23661,7 +23661,7 @@
       },
       {
         "id": "p1-q113-a8",
-        "titulo": "Artigo 8 — Whether There Can Be Strife or Discord Among the Angels?",
+        "titulo": "Artigo 8 — Pode haver conflito ou discórdia entre os anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23694,7 +23694,7 @@
     "children": [
       {
         "id": "p1-q114-a1",
-        "titulo": "Artigo 1 — Whether Men Are Assailed by the Demons?",
+        "titulo": "Artigo 1 — Se os homens são atacados pelos demônios?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23733,7 +23733,7 @@
       },
       {
         "id": "p1-q114-a2",
-        "titulo": "Artigo 2 — Whether to Tempt Is Proper to the Devil?",
+        "titulo": "Artigo 2 — Se tentar é próprio do Diabo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23768,7 +23768,7 @@
       },
       {
         "id": "p1-q114-a3",
-        "titulo": "Artigo 3 — Whether All Sins Are Due to the Temptation of the Devil?",
+        "titulo": "Artigo 3 — Se todos os pecados se devem à tentação do Diabo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23803,7 +23803,7 @@
       },
       {
         "id": "p1-q114-a4",
-        "titulo": "Artigo 4 — Whether Demons Can Lead Men Astray by Means of Real Miracles?",
+        "titulo": "Artigo 4 — Se os demônios podem desencaminhar os homens por meio de verdadeiros milagres?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23846,7 +23846,7 @@
       },
       {
         "id": "p1-q114-a5",
-        "titulo": "Artigo 5 — Whether a Demon Who Is Overcome by Man, Is for This Reason Hindered from Making Further Assaults?",
+        "titulo": "Artigo 5 — Será que um demônio vencido pelo homem é, por esta razão, impedido de cometer novos ataques?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23875,7 +23875,7 @@
     "children": [
       {
         "id": "p1-q115-a1",
-        "titulo": "Artigo 1 — Whether a Body Can Be Active?",
+        "titulo": "Artigo 1 — Se um corpo pode ser ativo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23930,7 +23930,7 @@
       },
       {
         "id": "p1-q115-a2",
-        "titulo": "Artigo 2 — Whether There Are Any Seminal Virtues in Corporeal Matter?",
+        "titulo": "Artigo 2 — Se existem virtudes seminais na matéria corpórea?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -23977,7 +23977,7 @@
       },
       {
         "id": "p1-q115-a3",
-        "titulo": "Artigo 3 — Whether the Heavenly Bodies Are the Cause of What Is Produced in Bodies Here Below?",
+        "titulo": "Artigo 3 — Se os corpos celestes são a causa do que é produzido nos corpos aqui embaixo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24024,7 +24024,7 @@
       },
       {
         "id": "p1-q115-a4",
-        "titulo": "Artigo 4 — Whether the Heavenly Bodies Are the Cause of Human Actions?",
+        "titulo": "Artigo 4 — Se os corpos celestes são a causa das ações humanas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24067,7 +24067,7 @@
       },
       {
         "id": "p1-q115-a5",
-        "titulo": "Artigo 5 — Whether Heavenly Bodies Can Act on the Demons?",
+        "titulo": "Artigo 5 — Se os corpos celestes podem agir sobre os demônios?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24106,7 +24106,7 @@
       },
       {
         "id": "p1-q115-a6",
-        "titulo": "Artigo 6 — Whether Heavenly Bodies Impose Necessity on Things Subject to Their Action?",
+        "titulo": "Artigo 6 — Se os corpos celestes impõem necessidade às coisas sujeitas à sua ação?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24151,7 +24151,7 @@
     "children": [
       {
         "id": "p1-q116-a1",
-        "titulo": "Artigo 1 — Whether There Be Such a Thing As Fate?",
+        "titulo": "Artigo 1 — Se existe algo como o destino?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24178,7 +24178,7 @@
       },
       {
         "id": "p1-q116-a2",
-        "titulo": "Artigo 2 — Whether Fate Is in Created Things?",
+        "titulo": "Artigo 2 — Se o destino está nas coisas criadas?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24217,7 +24217,7 @@
       },
       {
         "id": "p1-q116-a3",
-        "titulo": "Artigo 3 — Whether Fate Is Unchangeable?",
+        "titulo": "Artigo 3 — Se o destino é imutável?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24244,7 +24244,7 @@
       },
       {
         "id": "p1-q116-a4",
-        "titulo": "Artigo 4 — Whether All Things Are Subject to Fate?",
+        "titulo": "Artigo 4 — Se todas as coisas estão sujeitas ao destino?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24289,7 +24289,7 @@
     "children": [
       {
         "id": "p1-q117-a1",
-        "titulo": "Artigo 1 — Whether One Man Can Teach Another?",
+        "titulo": "Artigo 1 — Se um homem pode ensinar outro?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24336,7 +24336,7 @@
       },
       {
         "id": "p1-q117-a2",
-        "titulo": "Artigo 2 — Whether Man Can Teach the Angels?",
+        "titulo": "Artigo 2 — Se o homem pode ensinar os anjos?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24375,7 +24375,7 @@
       },
       {
         "id": "p1-q117-a3",
-        "titulo": "Artigo 3 — Whether Man by the Power of His Soul Can Change Corporeal Matter?",
+        "titulo": "Artigo 3 — Se o homem, pelo poder de sua alma, pode mudar a matéria corpórea?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24414,7 +24414,7 @@
       },
       {
         "id": "p1-q117-a4",
-        "titulo": "Artigo 4 — Whether the Separate Human Soul Can Move Bodies at Least Locally?",
+        "titulo": "Artigo 4 — Se a alma humana separada pode mover corpos pelo menos localmente?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24451,7 +24451,7 @@
     "children": [
       {
         "id": "p1-q118-a1",
-        "titulo": "Artigo 1 — Whether the Sensitive Soul Is Transmitted with the Semen?",
+        "titulo": "Artigo 1 — Se a alma sensível se transmite com o sêmen?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24498,7 +24498,7 @@
       },
       {
         "id": "p1-q118-a2",
-        "titulo": "Artigo 2 — Whether the Intellectual Soul Is Produced from the Semen?",
+        "titulo": "Artigo 2 — Se a alma intelectual é produzida a partir do sêmen?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24553,7 +24553,7 @@
       },
       {
         "id": "p1-q118-a3",
-        "titulo": "Artigo 3 — Whether Human Souls Were Created Together at the Beginning of the World?",
+        "titulo": "Artigo 3 — Se as almas humanas foram criadas juntas no início do mundo?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24598,7 +24598,7 @@
     "children": [
       {
         "id": "p1-q119-a1",
-        "titulo": "Artigo 1 — Whether Some Part of the Food Is Changed into True Human Nature?",
+        "titulo": "Artigo 1 — Se alguma parte do alimento foi transformada na verdadeira natureza humana?",
         "conteudo": [
           {
             "tipo": "objecao",
@@ -24653,7 +24653,7 @@
       },
       {
         "id": "p1-q119-a2",
-        "titulo": "Artigo 2 — Whether the Semen Is Produced from Surplus Food?",
+        "titulo": "Artigo 2 — Se o sêmen é produzido a partir de alimentos excedentes?",
         "conteudo": [
           {
             "tipo": "objecao",
