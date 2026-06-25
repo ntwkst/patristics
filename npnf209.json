@@ -5,7 +5,7 @@
     "children": [
       {
         "id": "npnf209-3-4",
-        "titulo": "ST. HILARY OF POITIERS. SELECT WORKS.",
+        "titulo": "ST. HILÁRIO DE POITIERS. SELECIONE OBRAS.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -32,7 +32,7 @@
       },
       {
         "id": "npnf209-3-6",
-        "titulo": "Chapter I.—The Life and Writings of St. Hilary of Poitiers.",
+        "titulo": "Capítulo I. — A Vida e os Escritos de Santo Hilário de Poitiers.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -335,7 +335,7 @@
       },
       {
         "id": "npnf209-3-7",
-        "titulo": "Chapter II.—The Theology of St. Hilary of Poitiers.",
+        "titulo": "Capítulo II. — A Teologia de Santo Hilário de Poitiers.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -526,7 +526,7 @@
       },
       {
         "id": "npnf209-3-8",
-        "titulo": "Introduction to the Treatise De Synodis.",
+        "titulo": "Introdução ao Tratado De Synodis.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -601,7 +601,7 @@
       },
       {
         "id": "npnf209-3-9",
-        "titulo": "On the Councils, or, The Faith of the Easterns.",
+        "titulo": "Nos Concílios, ou, A Fé dos Orientais.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1324,7 +1324,7 @@
       },
       {
         "id": "npnf209-3-10",
-        "titulo": "Introduction to the De Trinitate.",
+        "titulo": "Introdução ao De Trinitate.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1383,11 +1383,11 @@
       },
       {
         "id": "npnf209-3-11",
-        "titulo": "On the Trinity.",
+        "titulo": "Na Trindade.",
         "children": [
           {
             "id": "npnf209-3-11-12",
-            "titulo": "Book I.",
+            "titulo": "Livro I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1546,7 +1546,7 @@
           },
           {
             "id": "npnf209-3-11-13",
-            "titulo": "Book II.",
+            "titulo": "Livro II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1693,7 +1693,7 @@
           },
           {
             "id": "npnf209-3-11-14",
-            "titulo": "Book III.",
+            "titulo": "Livro III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1804,7 +1804,7 @@
           },
           {
             "id": "npnf209-3-11-15",
-            "titulo": "Book IV.",
+            "titulo": "Livro IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1979,7 +1979,7 @@
           },
           {
             "id": "npnf209-3-11-16",
-            "titulo": "Book V.",
+            "titulo": "Livro V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2142,7 +2142,7 @@
           },
           {
             "id": "npnf209-3-11-17",
-            "titulo": "Book VI.",
+            "titulo": "Livro VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2349,7 +2349,7 @@
           },
           {
             "id": "npnf209-3-11-18",
-            "titulo": "Book VII.",
+            "titulo": "Livro VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2520,7 +2520,7 @@
           },
           {
             "id": "npnf209-3-11-19",
-            "titulo": "Book VIII.",
+            "titulo": "Livro VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2751,7 +2751,7 @@
           },
           {
             "id": "npnf209-3-11-20",
-            "titulo": "Book IX.",
+            "titulo": "Livro IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3066,7 +3066,7 @@
           },
           {
             "id": "npnf209-3-11-21",
-            "titulo": "Book X.",
+            "titulo": "Livro X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3377,7 +3377,7 @@
           },
           {
             "id": "npnf209-3-11-22",
-            "titulo": "Book XI.",
+            "titulo": "Livro XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3584,7 +3584,7 @@
           },
           {
             "id": "npnf209-3-11-23",
-            "titulo": "Book XII.",
+            "titulo": "Livro XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3821,7 +3821,7 @@
       },
       {
         "id": "npnf209-3-24",
-        "titulo": "Introduction to the Homilies on Psalms I., LIII., CXXX.",
+        "titulo": "Introdução às Homilias sobre os Salmos I., LIII., CXXX.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -3832,11 +3832,11 @@
       },
       {
         "id": "npnf209-3-25",
-        "titulo": "Homilies on the Psalms.",
+        "titulo": "Homilias sobre os Salmos.",
         "children": [
           {
             "id": "npnf209-3-25-26",
-            "titulo": "Psalm I.",
+            "titulo": "Salmo I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3987,7 +3987,7 @@
           },
           {
             "id": "npnf209-3-25-27",
-            "titulo": "Psalm LIII. (LIV.).",
+            "titulo": "Salmo LIII. (LIV.).",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4062,7 +4062,7 @@
           },
           {
             "id": "npnf209-3-25-28",
-            "titulo": "Psalm CXXX. (CXXXI.).",
+            "titulo": "Salmo CXXX. (CXXXI.).",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4105,7 +4105,7 @@
     "children": [
       {
         "id": "npnf209-29-30",
-        "titulo": "JOHN OF DAMASCUS. EXPOSITION OF THE ORTHODOX FAITH.",
+        "titulo": "JOÃO DE DAMASCO. EXPOSIÇÃO DA FÉ ORTODOXA.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4116,7 +4116,7 @@
       },
       {
         "id": "npnf209-29-31",
-        "titulo": "Note.",
+        "titulo": "Nota.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4135,7 +4135,7 @@
       },
       {
         "id": "npnf209-29-32",
-        "titulo": "Prologue.",
+        "titulo": "Prólogo.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4174,15 +4174,15 @@
       },
       {
         "id": "npnf209-29-33",
-        "titulo": "An Exact Exposition of the Orthodox Faith.",
+        "titulo": "Uma exposição exata da fé ortodoxa.",
         "children": [
           {
             "id": "npnf209-29-33-34",
-            "titulo": "Book I.",
+            "titulo": "Livro I.",
             "children": [
               {
                 "id": "npnf209-29-33-34-35",
-                "titulo": "Chapter I.—That the Deity is incomprehensible, and that we ought not to pry into and meddle with the things which have not been delivered to us by the holy Prophets, and Apostles, and Evangelists.",
+                "titulo": "Capítulo I. - Que a Divindade é incompreensível e que não devemos nos intrometer nas coisas que não nos foram entregues pelos santos Profetas, Apóstolos e Evangelistas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4197,7 +4197,7 @@
               },
               {
                 "id": "npnf209-29-33-34-36",
-                "titulo": "Chapter II.—Concerning things utterable and things unutterable, and things knowable and thing unknowable.",
+                "titulo": "Capítulo II. — A respeito das coisas pronunciáveis ​​e das coisas indizíveis, e das coisas cognoscíveis e das coisas incognoscíveis.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4216,7 +4216,7 @@
               },
               {
                 "id": "npnf209-29-33-34-37",
-                "titulo": "Chapter III.—Proof that there is a God.",
+                "titulo": "Capítulo III. — Prova de que Deus existe.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4239,7 +4239,7 @@
               },
               {
                 "id": "npnf209-29-33-34-38",
-                "titulo": "Chapter IV.—Concerning the nature of Deity: that it is incomprehensible.",
+                "titulo": "Capítulo IV. - Quanto à natureza da Divindade: que é incompreensível.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4266,7 +4266,7 @@
               },
               {
                 "id": "npnf209-29-33-34-39",
-                "titulo": "Chapter V.—Proof that God is one and not many.",
+                "titulo": "Capítulo V. — Prova de que Deus é um e não muitos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4293,7 +4293,7 @@
               },
               {
                 "id": "npnf209-29-33-34-40",
-                "titulo": "Chapter VI.—Concerning the Word and the Son of God: a reasoned proof.",
+                "titulo": "Capítulo VI. — A respeito do Verbo e do Filho de Deus: uma prova fundamentada.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4304,7 +4304,7 @@
               },
               {
                 "id": "npnf209-29-33-34-41",
-                "titulo": "Chapter VII.—Concerning the Holy Spirit, a reasoned proof.",
+                "titulo": "Capítulo VII. - A respeito do Espírito Santo, uma prova fundamentada.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4323,7 +4323,7 @@
               },
               {
                 "id": "npnf209-29-33-34-42",
-                "titulo": "Chapter VIII.—Concerning the Holy Trinity.",
+                "titulo": "Capítulo VIII. - A respeito da Santíssima Trindade.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4402,7 +4402,7 @@
               },
               {
                 "id": "npnf209-29-33-34-43",
-                "titulo": "Chapter IX.—Concerning what is affirmed about God.",
+                "titulo": "Capítulo IX. — A respeito do que se afirma sobre Deus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4425,7 +4425,7 @@
               },
               {
                 "id": "npnf209-29-33-34-44",
-                "titulo": "Chapter X.—Concerning divine union and separation.",
+                "titulo": "Capítulo X. — A respeito da união e separação divina.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4444,7 +4444,7 @@
               },
               {
                 "id": "npnf209-29-33-34-45",
-                "titulo": "Chapter XI.—Concerning what is affirmed about God as though He had body.",
+                "titulo": "Capítulo XI. — A respeito do que se afirma sobre Deus como se Ele tivesse corpo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4455,7 +4455,7 @@
               },
               {
                 "id": "npnf209-29-33-34-46",
-                "titulo": "Chapter XII.—Concerning the Same.",
+                "titulo": "Capítulo XII. — A respeito do mesmo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4482,7 +4482,7 @@
               },
               {
                 "id": "npnf209-29-33-34-47",
-                "titulo": "Chapter XIII.—Concerning the place of God: and that the Deity alone is uncircumscribed.",
+                "titulo": "Capítulo XIII. - A respeito do lugar de Deus: e que somente a Divindade é incircunscrita.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4569,7 +4569,7 @@
               },
               {
                 "id": "npnf209-29-33-34-48",
-                "titulo": "Chapter XIV.—The properties of the divine nature.",
+                "titulo": "Capítulo XIV. — As propriedades da natureza divina.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4594,7 +4594,7 @@
           },
           {
             "id": "npnf209-29-33-49",
-            "titulo": "Book II.",
+            "titulo": "Livro II.",
             "children": [
               {
                 "id": "npnf209-29-33-49-50",
@@ -4625,7 +4625,7 @@
               },
               {
                 "id": "npnf209-29-33-49-51",
-                "titulo": "Chapter II.—Concerning the creation.",
+                "titulo": "Capítulo II.—Sobre a criação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4723,7 +4723,7 @@
               },
               {
                 "id": "npnf209-29-33-49-53",
-                "titulo": "Chapter IV.—Concerning the devil and demons.",
+                "titulo": "Capítulo IV. - A respeito do diabo e dos demônios.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4750,7 +4750,7 @@
               },
               {
                 "id": "npnf209-29-33-49-54",
-                "titulo": "Chapter V.—Concerning the visible creation.",
+                "titulo": "Capítulo V. — A respeito da criação visível.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4761,7 +4761,7 @@
               },
               {
                 "id": "npnf209-29-33-49-55",
-                "titulo": "Chapter VI.—Concerning the Heaven.",
+                "titulo": "Capítulo VI. - A respeito do céu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4812,7 +4812,7 @@
               },
               {
                 "id": "npnf209-29-33-49-56",
-                "titulo": "Chapter VII.—Concerning light, fire, the luminaries, sun, moon and stars.",
+                "titulo": "Capítulo VII. — A respeito da luz, do fogo, dos luminares, do sol, da lua e das estrelas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4915,7 +4915,7 @@
               },
               {
                 "id": "npnf209-29-33-49-57",
-                "titulo": "Chapter VIII.—Concerning air and winds.",
+                "titulo": "Capítulo VIII.—Sobre o ar e os ventos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4946,7 +4946,7 @@
               },
               {
                 "id": "npnf209-29-33-49-58",
-                "titulo": "Chapter IX.—Concerning the waters.",
+                "titulo": "Capítulo IX. — A respeito das águas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4981,7 +4981,7 @@
               },
               {
                 "id": "npnf209-29-33-49-59",
-                "titulo": "Chapter X.—Concerning earth and its products.",
+                "titulo": "Capítulo X. — Sobre a terra e seus produtos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5020,7 +5020,7 @@
               },
               {
                 "id": "npnf209-29-33-49-60",
-                "titulo": "Chapter XI.—Concerning Paradise.",
+                "titulo": "Capítulo XI. — A respeito do Paraíso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5047,7 +5047,7 @@
               },
               {
                 "id": "npnf209-29-33-49-61",
-                "titulo": "Chapter XII.—Concerning Man.",
+                "titulo": "Capítulo XII. — A respeito do homem.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5134,7 +5134,7 @@
               },
               {
                 "id": "npnf209-29-33-49-62",
-                "titulo": "Chapter XIII.—Concerning Pleasures.",
+                "titulo": "Capítulo XIII. — A respeito dos prazeres.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5153,7 +5153,7 @@
               },
               {
                 "id": "npnf209-29-33-49-63",
-                "titulo": "Chapter XIV.—Concerning Pain.",
+                "titulo": "Capítulo XIV. — A respeito da dor.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5164,7 +5164,7 @@
               },
               {
                 "id": "npnf209-29-33-49-64",
-                "titulo": "Chapter XV.—Concerning Fear.",
+                "titulo": "Capítulo XV. — A respeito do medo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5175,7 +5175,7 @@
               },
               {
                 "id": "npnf209-29-33-49-65",
-                "titulo": "Chapter XVI.—Concerning Anger.",
+                "titulo": "Capítulo XVI. — A respeito da raiva.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5205,7 +5205,7 @@
               },
               {
                 "id": "npnf209-29-33-49-67",
-                "titulo": "Chapter XVIII.—Concerning Sensation.",
+                "titulo": "Capítulo XVIII. — Sobre a sensação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5244,7 +5244,7 @@
               },
               {
                 "id": "npnf209-29-33-49-68",
-                "titulo": "Chapter XIX.—Concerning Thought.",
+                "titulo": "Capítulo XIX. — Sobre o pensamento.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5255,7 +5255,7 @@
               },
               {
                 "id": "npnf209-29-33-49-69",
-                "titulo": "Chapter XX.—Concerning Memory.",
+                "titulo": "Capítulo XX. — A respeito da memória.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5278,7 +5278,7 @@
               },
               {
                 "id": "npnf209-29-33-49-70",
-                "titulo": "Chapter XXI.—Concerning Conception and Articulation.",
+                "titulo": "Capítulo XXI.—Sobre a Concepção e a Articulação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5289,7 +5289,7 @@
               },
               {
                 "id": "npnf209-29-33-49-71",
-                "titulo": "Chapter XXII.—Concerning Passion and Energy.",
+                "titulo": "Capítulo XXII. — Sobre Paixão e Energia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5360,7 +5360,7 @@
               },
               {
                 "id": "npnf209-29-33-49-72",
-                "titulo": "Chapter XXIII.—Concerning Energy.",
+                "titulo": "Capítulo XXIII.—Sobre Energia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5395,7 +5395,7 @@
               },
               {
                 "id": "npnf209-29-33-49-73",
-                "titulo": "Chapter XXIV.—Concerning what is Voluntary and what is Involuntary.",
+                "titulo": "Capítulo XXIV. — Sobre o que é Voluntário e o que é Involuntário.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5422,7 +5422,7 @@
               },
               {
                 "id": "npnf209-29-33-49-74",
-                "titulo": "Chapter XXV.—Concerning what is in our own power, that is, concerning Free-will1874.",
+                "titulo": "Capítulo XXV. — Sobre o que está em nosso próprio poder, isto é, sobre o livre arbítrio 1874.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5441,7 +5441,7 @@
               },
               {
                 "id": "npnf209-29-33-49-75",
-                "titulo": "Chapter XXVI.—Concerning Events1878.",
+                "titulo": "Capítulo XXVI. — Sobre os acontecimentos de 1878.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5456,7 +5456,7 @@
               },
               {
                 "id": "npnf209-29-33-49-76",
-                "titulo": "Chapter XXVII.—Concerning the reason of our endowment with Free-will.",
+                "titulo": "Capítulo XXVII. - Quanto à razão de nossa dotação de livre arbítrio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5471,7 +5471,7 @@
               },
               {
                 "id": "npnf209-29-33-49-77",
-                "titulo": "Chapter XXVIII.—Concerning what is not in our hands.",
+                "titulo": "Capítulo XXVIII. — Sobre o que não está em nossas mãos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5482,7 +5482,7 @@
               },
               {
                 "id": "npnf209-29-33-49-78",
-                "titulo": "Chapter XXIX.—Concerning Providence.",
+                "titulo": "Capítulo XXIX. - A respeito da Providência.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5537,7 +5537,7 @@
               },
               {
                 "id": "npnf209-29-33-49-79",
-                "titulo": "Chapter XXX.—Concerning Prescience and Predestination.",
+                "titulo": "Capítulo XXX. — Sobre Presciência e Predestinação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5578,11 +5578,11 @@
           },
           {
             "id": "npnf209-29-33-80",
-            "titulo": "Book III.",
+            "titulo": "Livro III.",
             "children": [
               {
                 "id": "npnf209-29-33-80-81",
-                "titulo": "Chapter I.—Concerning the Divine OEconomy and God’s care over us, and concerning our salvation.",
+                "titulo": "Capítulo I. - A respeito da Economia Divina e ao cuidado de Deus sobre nós, e a respeito de nossa salvação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5593,7 +5593,7 @@
               },
               {
                 "id": "npnf209-29-33-80-82",
-                "titulo": "Chapter II. —Concerning the manner in which the Word1942 was conceived, and concerning His divine incarnation.",
+                "titulo": "Capítulo II. —A respeito da maneira como o Verbo de 1942 foi concebido e a respeito de Sua encarnação divina.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5608,7 +5608,7 @@
               },
               {
                 "id": "npnf209-29-33-80-83",
-                "titulo": "Chapter III.—Concerning Christ’s two natures, in opposition to those who hold that He has only one1962.",
+                "titulo": "Capítulo III. - A respeito das duas naturezas de Cristo, em oposição àqueles que afirmam que Ele tem apenas uma 1962.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5643,7 +5643,7 @@
               },
               {
                 "id": "npnf209-29-33-80-84",
-                "titulo": "Chapter IV.—Concerning the manner of the Mutual Communication1985.",
+                "titulo": "Capítulo IV.—Sobre a forma de comunicação mútua 1985.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5662,7 +5662,7 @@
               },
               {
                 "id": "npnf209-29-33-80-85",
-                "titulo": "Chapter V.—Concerning the number of the Natures.",
+                "titulo": "Capítulo V. — Quanto ao número das Naturezas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5673,7 +5673,7 @@
               },
               {
                 "id": "npnf209-29-33-80-86",
-                "titulo": "Chapter VI.—That in one of its subsistences the divine nature is united in its entirety to the human nature, in its entirety and not only part to part.",
+                "titulo": "Capítulo VI. — Que numa de suas subsistências a natureza divina se une em sua totalidade à natureza humana, em sua totalidade e não apenas parte a parte.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5704,7 +5704,7 @@
               },
               {
                 "id": "npnf209-29-33-80-87",
-                "titulo": "Chapter VII.—Concerning the one compound subsistence of God the Word.",
+                "titulo": "Capítulo VII. - A respeito da única subsistência composta de Deus, o Verbo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5735,7 +5735,7 @@
               },
               {
                 "id": "npnf209-29-33-80-88",
-                "titulo": "Chapter VIII.—In reply to those who ask whether2031 the natures of the Lord are brought under a continuous or a discontinuous quantity2032.",
+                "titulo": "Capítulo VIII. — Em resposta àqueles que perguntam se2031 as naturezas do Senhor são submetidas a uma quantidade contínua ou descontínua2032.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5766,7 +5766,7 @@
               },
               {
                 "id": "npnf209-29-33-80-89",
-                "titulo": "Chapter IX.—In reply to the question whether there is Nature that has no Subsistence.",
+                "titulo": "Capítulo IX. — Em resposta à questão de saber se existe Natureza que não tem Subsistência.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5777,7 +5777,7 @@
               },
               {
                 "id": "npnf209-29-33-80-90",
-                "titulo": "Chapter X.—Concerning the Trisagium (“the Thrice Holy”).",
+                "titulo": "Capítulo X. — A respeito do Triságio (“o Três Vezes Santo”).",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5796,7 +5796,7 @@
               },
               {
                 "id": "npnf209-29-33-80-91",
-                "titulo": "Chapter XI.—Concerning the Nature as viewed in Species and in Individual, and concerning the difference between Union and Incarnation: and how this is to be understood, “The one Nature of God the Word Incarnate.”",
+                "titulo": "Capítulo XI. - A respeito da Natureza vista na Espécie e no Indivíduo, e a respeito da diferença entre União e Encarnação: e como isso deve ser entendido, “A única Natureza de Deus, o Verbo Encarnado”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5819,7 +5819,7 @@
               },
               {
                 "id": "npnf209-29-33-80-92",
-                "titulo": "Chapter XII.—That the holy Virgin is the Mother of God: an argument directed against the Nestorians.",
+                "titulo": "Capítulo XII.—Que a Santíssima Virgem é a Mãe de Deus: um argumento dirigido contra os Nestorianos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5850,7 +5850,7 @@
               },
               {
                 "id": "npnf209-29-33-80-93",
-                "titulo": "Chapter XIII.—Concerning the properties of the two Natures.",
+                "titulo": "Capítulo XIII. — Sobre as propriedades das duas Naturezas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5861,7 +5861,7 @@
               },
               {
                 "id": "npnf209-29-33-80-94",
-                "titulo": "Chapter XIV.—Concerning the volitions and free-will of our Lord Jesus Christ.",
+                "titulo": "Capítulo XIV. — A respeito das volições e do livre arbítrio de nosso Senhor Jesus Cristo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5968,7 +5968,7 @@
               },
               {
                 "id": "npnf209-29-33-80-95",
-                "titulo": "Chapter XV.—Concerning the energies in our Lord Jesus Christ.",
+                "titulo": "Capítulo XV. - A respeito das energias em nosso Senhor Jesus Cristo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6102,7 +6102,7 @@
               },
               {
                 "id": "npnf209-29-33-80-97",
-                "titulo": "Chapter XVII.—Concerning the deification of the nature of our Lord’s flesh and of His will.",
+                "titulo": "Capítulo XVII. - A respeito da deificação da natureza da carne de nosso Senhor e de Sua vontade.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6121,7 +6121,7 @@
               },
               {
                 "id": "npnf209-29-33-80-98",
-                "titulo": "Chapter XVIII.—Further concerning volitions and free-wills: minds, too, and knowledges and wisdoms.",
+                "titulo": "Capítulo XVIII. — Mais sobre volições e livres-arbítrios: mentes também, conhecimentos e sabedorias.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6152,7 +6152,7 @@
               },
               {
                 "id": "npnf209-29-33-80-99",
-                "titulo": "Chapter XIX.—Concerning the theandric energy.",
+                "titulo": "Capítulo XIX.—Sobre a energia teândrica.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6175,7 +6175,7 @@
               },
               {
                 "id": "npnf209-29-33-80-100",
-                "titulo": "Chapter XX.—Concerning the natural and innocent passions2203.",
+                "titulo": "Capítulo XX. — Das paixões naturais e inocentes2203.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6198,7 +6198,7 @@
               },
               {
                 "id": "npnf209-29-33-80-101",
-                "titulo": "Chapter XXI.—Concerning ignorance and servitude.",
+                "titulo": "Capítulo XXI.—Sobre a ignorância e a servidão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6217,7 +6217,7 @@
               },
               {
                 "id": "npnf209-29-33-80-102",
-                "titulo": "Chapter XXII.—Concerning His growth.",
+                "titulo": "Capítulo XXII. - A respeito de Seu crescimento.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6228,7 +6228,7 @@
               },
               {
                 "id": "npnf209-29-33-80-103",
-                "titulo": "Chapter XXIII.—Concerning His Fear.",
+                "titulo": "Capítulo XXIII. - A respeito de seu medo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6247,7 +6247,7 @@
               },
               {
                 "id": "npnf209-29-33-80-104",
-                "titulo": "Chapter XXIV.—Concerning our Lord’s Praying.",
+                "titulo": "Capítulo XXIV. - A respeito da oração de nosso Senhor.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6266,7 +6266,7 @@
               },
               {
                 "id": "npnf209-29-33-80-105",
-                "titulo": "Chapter XXV.—Concerning the Appropriation.",
+                "titulo": "Capítulo XXV.—Da Apropriação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6277,7 +6277,7 @@
               },
               {
                 "id": "npnf209-29-33-80-106",
-                "titulo": "Chapter XXVI.—Concerning the Passion of our Lord’s body, and the Impassibility of His divinity.",
+                "titulo": "Capítulo XXVI. - Sobre a paixão do corpo de Nosso Senhor e a impassibilidade de sua divindade.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6292,7 +6292,7 @@
               },
               {
                 "id": "npnf209-29-33-80-107",
-                "titulo": "Chapter XXVII.—Concerning the fact that the divinity of the Word remained inseparable from the soul and the body, even at our Lord’s death, and that His subsistence continued one.",
+                "titulo": "Capítulo XXVII. - A respeito do fato de que a divindade do Verbo permaneceu inseparável da alma e do corpo, mesmo na morte de nosso Senhor, e que Sua subsistência continuou a ser a mesma.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6307,7 +6307,7 @@
               },
               {
                 "id": "npnf209-29-33-80-108",
-                "titulo": "Chapter XXVIII.—Concerning Corruption and Destruction.",
+                "titulo": "Capítulo XXVIII.—Sobre Corrupção e Destruição.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6322,7 +6322,7 @@
               },
               {
                 "id": "npnf209-29-33-80-109",
-                "titulo": "Chapter XXIX.—Concerning the Descent to Hades.",
+                "titulo": "Capítulo XXIX. — Sobre a descida ao Hades.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6335,11 +6335,11 @@
           },
           {
             "id": "npnf209-29-33-110",
-            "titulo": "Book IV.",
+            "titulo": "Livro IV.",
             "children": [
               {
                 "id": "npnf209-29-33-110-111",
-                "titulo": "Chapter I.—Concerning what followed the Resurrection.",
+                "titulo": "Capítulo I. - Sobre o que se seguiu à Ressurreição.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6350,7 +6350,7 @@
               },
               {
                 "id": "npnf209-29-33-110-112",
-                "titulo": "Chapter II.—Concerning the sitting at the right hand of the Father.",
+                "titulo": "Capítulo II. - A respeito de sentar-se à direita do Pai.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6361,7 +6361,7 @@
               },
               {
                 "id": "npnf209-29-33-110-113",
-                "titulo": "Chapter III.—In reply to those who say2256 “If Christ has two natures, either ye do service to the creature in worshipping created nature, or ye say that there is one nature to be worshipped, and another not to be worshipped.”",
+                "titulo": "Capítulo III. — Em resposta àqueles que dizem2256: “Se Cristo tem duas naturezas, ou prestais serviço à criatura adorando a natureza criada, ou dizeis que há uma natureza a ser adorada e outra a não ser adorada”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6372,7 +6372,7 @@
               },
               {
                 "id": "npnf209-29-33-110-114",
-                "titulo": "Chapter IV.—Why it was the Son of God, and not the Father or the Spirit, that became man: and what having became man He achieved.",
+                "titulo": "Capítulo IV. - Por que foi o Filho de Deus, e não o Pai ou o Espírito, que se tornou homem: e o que, tendo se tornado homem, Ele alcançou.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6395,7 +6395,7 @@
               },
               {
                 "id": "npnf209-29-33-110-115",
-                "titulo": "Chapter V.—In reply to those who ask if Christ’s subsistence is create or uncreate.",
+                "titulo": "Capítulo V. — Em resposta àqueles que perguntam se a subsistência de Cristo é criada ou incriada.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6406,7 +6406,7 @@
               },
               {
                 "id": "npnf209-29-33-110-116",
-                "titulo": "Chapter VI.—Concerning the question, when Christ was called.",
+                "titulo": "Capítulo VI. - Quanto à questão de quando Cristo foi chamado.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6421,7 +6421,7 @@
               },
               {
                 "id": "npnf209-29-33-110-117",
-                "titulo": "Chapter VII.—In answer to those who enquire whether the holy Mother of God bore two natures, and whether two natures hung upon the Cross.",
+                "titulo": "Capítulo VII. — Em resposta àqueles que perguntam se a santa Mãe de Deus teve duas naturezas e se duas naturezas foram penduradas na cruz.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6436,7 +6436,7 @@
               },
               {
                 "id": "npnf209-29-33-110-118",
-                "titulo": "Chapter VIII.—How the Only-begotten Son of God is called first-born.",
+                "titulo": "Capítulo VIII. — Como o Filho Unigênito de Deus é chamado de primogênito.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6447,7 +6447,7 @@
               },
               {
                 "id": "npnf209-29-33-110-119",
-                "titulo": "Chapter IX.—Concerning Faith and Baptism.",
+                "titulo": "Capítulo IX. — Sobre a Fé e o Batismo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6494,7 +6494,7 @@
               },
               {
                 "id": "npnf209-29-33-110-120",
-                "titulo": "Chapter X.—Concerning Faith.",
+                "titulo": "Capítulo X. — A respeito da fé.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6513,7 +6513,7 @@
               },
               {
                 "id": "npnf209-29-33-110-121",
-                "titulo": "Chapter XI.—Concerning the Cross and here further concerning Faith.",
+                "titulo": "Capítulo XI. - A respeito da Cruz e aqui mais adiante a respeito da Fé.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6544,7 +6544,7 @@
               },
               {
                 "id": "npnf209-29-33-110-122",
-                "titulo": "Chapter XII.—Concerning Worship towards the East.",
+                "titulo": "Capítulo XII. — A respeito da adoração voltada para o Oriente.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6563,7 +6563,7 @@
               },
               {
                 "id": "npnf209-29-33-110-123",
-                "titulo": "Chapter XIII.—Concerning the holy and immaculate Mysteries of the Lord.",
+                "titulo": "Capítulo XIII. — Quanto aos santos e imaculados mistérios do Senhor.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6638,7 +6638,7 @@
               },
               {
                 "id": "npnf209-29-33-110-124",
-                "titulo": "Chapter XIV.—Concerning our Lord’s genealogy and concerning the holy Mother of God2436.",
+                "titulo": "Capítulo XIV. — Sobre a genealogia de Nosso Senhor e sobre a santa Mãe de Deus2436.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6689,7 +6689,7 @@
               },
               {
                 "id": "npnf209-29-33-110-125",
-                "titulo": "Chapter XV.—Concerning the honour due to the Saints and their remains.",
+                "titulo": "Capítulo XV. — Sobre a honra devida aos santos e seus restos mortais.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6716,7 +6716,7 @@
               },
               {
                 "id": "npnf209-29-33-110-126",
-                "titulo": "Chapter XVI.—Concerning Images2496.",
+                "titulo": "Capítulo XVI. — Sobre Imagens2496.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6743,7 +6743,7 @@
               },
               {
                 "id": "npnf209-29-33-110-127",
-                "titulo": "Chapter XVII.—Concerning Scripture2514.",
+                "titulo": "Capítulo XVII. — Sobre as Escrituras2514.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6766,7 +6766,7 @@
               },
               {
                 "id": "npnf209-29-33-110-128",
-                "titulo": "Chapter XVIII.—Regarding the things said concerning Christ.",
+                "titulo": "Capítulo XVIII. — A respeito das coisas ditas a respeito de Cristo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6849,7 +6849,7 @@
               },
               {
                 "id": "npnf209-29-33-110-129",
-                "titulo": "Chapter XIX.—That God2607 is not the cause of evils.",
+                "titulo": "Capítulo XIX.—Que Deus2607 não é a causa dos males.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6872,7 +6872,7 @@
               },
               {
                 "id": "npnf209-29-33-110-130",
-                "titulo": "Chapter XX.—That there are not two Kingdoms.",
+                "titulo": "Capítulo XX.—Que não existem dois Reinos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6907,7 +6907,7 @@
               },
               {
                 "id": "npnf209-29-33-110-131",
-                "titulo": "Chapter XXI.—The purpose2629for which God in His foreknowledge created persons who would sin and not repent.",
+                "titulo": "Capítulo XXI. — O propósito2629para o qual Deus, em Sua presciência, criou pessoas que pecariam e não se arrependeriam.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6918,7 +6918,7 @@
               },
               {
                 "id": "npnf209-29-33-110-132",
-                "titulo": "Chapter XXII.—Concerning the law of God and the law of sin.",
+                "titulo": "Capítulo XXII. - A respeito da lei de Deus e da lei do pecado.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6937,7 +6937,7 @@
               },
               {
                 "id": "npnf209-29-33-110-133",
-                "titulo": "Chapter XXIII.—Against the Jews on the question of the Sabbath.",
+                "titulo": "Capítulo XXIII. - Contra os judeus na questão do sábado.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6968,7 +6968,7 @@
               },
               {
                 "id": "npnf209-29-33-110-134",
-                "titulo": "Chapter XXIV.—Concerning Virginity.",
+                "titulo": "Capítulo XXIV.—A respeito da virgindade.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6999,7 +6999,7 @@
               },
               {
                 "id": "npnf209-29-33-110-135",
-                "titulo": "Chapter XXV.—Concerning the Circumcision.",
+                "titulo": "Capítulo XXV.—Sobre a Circuncisão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7014,7 +7014,7 @@
               },
               {
                 "id": "npnf209-29-33-110-136",
-                "titulo": "Chapter XXVI.—Concerning the Antichrist2705.",
+                "titulo": "Capítulo XXVI. — A respeito do Anticristo2705.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7037,7 +7037,7 @@
               },
               {
                 "id": "npnf209-29-33-110-137",
-                "titulo": "Chapter XXVII.—Concerning the Resurrection.",
+                "titulo": "Capítulo XXVII. — Acerca da Ressurreição.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",

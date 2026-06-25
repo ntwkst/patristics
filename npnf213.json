@@ -16,7 +16,7 @@
       },
       {
         "id": "npnf213-3-5",
-        "titulo": "General Literature of Gregory’s Life and Times.",
+        "titulo": "Literatura Geral da Vida e dos Tempos de Gregório.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -119,11 +119,11 @@
       },
       {
         "id": "npnf213-3-6",
-        "titulo": "Regula Pastoralis.",
+        "titulo": "Regula Pastoral.",
         "children": [
           {
             "id": "npnf213-3-6-7",
-            "titulo": "Important MSS.",
+            "titulo": "MSS importante.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -186,7 +186,7 @@
           },
           {
             "id": "npnf213-3-6-8",
-            "titulo": "Editions.",
+            "titulo": "Edições.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -369,7 +369,7 @@
           },
           {
             "id": "npnf213-3-6-9",
-            "titulo": "Literature.",
+            "titulo": "Literatura.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -402,7 +402,7 @@
         "children": [
           {
             "id": "npnf213-3-10-11",
-            "titulo": "Important MSS.",
+            "titulo": "MSS importante.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -477,7 +477,7 @@
           },
           {
             "id": "npnf213-3-10-12",
-            "titulo": "Editions.",
+            "titulo": "Edições.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -604,7 +604,7 @@
           },
           {
             "id": "npnf213-3-10-13",
-            "titulo": "Literature.",
+            "titulo": "Literatura.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -677,11 +677,11 @@
       },
       {
         "id": "npnf213-3-14",
-        "titulo": "Book IX.",
+        "titulo": "Livro IX.",
         "children": [
           {
             "id": "npnf213-3-14-15",
-            "titulo": "Epistle I.",
+            "titulo": "Epístola I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -696,7 +696,7 @@
           },
           {
             "id": "npnf213-3-14-16",
-            "titulo": "Epistle II.",
+            "titulo": "Epístola II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -715,7 +715,7 @@
           },
           {
             "id": "npnf213-3-14-17",
-            "titulo": "Epistle III.",
+            "titulo": "Epístola III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -734,7 +734,7 @@
           },
           {
             "id": "npnf213-3-14-18",
-            "titulo": "Epistle IV.",
+            "titulo": "Epístola IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -761,7 +761,7 @@
           },
           {
             "id": "npnf213-3-14-19",
-            "titulo": "Epistle V.",
+            "titulo": "Epístola V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -776,7 +776,7 @@
           },
           {
             "id": "npnf213-3-14-20",
-            "titulo": "Epistle VI.",
+            "titulo": "Epístola VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -791,7 +791,7 @@
           },
           {
             "id": "npnf213-3-14-21",
-            "titulo": "Epistle VII.",
+            "titulo": "Epístola VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -806,7 +806,7 @@
           },
           {
             "id": "npnf213-3-14-22",
-            "titulo": "Epistle VIII.",
+            "titulo": "Epístola VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -821,7 +821,7 @@
           },
           {
             "id": "npnf213-3-14-23",
-            "titulo": "Epistle IX.",
+            "titulo": "Epístola IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -844,7 +844,7 @@
           },
           {
             "id": "npnf213-3-14-24",
-            "titulo": "Epistle X.",
+            "titulo": "Epístola X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -863,7 +863,7 @@
           },
           {
             "id": "npnf213-3-14-25",
-            "titulo": "Epistle XI.",
+            "titulo": "Epístola XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -902,7 +902,7 @@
           },
           {
             "id": "npnf213-3-14-26",
-            "titulo": "Epistle XII.",
+            "titulo": "Epístola XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -929,7 +929,7 @@
           },
           {
             "id": "npnf213-3-14-27",
-            "titulo": "Epistle XVII.",
+            "titulo": "Epístola XVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -944,7 +944,7 @@
           },
           {
             "id": "npnf213-3-14-28",
-            "titulo": "Epistle XVIII.",
+            "titulo": "Epístola XVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -959,7 +959,7 @@
           },
           {
             "id": "npnf213-3-14-29",
-            "titulo": "Epistle XIX.",
+            "titulo": "Epístola XIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -974,7 +974,7 @@
           },
           {
             "id": "npnf213-3-14-30",
-            "titulo": "Epistle XXIII.",
+            "titulo": "Epístola XXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -989,7 +989,7 @@
           },
           {
             "id": "npnf213-3-14-31",
-            "titulo": "Epistle XXIV.",
+            "titulo": "Epístola XXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1004,7 +1004,7 @@
           },
           {
             "id": "npnf213-3-14-32",
-            "titulo": "Epistle XXVI.",
+            "titulo": "Epístola XXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1023,7 +1023,7 @@
           },
           {
             "id": "npnf213-3-14-33",
-            "titulo": "Epistle XXVII.",
+            "titulo": "Epístola XXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1038,7 +1038,7 @@
           },
           {
             "id": "npnf213-3-14-34",
-            "titulo": "Epistle XXXIII.",
+            "titulo": "Epístola XXXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1057,7 +1057,7 @@
           },
           {
             "id": "npnf213-3-14-35",
-            "titulo": "Epistle XXXVI.",
+            "titulo": "Epístola XXXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1076,7 +1076,7 @@
           },
           {
             "id": "npnf213-3-14-36",
-            "titulo": "Epistle XLI.",
+            "titulo": "Epístola XLI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1091,7 +1091,7 @@
           },
           {
             "id": "npnf213-3-14-37",
-            "titulo": "Epistle XLII.",
+            "titulo": "Epístola XLII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1106,7 +1106,7 @@
           },
           {
             "id": "npnf213-3-14-38",
-            "titulo": "Epistle XLIII.",
+            "titulo": "Epístola XLIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1125,7 +1125,7 @@
           },
           {
             "id": "npnf213-3-14-39",
-            "titulo": "Epistle XLIX.",
+            "titulo": "Epístola XLIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1156,7 +1156,7 @@
           },
           {
             "id": "npnf213-3-14-40",
-            "titulo": "Epistle LV.",
+            "titulo": "Epístola LV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1171,7 +1171,7 @@
           },
           {
             "id": "npnf213-3-14-41",
-            "titulo": "Epistle LVIII.",
+            "titulo": "Epístola LVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1186,7 +1186,7 @@
           },
           {
             "id": "npnf213-3-14-42",
-            "titulo": "Epistle LIX.",
+            "titulo": "Epístola LIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1201,7 +1201,7 @@
           },
           {
             "id": "npnf213-3-14-43",
-            "titulo": "Epistle LX.",
+            "titulo": "Epístola LX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1220,7 +1220,7 @@
           },
           {
             "id": "npnf213-3-14-44",
-            "titulo": "Epistle LXI.",
+            "titulo": "Epístola LXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1239,7 +1239,7 @@
           },
           {
             "id": "npnf213-3-14-45",
-            "titulo": "Epistle LXII.",
+            "titulo": "Epístola LXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1262,7 +1262,7 @@
           },
           {
             "id": "npnf213-3-14-46",
-            "titulo": "Epistle LXV.",
+            "titulo": "Epístola LXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1285,7 +1285,7 @@
           },
           {
             "id": "npnf213-3-14-47",
-            "titulo": "Epistle LXVII.",
+            "titulo": "Epístola LXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1300,7 +1300,7 @@
           },
           {
             "id": "npnf213-3-14-48",
-            "titulo": "Epistle LXVIII.",
+            "titulo": "Epístola LXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1319,7 +1319,7 @@
           },
           {
             "id": "npnf213-3-14-49",
-            "titulo": "Epistle LXXVIII.",
+            "titulo": "Epístola LXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1342,7 +1342,7 @@
           },
           {
             "id": "npnf213-3-14-50",
-            "titulo": "Epistle LXXIX.",
+            "titulo": "Epístola LXXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1357,7 +1357,7 @@
           },
           {
             "id": "npnf213-3-14-51",
-            "titulo": "Epistle LXXX.",
+            "titulo": "Epístola LXXX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1376,7 +1376,7 @@
           },
           {
             "id": "npnf213-3-14-52",
-            "titulo": "Epistle LXXXI.",
+            "titulo": "Epístola LXXXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1391,7 +1391,7 @@
           },
           {
             "id": "npnf213-3-14-53",
-            "titulo": "Epistle LXXXII.",
+            "titulo": "Epístola LXXXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1406,7 +1406,7 @@
           },
           {
             "id": "npnf213-3-14-54",
-            "titulo": "Epistle XCI.",
+            "titulo": "Epístola XCI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1421,7 +1421,7 @@
           },
           {
             "id": "npnf213-3-14-55",
-            "titulo": "Epistle XCIII.",
+            "titulo": "Epístola XCIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1436,7 +1436,7 @@
           },
           {
             "id": "npnf213-3-14-56",
-            "titulo": "Epistle XCIV.",
+            "titulo": "Epístola XCIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1451,7 +1451,7 @@
           },
           {
             "id": "npnf213-3-14-57",
-            "titulo": "Epistle XCVIII.",
+            "titulo": "Epístola XCVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1486,7 +1486,7 @@
           },
           {
             "id": "npnf213-3-14-58",
-            "titulo": "Epistle CV.",
+            "titulo": "Epístola CV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1505,7 +1505,7 @@
           },
           {
             "id": "npnf213-3-14-59",
-            "titulo": "Epistle CVI.",
+            "titulo": "Epístola CVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1560,7 +1560,7 @@
           },
           {
             "id": "npnf213-3-14-60",
-            "titulo": "Epistle CVII.",
+            "titulo": "Epístola CVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1587,7 +1587,7 @@
           },
           {
             "id": "npnf213-3-14-61",
-            "titulo": "Epistle CVIII.",
+            "titulo": "Epístola CVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1610,7 +1610,7 @@
           },
           {
             "id": "npnf213-3-14-62",
-            "titulo": "Epistle CIX.",
+            "titulo": "Epístola CIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1637,7 +1637,7 @@
           },
           {
             "id": "npnf213-3-14-63",
-            "titulo": "Epistle CX.",
+            "titulo": "Epístola CX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1672,7 +1672,7 @@
           },
           {
             "id": "npnf213-3-14-64",
-            "titulo": "Epistle CXI.",
+            "titulo": "Epístola CXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1687,7 +1687,7 @@
           },
           {
             "id": "npnf213-3-14-65",
-            "titulo": "Epistle CXIV.",
+            "titulo": "Epístola CXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1706,7 +1706,7 @@
           },
           {
             "id": "npnf213-3-14-66",
-            "titulo": "Epistle CXV.",
+            "titulo": "Epístola CXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1725,7 +1725,7 @@
           },
           {
             "id": "npnf213-3-14-67",
-            "titulo": "Epistle CXVI.",
+            "titulo": "Epístola CXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1744,7 +1744,7 @@
           },
           {
             "id": "npnf213-3-14-68",
-            "titulo": "Epistle CXVII.",
+            "titulo": "Epístola CXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1759,7 +1759,7 @@
           },
           {
             "id": "npnf213-3-14-69",
-            "titulo": "Epistle CXX.",
+            "titulo": "Epístola CXX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1774,7 +1774,7 @@
           },
           {
             "id": "npnf213-3-14-70",
-            "titulo": "Epistle CXXI.",
+            "titulo": "Epístola CXXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1797,7 +1797,7 @@
           },
           {
             "id": "npnf213-3-14-71",
-            "titulo": "Epistle CXXII.",
+            "titulo": "Epístola CXXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1844,7 +1844,7 @@
           },
           {
             "id": "npnf213-3-14-72",
-            "titulo": "Epistle CXXIII.",
+            "titulo": "Epístola CXXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1859,7 +1859,7 @@
           },
           {
             "id": "npnf213-3-14-73",
-            "titulo": "Epistle CXXV.",
+            "titulo": "Epístola CXXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1882,7 +1882,7 @@
           },
           {
             "id": "npnf213-3-14-74",
-            "titulo": "Epistle CXXVII.",
+            "titulo": "Epístola CXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1927,11 +1927,11 @@
       },
       {
         "id": "npnf213-3-75",
-        "titulo": "Book X.",
+        "titulo": "Livro X.",
         "children": [
           {
             "id": "npnf213-3-75-76",
-            "titulo": "Epistle X.",
+            "titulo": "Epístola X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1946,7 +1946,7 @@
           },
           {
             "id": "npnf213-3-75-77",
-            "titulo": "Epistle XV.",
+            "titulo": "Epístola XV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1965,7 +1965,7 @@
           },
           {
             "id": "npnf213-3-75-78",
-            "titulo": "Epistle XVIII.",
+            "titulo": "Epístola XVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1980,7 +1980,7 @@
           },
           {
             "id": "npnf213-3-75-79",
-            "titulo": "Epistle XIX.",
+            "titulo": "Epístola XIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1995,7 +1995,7 @@
           },
           {
             "id": "npnf213-3-75-80",
-            "titulo": "Epistle XXIII.",
+            "titulo": "Epístola XXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2010,7 +2010,7 @@
           },
           {
             "id": "npnf213-3-75-81",
-            "titulo": "Epistle XXIV.",
+            "titulo": "Epístola XXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2033,7 +2033,7 @@
           },
           {
             "id": "npnf213-3-75-82",
-            "titulo": "Epistle XXXI.",
+            "titulo": "Epístola XXXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2048,7 +2048,7 @@
           },
           {
             "id": "npnf213-3-75-83",
-            "titulo": "Epistle XXXV.",
+            "titulo": "Epístola XXXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2067,7 +2067,7 @@
           },
           {
             "id": "npnf213-3-75-84",
-            "titulo": "Epistle XXXVI.",
+            "titulo": "Epístola XXXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2082,7 +2082,7 @@
           },
           {
             "id": "npnf213-3-75-85",
-            "titulo": "Epistle XXXVII.",
+            "titulo": "Epístola XXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2109,7 +2109,7 @@
           },
           {
             "id": "npnf213-3-75-86",
-            "titulo": "Epistle XXXIX.",
+            "titulo": "Epístola XXXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2156,7 +2156,7 @@
           },
           {
             "id": "npnf213-3-75-87",
-            "titulo": "Epistle XLII.",
+            "titulo": "Epístola XLII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2179,7 +2179,7 @@
           },
           {
             "id": "npnf213-3-75-88",
-            "titulo": "Epistle LXII.",
+            "titulo": "Epístola LXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2194,7 +2194,7 @@
           },
           {
             "id": "npnf213-3-75-89",
-            "titulo": "Epistle LXIII.",
+            "titulo": "Epístola LXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2219,11 +2219,11 @@
       },
       {
         "id": "npnf213-3-90",
-        "titulo": "Book XI.",
+        "titulo": "Livro XI.",
         "children": [
           {
             "id": "npnf213-3-90-91",
-            "titulo": "Epistle I.",
+            "titulo": "Epístola I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2242,7 +2242,7 @@
           },
           {
             "id": "npnf213-3-90-92",
-            "titulo": "Epistle XII.",
+            "titulo": "Epístola XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2269,7 +2269,7 @@
           },
           {
             "id": "npnf213-3-90-93",
-            "titulo": "Epistle XIII.",
+            "titulo": "Epístola XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2296,7 +2296,7 @@
           },
           {
             "id": "npnf213-3-90-94",
-            "titulo": "Epistle XXV.",
+            "titulo": "Epístola XXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2315,7 +2315,7 @@
           },
           {
             "id": "npnf213-3-90-95",
-            "titulo": "Epistle XXVIII.",
+            "titulo": "Epístola XXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2346,7 +2346,7 @@
           },
           {
             "id": "npnf213-3-90-96",
-            "titulo": "Epistle XXIX.",
+            "titulo": "Epístola XXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2361,7 +2361,7 @@
           },
           {
             "id": "npnf213-3-90-97",
-            "titulo": "Epistle XXX.",
+            "titulo": "Epístola XXX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2376,7 +2376,7 @@
           },
           {
             "id": "npnf213-3-90-98",
-            "titulo": "Epistle XXXII.",
+            "titulo": "Epístola XXXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2391,7 +2391,7 @@
           },
           {
             "id": "npnf213-3-90-99",
-            "titulo": "Epistle XXXIII.",
+            "titulo": "Epístola XXXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2410,7 +2410,7 @@
           },
           {
             "id": "npnf213-3-90-100",
-            "titulo": "Epistle XXXV.",
+            "titulo": "Epístola XXXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2425,7 +2425,7 @@
           },
           {
             "id": "npnf213-3-90-101",
-            "titulo": "Epistle XXXVI.",
+            "titulo": "Epístola XXXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2444,7 +2444,7 @@
           },
           {
             "id": "npnf213-3-90-102",
-            "titulo": "Epistle XXXVII.",
+            "titulo": "Epístola XXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2463,7 +2463,7 @@
           },
           {
             "id": "npnf213-3-90-103",
-            "titulo": "Epistle XXXVIII.",
+            "titulo": "Epístola XXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2478,7 +2478,7 @@
           },
           {
             "id": "npnf213-3-90-104",
-            "titulo": "Epistle XL.",
+            "titulo": "Epístola XL.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2493,7 +2493,7 @@
           },
           {
             "id": "npnf213-3-90-105",
-            "titulo": "Epistle XLIV.",
+            "titulo": "Epístola XLIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2532,7 +2532,7 @@
           },
           {
             "id": "npnf213-3-90-106",
-            "titulo": "Epistle XLV.",
+            "titulo": "Epístola XLV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2603,7 +2603,7 @@
           },
           {
             "id": "npnf213-3-90-107",
-            "titulo": "Epistle XLVI.",
+            "titulo": "Epístola XLVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2634,7 +2634,7 @@
           },
           {
             "id": "npnf213-3-90-108",
-            "titulo": "Epistle XLVII.",
+            "titulo": "Epístola XLVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2649,7 +2649,7 @@
           },
           {
             "id": "npnf213-3-90-109",
-            "titulo": "Epistle L.",
+            "titulo": "Epístola L.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2664,7 +2664,7 @@
           },
           {
             "id": "npnf213-3-90-110",
-            "titulo": "Epistle LIV.",
+            "titulo": "Epístola LIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2683,7 +2683,7 @@
           },
           {
             "id": "npnf213-3-90-111",
-            "titulo": "Epistle LV.",
+            "titulo": "Epístola LV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2702,7 +2702,7 @@
           },
           {
             "id": "npnf213-3-90-112",
-            "titulo": "Epistle LVI.",
+            "titulo": "Epístola LVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2729,7 +2729,7 @@
           },
           {
             "id": "npnf213-3-90-113",
-            "titulo": "Epistle LVII.",
+            "titulo": "Epístola LVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2752,7 +2752,7 @@
           },
           {
             "id": "npnf213-3-90-114",
-            "titulo": "Epistle LVIII.",
+            "titulo": "Epístola LVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2767,7 +2767,7 @@
           },
           {
             "id": "npnf213-3-90-115",
-            "titulo": "Epistle LIX.",
+            "titulo": "Epístola LIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2786,7 +2786,7 @@
           },
           {
             "id": "npnf213-3-90-116",
-            "titulo": "Epistle LX.",
+            "titulo": "Epístola LX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2805,7 +2805,7 @@
           },
           {
             "id": "npnf213-3-90-117",
-            "titulo": "Epistle LXI.",
+            "titulo": "Epístola LXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2824,7 +2824,7 @@
           },
           {
             "id": "npnf213-3-90-118",
-            "titulo": "Epistle LXII.",
+            "titulo": "Epístola LXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2847,7 +2847,7 @@
           },
           {
             "id": "npnf213-3-90-119",
-            "titulo": "Epistle LXIII.",
+            "titulo": "Epístola LXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2866,7 +2866,7 @@
           },
           {
             "id": "npnf213-3-90-120",
-            "titulo": "Epistle LXIV.",
+            "titulo": "Epístola LXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3109,7 +3109,7 @@
           },
           {
             "id": "npnf213-3-90-121",
-            "titulo": "Epistle LXV.",
+            "titulo": "Epístola LXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3128,7 +3128,7 @@
           },
           {
             "id": "npnf213-3-90-122",
-            "titulo": "Epistle LXVI.",
+            "titulo": "Epístola LXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3155,7 +3155,7 @@
           },
           {
             "id": "npnf213-3-90-123",
-            "titulo": "Epistle LXVII.",
+            "titulo": "Epístola LXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3182,7 +3182,7 @@
           },
           {
             "id": "npnf213-3-90-124",
-            "titulo": "Epistle LXVIII.",
+            "titulo": "Epístola LXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3197,7 +3197,7 @@
           },
           {
             "id": "npnf213-3-90-125",
-            "titulo": "Epistle LXIX.",
+            "titulo": "Epístola LXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3212,7 +3212,7 @@
           },
           {
             "id": "npnf213-3-90-126",
-            "titulo": "Epistle LXXVI.",
+            "titulo": "Epístola LXXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3227,7 +3227,7 @@
           },
           {
             "id": "npnf213-3-90-127",
-            "titulo": "Epistle LXXVII.",
+            "titulo": "Epístola LXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3246,7 +3246,7 @@
           },
           {
             "id": "npnf213-3-90-128",
-            "titulo": "Epistle LXXVIII.",
+            "titulo": "Epístola LXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3271,11 +3271,11 @@
       },
       {
         "id": "npnf213-3-129",
-        "titulo": "Book XII.",
+        "titulo": "Livro XII.",
         "children": [
           {
             "id": "npnf213-3-129-130",
-            "titulo": "Epistle I.",
+            "titulo": "Epístola I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3290,7 +3290,7 @@
           },
           {
             "id": "npnf213-3-129-131",
-            "titulo": "Epistle VIII.",
+            "titulo": "Epístola VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3305,7 +3305,7 @@
           },
           {
             "id": "npnf213-3-129-132",
-            "titulo": "Epistle XXIV.",
+            "titulo": "Epístola XXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3340,7 +3340,7 @@
           },
           {
             "id": "npnf213-3-129-133",
-            "titulo": "Epistle XXV.",
+            "titulo": "Epístola XXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3355,7 +3355,7 @@
           },
           {
             "id": "npnf213-3-129-134",
-            "titulo": "Epistle XXVIII.",
+            "titulo": "Epístola XXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3382,7 +3382,7 @@
           },
           {
             "id": "npnf213-3-129-135",
-            "titulo": "Epistle XXIX.",
+            "titulo": "Epístola XXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3409,7 +3409,7 @@
           },
           {
             "id": "npnf213-3-129-136",
-            "titulo": "Epistle XXXII.",
+            "titulo": "Epístola XXXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3424,7 +3424,7 @@
           },
           {
             "id": "npnf213-3-129-137",
-            "titulo": "Epistle L.",
+            "titulo": "Epístola L.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3441,11 +3441,11 @@
       },
       {
         "id": "npnf213-3-138",
-        "titulo": "Book XIII.",
+        "titulo": "Livro XIII.",
         "children": [
           {
             "id": "npnf213-3-138-139",
-            "titulo": "Epistle I.",
+            "titulo": "Epístola I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3476,7 +3476,7 @@
           },
           {
             "id": "npnf213-3-138-140",
-            "titulo": "Epistle V.",
+            "titulo": "Epístola V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3495,7 +3495,7 @@
           },
           {
             "id": "npnf213-3-138-141",
-            "titulo": "Epistle VI.",
+            "titulo": "Epístola VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3538,7 +3538,7 @@
           },
           {
             "id": "npnf213-3-138-142",
-            "titulo": "Epistle VII.",
+            "titulo": "Epístola VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3557,7 +3557,7 @@
           },
           {
             "id": "npnf213-3-138-143",
-            "titulo": "Epistle VIII.",
+            "titulo": "Epístola VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3576,7 +3576,7 @@
           },
           {
             "id": "npnf213-3-138-144",
-            "titulo": "Epistle IX.",
+            "titulo": "Epístola IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3603,7 +3603,7 @@
           },
           {
             "id": "npnf213-3-138-145",
-            "titulo": "Epistle X.",
+            "titulo": "Epístola X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3618,7 +3618,7 @@
           },
           {
             "id": "npnf213-3-138-146",
-            "titulo": "Epistle XII.",
+            "titulo": "Epístola XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3633,7 +3633,7 @@
           },
           {
             "id": "npnf213-3-138-147",
-            "titulo": "Epistle XVIII.",
+            "titulo": "Epístola XVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3652,7 +3652,7 @@
           },
           {
             "id": "npnf213-3-138-148",
-            "titulo": "Epistle XXII.",
+            "titulo": "Epístola XXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3671,7 +3671,7 @@
           },
           {
             "id": "npnf213-3-138-149",
-            "titulo": "Epistle XXVI.",
+            "titulo": "Epístola XXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3686,7 +3686,7 @@
           },
           {
             "id": "npnf213-3-138-150",
-            "titulo": "Epistle XXVII.",
+            "titulo": "Epístola XXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3701,7 +3701,7 @@
           },
           {
             "id": "npnf213-3-138-151",
-            "titulo": "Epistle XXXI.",
+            "titulo": "Epístola XXXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3716,7 +3716,7 @@
           },
           {
             "id": "npnf213-3-138-152",
-            "titulo": "Epistle XXXIV.",
+            "titulo": "Epístola XXXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3731,7 +3731,7 @@
           },
           {
             "id": "npnf213-3-138-153",
-            "titulo": "Epistle XXXVIII.",
+            "titulo": "Epístola XXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3746,7 +3746,7 @@
           },
           {
             "id": "npnf213-3-138-154",
-            "titulo": "Epistle XXXIX.",
+            "titulo": "Epístola XXXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3765,7 +3765,7 @@
           },
           {
             "id": "npnf213-3-138-155",
-            "titulo": "Epistle XL.",
+            "titulo": "Epístola XL.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3784,7 +3784,7 @@
           },
           {
             "id": "npnf213-3-138-156",
-            "titulo": "Epistle XLI.",
+            "titulo": "Epístola XLI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3807,7 +3807,7 @@
           },
           {
             "id": "npnf213-3-138-157",
-            "titulo": "Epistle XLII.",
+            "titulo": "Epístola XLII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3844,11 +3844,11 @@
       },
       {
         "id": "npnf213-3-158",
-        "titulo": "Book XIV.",
+        "titulo": "Livro XIV.",
         "children": [
           {
             "id": "npnf213-3-158-159",
-            "titulo": "Epistle IV.",
+            "titulo": "Epístola IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3863,7 +3863,7 @@
           },
           {
             "id": "npnf213-3-158-160",
-            "titulo": "Epistle VII.",
+            "titulo": "Epístola VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3878,7 +3878,7 @@
           },
           {
             "id": "npnf213-3-158-161",
-            "titulo": "Epistle VIII.",
+            "titulo": "Epístola VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3897,7 +3897,7 @@
           },
           {
             "id": "npnf213-3-158-162",
-            "titulo": "Epistle XII.",
+            "titulo": "Epístola XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3924,7 +3924,7 @@
           },
           {
             "id": "npnf213-3-158-163",
-            "titulo": "Epistle XIII.",
+            "titulo": "Epístola XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3939,7 +3939,7 @@
           },
           {
             "id": "npnf213-3-158-164",
-            "titulo": "Epistle XVI.",
+            "titulo": "Epístola XVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3970,7 +3970,7 @@
           },
           {
             "id": "npnf213-3-158-165",
-            "titulo": "Epistle XVII.",
+            "titulo": "Epístola XVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4009,11 +4009,11 @@
     "children": [
       {
         "id": "npnf213-166-167",
-        "titulo": "First Part",
+        "titulo": "Primeira Parte",
         "children": [
           {
             "id": "npnf213-166-167-168",
-            "titulo": "Ephraim the Syrian.",
+            "titulo": "Efraim, o Sírio.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4024,7 +4024,7 @@
           },
           {
             "id": "npnf213-166-167-169",
-            "titulo": "II.—Materials for His Biography.",
+            "titulo": "II.—Materiais para sua biografia.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4039,7 +4039,7 @@
           },
           {
             "id": "npnf213-166-167-170",
-            "titulo": "III.—The Life, as Amplified by Mediaeval Biographers.",
+            "titulo": "III.—A vida, amplificada por biógrafos medievais.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4738,7 +4738,7 @@
           },
           {
             "id": "npnf213-166-167-171",
-            "titulo": "IV.—Recapitulation of Authentic Facts of Life.",
+            "titulo": "IV.—Recapitulação dos fatos autênticos da vida.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4753,7 +4753,7 @@
           },
           {
             "id": "npnf213-166-167-172",
-            "titulo": "V.—Historical Criticism of Mediæval Amplifications.",
+            "titulo": "V.—Crítica histórica das amplificações medievais.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4820,7 +4820,7 @@
           },
           {
             "id": "npnf213-166-167-173",
-            "titulo": "VI.—Rectification of the Vatican Text of the Life.",
+            "titulo": "VI.—Retificação do Texto da Vida do Vaticano.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4835,7 +4835,7 @@
           },
           {
             "id": "npnf213-166-167-174",
-            "titulo": "VII.—Chronology of the Life of Ephraim.",
+            "titulo": "VII.—Cronologia da Vida de Efraim.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4894,7 +4894,7 @@
           },
           {
             "id": "npnf213-166-167-175",
-            "titulo": "VIII.—His Writings: Their Characteristics.",
+            "titulo": "VIII.—Seus escritos: suas características.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4941,7 +4941,7 @@
           },
           {
             "id": "npnf213-166-167-176",
-            "titulo": "IX.—The Selections Included in the Present Collection.",
+            "titulo": "IX.—As seleções incluídas na presente coleção.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4960,7 +4960,7 @@
           },
           {
             "id": "npnf213-166-167-177",
-            "titulo": "X.—Probable Dates of His Works.",
+            "titulo": "X.—Datas prováveis ​​de suas obras.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4975,7 +4975,7 @@
           },
           {
             "id": "npnf213-166-167-178",
-            "titulo": "Second Part Aphrahat the Persian Sage.",
+            "titulo": "Segunda Parte Aphrahat, o Sábio Persa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5102,11 +5102,11 @@
     "children": [
       {
         "id": "npnf213-179-180",
-        "titulo": "NISIBENE HYMNS.",
+        "titulo": "HINOS DE NISIBENE.",
         "children": [
           {
             "id": "npnf213-179-180-181",
-            "titulo": "Hymn I.",
+            "titulo": "Hino I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5161,7 +5161,7 @@
           },
           {
             "id": "npnf213-179-180-182",
-            "titulo": "Hymn II.",
+            "titulo": "Hino II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5252,7 +5252,7 @@
           },
           {
             "id": "npnf213-179-180-183",
-            "titulo": "Hymn III.",
+            "titulo": "Hino III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5311,7 +5311,7 @@
           },
           {
             "id": "npnf213-179-180-184",
-            "titulo": "Hymn IV.",
+            "titulo": "Hino IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5426,7 +5426,7 @@
           },
           {
             "id": "npnf213-179-180-185",
-            "titulo": "Hymn V.",
+            "titulo": "Hino V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5533,7 +5533,7 @@
           },
           {
             "id": "npnf213-179-180-186",
-            "titulo": "Hymn VI.",
+            "titulo": "Hino VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5672,7 +5672,7 @@
           },
           {
             "id": "npnf213-179-180-187",
-            "titulo": "Hymn VII.",
+            "titulo": "Hino VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5738,7 +5738,7 @@
           },
           {
             "id": "npnf213-179-180-189",
-            "titulo": "Hymn IX.",
+            "titulo": "Hino IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5817,7 +5817,7 @@
           },
           {
             "id": "npnf213-179-180-190",
-            "titulo": "Hymn X.",
+            "titulo": "Hino X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5904,7 +5904,7 @@
           },
           {
             "id": "npnf213-179-180-191",
-            "titulo": "Hymn XI.",
+            "titulo": "Hino XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5999,7 +5999,7 @@
           },
           {
             "id": "npnf213-179-180-192",
-            "titulo": "Hymn XII.",
+            "titulo": "Hino XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6038,7 +6038,7 @@
           },
           {
             "id": "npnf213-179-180-193",
-            "titulo": "Hymn XIII.",
+            "titulo": "Hino XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6133,7 +6133,7 @@
           },
           {
             "id": "npnf213-179-180-194",
-            "titulo": "Hymn XIV.",
+            "titulo": "Hino XIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6244,7 +6244,7 @@
           },
           {
             "id": "npnf213-179-180-195",
-            "titulo": "Hymn XV.",
+            "titulo": "Hino XV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6331,7 +6331,7 @@
           },
           {
             "id": "npnf213-179-180-196",
-            "titulo": "Hymn XVI.",
+            "titulo": "Hino XVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6426,7 +6426,7 @@
           },
           {
             "id": "npnf213-179-180-197",
-            "titulo": "Hymn XVII.",
+            "titulo": "Hino XVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6481,7 +6481,7 @@
           },
           {
             "id": "npnf213-179-180-198",
-            "titulo": "Hymn XVIII.",
+            "titulo": "Hino XVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6536,7 +6536,7 @@
           },
           {
             "id": "npnf213-179-180-199",
-            "titulo": "Hymn XIX.",
+            "titulo": "Hino XIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6607,7 +6607,7 @@
           },
           {
             "id": "npnf213-179-180-200",
-            "titulo": "Hymn XX.",
+            "titulo": "Hino XX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6642,7 +6642,7 @@
           },
           {
             "id": "npnf213-179-180-201",
-            "titulo": "Hymn XXI.",
+            "titulo": "Hino XXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6752,7 +6752,7 @@
           },
           {
             "id": "npnf213-179-180-203",
-            "titulo": "Hymn XXXV.",
+            "titulo": "Hino XXXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6847,7 +6847,7 @@
           },
           {
             "id": "npnf213-179-180-204",
-            "titulo": "Hymn XXXVI.",
+            "titulo": "Hino XXXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6926,7 +6926,7 @@
           },
           {
             "id": "npnf213-179-180-205",
-            "titulo": "Hymn XXXVII.",
+            "titulo": "Hino XXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6977,7 +6977,7 @@
           },
           {
             "id": "npnf213-179-180-206",
-            "titulo": "Hymn XXXVIII.",
+            "titulo": "Hino XXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7028,7 +7028,7 @@
           },
           {
             "id": "npnf213-179-180-207",
-            "titulo": "Hymn XXXIX.",
+            "titulo": "Hino XXXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7119,7 +7119,7 @@
           },
           {
             "id": "npnf213-179-180-208",
-            "titulo": "Hymn XL.",
+            "titulo": "Hino XL.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7158,7 +7158,7 @@
           },
           {
             "id": "npnf213-179-180-209",
-            "titulo": "Hymn XLI.",
+            "titulo": "Hino XLI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7229,7 +7229,7 @@
           },
           {
             "id": "npnf213-179-180-210",
-            "titulo": "Hymn XLII.",
+            "titulo": "Hino XLII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7276,7 +7276,7 @@
           },
           {
             "id": "npnf213-179-180-211",
-            "titulo": "Hymn LII.",
+            "titulo": "Hino LII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7287,7 +7287,7 @@
           },
           {
             "id": "npnf213-179-180-212",
-            "titulo": "Hymn LIII.",
+            "titulo": "Hino LIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7298,7 +7298,7 @@
           },
           {
             "id": "npnf213-179-180-213",
-            "titulo": "Hymn LIV.",
+            "titulo": "Hino LIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7309,7 +7309,7 @@
           },
           {
             "id": "npnf213-179-180-214",
-            "titulo": "Hymn LV.",
+            "titulo": "Hino LV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7320,7 +7320,7 @@
           },
           {
             "id": "npnf213-179-180-215",
-            "titulo": "Hymn LVI.",
+            "titulo": "Hino LVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7331,7 +7331,7 @@
           },
           {
             "id": "npnf213-179-180-216",
-            "titulo": "Hymn LVII.",
+            "titulo": "Hino LVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7342,7 +7342,7 @@
           },
           {
             "id": "npnf213-179-180-217",
-            "titulo": "Hymn LVIII.",
+            "titulo": "Hino LVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7353,7 +7353,7 @@
           },
           {
             "id": "npnf213-179-180-218",
-            "titulo": "Hymn LIX.",
+            "titulo": "Hino LIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7364,7 +7364,7 @@
           },
           {
             "id": "npnf213-179-180-219",
-            "titulo": "Hymn LX.",
+            "titulo": "Hino LX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7375,7 +7375,7 @@
           },
           {
             "id": "npnf213-179-180-220",
-            "titulo": "Hymn LXI.",
+            "titulo": "Hino LXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7386,7 +7386,7 @@
           },
           {
             "id": "npnf213-179-180-221",
-            "titulo": "Hymn LXII.",
+            "titulo": "Hino LXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7397,7 +7397,7 @@
           },
           {
             "id": "npnf213-179-180-222",
-            "titulo": "Hymn LXIII.",
+            "titulo": "Hino LXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7408,7 +7408,7 @@
           },
           {
             "id": "npnf213-179-180-223",
-            "titulo": "Hymn LXIV.",
+            "titulo": "Hino LXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7419,7 +7419,7 @@
           },
           {
             "id": "npnf213-179-180-224",
-            "titulo": "Hymn LXV.",
+            "titulo": "Hino LXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7430,7 +7430,7 @@
           },
           {
             "id": "npnf213-179-180-225",
-            "titulo": "Hymn LXVI.",
+            "titulo": "Hino LXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7441,7 +7441,7 @@
           },
           {
             "id": "npnf213-179-180-226",
-            "titulo": "Hymn LXVII.",
+            "titulo": "Hino LXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7452,7 +7452,7 @@
           },
           {
             "id": "npnf213-179-180-227",
-            "titulo": "Hymn LXVIII.",
+            "titulo": "Hino LXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7467,15 +7467,15 @@
   },
   {
     "id": "npnf213-228",
-    "titulo": "NINETEEN HYMNS ON THE NATIVITY OF CHRIST IN THE FLESH.",
+    "titulo": "DEZENOVE HINOS SOBRE A NATIVIDADE DE CRISTO NA CARNE.",
     "children": [
       {
         "id": "npnf213-228-229",
-        "titulo": "HYMNS ON THE NATIVITY.",
+        "titulo": "HINOS À NATIVIDADE.",
         "children": [
           {
             "id": "npnf213-228-229-230",
-            "titulo": "Hymn I.",
+            "titulo": "Hino I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7526,7 +7526,7 @@
           },
           {
             "id": "npnf213-228-229-231",
-            "titulo": "Hymn II.",
+            "titulo": "Hino II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7617,7 +7617,7 @@
           },
           {
             "id": "npnf213-228-229-232",
-            "titulo": "Hymn III.",
+            "titulo": "Hino III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7672,7 +7672,7 @@
           },
           {
             "id": "npnf213-228-229-233",
-            "titulo": "Hymn IV.",
+            "titulo": "Hino IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7839,7 +7839,7 @@
           },
           {
             "id": "npnf213-228-229-234",
-            "titulo": "Hymn V.",
+            "titulo": "Hino V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7890,7 +7890,7 @@
           },
           {
             "id": "npnf213-228-229-235",
-            "titulo": "Hymn VI.",
+            "titulo": "Hino VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7981,7 +7981,7 @@
           },
           {
             "id": "npnf213-228-229-236",
-            "titulo": "Hymn VII.",
+            "titulo": "Hino VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8048,7 +8048,7 @@
           },
           {
             "id": "npnf213-228-229-237",
-            "titulo": "Hymn VIII.",
+            "titulo": "Hino VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8195,7 +8195,7 @@
           },
           {
             "id": "npnf213-228-229-238",
-            "titulo": "Hymn IX.",
+            "titulo": "Hino IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8258,7 +8258,7 @@
           },
           {
             "id": "npnf213-228-229-239",
-            "titulo": "Hymn X.",
+            "titulo": "Hino X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8305,7 +8305,7 @@
           },
           {
             "id": "npnf213-228-229-240",
-            "titulo": "Hymn XI.",
+            "titulo": "Hino XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8380,7 +8380,7 @@
           },
           {
             "id": "npnf213-228-229-241",
-            "titulo": "Hymn XII.",
+            "titulo": "Hino XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8459,7 +8459,7 @@
           },
           {
             "id": "npnf213-228-229-242",
-            "titulo": "Hymn XIII.",
+            "titulo": "Hino XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8610,7 +8610,7 @@
           },
           {
             "id": "npnf213-228-229-243",
-            "titulo": "Hymn XIV.",
+            "titulo": "Hino XIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8725,7 +8725,7 @@
           },
           {
             "id": "npnf213-228-229-244",
-            "titulo": "Hymn XV.",
+            "titulo": "Hino XV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9064,7 +9064,7 @@
           },
           {
             "id": "npnf213-228-229-245",
-            "titulo": "Hymn XVI.",
+            "titulo": "Hino XVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9187,7 +9187,7 @@
           },
           {
             "id": "npnf213-228-229-246",
-            "titulo": "Hymn XVII.",
+            "titulo": "Hino XVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9366,7 +9366,7 @@
           },
           {
             "id": "npnf213-228-229-247",
-            "titulo": "Hymn XVIII.",
+            "titulo": "Hino XVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9445,7 +9445,7 @@
           },
           {
             "id": "npnf213-228-229-248",
-            "titulo": "Hymn XIX.",
+            "titulo": "Hino XIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9512,15 +9512,15 @@
   },
   {
     "id": "npnf213-249",
-    "titulo": "FIFTEEN HYMNS FOR THE FEAST OF THE EPIPHANY.",
+    "titulo": "QUINZE HINOS PARA A FESTA DA EPIFANIA.",
     "children": [
       {
         "id": "npnf213-249-250",
-        "titulo": "HYMNS FOR THE FEAST OF THE EPIPHANY.",
+        "titulo": "HINOS PARA A FESTA DA EPIFANIA.",
         "children": [
           {
             "id": "npnf213-249-250-251",
-            "titulo": "Hymn I.",
+            "titulo": "Hino I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9611,7 +9611,7 @@
           },
           {
             "id": "npnf213-249-250-252",
-            "titulo": "Hymn II.",
+            "titulo": "Hino II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9774,7 +9774,7 @@
           },
           {
             "id": "npnf213-249-250-253",
-            "titulo": "Hymn III.",
+            "titulo": "Hino III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9897,7 +9897,7 @@
           },
           {
             "id": "npnf213-249-250-254",
-            "titulo": "Hymn IV.",
+            "titulo": "Hino IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10008,7 +10008,7 @@
           },
           {
             "id": "npnf213-249-250-255",
-            "titulo": "Hymn V.",
+            "titulo": "Hino V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10079,7 +10079,7 @@
           },
           {
             "id": "npnf213-249-250-256",
-            "titulo": "Hymn VI.",
+            "titulo": "Hino VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10170,7 +10170,7 @@
           },
           {
             "id": "npnf213-249-250-257",
-            "titulo": "Hymn VII.",
+            "titulo": "Hino VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10293,7 +10293,7 @@
           },
           {
             "id": "npnf213-249-250-258",
-            "titulo": "Hymn VIII.",
+            "titulo": "Hino VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10392,7 +10392,7 @@
           },
           {
             "id": "npnf213-249-250-259",
-            "titulo": "Hymn IX.",
+            "titulo": "Hino IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10459,7 +10459,7 @@
           },
           {
             "id": "npnf213-249-250-260",
-            "titulo": "Hymn X.",
+            "titulo": "Hino X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10534,7 +10534,7 @@
           },
           {
             "id": "npnf213-249-250-261",
-            "titulo": "Hymn XI.",
+            "titulo": "Hino XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10577,7 +10577,7 @@
           },
           {
             "id": "npnf213-249-250-262",
-            "titulo": "Hymn XII.",
+            "titulo": "Hino XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10616,7 +10616,7 @@
           },
           {
             "id": "npnf213-249-250-263",
-            "titulo": "Hymn XIII.",
+            "titulo": "Hino XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10715,7 +10715,7 @@
           },
           {
             "id": "npnf213-249-250-264",
-            "titulo": "Hymn XIV.",
+            "titulo": "Hino XIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10926,7 +10926,7 @@
           },
           {
             "id": "npnf213-249-250-265",
-            "titulo": "Hymn XV.",
+            "titulo": "Hino XV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11149,15 +11149,15 @@
   },
   {
     "id": "npnf213-266",
-    "titulo": "THE PEARL. SEVEN HYMNS ON THE FAITH.",
+    "titulo": "A PÉROLA. SETE HINOS SOBRE A FÉ.",
     "children": [
       {
         "id": "npnf213-266-267",
-        "titulo": "THE PEARL, SEVEN HYMNS ON THE FAITH.",
+        "titulo": "A PÉROLA, SETE HINOS À FÉ.",
         "children": [
           {
             "id": "npnf213-266-267-268",
-            "titulo": "Hymn I.",
+            "titulo": "Hino I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11224,7 +11224,7 @@
           },
           {
             "id": "npnf213-266-267-269",
-            "titulo": "Hymn II.",
+            "titulo": "Hino II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11267,7 +11267,7 @@
           },
           {
             "id": "npnf213-266-267-270",
-            "titulo": "Hymn III.",
+            "titulo": "Hino III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11330,7 +11330,7 @@
           },
           {
             "id": "npnf213-266-267-271",
-            "titulo": "Hymn IV.",
+            "titulo": "Hino IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11397,7 +11397,7 @@
           },
           {
             "id": "npnf213-266-267-272",
-            "titulo": "Hymn V.",
+            "titulo": "Hino V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11456,7 +11456,7 @@
           },
           {
             "id": "npnf213-266-267-273",
-            "titulo": "Hymn VI.",
+            "titulo": "Hino VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11527,7 +11527,7 @@
           },
           {
             "id": "npnf213-266-267-274",
-            "titulo": "Hymn VII.",
+            "titulo": "Hino VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11626,11 +11626,11 @@
   },
   {
     "id": "npnf213-275",
-    "titulo": "THREE HOMILIES",
+    "titulo": "TRÊS HOMILIAS",
     "children": [
       {
         "id": "npnf213-275-276",
-        "titulo": "THREE HOMILIES.",
+        "titulo": "TRÊS HOMILIAS.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -11889,7 +11889,7 @@
       },
       {
         "id": "npnf213-275-277",
-        "titulo": "On Admonition and Repentance.",
+        "titulo": "Sobre Admoestação e Arrependimento.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -11984,7 +11984,7 @@
       },
       {
         "id": "npnf213-275-278",
-        "titulo": "On the Sinful Woman.",
+        "titulo": "Sobre a Mulher Pecadora.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -12057,11 +12057,11 @@
   },
   {
     "id": "npnf213-279",
-    "titulo": "APHRAHAT. SELECT DEMONSTRATIONS.",
+    "titulo": "AFRAAT. SELECIONE DEMONSTRAÇÕES.",
     "children": [
       {
         "id": "npnf213-279-280",
-        "titulo": "APHRAHAT.",
+        "titulo": "AFRAAT.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -12076,7 +12076,7 @@
       },
       {
         "id": "npnf213-279-281",
-        "titulo": "The “Demonstrations” of Aphrahat.",
+        "titulo": "As “Demonstrações” de Aphrahat.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -12163,7 +12163,7 @@
       },
       {
         "id": "npnf213-279-282",
-        "titulo": "Demonstration V.—Of Wars.",
+        "titulo": "Demonstração V.—De Guerras.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -12270,7 +12270,7 @@
       },
       {
         "id": "npnf213-279-283",
-        "titulo": "Demonstration VI.—Of Monks.",
+        "titulo": "Demonstração VI. — Dos Monges.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -12361,7 +12361,7 @@
       },
       {
         "id": "npnf213-279-284",
-        "titulo": "Demonstration VIII.—Of the Resurrection of the Dead.",
+        "titulo": "Demonstração VIII. — Da Ressurreição dos Mortos.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -12468,7 +12468,7 @@
       },
       {
         "id": "npnf213-279-285",
-        "titulo": "Demonstration X.—Of Pastors.",
+        "titulo": "Demonstração X. - Dos Pastores.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -12511,7 +12511,7 @@
       },
       {
         "id": "npnf213-279-286",
-        "titulo": "Demonstration XVII.—Of Christ the Son of God.",
+        "titulo": "Demonstração XVII. - De Cristo Filho de Deus.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -12566,7 +12566,7 @@
       },
       {
         "id": "npnf213-279-287",
-        "titulo": "Demonstration XXI.—Of Persecution.",
+        "titulo": "Demonstração XXI.—De Perseguição.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -12665,7 +12665,7 @@
       },
       {
         "id": "npnf213-279-288",
-        "titulo": "Demonstration XXII.—Of Death and the Latter Times.",
+        "titulo": "Demonstração XXII. — Da Morte e dos Últimos Tempos.",
         "conteudo": [
           {
             "tipo": "paragrafo",

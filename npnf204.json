@@ -16,11 +16,11 @@
       },
       {
         "id": "npnf204-4-6",
-        "titulo": "Prolegomena.",
+        "titulo": "Prolegômenos.",
         "children": [
           {
             "id": "npnf204-4-6-7",
-            "titulo": "Chapter I.",
+            "titulo": "Capítulo I.",
             "children": [
               {
                 "id": "npnf204-4-6-7-8",
@@ -132,7 +132,7 @@
           },
           {
             "id": "npnf204-4-6-14",
-            "titulo": "Chapter II.",
+            "titulo": "Capítulo II.",
             "children": [
               {
                 "id": "npnf204-4-6-14-15",
@@ -1007,7 +1007,7 @@
           },
           {
             "id": "npnf204-4-6-26",
-            "titulo": "Chapter III.",
+            "titulo": "Capítulo III.",
             "children": [
               {
                 "id": "npnf204-4-6-26-27",
@@ -1198,7 +1198,7 @@
           },
           {
             "id": "npnf204-4-6-30",
-            "titulo": "Chapter IV.",
+            "titulo": "Capítulo IV.",
             "children": [
               {
                 "id": "npnf204-4-6-30-31",
@@ -1426,7 +1426,7 @@
           },
           {
             "id": "npnf204-4-6-37",
-            "titulo": "Chapter V.",
+            "titulo": "Capítulo V.",
             "children": [
               {
                 "id": "npnf204-4-6-37-38",
@@ -1529,7 +1529,7 @@
           },
           {
             "id": "npnf204-4-6-41",
-            "titulo": "I. General Chronological Table of the Life of S. Athanasius.",
+            "titulo": "I. Tabela Cronológica Geral da Vida de S. Atanásio.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2068,7 +2068,7 @@
           },
           {
             "id": "npnf204-4-6-42",
-            "titulo": "II. Synoptical Table of the Bishops of the Chief Sees.",
+            "titulo": "II. Mesa Sinóptica dos Bispos das Sés Maiores.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2487,7 +2487,7 @@
           },
           {
             "id": "npnf204-4-6-43",
-            "titulo": "Appendix.",
+            "titulo": "Apêndice.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2674,7 +2674,7 @@
           },
           {
             "id": "npnf204-4-6-44",
-            "titulo": "Introduction to the Treatise Contra Gentes",
+            "titulo": "Introdução ao Tratado Contra Gentes",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2881,7 +2881,7 @@
           },
           {
             "id": "npnf204-4-6-45",
-            "titulo": "Against the Heathen.",
+            "titulo": "Contra os pagãos.",
             "children": [
               {
                 "id": "npnf204-4-6-45-46",
@@ -3336,7 +3336,7 @@
       },
       {
         "id": "npnf204-4-75",
-        "titulo": "Part II.",
+        "titulo": "Parte II.",
         "children": [
           {
             "id": "npnf204-4-75-76",
@@ -3417,7 +3417,7 @@
       },
       {
         "id": "npnf204-4-81",
-        "titulo": "Part III.",
+        "titulo": "Parte III.",
         "children": [
           {
             "id": "npnf204-4-81-82",
@@ -3618,7 +3618,7 @@
       },
       {
         "id": "npnf204-4-95",
-        "titulo": "Introduction to the Treatise on the Incarnation of the Word.",
+        "titulo": "Introdução ao Tratado sobre a Encarnação do Verbo.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -3889,7 +3889,7 @@
       },
       {
         "id": "npnf204-4-96",
-        "titulo": "On the Incarnation of the Word.",
+        "titulo": "Sobre a Encarnação do Verbo.",
         "children": [
           {
             "id": "npnf204-4-96-97",
@@ -4778,7 +4778,7 @@
       },
       {
         "id": "npnf204-4-154",
-        "titulo": "Depositio Arii.",
+        "titulo": "Depósito Arii.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4797,7 +4797,7 @@
       },
       {
         "id": "npnf204-4-155",
-        "titulo": "Deposition of Arius.",
+        "titulo": "Deposição de Ário.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5184,7 +5184,7 @@
       },
       {
         "id": "npnf204-4-156",
-        "titulo": "Epistola Eusebii.",
+        "titulo": "Epistola Eusébio.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5199,7 +5199,7 @@
       },
       {
         "id": "npnf204-4-157",
-        "titulo": "Council of Nicæa.",
+        "titulo": "Concílio de Nicéia.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5278,7 +5278,7 @@
       },
       {
         "id": "npnf204-4-158",
-        "titulo": "Excursus427 A.",
+        "titulo": "Excursão427 A.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5409,7 +5409,7 @@
       },
       {
         "id": "npnf204-4-159",
-        "titulo": "Introduction to Expositio Fidei.",
+        "titulo": "Introdução à Expositio Fidei.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5428,7 +5428,7 @@
       },
       {
         "id": "npnf204-4-160",
-        "titulo": "Statement of Faith.",
+        "titulo": "Declaração de Fé.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5451,7 +5451,7 @@
       },
       {
         "id": "npnf204-4-161",
-        "titulo": "Introduction to In Illud ‘Omnia,’ Etc.",
+        "titulo": "Introdução ao In Illud ‘Omnia’, etc.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5470,7 +5470,7 @@
       },
       {
         "id": "npnf204-4-162",
-        "titulo": "On Luke X. 22 (Matt. XI. 27).",
+        "titulo": "Em Lucas X. 22 (Mat. XI. 27).",
         "children": [
           {
             "id": "npnf204-4-162-163",
@@ -5570,7 +5570,7 @@
       },
       {
         "id": "npnf204-4-169",
-        "titulo": "Introduction to the Encyclical Epistle to the Bishops Throughout the World.",
+        "titulo": "Introdução à Epístola Encíclica aos Bispos de todo o mundo.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5581,7 +5581,7 @@
       },
       {
         "id": "npnf204-4-170",
-        "titulo": "Circular Letter.",
+        "titulo": "Carta Circular.",
         "children": [
           {
             "id": "npnf204-4-170-171",
@@ -5712,7 +5712,7 @@
       },
       {
         "id": "npnf204-4-178",
-        "titulo": "Introduction to Apologia Contra Arianos.",
+        "titulo": "Introdução à Apologia Contra Arianos.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5919,7 +5919,7 @@
       },
       {
         "id": "npnf204-4-179",
-        "titulo": "Defence Against the Arians.",
+        "titulo": "Defesa contra os arianos.",
         "children": [
           {
             "id": "npnf204-4-179-180",
@@ -6086,7 +6086,7 @@
           },
           {
             "id": "npnf204-4-179-181",
-            "titulo": "Chapter II.—Letter of Julius to the Eusebians at Antioch.",
+            "titulo": "Capítulo II. — Carta de Júlio aos Eusébios em Antioquia.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6209,7 +6209,7 @@
           },
           {
             "id": "npnf204-4-179-182",
-            "titulo": "Chapter III.—Letters of the Council of Sardica to the Churches of Egypt and of Alexandria, and to all Churches.",
+            "titulo": "Capítulo III.—Cartas do Concílio de Sardica às Igrejas do Egito e de Alexandria, e a todas as Igrejas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6392,7 +6392,7 @@
           },
           {
             "id": "npnf204-4-179-183",
-            "titulo": "Chapter IV.—Imperial and Ecclesiastical Acts in Consequence of the Decision of the Council of Sardica.",
+            "titulo": "Capítulo IV.—Atos Imperiais e Eclesiásticos em Consequência da Decisão do Concílio de Sardica.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6525,11 +6525,11 @@
       },
       {
         "id": "npnf204-4-184",
-        "titulo": "Part II.",
+        "titulo": "Parte II.",
         "children": [
           {
             "id": "npnf204-4-184-185",
-            "titulo": "Chapter V.—Documents connected with the charges of the Meletians against S. Athanasius.",
+            "titulo": "Capítulo V. — Documentos relacionados com as acusações dos Meletianos contra S. Atanásio.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6680,7 +6680,7 @@
           },
           {
             "id": "npnf204-4-184-186",
-            "titulo": "Chapter VI.—Documents connected with the Council of Tyre.",
+            "titulo": "Capítulo VI.—Documentos relacionados com o Concílio de Tiro.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6945,7 +6945,7 @@
       },
       {
         "id": "npnf204-4-187",
-        "titulo": "Additional Note on Apol. C. Arianos, §50.",
+        "titulo": "Nota adicional sobre Apol. C. Arianos, §50.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -6968,7 +6968,7 @@
       },
       {
         "id": "npnf204-4-188",
-        "titulo": "Introduction to de Decretis or Defence of the Nicene Definition.",
+        "titulo": "Introdução ao de Decretis ou Defesa da Definição Nicena.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -6995,11 +6995,11 @@
       },
       {
         "id": "npnf204-4-189",
-        "titulo": "De Decretis or Defence of the Nicene Definition",
+        "titulo": "De Decretis ou Defesa da Definição Nicena",
         "children": [
           {
             "id": "npnf204-4-189-190",
-            "titulo": "Chapter I.—Introduction. The complaint of the Arians against the Nicene Council; their fickleness; they are like Jews; their employment of force instead of reason.",
+            "titulo": "Capítulo I.—Introdução. A denúncia dos arianos contra o Concílio de Nicéia; sua inconstância; eles são como judeus; seu emprego da força em vez da razão.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7018,7 +7018,7 @@
           },
           {
             "id": "npnf204-4-189-191",
-            "titulo": "Chapter II.—Conduct of the Arians towards the Nicene Council. Ignorant as well as irreligious to attempt to reverse an Ecumenical Council: proceedings at Nicæa: Eusebians then signed what they now complain of: on the unanimity of true teachers and the process of tradition: changes of the Arians.",
+            "titulo": "Capítulo II.—Conduta dos Arianos perante o Concílio Niceno. Ignorante e também irreligioso na tentativa de reverter um Concílio Ecumênico: procedimentos em Nicæa: os eusébios então assinaram o que agora reclamam: sobre a unanimidade dos verdadeiros professores e o processo da tradição: mudanças dos arianos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7041,7 +7041,7 @@
           },
           {
             "id": "npnf204-4-189-192",
-            "titulo": "Chapter III.—Two senses of the word Son, 1. adoptive; 2. essential; attempts of Arians to find a third meaning between these; e.g. that our Lord only was created immediately by God (Asterius’s view), or that our Lord alone partakes the Father. The second and true sense; God begets as He makes, really; though His creation and generation are not like man’s; His generation independent of time; generation implies an internal, and therefore an eternal, act in God; explanation of Prov. viii. 22.",
+            "titulo": "Capítulo III.—Dois sentidos da palavra Filho, 1. adotivo; 2. essencial; tentativas dos arianos de encontrar um terceiro significado entre estes; por exemplo que somente nosso Senhor foi criado imediatamente por Deus (visão de Asterius), ou que somente nosso Senhor participa do Pai. O segundo e verdadeiro sentido; Deus gera como Ele faz, na verdade; embora Sua criação e geração não sejam como as do homem; Sua geração independente do tempo; a geração implica um ato interno e, portanto, eterno em Deus; explicação de Prov. viii. 22.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7104,7 +7104,7 @@
           },
           {
             "id": "npnf204-4-189-193",
-            "titulo": "Chapter IV.—Proof of the Catholic Sense of the Word Son. Power, Word or Reason, and Wisdom, the names of the Son, imply eternity; as well as the Father’s title of Fountain. The Arians reply, that these do not formally belong to the essence of the Son, but are names given Him; that God has many words, powers, U+0026c. Why there is but one Son and Word, U+0026c. All the titles of the Son coincide in Him.",
+            "titulo": "Capítulo IV. — Prova do sentido católico da palavra filho. Poder, Palavra ou Razão e Sabedoria, os nomes do Filho, implicam eternidade; bem como o título de Fonte do Pai. Os arianos respondem que estes não pertencem formalmente à essência do Filho, mas são nomes dados a Ele; que Deus tem muitas palavras, poderes, U+0026c. Por que existe apenas um Filho e uma Palavra, U+0026c. Todos os títulos do Filho coincidem Nele.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7123,7 +7123,7 @@
           },
           {
             "id": "npnf204-4-189-194",
-            "titulo": "Chapter V.—Defence of the Council’s Phrases, “from the essence,” And “one in essence.” Objection that the phrases are not scriptural; we ought to look at the sense more than the wording; evasion of the Arians as to the phrase “of God” which is in Scripture; their evasion of all explanations but those which the Council selected, which were intended to negative the Arian formulæ; protest against their conveying any material sense.",
+            "titulo": "Capítulo V. — Defesa das Frases do Concílio, “da essência” e “um em essência”. Objeção de que as frases não são bíblicas; devemos olhar mais para o sentido do que para o texto; evasão dos arianos quanto à frase “de Deus” que está nas Escrituras; sua evasão a todas as explicações, exceto aquelas que o Concílio selecionou, que pretendiam negar as fórmulas arianas; protestar contra a transmissão de qualquer sentido material.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7162,7 +7162,7 @@
           },
           {
             "id": "npnf204-4-189-195",
-            "titulo": "Chapter VI.—Authorities in Support of the Council. Theognostus; Dionysius of Alexandria; Dionysius of Rome; Origen.",
+            "titulo": "Capítulo VI.—Autoridades de Apoio ao Conselho. Teognosto; Dionísio de Alexandria; Dionísio de Roma; Orígenes.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7213,7 +7213,7 @@
           },
           {
             "id": "npnf204-4-189-196",
-            "titulo": "Chapter VII.—On the Arian Symbol “Unoriginate.” This term afterwards adopted by them; and why; three senses of it. A fourth sense. Unoriginate denotes God in contrast to His creatures, not to His Son; Father the scriptural title instead; Conclusion.",
+            "titulo": "Capítulo VII. — Sobre o símbolo ariano “não originado”. Este termo foi posteriormente adotado por eles; e por quê; três sentidos disso. Um quarto sentido. Não originado denota Deus em contraste com Suas criaturas, não com Seu Filho; Em vez disso, crie o título bíblico; Conclusão.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7242,7 +7242,7 @@
       },
       {
         "id": "npnf204-4-197",
-        "titulo": "Introduction to the de Sententia Dionysii.",
+        "titulo": "Introdução ao de Sententia Dionysii.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -7281,7 +7281,7 @@
       },
       {
         "id": "npnf204-4-198",
-        "titulo": "On the Opinion of Dionysius.",
+        "titulo": "Sobre a opinião de Dionísio.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -7508,7 +7508,7 @@
       },
       {
         "id": "npnf204-4-199",
-        "titulo": "Introduction to Vita S. Antoni.",
+        "titulo": "Introdução à Vita S. Antoni.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -7651,7 +7651,7 @@
       },
       {
         "id": "npnf204-4-200",
-        "titulo": "Life of Antony.",
+        "titulo": "Vida de Antônio.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -7850,7 +7850,7 @@
       },
       {
         "id": "npnf204-4-201",
-        "titulo": "Life of Antony.",
+        "titulo": "Vida de Antônio.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -8249,7 +8249,7 @@
       },
       {
         "id": "npnf204-4-202",
-        "titulo": "Introduction to Ad Episcopos Ægypti Et Libyæ Epistola Encyclica.",
+        "titulo": "Introdução à Ad Episcopos Ægypti Et Libyæ Epistola Encycla.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -8276,15 +8276,15 @@
       },
       {
         "id": "npnf204-4-203",
-        "titulo": "To the Bishops of Egypt.",
+        "titulo": "Aos Bispos do Egito.",
         "children": [
           {
             "id": "npnf204-4-203-204",
-            "titulo": "Chapter I.",
+            "titulo": "Capítulo I.",
             "children": [
               {
                 "id": "npnf204-4-203-204-205",
-                "titulo": "1. Christ warned His followers against false prophets.",
+                "titulo": "1. Cristo advertiu Seus seguidores contra os falsos profetas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8295,7 +8295,7 @@
               },
               {
                 "id": "npnf204-4-203-204-206",
-                "titulo": "2. Satan pretending to be holy, is detected by the Christian.",
+                "titulo": "2. Satanás fingindo ser santo é detectado pelo cristão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8317,7 +8317,7 @@
               },
               {
                 "id": "npnf204-4-203-204-208",
-                "titulo": "4. It profits not to receive part of Scripture, and reject part.",
+                "titulo": "4. É proveitoso não receber parte das Escrituras e rejeitar parte.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8354,7 +8354,7 @@
               },
               {
                 "id": "npnf204-4-203-204-211",
-                "titulo": "7. The party of Acacius really Arians.",
+                "titulo": "7. O partido de Acácio é realmente ariano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8365,7 +8365,7 @@
               },
               {
                 "id": "npnf204-4-203-204-212",
-                "titulo": "8. Words are bad, though Scriptural, which proceed from bad men.",
+                "titulo": "8. As palavras são más, embora bíblicas, e procedem de homens maus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8376,7 +8376,7 @@
               },
               {
                 "id": "npnf204-4-203-204-213",
-                "titulo": "9. For such words do but serve as their cloak.",
+                "titulo": "9. Pois tais palavras servem apenas como capa.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8387,7 +8387,7 @@
               },
               {
                 "id": "npnf204-4-203-204-214",
-                "titulo": "10. They ought first to condemn Arius, if they are to be heard.",
+                "titulo": "10. Eles deveriam primeiro condenar Ário, se quiserem ser ouvidos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8398,7 +8398,7 @@
               },
               {
                 "id": "npnf204-4-203-204-215",
-                "titulo": "11. No profit to do right in one way, if we do wrong in another.",
+                "titulo": "11. Não há lucro em fazer o certo de uma maneira, se fizermos o errado de outra.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8411,11 +8411,11 @@
           },
           {
             "id": "npnf204-4-203-216",
-            "titulo": "Chapter II.",
+            "titulo": "Capítulo II.",
             "children": [
               {
                 "id": "npnf204-4-203-216-217",
-                "titulo": "12. Arian statements.",
+                "titulo": "12. Declarações arianas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8426,7 +8426,7 @@
               },
               {
                 "id": "npnf204-4-203-216-218",
-                "titulo": "13. Arguments from Scripture against Arian statements.",
+                "titulo": "13. Argumentos das Escrituras contra as declarações arianas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8437,7 +8437,7 @@
               },
               {
                 "id": "npnf204-4-203-216-219",
-                "titulo": "14. Arguments from Scripture against Arian statements.",
+                "titulo": "14. Argumentos das Escrituras contra as declarações arianas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8448,7 +8448,7 @@
               },
               {
                 "id": "npnf204-4-203-216-220",
-                "titulo": "15. Arguments from Scripture against Arian statements.",
+                "titulo": "15. Argumentos das Escrituras contra as declarações arianas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8459,7 +8459,7 @@
               },
               {
                 "id": "npnf204-4-203-216-221",
-                "titulo": "16. Arians parallel to the Manichees.",
+                "titulo": "16. Arianos paralelos aos Maniqueístas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8470,7 +8470,7 @@
               },
               {
                 "id": "npnf204-4-203-216-222",
-                "titulo": "17. Arguments from Scripture against Arian statements.",
+                "titulo": "17. Argumentos das Escrituras contra as declarações arianas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8481,7 +8481,7 @@
               },
               {
                 "id": "npnf204-4-203-216-223",
-                "titulo": "18. If the Arians felt they were right, they would speak openly.",
+                "titulo": "18. Se os arianos sentissem que estavam certos, falariam abertamente.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8492,7 +8492,7 @@
               },
               {
                 "id": "npnf204-4-203-216-224",
-                "titulo": "19. Significance of the death of Arius.",
+                "titulo": "19. Significado da morte de Ário.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8503,7 +8503,7 @@
               },
               {
                 "id": "npnf204-4-203-216-225",
-                "titulo": "20. While they are friends of Arius, in vain their moderate words.",
+                "titulo": "20. Embora sejam amigos de Ário, em vão suas palavras moderadas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8514,7 +8514,7 @@
               },
               {
                 "id": "npnf204-4-203-216-226",
-                "titulo": "21. To make a stand for the Faith equivalent to martyrdom.",
+                "titulo": "21. Defender a Fé equivalente ao martírio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8525,7 +8525,7 @@
               },
               {
                 "id": "npnf204-4-203-216-227",
-                "titulo": "22. Coalition of sordid Meletians with insane Arians.",
+                "titulo": "22. Coalizão de meletianos sórdidos com arianos insanos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8536,7 +8536,7 @@
               },
               {
                 "id": "npnf204-4-203-216-228",
-                "titulo": "23. Conclusion.",
+                "titulo": "23. Conclusão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8551,7 +8551,7 @@
       },
       {
         "id": "npnf204-4-229",
-        "titulo": "Introduction to Apologia Ad Constantium.",
+        "titulo": "Introdução à Apologia Ad Constantium.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -8562,7 +8562,7 @@
       },
       {
         "id": "npnf204-4-230",
-        "titulo": "Defence Before Constantius.",
+        "titulo": "Defesa diante de Constâncio.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -8861,7 +8861,7 @@
       },
       {
         "id": "npnf204-4-231",
-        "titulo": "Introduction to Apologia de Fuga.",
+        "titulo": "Introdução à Apologia de Fuga.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -8884,7 +8884,7 @@
       },
       {
         "id": "npnf204-4-232",
-        "titulo": "Defence of His Flight.",
+        "titulo": "Defesa de sua fuga.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -9111,7 +9111,7 @@
       },
       {
         "id": "npnf204-4-233",
-        "titulo": "Introduction to Historia Arianorum.",
+        "titulo": "Introdução à História Arianorum.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -9406,7 +9406,7 @@
       },
       {
         "id": "npnf204-4-234",
-        "titulo": "History of the Arians.",
+        "titulo": "História dos Arianos.",
         "children": [
           {
             "id": "npnf204-4-234-235",
@@ -9485,7 +9485,7 @@
           },
           {
             "id": "npnf204-4-234-236",
-            "titulo": "Part II. First Arian Persecution under Constantius.",
+            "titulo": "Parte II. Primeira perseguição ariana sob Constâncio.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9532,7 +9532,7 @@
           },
           {
             "id": "npnf204-4-234-237",
-            "titulo": "Part III. Restoration of the Catholics on the Council of Sardica",
+            "titulo": "Parte III. Restauração dos Católicos no Concílio de Sardica",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9687,7 +9687,7 @@
           },
           {
             "id": "npnf204-4-234-238",
-            "titulo": "Part IV. Second Arian Persecution under Constantius",
+            "titulo": "Parte IV. Segunda perseguição ariana sob Constâncio",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9746,7 +9746,7 @@
           },
           {
             "id": "npnf204-4-234-239",
-            "titulo": "Part V. Persecution and Lapse of Liberius",
+            "titulo": "Parte V. Perseguição e lapso de Libério",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9805,7 +9805,7 @@
           },
           {
             "id": "npnf204-4-234-240",
-            "titulo": "Part VI. Persecution and Lapse of Hosius",
+            "titulo": "Parte VI. Perseguição e lapso de Hosius",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9848,7 +9848,7 @@
           },
           {
             "id": "npnf204-4-234-241",
-            "titulo": "Part VII. Persecution at Alexandria",
+            "titulo": "Parte VII. Perseguição em Alexandria",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9975,7 +9975,7 @@
           },
           {
             "id": "npnf204-4-234-242",
-            "titulo": "Part VIII.",
+            "titulo": "Parte VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10142,7 +10142,7 @@
           },
           {
             "id": "npnf204-4-234-243",
-            "titulo": "Introduction to Four Discourses Against the Arians.",
+            "titulo": "Introdução aos Quatro Discursos Contra os Arianos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10265,11 +10265,11 @@
           },
           {
             "id": "npnf204-4-234-244",
-            "titulo": "Four Discourses Against the Arians.",
+            "titulo": "Quatro discursos contra os arianos.",
             "children": [
               {
                 "id": "npnf204-4-234-244-245",
-                "titulo": "Chapter I.—Introduction. Reason for writing; certain persons indifferent about Arianism; Arians not Christians, because sectaries always take the name of their founder.",
+                "titulo": "Capítulo I.—Introdução. Motivo da escrita; certas pessoas indiferentes ao Arianismo; Arianos, não cristãos, porque os sectários sempre levam o nome do seu fundador.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10292,7 +10292,7 @@
               },
               {
                 "id": "npnf204-4-234-244-246",
-                "titulo": "Chapter II.—Extracts from the Thalia of Arius. Arius maintains that God became a Father, and the Son was not always; the Son out of nothing; once He was not; He was not before his generation; He was created; named Wisdom and Word after God’s attributes; made that He might make us; one out of many powers of God; alterable; exalted on God’s foreknowledge of what He was to be; not very God; but called so as others by participation; foreign in essence from the Father; does not know or see the Father; does not know Himself.",
+                "titulo": "Capítulo II. — Extratos da Thalia de Ário. Ário afirma que Deus se tornou Pai, e o Filho nem sempre o foi; o Filho do nada; uma vez que Ele não existia; Ele não existia antes de sua geração; Ele foi criado; nomeou Sabedoria e Palavra segundo os atributos de Deus; feito para que Ele pudesse nos fazer; um dos muitos poderes de Deus; alterável; exaltado na presciência de Deus sobre o que Ele seria; não é muito Deus; mas chamados assim como os outros pela participação; estranho em essência ao Pai; não conhece nem vê o Pai; não conhece a si mesmo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10315,7 +10315,7 @@
               },
               {
                 "id": "npnf204-4-234-244-247",
-                "titulo": "Chapter III.—The Importance of the Subject. The Arians affect Scripture language, but their doctrine new, as well as unscriptural. Statement of the Catholic doctrine, that the Son is proper to the Father’s substance, and eternal. Restatement of Arianism in contrast, that He is a creature with a beginning: the controversy comes to this issue, whether one whom we are to believe in as God, can be so in name only, and is merely a creature. What pretence then for being indifferent in the controversy? The Arians rely on state patronage, and dare not avow their tenets.",
+                "titulo": "Capítulo III.—A Importância do Assunto. Os arianos afetam a linguagem das Escrituras, mas sua doutrina é nova e também antibíblica. Declaração da doutrina católica de que o Filho é próprio da substância do Pai e eterno. A reafirmação do Arianismo, em contraste, de que Ele é uma criatura com um começo: a controvérsia chega a esta questão, se alguém em quem devemos acreditar como Deus pode sê-lo apenas no nome e é apenas uma criatura. Que pretensão então de ser indiferente na controvérsia? Os arianos dependem do patrocínio do Estado e não ousam confessar os seus princípios.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10334,7 +10334,7 @@
               },
               {
                 "id": "npnf204-4-234-244-248",
-                "titulo": "Chapter IV.—That the Son is Eternal and Increate. These attributes, being the points in dispute, are first proved by direct texts of Scripture. Concerning the ‘eternal power’ of God in Rom. i. 20, which is shewn to mean the Son. Remarks on the Arian formula, ‘Once the Son was not,’ its supporters not daring to speak of ‘a time when the Son was not.’",
+                "titulo": "Capítulo IV. - Que o Filho é Eterno e Incriado. Esses atributos, sendo os pontos em disputa, são primeiro provados por textos diretos das Escrituras. A respeito do “poder eterno” de Deus em Rom. eu. 20, que é mostrado como significando o Filho. Observações sobre a fórmula ariana, “Uma vez que o Filho não existia”, seus defensores não ousavam falar de “um tempo em que o Filho não existia”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10353,7 +10353,7 @@
               },
               {
                 "id": "npnf204-4-234-244-249",
-                "titulo": "Chapter V.—Subject Continued. Objection, that the Son’s eternity makes Him coordinate with the Father, introduces the subject of His Divine Sonship, as a second proof of His eternity. The word Son is introduced in a secondary, but is to be understood in real sense. Since all things partake of the Father in partaking of the Son, He is the whole participation of the Father, that is, He is the Son by nature; for to be wholly participated is to beget.",
+                "titulo": "Capítulo V.—Assunto Continuação. A objeção de que a eternidade do Filho o faz coordenar-se com o Pai introduz o assunto de Sua Filiação Divina, como uma segunda prova de Sua eternidade. A palavra Filho é introduzida de forma secundária, mas deve ser entendida em sentido real. Visto que todas as coisas participam do Pai ao participarem do Filho, Ele é toda a participação do Pai, isto é, Ele é o Filho por natureza; pois ser totalmente participado é gerar.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10372,7 +10372,7 @@
               },
               {
                 "id": "npnf204-4-234-244-250",
-                "titulo": "Chapter VI.—Subject Continued. Third proof of the Son’s eternity, viz. from other titles indicative of His coessentiality; as the Creator; One of the Blessed Trinity; as Wisdom; as Word; as Image. If the Son is a perfect Image of the Father, why is He not a Father also? because God, being perfect, is not the origin of a race. Only the Father a Father because the Only Father, only the Son a Son because the Only Son. Men are not really fathers and really sons, but shadows of the True. The Son does not become a Father, because He has received from the Father to be immutable and ever the same.",
+                "titulo": "Capítulo VI.—Assunto Continuação. Terceira prova da eternidade do Filho, viz. de outros títulos indicativos de Sua coessencialidade; como o Criador; Um da Santíssima Trindade; como Sabedoria; como Palavra; como imagem. Se o Filho é uma imagem perfeita do Pai, por que Ele também não é Pai? porque Deus, sendo perfeito, não é a origem de uma raça. Somente o Pai é Pai porque é o Único Pai, somente o Filho é como Filho porque é o Único Filho. Os homens não são realmente pais e realmente filhos, mas sombras do Verdadeiro. O Filho não se torna Pai, porque recebeu do Pai ser imutável e sempre o mesmo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10403,7 +10403,7 @@
               },
               {
                 "id": "npnf204-4-234-244-251",
-                "titulo": "Chapter VII.—Objections to the Foregoing Proof. Whether, in the generation of the Son, God made One that was already, or One that was not.",
+                "titulo": "Capítulo VII.—Objeções à Prova Anterior. Se, na geração do Filho, Deus fez Aquele que já existia ou Aquele que não existia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10430,7 +10430,7 @@
               },
               {
                 "id": "npnf204-4-234-244-252",
-                "titulo": "Chapter VIII.—Objections Continued. Whether we may decide the question by the parallel of human sons, which are born later than their parents. No, for the force of the analogy lies in the idea of connaturality. Time is not involved in the idea of Son, but is adventitious to it, and does not attach to God, because He is without parts and passions. The titles Word and Wisdom guard our thoughts of Him and His Son from this misconception. God not a Father, as a Creator, in posse from eternity, because creation does not relate to the essence of God, as generation does.",
+                "titulo": "Capítulo VIII. — Continuação das objeções. Se podemos decidir a questão pelo paralelo dos filhos humanos, que nascem depois dos seus pais. Não, pois a força da analogia reside na ideia de conaturalidade. O tempo não está envolvido na ideia de Filho, mas é adventício a ela, e não se liga a Deus, porque Ele não tem partes nem paixões. Os títulos Palavra e Sabedoria protegem nossos pensamentos sobre Ele e Seu Filho desse equívoco. Deus não é Pai, como Criador, em posse desde a eternidade, porque a criação não se relaciona com a essência de Deus, como a geração.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10453,7 +10453,7 @@
               },
               {
                 "id": "npnf204-4-234-244-253",
-                "titulo": "Chapter IX.—Objections Continued. Whether is the Unoriginate one or two? Inconsistent in Arians to use an unscriptural word; necessary to define its meaning. Different senses of the word. If it means ‘without Father,’ there is but One Unoriginate; if ‘without beginning or creation,’ there are two. Inconsistency of Asterius. ‘Unoriginate’ a title of God, not in contrast with the Son, but with creatures, as is ‘Almighty,’ or ‘Lord of powers.’ ‘Father’ is the truer title, as not only Scriptural, but implying a Son, and our adoption as sons.",
+                "titulo": "Capítulo IX.—Objeções Continuadas. Se o Não Originado é um ou dois? Inconsistente entre os arianos em usar uma palavra antibíblica; necessário definir seu significado. Diferentes sentidos da palavra. Se significa “sem Pai”, existe apenas Um Não Originado; se ‘sem começo ou criação’, há dois. Inconsistência de Asterius. ‘Não originado’ é um título de Deus, não em contraste com o Filho, mas com as criaturas, como é ‘Todo-Poderoso’ ou ‘Senhor dos poderes’. ‘Pai’ é o título mais verdadeiro, pois não apenas é bíblico, mas implica um Filho e nossa adoção como filhos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10480,7 +10480,7 @@
               },
               {
                 "id": "npnf204-4-234-244-254",
-                "titulo": "Chapter X.—Objections Continued. How the Word has free will, yet without being alterable. He is unalterable because the Image of the Father, proved from texts.",
+                "titulo": "Capítulo X.—Objeções Continuadas. Como a Palavra tem livre arbítrio, mas sem ser alterável. Ele é inalterável porque é a Imagem do Pai, comprovada pelos textos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10495,7 +10495,7 @@
               },
               {
                 "id": "npnf204-4-234-244-255",
-                "titulo": "Chapter XI.",
+                "titulo": "Capítulo XI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10542,7 +10542,7 @@
               },
               {
                 "id": "npnf204-4-234-244-256",
-                "titulo": "Chapter XII.",
+                "titulo": "Capítulo XII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10581,7 +10581,7 @@
               },
               {
                 "id": "npnf204-4-234-244-257",
-                "titulo": "Chapter XIII.—Texts Explained; Thirdly, Hebrews i. 4. Additional texts brought as objections; e.g. Heb. i. 4; vii. 22. Whether the word ‘better’ implies likeness to the Angels; and ‘made’ or ‘become’ implies creation. Necessary to consider the circumstances under which Scripture speaks. Difference between ‘better’ and ‘greater;’ texts in proof. ‘Made’ or ‘become’ a general word. Contrast in Heb. i. 4, between the Son and the Works in point of nature. The difference of the punishments under the two Covenants shews the difference of the natures of the Son and the Angels. ‘Become’ relates not to the nature of the Word, but to His manhood and office and relation towards us. Parallel passages in which the term is applied to the Eternal Father.",
+                "titulo": "Capítulo XIII. — Textos explicados; Em terceiro lugar, Hebreus i. 4. Textos adicionais trazidos como impugnações; por exemplo Heb. eu. 4; vii. 22. Se a palavra “melhor” implica semelhança com os Anjos; e ‘feito’ ou ‘tornar-se’ implica criação. É necessário considerar as circunstâncias sob as quais as Escrituras falam. Diferença entre textos ‘melhor’ e ‘maior’; na prova. ‘Feito’ ou ‘tornar-se’ uma palavra geral. Contraste em Heb. eu. 4, entre o Filho e as Obras no que diz respeito à natureza. A diferença das punições sob as duas Alianças mostra a diferença das naturezas do Filho e dos Anjos. ‘Tornar-se’ não se refere à natureza da Palavra, mas à Sua masculinidade, ofício e relação conosco. Passagens paralelas em que o termo é aplicado ao Pai Eterno.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10658,7 +10658,7 @@
           },
           {
             "id": "npnf204-4-234-258",
-            "titulo": "Excursus B. On §22 (Note 3).",
+            "titulo": "Excursus B. Em §22 (Nota 3).",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10783,11 +10783,11 @@
       },
       {
         "id": "npnf204-4-259",
-        "titulo": "Discourse II.",
+        "titulo": "Discurso II.",
         "children": [
           {
             "id": "npnf204-4-259-260",
-            "titulo": "Chapter XIV.—Texts explained; Fourthly, Hebrews iii. 2 Introduction; the Regula Fidei counter to an Arian sense of the text; which is not supported by the word ‘servant,’ nor by ‘made’ which occurs in it; (how can the Judge be among the ‘works’ which ‘God will bring into judgment?’) nor by ‘faithful;’ and is confuted by the immediate context, which is about Priesthood; and by the foregoing passage, which explains the word ‘faithful’ as meaning trustworthy, as do 1 Pet. iv. fin. and other texts. On the whole made may safely be understood either of the divine generation or the human creation.",
+            "titulo": "Capítulo XIV.—Textos explicados; Em quarto lugar, Hebreus iii. 2 Introdução; a Regula Fidei contraria um sentido ariano do texto; que não é apoiado pela palavra ‘servo’, nem por ‘feito’ que ocorre nela; (como pode o Juiz estar entre as ‘obras’ que ‘Deus trará a julgamento?’) nem pelos ‘fiéis’; e é refutado pelo contexto imediato, que é sobre o Sacerdócio; e pela passagem anterior, que explica a palavra “fiel” como significando confiável, como faz 1 Ped. 4. barbatana. e outros textos. No geral, pode-se compreender com segurança a geração divina ou a criação humana.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10838,7 +10838,7 @@
           },
           {
             "id": "npnf204-4-259-261",
-            "titulo": "Chapter XV.—Texts explained; Fifthly, Acts ii. 36. The Regula Fidei must be observed; madeapplies to our Lord’s manhood; and to His manifestation; and to His office relative to us; and is relative to the Jews. Parallel instance in Gen. xxvii. 29, 37. The context contradicts the Arian interpretation.",
+            "titulo": "Capítulo XV.—Textos explicados; Em quinto lugar, Atos ii. 36. A Regula Fidei deve ser observada; made aplica-se à masculinidade de nosso Senhor; e à Sua manifestação; e ao Seu ofício em relação a nós; e é relativo aos judeus. Instância paralela em Gen. xxvii. 29, 37. O contexto contradiz a interpretação ariana.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10877,7 +10877,7 @@
           },
           {
             "id": "npnf204-4-259-262",
-            "titulo": "Chapter XVI.—Introductory to Proverbs viii. 22, that the Son is not a Creature. Arian formula, a creature but not as one of the creatures; but each creature is unlike all other creatures; and no creature can create. The Word then differs from all creatures in that in which they, though otherwise differing, all agree together, as creatures; viz. in being an efficient cause; in being the one medium or instrumental agent in creation; moreover in being the revealer of the Father; and in being the object of worship.",
+            "titulo": "Capítulo XVI.—Introdução a Provérbios viii. 22, que o Filho não é uma criatura. Fórmula ariana, uma criatura mas não como uma das criaturas; mas cada criatura é diferente de todas as outras criaturas; e nenhuma criatura pode criar. A Palavra então difere de todas as criaturas porque elas, embora diferindo de outra forma, todas concordam juntas, como criaturas; viz. em ser uma causa eficiente; em ser o único meio ou agente instrumental na criação; além disso, sendo o revelador do Pai; e em ser objeto de adoração.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10916,7 +10916,7 @@
           },
           {
             "id": "npnf204-4-259-263",
-            "titulo": "Chapter XVII.—Introduction to Proverbs viii. 22 continued. Absurdity of supposing a Son or Word created in order to the creation of other creatures; as to the creation being unable to bear God’s immediate hand, God condescends to the lowest. Moreover, if the Son a creature, He too could not bear God’s hand, and an infinite series of media will be necessary. Objected, that, as Moses who led out the Israelites was a man, so our Lord; but Moses was not the Agent in creation:—again, that unity is found in created ministrations, but all such ministrations are defective and dependent:—again, that He learned to create, yet could God’s Wisdom need teaching? and why should He learn, if the Father worketh hitherto? If the Son was created to create us, He is for our sake, not we for His.",
+            "titulo": "Capítulo XVII. — Introdução a Provérbios viii. 22 continuação. Absurdo supor um Filho ou Verbo criado para a criação de outras criaturas; quanto à criação ser incapaz de suportar a mão imediata de Deus, Deus condescende com o mais baixo. Além disso, se o Filho fosse uma criatura, Ele também não poderia suportar a mão de Deus, e uma série infinita de meios seria necessária. Objetou que, assim como Moisés que liderou os israelitas era um homem, nosso Senhor também; mas Moisés não foi o Agente na criação: - novamente, essa unidade é encontrada nas ministrações criadas, mas todas essas ministrações são defeituosas e dependentes: - novamente, que Ele aprendeu a criar, mas poderia a Sabedoria de Deus precisar de ensino? e por que Ele deveria aprender, se o Pai trabalhou até agora? Se o Filho foi criado para nos criar, Ele é por nós, e não nós por Ele.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10951,7 +10951,7 @@
           },
           {
             "id": "npnf204-4-259-264",
-            "titulo": "Chapter XVIII.—Introduction to Proverbs viii. 22 continued. Contrast between the Father’s operations immediately and naturally in the Son, instrumentally by the creatures; Scripture terms illustrative of this. Explanation of these illustrations; which should be interpreted by the doctrine of the Church; perverse sense put on them by the Arians, refuted. Mystery of Divine Generation. Contrast between God’s Word and man’s word drawn out at length. Asterius betrayed into holding two Unoriginates; his inconsistency. Baptism how by the Son as well as by the Father. On the Baptism of heretics. Why Arian worse than other heresies.",
+            "titulo": "Capítulo XVIII. — Introdução a Provérbios viii. 22 continuação. Contraste entre as operações do Pai imediata e naturalmente no Filho, instrumentalmente pelas criaturas; Termos das Escrituras que ilustram isso. Explicação destas ilustrações; que deve ser interpretado pela doutrina da Igreja; sentido perverso imposto a eles pelos arianos, refutado. Mistério da Geração Divina. Contraste entre a Palavra de Deus e a palavra do homem extensamente desenvolvida. Asterius traiu e prendeu dois Não Originados; sua inconsistência. Batismo tanto pelo Filho como pelo Pai. Sobre o Batismo dos Hereges. Por que Arian é pior que outras heresias.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11010,7 +11010,7 @@
           },
           {
             "id": "npnf204-4-259-265",
-            "titulo": "Chapter XIX.—Texts explained; Sixthly, Proverbs viii. 22. Proverbs are of a figurative nature, and must be interpreted as such. We must interpret them, and in particular this passage, by the Regula Fidei. ‘He created me’ not equivalent to ‘I am a creature.’ Wisdom a creature so far forth as Its human body. Again, if He is a creature, it is as ‘a beginning of ways,’ an office which, though not an attribute, is a consequence, of a higher and divine nature. And it is ‘for the works,’ which implied the works existed, and therefore much more He, before He was created. Also ‘the Lord’ not the Father ‘created’ Him, which implies the creation was that of a servant.",
+            "titulo": "Chapter XIX.—Texts explained; Em sexto lugar, Provérbios viii. 22. Os provérbios são de natureza figurativa e devem ser interpretados como tal. Devemos interpretá-los, e em particular esta passagem, pela Regula Fidei. 'Ele me criou' não equivale a 'Eu sou uma criatura'. A sabedoria é uma criatura tão distante quanto seu corpo humano. Novamente, se Ele é uma criatura, é como 'um começo de caminhos', um ofício que, embora não seja um atributo, é uma consequência de uma natureza superior e divina. E é “para as obras”, o que implica que as obras existiam e, portanto, muito mais que Ele, antes de ser criado. Além disso, “o Senhor”, e não o Pai, “o criou”, o que implica que a criação foi a de um servo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11045,7 +11045,7 @@
           },
           {
             "id": "npnf204-4-259-266",
-            "titulo": "Chapter XX.—Texts Explained; Sixthly, Proverbs viii. 22 Continued. Our Lord is said to be created ‘for the works,’ i.e. with a particular purpose, which no mere creatures are ever said to be. Parallel of Isai. xlix. 5, U+0026c. When His manhood is spoken of, a reason for it is added; not so when His Divine Nature; Texts in proof.",
+            "titulo": "Capítulo XX.—Textos Explicados; Em sexto lugar, Provérbios viii. 22 Continuação. Diz-se que nosso Senhor foi criado “para as obras”, isto é, com um propósito particular, que nunca foi dito que meras criaturas sejam. Paralelo de Isai. xlix. 5, U+0026c. Quando se fala de Sua masculinidade, acrescenta-se uma razão para isso; não é assim quando Sua Natureza Divina; Textos em prova.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11076,7 +11076,7 @@
           },
           {
             "id": "npnf204-4-259-267",
-            "titulo": "Chapter XXI.—Texts Explained; Sixthly, Proverbs viii. 22, Continued. Our Lord not said in Scripture to be ‘created,’ or the works to be ‘begotten.’ ‘In the beginning’ means in the case of the works ‘from the beginning.’ Scripture passages explained. We are made by God first, begotten next; creatures by nature, sons by grace. Christ begotten first, made or created afterwards. Sense of ‘First-born of the dead;’ of ‘First-born among many brethren;’ of ‘First-born of all creation,’ contrasted with ‘Only-begotten.’ Further interpretation of ‘beginning of ways,’ and ‘for the works.’ Why a creature could not redeem; why redemption was necessary at all. Texts which contrast the Word and the works.",
+            "titulo": "Capítulo XXI.—Textos Explicados; Em sexto lugar, Provérbios viii. 22, Continuação. Nosso Senhor não disse nas Escrituras para serem ‘criados’, ou para as obras serem ‘geradas’. ‘No princípio’ significa, no caso das obras, ‘desde o princípio’. Somos feitos primeiro por Deus e gerados em seguida; criaturas por natureza, filhos por graça. Cristo gerado primeiro, feito ou criado depois. Sentido de 'Primogênito dos mortos;' de 'Primogênito entre muitos irmãos'; de 'Primogênito de toda a criação', contrastado com 'Unigênito'. Interpretação adicional de 'início dos caminhos' e 'para as obras'. por que a redenção era necessária. Texts which contrast the Word and the works.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11147,7 +11147,7 @@
           },
           {
             "id": "npnf204-4-259-268",
-            "titulo": "Chapter XXII.—Texts Explained; Sixthly, the Context of Proverbs viii. 22 Vz. 22–30 It is right to interpret this passage by the Regula Fidei. ‘Founded’ is used in contrast to superstructure; and it implies, as in the case of stones in building, previous existence. ‘Before the world’ signifies the divine intention and purpose. Recurrence to Prov. viii. 22, and application of it to created Wisdom as seen in the works. The Son reveals the Father, first by the works, then by the Incarnation.",
+            "titulo": "Capítulo XXII. — Textos explicados; Em sexto lugar, o Contexto de Provérbios viii. 22 Vz. 22–30 É correto interpretar esta passagem da Regula Fidei. ‘Fundado’ é usado em contraste com superestrutura; e implica, como no caso das pedras na construção, existência anterior. ‘Diante do mundo’ significa a intenção e propósito divino. Recorrência à Prov. viii. 22, e sua aplicação à Sabedoria criada conforme visto nas obras. O Filho revela o Pai, primeiro pelas obras, depois pela Encarnação.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11200,11 +11200,11 @@
       },
       {
         "id": "npnf204-4-269",
-        "titulo": "Discourse III.",
+        "titulo": "Discurso III.",
         "children": [
           {
             "id": "npnf204-4-269-270",
-            "titulo": "Chapter XXIII.—Texts Explained; Seventhly, John xiv. 10 Introduction. The doctrine of the coinherence. The Father and the Son Each whole and perfect God. They are in Each Other, because their Essence is One and the Same. They are Each Perfect and have One Essence, because the Second Person is the Son of the First. Asterius’s evasive explanation of the text under review; refuted. Since the Son has all that the Father has, He is His Image; and the Father is the One God, because the Son is in the Father.",
+            "titulo": "Capítulo XXIII. — Textos explicados; Em sétimo lugar, João XIV. 10 Introdução. A doutrina da coincidência. O Pai e o Filho Cada Deus inteiro e perfeito. Eles estão um no outro, porque sua Essência é Uma e a Mesma. Cada um deles é perfeito e tem uma essência, porque a segunda pessoa é o filho da primeira. A explicação evasiva de Asterius sobre o texto em análise; refutado. Visto que o Filho tem tudo o que o Pai tem, Ele é Sua Imagem; e o Pai é o Deus Único, porque o Filho está no Pai.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11235,7 +11235,7 @@
           },
           {
             "id": "npnf204-4-269-271",
-            "titulo": "Chapter XXIV.—Texts Explained; Eighthly, John xvii. 3. and the Like. Our Lord’s divinity cannot interfere with His Father’s prerogatives, as the One God, which were so earnestly upheld by the Son. ‘One’ is used in contrast to false gods and idols, not to the Son, through whom the Father spoke. Our Lord adds His Name to the Father’s, as included in Him. The Father the First, not as if the Son were not First too, but as Origin.",
+            "titulo": "Capítulo XXIV. — Textos explicados; Oitavo, João xvii. 3. e similares. A divindade de Nosso Senhor não pode interferir nas prerrogativas de Seu Pai, como o Deus Único, que foram tão fervorosamente defendidas pelo Filho. ‘Um’ é usado em contraste com falsos deuses e ídolos, não com o Filho, através de quem o Pai falou. Nosso Senhor acrescenta Seu Nome ao do Pai, como incluído Nele. O Pai é o Primeiro, não como se o Filho também não fosse o Primeiro, mas como Origem.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11254,7 +11254,7 @@
           },
           {
             "id": "npnf204-4-269-272",
-            "titulo": "Chapter XXV.—Texts Explained; Ninthly, John x. 30; xvii. 11, U+0026c. Arian explanation, that the Son is one with the Father in will and judgment; but so are all good men, nay things inanimate; contrast of the Son. Oneness between Them is in nature, because oneness in operation. Angels not objects of prayer, because they do not work together with God, but the Son; texts quoted. Seeing an Angel, is not seeing God. Arians in fact hold two Gods, and tend to Gentile polytheism. Arian explanation that the Father and Son are one as we are one with Christ, is put aside by the Regula Fidei, and shewn invalid by the usage of Scripture in illustrations; the true force of the comparison; force of the terms used. Force of ‘in us;’ force of ‘as;’ confirmed by S. John. In what sense we are ‘in God’ and His ‘sons.’",
+            "titulo": "Capítulo XXV. — Textos explicados; Em nono lugar, João x. 30; XVII. 11, U+0026c. Explicação ariana, de que o Filho é um com o Pai em vontade e julgamento; mas o mesmo acontece com todos os homens bons, ou melhor, com as coisas inanimadas; contraste do Filho. A unidade entre Eles está na natureza, porque a unidade está em operação. Os anjos não são objetos de oração, porque não trabalham juntos com Deus, mas com o Filho; textos citados. Ver um Anjo, não é ver Deus. Na verdade, os arianos possuem dois deuses e tendem ao politeísmo gentio. A explicação ariana de que o Pai e o Filho são um, assim como nós somos um com Cristo, é posta de lado pela Regula Fidei e considerada inválida pelo uso das Escrituras nas ilustrações; a verdadeira força da comparação; força dos termos usados. Força de ‘em nós;’ força de ‘como;’ confirmada por S. João. Em que sentido estamos “em Deus” e em Seus “filhos”.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11325,7 +11325,7 @@
           },
           {
             "id": "npnf204-4-269-273",
-            "titulo": "Chapter XXVI.—Introductory to Texts from the Gospels on the Incarnation. Enumeration of texts still to be explained. Arians compared to the Jews. We must recur to the Regula Fidei. Our Lord did not come into, but became, man, and therefore had the acts and affections of the flesh. The same works divine and human. Thus the flesh was purified, and men were made immortal. Reference to I Pet. iv. 1.",
+            "titulo": "Capítulo XXVI.—Introdução aos Textos dos Evangelhos sobre a Encarnação. Enumeração de textos ainda por explicar. Arianos em comparação com os judeus. We must recur to the Regula Fidei. Nosso Senhor não veio, mas tornou-se homem e, portanto, teve os atos e afeições da carne. O mesmo funciona divino e humano. Assim a carne foi purificada e os homens tornaram-se imortais. Referência a I Pet. 4. 1.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11376,7 +11376,7 @@
           },
           {
             "id": "npnf204-4-269-274",
-            "titulo": "Chapter XXVII.—Texts Explained; Tenthly, Matthew xi. 27; John iii. 35, U+0026c. These texts intended to preclude the Sabellian notion of the Son; they fall in with the Catholic doctrine concerning the Son; they are explained by ‘so’ in John v. 26. (Anticipation of the next chapter.) Again they are used with reference to our Lord’s human nature; for our sake, that we might receive and not lose, as receiving in Him. And consistently with other parts of Scripture, which shew that He had the power, U+0026c., before He received it. He was God and man, and His actions are often at once divine and human.",
+            "titulo": "Capítulo XXVII. — Textos explicados; Em décimo lugar, Mateus xi. 27; João III. 35, U+0026c. Estes textos pretendiam excluir a noção sabeliana do Filho; eles se enquadram na doutrina católica a respeito do Filho; eles são explicados por “assim” em João v. 26. (Antecipação do próximo capítulo.) Novamente eles são usados ​​com referência à natureza humana de nosso Senhor; por nossa causa, para que possamos receber e não perder, como recebendo Nele. E consistentemente com outras partes das Escrituras, que mostram que Ele tinha o poder, U+0026c., antes de recebê-lo. Ele era Deus e homem, e Suas ações são muitas vezes ao mesmo tempo divinas e humanas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11411,7 +11411,7 @@
           },
           {
             "id": "npnf204-4-269-275",
-            "titulo": "Chapter XXVIII.—Texts Explained; Eleventhly, Mark xiii. 32 and Luke ii. 52 Arian explanation of the former text is against the Regula Fidei; and against the context. Our Lord said He was ignorant of the Day, by reason of His human nature. If the Holy Spirit knows the Day, therefore the Son knows; if the Son knows the Father, therefore He knows the Day; if He has all that is the Father’s, therefore knowledge of the Day; if in the Father, He knows the Day in the Father; if He created and upholds all things, He knows when they will cease to be. He knows not as Man, argued from Matt. xxiv. 42. As He asked about Lazarus’s grave, U+0026c., yet knew, so He knows; as S. Paul says, ‘whether in the body I know not,’ U+0026c., yet knew, so He knows. He said He knew not for our profit, that we be not curious (as in Acts i. 7, where on the contrary He did not say He knew not). As the Almighty asks of Adam and of Cain, yet knew, so the Son knowsas God. Again, He advanced in wisdom also as man, else He made Angels perfect before Himself. He advanced, in that the Godhead was manifested in Him more fully as time went on.",
+            "titulo": "Capítulo XXVIII. — Textos explicados; Décimo primeiro, Marcos xiii. 32 e Lucas ii. 52 A explicação ariana do texto anterior é contra a Regula Fidei; e contra o contexto. Nosso Senhor disse que ignorava o Dia, por causa de Sua natureza humana. Se o Espírito Santo conhece o Dia, portanto o Filho conhece; se o Filho conhece o Pai, portanto conhece o Dia; se Ele tem tudo o que é do Pai, portanto conhecimento do Dia; se está no Pai, Ele conhece o Dia no Pai; se Ele criou e sustenta todas as coisas, Ele sabe quando elas deixarão de existir. Ele não conhece como Homem, argumentou de Matt. xviv. 42. Assim como Ele perguntou sobre o túmulo de Lázaro, U+0026c., ainda sabia, então Ele sabe; como diz S. Paulo, ‘se no corpo não sei’, U+0026c., mas sabia, então Ele sabe. Ele disse que não sabia para nosso proveito, para que não fôssemos curiosos (como em Atos 1.7, onde, pelo contrário, Ele não disse que não sabia). Assim como o Todo-Poderoso pede a Adão e a Caim, ainda que o conheça, o Filho conhece como Deus. Novamente, Ele avançou em sabedoria também como homem, caso contrário, Ele tornou os anjos perfeitos diante de si mesmo. Ele avançou, no sentido de que a Divindade foi manifestada Nele mais plenamente com o passar do tempo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11466,7 +11466,7 @@
           },
           {
             "id": "npnf204-4-269-276",
-            "titulo": "Chapter XXIX.—Texts Explained; Twelfthly, Matthew xxvi. 39; John xii. 27, U+0026c. Arian infer- ences are against the Regula Fidei, as before. He wept and the like, as man. Other texts prove Him God. God could not fear. He feared because His flesh feared.",
+            "titulo": "Capítulo XXIX. — Textos explicados; Em décimo segundo lugar, Mateus xxvi. 39; João XII. 27, U+0026c. As inferências arianas são contra a Regula Fidei, como antes. Ele chorou e coisas assim, como homem. Outros textos provam que Ele é Deus. Deus não podia temer. Ele temeu porque Sua carne temia.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11493,7 +11493,7 @@
           },
           {
             "id": "npnf204-4-269-277",
-            "titulo": "Chapter XXX.—Objections continued, as in Chapters vii.—x. Whether the Son is begotten of the Father’s will? This virtually the same as whether once He was not? and used by the Arians to introduce the latter question. The Regula Fidei answers it at once in the negative by contrary texts. The Arians follow the Valentinians in maintaining a precedent will; which really is only exercised by God towards creatures. Instances from Scripture. Inconsistency of Asterius. If the Son by will, there must be another Word before Him. If God is good, or exist, by His will, then is the Son by His will. If He willed to have reason or wisdom, then is His Word and Wisdom at His will. The Son is the Living Will, and has all titles which denote connaturality. That will which the Father has to the Son, the Son has to the Father. The Father wills the Son and the Son wills the Father.",
+            "titulo": "Capítulo XXX.—As objeções continuaram, como nos capítulos vii.—x. Se o Filho é gerado pela vontade do Pai? Isso é praticamente o mesmo que uma vez Ele não existiu? e usado pelos arianos para introduzir a última questão. A Regula Fidei responde imediatamente negativamente com textos contrários. Os arianos seguem os valentinianos na manutenção de um testamento precedente; que realmente só é exercido por Deus para com as criaturas. Exemplos das Escrituras. Inconsistência de Asterius. Se for o Filho por vontade, deve haver outra Palavra antes Dele. Se Deus é bom, ou existe, por Sua vontade, então o Filho o é por Sua vontade. Se Ele quis ter razão ou sabedoria, então Sua Palavra e Sabedoria estão à Sua vontade. O Filho é o Testamento Vital e tem todos os títulos que denotam conaturalidade. Aquela vontade que o Pai tem para com o Filho, o Filho tem para com o Pai. O Pai quer o Filho e o Filho quer o Pai.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11542,7 +11542,7 @@
       },
       {
         "id": "npnf204-4-278",
-        "titulo": "Excursus C. Introductory3273 to the Fourth Discourse against the Arians.",
+        "titulo": "Excursus C. Introdutório3273 ao Quarto Discurso contra os Arianos.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -11605,11 +11605,11 @@
       },
       {
         "id": "npnf204-4-279",
-        "titulo": "Discourse IV.",
+        "titulo": "Discurso IV.",
         "children": [
           {
             "id": "npnf204-4-279-280",
-            "titulo": "§§1–5. The substantiality of the Word proved from Scripture. If the One Origin be substantial, Its Word is substantial. Unless the Word and Son be a second Origin, or a work, or an attribute (and so God be compounded), or at the same time Father, or involve a second nature in God, He is from the Father’s Essence and distinct from Him. Illustration of John x. 30, drawn from Deut. iv. 4.",
+            "titulo": "§§1–5. A substancialidade da Palavra é comprovada pelas Escrituras. Se a Origem Única for substancial, Sua Palavra será substancial. A menos que o Verbo e o Filho sejam uma segunda origem, ou uma obra, ou um atributo (e assim Deus seja composto), ou ao mesmo tempo Pai, ou envolvam uma segunda natureza em Deus, Ele é da Essência do Pai e distinto Dele. Ilustração de João x. 30, extraído de Deut. 4. 4.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11636,7 +11636,7 @@
           },
           {
             "id": "npnf204-4-279-281",
-            "titulo": "§§6, 7. When the Word and Son hungered, wept, and was wearied, He acted as our Mediator, taking on Him what was ours, that He might impart to us what was His.",
+            "titulo": "§§6, 7. Quando o Verbo e o Filho tiveram fome, choraram e se cansaram, Ele agiu como nosso Mediador, assumindo sobre si o que era nosso, para que pudesse nos transmitir o que era dele.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11651,7 +11651,7 @@
           },
           {
             "id": "npnf204-4-279-282",
-            "titulo": "§8. Arians date the Son’s beginning earlier than Marcellus, U+0026c.",
+            "titulo": "§8. Os arianos datam o início do Filho antes de Marcelo, U+0026c.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11662,7 +11662,7 @@
           },
           {
             "id": "npnf204-4-279-283",
-            "titulo": "§§9, 10. Unless Father and Son are two in name only, or as parts and so each imperfect, or two gods, they are coessential, one in Godhead, and the Son from the Father.",
+            "titulo": "§§9, 10. A menos que Pai e Filho sejam dois apenas no nome, ou como partes e, portanto, cada um imperfeito, ou dois deuses, eles são coessenciais, um na Divindade, e o Filho vem do Pai.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11677,7 +11677,7 @@
           },
           {
             "id": "npnf204-4-279-284",
-            "titulo": "§§11, 12. Marcellus and his disciples, like Arians, say that the Word was, not indeed created, but issued, to create us, as if the Divine silence were a state of inaction, and when God spake by the Word, He acted; or that there was a going forth and return of the Word; a doctrine which implies change and imperfection in Father and Son.",
+            "titulo": "§§11, 12. Marcelo e seus discípulos, como os arianos, dizem que o Verbo não foi realmente criado, mas emitido, para nos criar, como se o silêncio divino fosse um estado de inação, e quando Deus falou pela Palavra, Ele agiu; ou que houve uma saída e retorno da Palavra; uma doutrina que implica mudança e imperfeição no Pai e no Filho.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11692,7 +11692,7 @@
           },
           {
             "id": "npnf204-4-279-285",
-            "titulo": "§§13, 14. Such a doctrine precludes all real distinctions of personality in the Divine Nature. Illustration of the Scripture doctrine from 2 Cor. vi. 11, U+0026c.",
+            "titulo": "§§13, 14. Tal doutrina exclui todas as distinções reais de personalidade na Natureza Divina. Ilustração da doutrina das Escrituras de 2 Cor. vi. 11, U+0026c.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11707,7 +11707,7 @@
           },
           {
             "id": "npnf204-4-279-286",
-            "titulo": "§§15–24. Since the Word is from God, He must be Son. Since the Son is from everlasting, He must be the Word; else either He is superior to the Word, or the Word is the Father. Texts of the New Testament which state the unity of the Son with the Father; therefore the Son is the Word. Three hypotheses refuted—1. That the Man is the Son; 2. That the Word and Man together are the Son; 3. That the Word became Son on His incarnation. Texts of the Old Testament which speak of the Son. If they are merely prophetical, then those concerning the Word may be such also.",
+            "titulo": "§§15–24. Visto que a Palavra vem de Deus, Ele deve ser Filho. Visto que o Filho é desde a eternidade, Ele deve ser a Palavra; caso contrário, ou Ele é superior à Palavra, ou a Palavra é o Pai. Textos do Novo Testamento que afirmam a unidade do Filho com o Pai; portanto, o Filho é a Palavra. Três hipóteses refutadas – 1. Que o Homem é o Filho; 2. Que o Verbo e o Homem juntos são o Filho; 3. Que o Verbo se tornou Filho em Sua encarnação. Textos do Antigo Testamento que falam do Filho. Se forem meramente proféticos, então aqueles que dizem respeito à Palavra também podem sê-lo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11754,7 +11754,7 @@
           },
           {
             "id": "npnf204-4-279-287",
-            "titulo": "§25. Marcellian illustration from 1 Cor. xii. 4, refuted.",
+            "titulo": "§25. Ilustração de Marceliano de 1 Cor. xii. 4, refutado.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11765,7 +11765,7 @@
           },
           {
             "id": "npnf204-4-279-288",
-            "titulo": "§§26–36. That the Son is the Co-existing Word, argued from the New Testament. Texts from the Old Testament continued; especially Ps. cx. 3. Besides, the Word in Old Testament may be Son in New, as Spirit in Old Testament is Paraclete in New. Objection from Acts x. 36; answered by parallels, such as 1 Cor. i. 5. Lev. ix. 7. U+0026c. Necessity of the Word’s taking flesh, viz. to sanctify, yet without destroying, the flesh.",
+            "titulo": "§§26–36. Que o Filho é a Palavra Coexistente, argumentado a partir do Novo Testamento. Os textos do Antigo Testamento continuaram; especialmente Sal. cx. 3. Além disso, a Palavra no Antigo Testamento pode ser Filho no Novo, assim como o Espírito no Antigo Testamento é Paráclito no Novo. Objeção de Atos x. 36; respondida por paralelos, como 1 Cor. eu. 5. Lev. IX. 7.U+0026c. A necessidade da Palavra se encarnar, viz. santificar, mas sem destruir, a carne.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11818,7 +11818,7 @@
       },
       {
         "id": "npnf204-4-289",
-        "titulo": "Introduction to de Synodis.",
+        "titulo": "Introdução ao de Synodis.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -12085,11 +12085,11 @@
       },
       {
         "id": "npnf204-4-290",
-        "titulo": "Councils of Ariminum and Seleucia.",
+        "titulo": "Concílios de Ariminum e Selêucia.",
         "children": [
           {
             "id": "npnf204-4-290-291",
-            "titulo": "Part I. History of the Councils.",
+            "titulo": "Parte I. História dos Concílios.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12192,7 +12192,7 @@
           },
           {
             "id": "npnf204-4-290-292",
-            "titulo": "Part II. History of Arian Opinions.",
+            "titulo": "Parte II. História das opiniões arianas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12599,7 +12599,7 @@
           },
           {
             "id": "npnf204-4-290-293",
-            "titulo": "Part III. On the Symbols ‘Of the Essence’ And ‘Coessential.’",
+            "titulo": "Parte III. Sobre os símbolos ‘Da Essência’ e ‘Coessencial’.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12744,7 +12744,7 @@
       },
       {
         "id": "npnf204-4-294",
-        "titulo": "Introduction to Tomus Ad Antiochenos.",
+        "titulo": "Introdução ao Tomus Ad Antiochenos.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -12767,7 +12767,7 @@
       },
       {
         "id": "npnf204-4-295",
-        "titulo": "Tome or Synodal Letter to the People of Antioch.",
+        "titulo": "Tomo ou Carta Sinodal ao Povo de Antioquia.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -12886,7 +12886,7 @@
       },
       {
         "id": "npnf204-4-296",
-        "titulo": "Appendix.",
+        "titulo": "Apêndice.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -12913,7 +12913,7 @@
       },
       {
         "id": "npnf204-4-297",
-        "titulo": "Introduction to Ad Afros Epistola Synodica.",
+        "titulo": "Introdução à Ad Afros Epistola Synodica.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -12948,7 +12948,7 @@
       },
       {
         "id": "npnf204-4-298",
-        "titulo": "To the Bishops of Africa.",
+        "titulo": "Aos Bispos de África.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -13047,7 +13047,7 @@
       },
       {
         "id": "npnf204-4-299",
-        "titulo": "Letters of Athanasius, with Two Ancient Chronicles of His Life.",
+        "titulo": "Cartas de Atanásio, com duas crônicas antigas de sua vida.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -13074,7 +13074,7 @@
       },
       {
         "id": "npnf204-4-300",
-        "titulo": "A.—The Historia Acephala.",
+        "titulo": "R.—A História Acéfala.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -13225,7 +13225,7 @@
       },
       {
         "id": "npnf204-4-301",
-        "titulo": "Historia Acephala.",
+        "titulo": "História Acéfala.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -13332,7 +13332,7 @@
       },
       {
         "id": "npnf204-4-302",
-        "titulo": "B.—The Festal Letters, and Their Index, Or Chronicon Athanasianum.",
+        "titulo": "B. — As cartas festivas e seu índice, ou Chronicon Athanasianum.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -13659,7 +13659,7 @@
       },
       {
         "id": "npnf204-4-303",
-        "titulo": "I. Festal Letters.",
+        "titulo": "I. Cartas festivas.",
         "children": [
           {
             "id": "npnf204-4-303-304",
@@ -13730,7 +13730,7 @@
           },
           {
             "id": "npnf204-4-303-305",
-            "titulo": "Letter II.—For 330. Easter-day xxiv Pharmuthi; xiii Kal. Mai; Æra Dioclet. 46; Coss. Gallicianus, Valerius Symmachus; Præfect, Magninianus; Indict. iii.",
+            "titulo": "Carta II. — Para 330. Páscoa xxiv Pharmuthi; xiiiKal. Mai; Era Diocleto. 46; Coss. Gallicianus, Valerius Symmachus; Prefeito, Magninianus; Indiciar. iii.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13781,7 +13781,7 @@
           },
           {
             "id": "npnf204-4-303-306",
-            "titulo": "Letter III.—For 331. Easter-day xvi Pharmuthi; iii Id. April; Æra Dioclet. 47; Coss. Annius Bassus, Ablabius; Præfect, Florentius; Indict. iv.",
+            "titulo": "Carta III. — Para 331. Dia de Páscoa xvi Pharmuthi; iii Id. Abril; Era Diocleto. 47; Coss. Annius Bassus, Ablabius; Prefeito, Florentius; Indiciar. 4.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13820,7 +13820,7 @@
           },
           {
             "id": "npnf204-4-303-307",
-            "titulo": "Letter IV.—For 332. Easter-day vii Pharmuthi4023, iv Non. Apr.; Æra Dioclet. 48; Coss. Fabius Pacatianus, Mæcilius Hilarianus; Præfect, Hyginus4024; Indict. v.",
+            "titulo": "Carta IV.—Para 332. Dia de Páscoa vii Pharmuthi4023, iv Non. abril; Era Diocleto. 48; Coss. Fábio Pacatianus, Mæcilius Hilarianus; Prefeito, Hyginus4024; Indiciar. v.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13855,7 +13855,7 @@
           },
           {
             "id": "npnf204-4-303-308",
-            "titulo": "Letter V.—For 333. Easter-day4050, Coss. Dalmatius and Zenophilus; Præfect, Paternus4051; vi Indict.; xvii Kal. Maii, xx Pharmuthi; xv Moon; vii Gods; Æra Dioclet. 49.",
+            "titulo": "Carta V. — Para 333. Páscoa 4050, Coss. Dalmácio e Zenófilo; Préfeito, Paternus4051; vi Indic.; xviiKal. Maii, xx Pharmuthi; xv Lua; vii Deuses; Era Diocleto. 49.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13894,7 +13894,7 @@
           },
           {
             "id": "npnf204-4-303-309",
-            "titulo": "Letter VI.—For 334. Easter-day, xii Pharmuthi, vii Id. April; xvii Moon; Æra Dioclet. 50; Coss. Optatus Patricius, Anicius Paulinus; Præfect, Philagrius4072, the Cappadocian; vii Indict.",
+            "titulo": "Carta VI.—Para 334. Dia de Páscoa, xii Pharmuthi, vii Id. Abril; xvii Lua; Era Diocleto. 50; Coss. Optatus Patrício, Anício Paulino; Prefeito, Philagrius4072, o Capadócio; vii Acusação.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13957,7 +13957,7 @@
           },
           {
             "id": "npnf204-4-303-310",
-            "titulo": "Letter VII.—For 335. Easter-day iv Pharmuthi, iii Kal. April; xx Moon; Ær. Dioclet. 51; Coss. Julius Constantius, the brother of Augustus, Rufinus Albinus; Præfect, the same Philagrius; viii Indict.",
+            "titulo": "Carta VII. — Para 335. Páscoa iv Pharmuthi, iii Kal. Abril; xx Lua; É. Diocleto. 51; Coss. Júlio Constâncio, irmão de Augusto, Rufinus Albinus; Prefeito, o mesmo Filágrio; viii Acusação.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14020,7 +14020,7 @@
           },
           {
             "id": "npnf204-4-303-311",
-            "titulo": "Letter X.—For 338. Coss. Ursus and Polemius; Præf. the same Theodorus, of Heliopolis, and of the Catholics4203. After him, for the second year, Philagrius; Indict. xi; Easter-day, vii Kal. Ap.4204 xxx Phamenoth; Moon 18½; Æra Dioclet. 54.",
+            "titulo": "Carta X. — Para 338. Coss. Ursus e Polêmio; Praef. o mesmo Teodoro, de Heliópolis, e dos católicos4203. Depois dele, pelo segundo ano, Filágrio; Indiciar. xi; Dia de Páscoa, vii Kal. Ap.4204 xxx Phamenoth; Lua 18½; Era Diocleto. 54.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14079,7 +14079,7 @@
           },
           {
             "id": "npnf204-4-303-312",
-            "titulo": "Letter XI.—For 339. Coss. Constantius Augustus II, Constans I; Præfect, Philagrius the Cappadocian, for the second time; Indict. xii; Easter-day xvii Kal. Mai, xx Pharmuthi; Æra Dioclet. 55.",
+            "titulo": "Carta XI.—Para 339. Coss. Constâncio Augusto II, Constante I; Prefeito, Filágrio, o Capadócio, pela segunda vez; Indiciar. xii; Dia de Páscoa xvii Kal. Mai, xx Pharmuthi; Era Diocleto. 55.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14154,7 +14154,7 @@
           },
           {
             "id": "npnf204-4-303-313",
-            "titulo": "XII.—(Probably for 340 a.d.) To the Beloved Brother, and our fellow Minister Serapion4353.",
+            "titulo": "XII.—(Provavelmente por 340 d.C.) Ao Amado Irmão e ao nosso colega Ministro Serapião4353.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14177,7 +14177,7 @@
           },
           {
             "id": "npnf204-4-303-314",
-            "titulo": "Letter XIII.—(For 341.) Coss. Marcellinus, Probinus; Præf. Longinus; Indict. xiv; Easter-day, xiii Kal. Maii, xxiv Pharmuthi; Æra Dioclet. 57.",
+            "titulo": "Carta XIII.—(Para 341.) Coss. Marcelino, Probino; Praef. Longino; Indiciar. XIV; Dia de Páscoa, xiii Kal. Maii, xxiv Pharmuthi; Era Diocleto. 57.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14220,7 +14220,7 @@
           },
           {
             "id": "npnf204-4-303-315",
-            "titulo": "Letter XIV.—(For 342.) Coss. Augustus Constantius III, Constans II, Præf. the same Longinus; Indict. xv; Easter-day iii Id. Apr., xvi Pharmuthi; Æra Dioclet. 58.",
+            "titulo": "Carta XIV.—(Para 342.) Coss. Augusto Constâncio III, Constante II, Præf. o mesmo Longino; Indiciar. xv; Dia de Páscoa iii Id. Abril, xvi Pharmuthi; Era Diocleto. 58.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14255,7 +14255,7 @@
           },
           {
             "id": "npnf204-4-303-316",
-            "titulo": "Letter XVII.—(For 345.) Coss. Amantius, Albinus; Præf. Nestorius of Gaza; Indict. iii; Easterday, vii Id. Apr., xii Pharmuthi; Moon 19; Æra Dioclet. 61.",
+            "titulo": "Letter XVII.—(For 345.) Coss. Amâncio, Albino; Praef. Nestório de Gaza; Indiciar. iii; Páscoa, vii Id. Abril, xii Pharmuthi; Lua 19; Era Diocleto. 61.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14270,7 +14270,7 @@
           },
           {
             "id": "npnf204-4-303-317",
-            "titulo": "Letter XVIII.—(For 346.) Coss. Augustus Constantius IV, Constans III; Præf. the same Nestorius; Indict. iv; Easter-day iii Kal. Apr., iv Pharmuthi; Moon 21; Æra Dioclet. 62.",
+            "titulo": "Carta XVIII.—(Para 346.) Coss. Augusto Constâncio IV, Constante III; Praef. o mesmo Nestório; Indiciar. 4; Dia de Páscoa iii Kal. Abril, iv Pharmuthi; Lua 21; Era Diocleto. 62.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14289,7 +14289,7 @@
           },
           {
             "id": "npnf204-4-303-318",
-            "titulo": "Letter XIX.—(For 347.) Coss. Rufinus, Eusebius; Præf. the same Nestorius; Indict. v; Easterday, Prid. Id. Apr., Pharmuthi xvii; Æra Dioclet. 63; Moon 15.",
+            "titulo": "Carta XIX.—(Para 347.) Coss. Rufino, Eusébio; Praef. o mesmo Nestório; Indiciar. v; Páscoa, Orgulho. Eu ia. Abril, Pharmuthi xvii; Era Diocleto. 63; Lua 15.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14344,7 +14344,7 @@
           },
           {
             "id": "npnf204-4-303-319",
-            "titulo": "Letter XX.—(For 348.) Coss. Philippus, Salia; Præfect the same Nestorius; Indict. vi; Easterday iii Non. Apr., viii Pharmuthi; Æra Dioclet. 64; Moon 18.",
+            "titulo": "Carta XX.—(Para 348.) Coss. Filipo, Salia; Préfecto o mesmo Nestório; Indiciar. vi; Páscoa iii Não. Abril, viii Pharmuthi; Era Diocleto. 64; Lua 18.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14359,7 +14359,7 @@
           },
           {
             "id": "npnf204-4-303-320",
-            "titulo": "From Letter XXII4523.—(For 350.)",
+            "titulo": "Da Carta XXII4523.—(Para 350.)",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14370,7 +14370,7 @@
           },
           {
             "id": "npnf204-4-303-321",
-            "titulo": "From Letter XXIV4524.—(For 352.)",
+            "titulo": "Da Carta XXIV4524.—(Para 352.)",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14381,7 +14381,7 @@
           },
           {
             "id": "npnf204-4-303-322",
-            "titulo": "From Letter XXVII.—(For 355.) From the twenty-seventh Festal Letter of Athanasius, Bishop of Alexandria and Confessor; of which the commencement is, ‘Again the season of the day of the living Passover4525.’",
+            "titulo": "Da Carta XXVII.—(Para 355.) Da vigésima sétima Carta Festal de Atanásio, Bispo de Alexandria e Confessor; cujo início é: ‘Novamente a estação do dia da Páscoa viva4525.’",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14392,7 +14392,7 @@
           },
           {
             "id": "npnf204-4-303-323",
-            "titulo": "From Letter XXVIII4527.—(For 356.)",
+            "titulo": "Da Carta XXVIII4527.—(Para 356.)",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14403,7 +14403,7 @@
           },
           {
             "id": "npnf204-4-303-324",
-            "titulo": "Another Fragment.",
+            "titulo": "Outro Fragmento.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14414,7 +14414,7 @@
           },
           {
             "id": "npnf204-4-303-325",
-            "titulo": "From Letter XXIX4529.—(For 357.) From the twenty-ninth Letter, of which the beginning is, ‘Sufficient for this present time is that which we have already written.’",
+            "titulo": "Da Carta XXIX4529.—(Para 357.) Da vigésima nona Carta, cujo início é: ‘Suficiente para o tempo presente é o que já escrevemos.’",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14425,7 +14425,7 @@
           },
           {
             "id": "npnf204-4-303-326",
-            "titulo": "Another Fragment4534.",
+            "titulo": "Outro Fragmento4534.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14436,7 +14436,7 @@
           },
           {
             "id": "npnf204-4-303-327",
-            "titulo": "Another Fragment4535.",
+            "titulo": "Outro Fragmento4535.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14451,7 +14451,7 @@
           },
           {
             "id": "npnf204-4-303-328",
-            "titulo": "From Letter XXXIX.—(For 367.) Of the particular books and their number, which are accepted by the Church. From the thirty-ninth Letter of Holy Athanasius, Bishop of Alexandria, on the Paschal festival; wherein he defines canonically what are the divine books which are accepted by the Church.",
+            "titulo": "Da Carta XXXIX.—(Para 367.) Dos livros particulares e seu número, que são aceitos pela Igreja. Da trigésima nona Carta de Santo Atanásio, Bispo de Alexandria, sobre a festa pascal; onde ele define canonicamente quais são os livros divinos aceitos pela Igreja.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14486,7 +14486,7 @@
           },
           {
             "id": "npnf204-4-303-329",
-            "titulo": "From Letter XL4547.—(For 368.)",
+            "titulo": "Da Carta XL4547.—(Para 368.)",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14497,7 +14497,7 @@
           },
           {
             "id": "npnf204-4-303-330",
-            "titulo": "From Letter XLII.—(For 370.)",
+            "titulo": "Da Carta XLII.—(Para 370.)",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14508,7 +14508,7 @@
           },
           {
             "id": "npnf204-4-303-331",
-            "titulo": "From Letter XLIII.—(For 371.)",
+            "titulo": "Da Carta XLIII.—(Para 371.)",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14519,7 +14519,7 @@
           },
           {
             "id": "npnf204-4-303-332",
-            "titulo": "From Letter XLIV.—(For 372.) And again, from the forty-fourth Letter, of which the commencement is, ‘All that our Lord and Saviour Jesus Christ did instead of us and for us4557.’",
+            "titulo": "Da Carta XLIV. - (Para 372.) E novamente, da quadragésima quarta Carta, cujo início é: 'Tudo o que nosso Senhor e Salvador Jesus Cristo fez em nosso lugar e por nós 4557.'",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14543,11 +14543,11 @@
       },
       {
         "id": "npnf204-4-334",
-        "titulo": "II. Personal Letters.",
+        "titulo": "II. Cartas Pessoais.",
         "children": [
           {
             "id": "npnf204-4-334-335",
-            "titulo": "Letter XLVI.—Letter4563 to the Mareotis from Sardica, a.d. 343–4.",
+            "titulo": "Carta XLVI. — Carta 4563 aos Mareotis de Sardica, d.C. 343–4.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14574,7 +14574,7 @@
           },
           {
             "id": "npnf204-4-334-336",
-            "titulo": "Letter XLVII.—To the Church of Alexandria on the same occasion.",
+            "titulo": "Carta XLVII. — À Igreja de Alexandria na mesma ocasião.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14597,7 +14597,7 @@
           },
           {
             "id": "npnf204-4-334-337",
-            "titulo": "Letter XLVIII.—Letter to Amun4583. Written before 354 a.d.",
+            "titulo": "Carta XLVIII. — Carta a Amun4583. Escrito antes de 354 d.C.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14612,7 +14612,7 @@
           },
           {
             "id": "npnf204-4-334-338",
-            "titulo": "Letter XLIX.—Letter to Dracontius4599. Written a.d. 354 or 355.",
+            "titulo": "Carta XLIX. — Carta a Dracontius4599. Escrito a.d. 354 ou 355.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14659,7 +14659,7 @@
           },
           {
             "id": "npnf204-4-334-339",
-            "titulo": "Letter L.—First Letter to Lucifer4633.",
+            "titulo": "Carta L. — Primeira Carta a Lúcifer4633.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14682,7 +14682,7 @@
           },
           {
             "id": "npnf204-4-334-340",
-            "titulo": "Letter LI.—Second Letter to Lucifer.",
+            "titulo": "Carta LI.—Segunda Carta a Lúcifer.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14697,7 +14697,7 @@
           },
           {
             "id": "npnf204-4-334-341",
-            "titulo": "Letter LII.—First Letter to Monks4641. (Written 358–360).",
+            "titulo": "Carta LII.—Primeira Carta aos Monges4641. (Escrito 358–360).",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14720,7 +14720,7 @@
           },
           {
             "id": "npnf204-4-334-342",
-            "titulo": "Letter LIII.—Second Letter4656 to Monks.",
+            "titulo": "Carta LIII. - Segunda Carta 4656 aos Monges.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14739,7 +14739,7 @@
           },
           {
             "id": "npnf204-4-334-343",
-            "titulo": "Letter LIV.—To Serapion, concerning the death of Arius.",
+            "titulo": "Carta LIV.—A Serapião, a respeito da morte de Ário.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14770,7 +14770,7 @@
           },
           {
             "id": "npnf204-4-334-344",
-            "titulo": "Letter LV.—Letter to Rufinianus.",
+            "titulo": "Carta LV. — Carta a Rufiniano.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14785,7 +14785,7 @@
           },
           {
             "id": "npnf204-4-334-345",
-            "titulo": "Letter LVI.—To the Emperor Jovian.",
+            "titulo": "Carta LVI. — Ao Imperador Joviano.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14860,7 +14860,7 @@
           },
           {
             "id": "npnf204-4-334-346",
-            "titulo": "Letter LVII.—First Letter to Orsisius4693.",
+            "titulo": "Carta LVII. — Primeira Carta a Orsisius4693.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14875,7 +14875,7 @@
           },
           {
             "id": "npnf204-4-334-347",
-            "titulo": "Letter LVIII.—Second Letter to Orsisius.",
+            "titulo": "Carta LVIII. — Segunda Carta a Orsisius.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14894,7 +14894,7 @@
           },
           {
             "id": "npnf204-4-334-348",
-            "titulo": "Letter LIX.—To Epictetus.",
+            "titulo": "Carta LIX. - Para Epicteto.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14949,7 +14949,7 @@
           },
           {
             "id": "npnf204-4-334-349",
-            "titulo": "Letter LX.—To Adelphius4738, Bishop and Confessor: against the Arians.",
+            "titulo": "Carta LX.—A Adelphius4738, Bispo e Confessor: contra os arianos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14996,7 +14996,7 @@
           },
           {
             "id": "npnf204-4-334-350",
-            "titulo": "Letter LXI.—Letter to Maximus. (Written about 371 a.d.)",
+            "titulo": "Carta LXI. — Carta a Máximo. (Escrito por volta de 371 d.C.)",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15027,7 +15027,7 @@
           },
           {
             "id": "npnf204-4-334-351",
-            "titulo": "Letter LXII.—To John and Antiochus.4797",
+            "titulo": "Carta LXII.—Para João e Antíoco.4797",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15046,7 +15046,7 @@
           },
           {
             "id": "npnf204-4-334-352",
-            "titulo": "Letter LXIII.—Letter to the Presbyter Palladius4799.",
+            "titulo": "Carta LXIII. — Carta ao Presbítero Palladius4799.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15061,7 +15061,7 @@
           },
           {
             "id": "npnf204-4-334-353",
-            "titulo": "Letter LXIV.—To Diodorus (fragment).",
+            "titulo": "Carta LXIV.—A Diodoro (fragmento).",
             "conteudo": [
               {
                 "tipo": "paragrafo",

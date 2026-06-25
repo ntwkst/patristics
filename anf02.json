@@ -1,19 +1,19 @@
 [
   {
     "id": "anf02-5",
-    "titulo": "THE PASTOR OF HERMAS",
+    "titulo": "O PASTOR DE HERMAS",
     "children": [
       {
         "id": "anf02-5-6",
-        "titulo": "THE PASTOR",
+        "titulo": "O PASTOR",
         "children": [
           {
             "id": "anf02-5-6-7",
-            "titulo": "VISION FIRST.",
+            "titulo": "VISÃO EM PRIMEIRO LUGAR.",
             "children": [
               {
                 "id": "anf02-5-6-7-8",
-                "titulo": "CHAP. I.",
+                "titulo": "RACHAR. eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -24,7 +24,7 @@
               },
               {
                 "id": "anf02-5-6-7-9",
-                "titulo": "CHAP. II.",
+                "titulo": "RACHAR. II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -35,7 +35,7 @@
               },
               {
                 "id": "anf02-5-6-7-10",
-                "titulo": "CHAP. III.",
+                "titulo": "RACHAR. III.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -46,7 +46,7 @@
               },
               {
                 "id": "anf02-5-6-7-11",
-                "titulo": "CHAP. IV.",
+                "titulo": "RACHAR. 4.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -59,11 +59,11 @@
           },
           {
             "id": "anf02-5-6-12",
-            "titulo": "VISION SECOND.",
+            "titulo": "VISÃO SEGUNDA.",
             "children": [
               {
                 "id": "anf02-5-6-12-13",
-                "titulo": "CHAP. I.",
+                "titulo": "RACHAR. eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -74,7 +74,7 @@
               },
               {
                 "id": "anf02-5-6-12-14",
-                "titulo": "CHAP. II.",
+                "titulo": "RACHAR. II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -85,7 +85,7 @@
               },
               {
                 "id": "anf02-5-6-12-15",
-                "titulo": "CHAP. III.",
+                "titulo": "RACHAR. III.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -96,7 +96,7 @@
               },
               {
                 "id": "anf02-5-6-12-16",
-                "titulo": "CHAP. IV.",
+                "titulo": "RACHAR. 4.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -109,11 +109,11 @@
           },
           {
             "id": "anf02-5-6-17",
-            "titulo": "VISION THIRD.",
+            "titulo": "VISÃO TERCEIRA.",
             "children": [
               {
                 "id": "anf02-5-6-17-18",
-                "titulo": "CHAP. I.",
+                "titulo": "RACHAR. eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -124,7 +124,7 @@
               },
               {
                 "id": "anf02-5-6-17-19",
-                "titulo": "CHAP. II.",
+                "titulo": "RACHAR. II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -135,7 +135,7 @@
               },
               {
                 "id": "anf02-5-6-17-20",
-                "titulo": "CHAP. III.",
+                "titulo": "RACHAR. III.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -146,7 +146,7 @@
               },
               {
                 "id": "anf02-5-6-17-21",
-                "titulo": "CHAP. IV.",
+                "titulo": "RACHAR. 4.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -157,7 +157,7 @@
               },
               {
                 "id": "anf02-5-6-17-22",
-                "titulo": "CHAP. V.",
+                "titulo": "RACHAR. V.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -168,7 +168,7 @@
               },
               {
                 "id": "anf02-5-6-17-23",
-                "titulo": "CHAP. VI.",
+                "titulo": "RACHAR. VI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -179,7 +179,7 @@
               },
               {
                 "id": "anf02-5-6-17-24",
-                "titulo": "CHAP. VII.",
+                "titulo": "RACHAR. VII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -190,7 +190,7 @@
               },
               {
                 "id": "anf02-5-6-17-25",
-                "titulo": "CHAP. VIII.",
+                "titulo": "RACHAR. VIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -201,7 +201,7 @@
               },
               {
                 "id": "anf02-5-6-17-26",
-                "titulo": "CHAP. IX.",
+                "titulo": "CAP. IX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -212,7 +212,7 @@
               },
               {
                 "id": "anf02-5-6-17-27",
-                "titulo": "CHAP. X.",
+                "titulo": "RACHAR. X.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -227,7 +227,7 @@
               },
               {
                 "id": "anf02-5-6-17-28",
-                "titulo": "CHAP. XI.",
+                "titulo": "RACHAR. XI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -238,7 +238,7 @@
               },
               {
                 "id": "anf02-5-6-17-29",
-                "titulo": "CHAP. XII.",
+                "titulo": "RACHAR. XII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -249,7 +249,7 @@
               },
               {
                 "id": "anf02-5-6-17-30",
-                "titulo": "CHAP. XIII.",
+                "titulo": "RACHAR. XIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -262,11 +262,11 @@
           },
           {
             "id": "anf02-5-6-31",
-            "titulo": "VISION FOURTH.",
+            "titulo": "VISÃO QUARTA.",
             "children": [
               {
                 "id": "anf02-5-6-31-32",
-                "titulo": "CHAP. I.",
+                "titulo": "RACHAR. eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -277,7 +277,7 @@
               },
               {
                 "id": "anf02-5-6-31-33",
-                "titulo": "CHAP. II.",
+                "titulo": "RACHAR. II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -288,7 +288,7 @@
               },
               {
                 "id": "anf02-5-6-31-34",
-                "titulo": "CHAP. III.",
+                "titulo": "RACHAR. III.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -301,7 +301,7 @@
           },
           {
             "id": "anf02-5-6-35",
-            "titulo": "VISION FIFTH.",
+            "titulo": "VISÃO QUINTA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -318,11 +318,11 @@
       },
       {
         "id": "anf02-5-36",
-        "titulo": "THE PASTOR",
+        "titulo": "O PASTOR",
         "children": [
           {
             "id": "anf02-5-36-37",
-            "titulo": "COMMANDMENT FIRST.",
+            "titulo": "MANDAMENTO PRIMEIRO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -337,7 +337,7 @@
           },
           {
             "id": "anf02-5-36-38",
-            "titulo": "COMMANDMENT SECOND.",
+            "titulo": "MANDAMENTO SEGUNDO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -352,7 +352,7 @@
           },
           {
             "id": "anf02-5-36-39",
-            "titulo": "COMMANDMENT THIRD.",
+            "titulo": "MANDAMENTO TERCEIRO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -367,11 +367,11 @@
           },
           {
             "id": "anf02-5-36-40",
-            "titulo": "COMMANDMENT FOURTH.",
+            "titulo": "MANDAMENTO QUARTO.",
             "children": [
               {
                 "id": "anf02-5-36-40-41",
-                "titulo": "CHAP. I.",
+                "titulo": "RACHAR. eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -382,7 +382,7 @@
               },
               {
                 "id": "anf02-5-36-40-42",
-                "titulo": "CHAP. II.",
+                "titulo": "RACHAR. II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -393,7 +393,7 @@
               },
               {
                 "id": "anf02-5-36-40-43",
-                "titulo": "CHAP. III.",
+                "titulo": "RACHAR. III.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -404,7 +404,7 @@
               },
               {
                 "id": "anf02-5-36-40-44",
-                "titulo": "CHAP. IV.",
+                "titulo": "RACHAR. 4.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -417,11 +417,11 @@
           },
           {
             "id": "anf02-5-36-45",
-            "titulo": "COMMANDMENT FIFTH.",
+            "titulo": "MANDAMENTO QUINTO.",
             "children": [
               {
                 "id": "anf02-5-36-45-46",
-                "titulo": "CHAP. I.",
+                "titulo": "RACHAR. eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -432,7 +432,7 @@
               },
               {
                 "id": "anf02-5-36-45-47",
-                "titulo": "CHAP. II.",
+                "titulo": "RACHAR. II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -445,11 +445,11 @@
           },
           {
             "id": "anf02-5-36-48",
-            "titulo": "COMMANDMENT SIXTH.",
+            "titulo": "MANDAMENTO SEXTO.",
             "children": [
               {
                 "id": "anf02-5-36-48-49",
-                "titulo": "CHAP. I.",
+                "titulo": "RACHAR. eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -460,7 +460,7 @@
               },
               {
                 "id": "anf02-5-36-48-50",
-                "titulo": "CHAP. II.",
+                "titulo": "RACHAR. II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -477,7 +477,7 @@
           },
           {
             "id": "anf02-5-36-51",
-            "titulo": "COMMANDMENT SEVENTH.",
+            "titulo": "MANDAMENTO SÉTIMO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -492,7 +492,7 @@
           },
           {
             "id": "anf02-5-36-52",
-            "titulo": "COMMANDMENT EIGHTH.",
+            "titulo": "MANDAMENTO OITAVO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -511,7 +511,7 @@
           },
           {
             "id": "anf02-5-36-53",
-            "titulo": "COMMANDMENT NINTH.",
+            "titulo": "MANDAMENTO NONO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -526,11 +526,11 @@
           },
           {
             "id": "anf02-5-36-54",
-            "titulo": "COMMANDMENT TENTH.",
+            "titulo": "MANDAMENTO DÉCIMO.",
             "children": [
               {
                 "id": "anf02-5-36-54-55",
-                "titulo": "CHAP. I.",
+                "titulo": "RACHAR. eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -541,7 +541,7 @@
               },
               {
                 "id": "anf02-5-36-54-56",
-                "titulo": "CHAP. II.",
+                "titulo": "RACHAR. II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -554,7 +554,7 @@
           },
           {
             "id": "anf02-5-36-57",
-            "titulo": "COMMANDMENT ELEVENTH.",
+            "titulo": "MANDAMENTO DÉCIMO PRIMEIRO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -569,11 +569,11 @@
           },
           {
             "id": "anf02-5-36-58",
-            "titulo": "COMMANDMENT TWELFTH.",
+            "titulo": "MANDAMENTO DÉCIMO SEGUNDO.",
             "children": [
               {
                 "id": "anf02-5-36-58-59",
-                "titulo": "CHAP. I.",
+                "titulo": "RACHAR. eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -584,7 +584,7 @@
               },
               {
                 "id": "anf02-5-36-58-60",
-                "titulo": "CHAP. II.",
+                "titulo": "RACHAR. II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -595,7 +595,7 @@
               },
               {
                 "id": "anf02-5-36-58-61",
-                "titulo": "CHAP. III.",
+                "titulo": "RACHAR. III.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -610,7 +610,7 @@
               },
               {
                 "id": "anf02-5-36-58-62",
-                "titulo": "CHAP. IV.",
+                "titulo": "RACHAR. 4.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -621,7 +621,7 @@
               },
               {
                 "id": "anf02-5-36-58-63",
-                "titulo": "CHAP. V.",
+                "titulo": "RACHAR. V.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -632,7 +632,7 @@
               },
               {
                 "id": "anf02-5-36-58-64",
-                "titulo": "CHAP. VI.",
+                "titulo": "RACHAR. VI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -647,11 +647,11 @@
       },
       {
         "id": "anf02-5-65",
-        "titulo": "THE PASTOR",
+        "titulo": "O PASTOR",
         "children": [
           {
             "id": "anf02-5-65-66",
-            "titulo": "SIMILITUDE FIRST.244",
+            "titulo": "SIMILITUDE PRIMEIRO.244",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -666,7 +666,7 @@
           },
           {
             "id": "anf02-5-65-67",
-            "titulo": "SIMILITUDE SECOND.",
+            "titulo": "SIMILITUDE SEGUNDO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -681,7 +681,7 @@
           },
           {
             "id": "anf02-5-65-68",
-            "titulo": "SIMILITUDE THIRD.",
+            "titulo": "SIMILITUDE TERCEIRA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -696,7 +696,7 @@
           },
           {
             "id": "anf02-5-65-69",
-            "titulo": "SIMILITUDE FOURTH.",
+            "titulo": "SIMILITUDE QUARTA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -711,11 +711,11 @@
           },
           {
             "id": "anf02-5-65-70",
-            "titulo": "SIMILITUDE FIFTH.",
+            "titulo": "SIMILITUDE QUINTA.",
             "children": [
               {
                 "id": "anf02-5-65-70-71",
-                "titulo": "CHAP. I.",
+                "titulo": "RACHAR. eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -726,7 +726,7 @@
               },
               {
                 "id": "anf02-5-65-70-72",
-                "titulo": "CHAP. II.",
+                "titulo": "RACHAR. II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -737,7 +737,7 @@
               },
               {
                 "id": "anf02-5-65-70-73",
-                "titulo": "CHAP. III.",
+                "titulo": "RACHAR. III.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -748,7 +748,7 @@
               },
               {
                 "id": "anf02-5-65-70-74",
-                "titulo": "CHAP. IV.",
+                "titulo": "RACHAR. 4.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -759,7 +759,7 @@
               },
               {
                 "id": "anf02-5-65-70-75",
-                "titulo": "CHAP. V.",
+                "titulo": "RACHAR. V.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -770,7 +770,7 @@
               },
               {
                 "id": "anf02-5-65-70-76",
-                "titulo": "CHAP. VI.",
+                "titulo": "RACHAR. VI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -781,7 +781,7 @@
               },
               {
                 "id": "anf02-5-65-70-77",
-                "titulo": "CHAP. VII.",
+                "titulo": "RACHAR. VII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -794,11 +794,11 @@
           },
           {
             "id": "anf02-5-65-78",
-            "titulo": "SIMILITUDE SIXTH.",
+            "titulo": "SIMILITUDE SEXTA.",
             "children": [
               {
                 "id": "anf02-5-65-78-79",
-                "titulo": "CHAP. I.",
+                "titulo": "RACHAR. eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -809,7 +809,7 @@
               },
               {
                 "id": "anf02-5-65-78-80",
-                "titulo": "CHAP. II.",
+                "titulo": "RACHAR. II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -820,7 +820,7 @@
               },
               {
                 "id": "anf02-5-65-78-81",
-                "titulo": "CHAP. III.",
+                "titulo": "RACHAR. III.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -831,7 +831,7 @@
               },
               {
                 "id": "anf02-5-65-78-82",
-                "titulo": "CHAP. IV.",
+                "titulo": "RACHAR. 4.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -842,7 +842,7 @@
               },
               {
                 "id": "anf02-5-65-78-83",
-                "titulo": "CHAP. V.",
+                "titulo": "RACHAR. V.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -855,7 +855,7 @@
           },
           {
             "id": "anf02-5-65-84",
-            "titulo": "SIMILITUDE SEVENTH.",
+            "titulo": "SIMILITUDE SÉTIMA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -870,11 +870,11 @@
           },
           {
             "id": "anf02-5-65-85",
-            "titulo": "SIMILITUDE EIGHTH.",
+            "titulo": "SIMILITUDE OITAVO.",
             "children": [
               {
                 "id": "anf02-5-65-85-86",
-                "titulo": "CHAP. I.",
+                "titulo": "RACHAR. eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -885,7 +885,7 @@
               },
               {
                 "id": "anf02-5-65-85-87",
-                "titulo": "CHAP. II.",
+                "titulo": "RACHAR. II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -896,7 +896,7 @@
               },
               {
                 "id": "anf02-5-65-85-88",
-                "titulo": "CHAP.III.",
+                "titulo": "CAP.III.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -907,7 +907,7 @@
               },
               {
                 "id": "anf02-5-65-85-89",
-                "titulo": "CHAP. IV.",
+                "titulo": "RACHAR. 4.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -918,7 +918,7 @@
               },
               {
                 "id": "anf02-5-65-85-90",
-                "titulo": "CHAP. V.",
+                "titulo": "RACHAR. V.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -929,7 +929,7 @@
               },
               {
                 "id": "anf02-5-65-85-91",
-                "titulo": "CHAP. VI.",
+                "titulo": "RACHAR. VI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -940,7 +940,7 @@
               },
               {
                 "id": "anf02-5-65-85-92",
-                "titulo": "CHAP. VII.",
+                "titulo": "RACHAR. VII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -951,7 +951,7 @@
               },
               {
                 "id": "anf02-5-65-85-93",
-                "titulo": "CHAP. VIII.",
+                "titulo": "RACHAR. VIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -962,7 +962,7 @@
               },
               {
                 "id": "anf02-5-65-85-94",
-                "titulo": "CHAP. IX.",
+                "titulo": "CAP. IX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -973,7 +973,7 @@
               },
               {
                 "id": "anf02-5-65-85-95",
-                "titulo": "CHAP. X.",
+                "titulo": "RACHAR. X.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -984,7 +984,7 @@
               },
               {
                 "id": "anf02-5-65-85-96",
-                "titulo": "CHAP. XI.",
+                "titulo": "RACHAR. XI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -997,11 +997,11 @@
           },
           {
             "id": "anf02-5-65-97",
-            "titulo": "SIMILITUDE NINTH.",
+            "titulo": "SIMILITUDE NONA.",
             "children": [
               {
                 "id": "anf02-5-65-97-98",
-                "titulo": "CHAP. I.",
+                "titulo": "RACHAR. eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1012,7 +1012,7 @@
               },
               {
                 "id": "anf02-5-65-97-99",
-                "titulo": "CHAP. II.",
+                "titulo": "RACHAR. II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1023,7 +1023,7 @@
               },
               {
                 "id": "anf02-5-65-97-100",
-                "titulo": "CHAP. III.",
+                "titulo": "RACHAR. III.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1034,7 +1034,7 @@
               },
               {
                 "id": "anf02-5-65-97-101",
-                "titulo": "CHAP. IV.",
+                "titulo": "RACHAR. 4.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1045,7 +1045,7 @@
               },
               {
                 "id": "anf02-5-65-97-102",
-                "titulo": "CHAP. V.",
+                "titulo": "RACHAR. V.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1056,7 +1056,7 @@
               },
               {
                 "id": "anf02-5-65-97-103",
-                "titulo": "CHAP. VI.",
+                "titulo": "RACHAR. VI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1067,7 +1067,7 @@
               },
               {
                 "id": "anf02-5-65-97-104",
-                "titulo": "CHAP. VII.",
+                "titulo": "RACHAR. VII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1078,7 +1078,7 @@
               },
               {
                 "id": "anf02-5-65-97-105",
-                "titulo": "CHAP. VIII.",
+                "titulo": "RACHAR. VIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1089,7 +1089,7 @@
               },
               {
                 "id": "anf02-5-65-97-106",
-                "titulo": "CHAP. IX.",
+                "titulo": "CAP. IX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1100,7 +1100,7 @@
               },
               {
                 "id": "anf02-5-65-97-107",
-                "titulo": "CHAP. X.",
+                "titulo": "RACHAR. X.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1111,7 +1111,7 @@
               },
               {
                 "id": "anf02-5-65-97-108",
-                "titulo": "CHAP. XI.",
+                "titulo": "RACHAR. XI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1122,7 +1122,7 @@
               },
               {
                 "id": "anf02-5-65-97-109",
-                "titulo": "CHAP. XII.",
+                "titulo": "RACHAR. XII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1133,7 +1133,7 @@
               },
               {
                 "id": "anf02-5-65-97-110",
-                "titulo": "CHAP. XIII.",
+                "titulo": "RACHAR. XIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1144,7 +1144,7 @@
               },
               {
                 "id": "anf02-5-65-97-111",
-                "titulo": "CHAP. XIV.",
+                "titulo": "RACHAR. XIV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1155,7 +1155,7 @@
               },
               {
                 "id": "anf02-5-65-97-112",
-                "titulo": "CHAP. XV.368",
+                "titulo": "RACHAR. XV.368",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1166,7 +1166,7 @@
               },
               {
                 "id": "anf02-5-65-97-113",
-                "titulo": "CHAP. XVI.",
+                "titulo": "RACHAR. XVI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1177,7 +1177,7 @@
               },
               {
                 "id": "anf02-5-65-97-114",
-                "titulo": "CHAP. XVII.",
+                "titulo": "RACHAR. XVII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1188,7 +1188,7 @@
               },
               {
                 "id": "anf02-5-65-97-115",
-                "titulo": "CHAP. XVIII.",
+                "titulo": "RACHAR. XVIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1203,7 +1203,7 @@
               },
               {
                 "id": "anf02-5-65-97-116",
-                "titulo": "CHAP. XIX.",
+                "titulo": "RACHAR. XIX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1214,7 +1214,7 @@
               },
               {
                 "id": "anf02-5-65-97-117",
-                "titulo": "CHAP. XX.",
+                "titulo": "RACHAR. XX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1225,7 +1225,7 @@
               },
               {
                 "id": "anf02-5-65-97-118",
-                "titulo": "CHAP. XXI.",
+                "titulo": "RACHAR. XXI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1236,7 +1236,7 @@
               },
               {
                 "id": "anf02-5-65-97-119",
-                "titulo": "CHAP. XXII.",
+                "titulo": "RACHAR. XXII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1247,7 +1247,7 @@
               },
               {
                 "id": "anf02-5-65-97-120",
-                "titulo": "CHAP. XXIII.",
+                "titulo": "RACHAR. XXIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1258,7 +1258,7 @@
               },
               {
                 "id": "anf02-5-65-97-121",
-                "titulo": "CHAP. XXIV.",
+                "titulo": "RACHAR. XXIV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1269,7 +1269,7 @@
               },
               {
                 "id": "anf02-5-65-97-122",
-                "titulo": "CHAP. XXV.",
+                "titulo": "RACHAR. XXV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1280,7 +1280,7 @@
               },
               {
                 "id": "anf02-5-65-97-123",
-                "titulo": "CHAP. XXVI.",
+                "titulo": "RACHAR. XXVI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1291,7 +1291,7 @@
               },
               {
                 "id": "anf02-5-65-97-124",
-                "titulo": "CHAP. XXVII.",
+                "titulo": "RACHAR. XXVII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1302,7 +1302,7 @@
               },
               {
                 "id": "anf02-5-65-97-125",
-                "titulo": "CHAP. XXVIII.",
+                "titulo": "CAP. XXVIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1313,7 +1313,7 @@
               },
               {
                 "id": "anf02-5-65-97-126",
-                "titulo": "CHAP. XXIX.",
+                "titulo": "CAP. XXIX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1328,7 +1328,7 @@
               },
               {
                 "id": "anf02-5-65-97-127",
-                "titulo": "CHAP. XXX.",
+                "titulo": "RACHAR. XXX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1339,7 +1339,7 @@
               },
               {
                 "id": "anf02-5-65-97-128",
-                "titulo": "CHAP. XXXI.",
+                "titulo": "RACHAR. XXXII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1350,7 +1350,7 @@
               },
               {
                 "id": "anf02-5-65-97-129",
-                "titulo": "CHAP. XXXII.",
+                "titulo": "RACHAR. XXXII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1361,7 +1361,7 @@
               },
               {
                 "id": "anf02-5-65-97-130",
-                "titulo": "CHAP. XXXIII.",
+                "titulo": "RACHAR. XXXIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1378,11 +1378,11 @@
           },
           {
             "id": "anf02-5-65-131",
-            "titulo": "SIMILITUDE TENTH.",
+            "titulo": "SIMILITUDE DÉCIMA.",
             "children": [
               {
                 "id": "anf02-5-65-131-132",
-                "titulo": "CHAP. I.",
+                "titulo": "RACHAR. eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1393,7 +1393,7 @@
               },
               {
                 "id": "anf02-5-65-131-133",
-                "titulo": "CHAP. II.",
+                "titulo": "RACHAR. II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1404,7 +1404,7 @@
               },
               {
                 "id": "anf02-5-65-131-134",
-                "titulo": "CHAP. III.",
+                "titulo": "RACHAR. III.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1415,7 +1415,7 @@
               },
               {
                 "id": "anf02-5-65-131-135",
-                "titulo": "CHAP. IV.",
+                "titulo": "RACHAR. 4.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1430,7 +1430,7 @@
               },
               {
                 "id": "anf02-5-65-131-136",
-                "titulo": "Elucidations.",
+                "titulo": "Elucidações.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1499,15 +1499,15 @@
   },
   {
     "id": "anf02-137",
-    "titulo": "TATIAN’S ADDRESS TO THE GREEKS",
+    "titulo": "DISCURSO DE TATIAN AOS GREGOS",
     "children": [
       {
         "id": "anf02-137-138",
-        "titulo": "ADDRESS OF TATIAN TO THE GREEKS.",
+        "titulo": "ENDEREÇO ​​DE TATIAN AOS GREGOS.",
         "children": [
           {
             "id": "anf02-137-138-139",
-            "titulo": "CHAPTER I.—THE GREEKS CLAIM, WITHOUT REASON, THE INVENTION OF THE ARTS.",
+            "titulo": "CAPÍTULO I.-OS GREGOS REIVINDICAM, SEM RAZÃO, A INVENÇÃO DAS ARTES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1518,7 +1518,7 @@
           },
           {
             "id": "anf02-137-138-140",
-            "titulo": "CHAPTER II.—THE VICES AND ERRORS OF THE PHILOSOPHERS.",
+            "titulo": "CAPÍTULO II.-OS VÍCIOS E ERROS DOS FILÓSOFOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1529,7 +1529,7 @@
           },
           {
             "id": "anf02-137-138-141",
-            "titulo": "CHAPTER III.—RIDICULE OF THE PHILOSOPHERS.",
+            "titulo": "CAPÍTULO III.-RIDÍCULO DOS FILÓSOFOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1540,7 +1540,7 @@
           },
           {
             "id": "anf02-137-138-142",
-            "titulo": "CHAPTER IV.—THE CHRISTIANS WORSHIP GOD ALONE.",
+            "titulo": "CAPÍTULO IV. - OS CRISTÃOS ADORAM SOMENTE A DEUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1551,7 +1551,7 @@
           },
           {
             "id": "anf02-137-138-143",
-            "titulo": "CHAPTER V.—THE DOCTRINE OF THE CHRISTIANS AS TO THE CREATION OF THE WORLD.",
+            "titulo": "CAPÍTULO V. - A DOUTRINA DOS CRISTÃOS QUANTO À CRIAÇÃO DO MUNDO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1562,7 +1562,7 @@
           },
           {
             "id": "anf02-137-138-144",
-            "titulo": "CHAPTER VI.—CHRISTIANS’ BELIEF IN THE RESURRECTION.",
+            "titulo": "CAPÍTULO VI. - A CRENÇA DOS CRISTÃOS NA RESSURREIÇÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1573,7 +1573,7 @@
           },
           {
             "id": "anf02-137-138-145",
-            "titulo": "CHAPTER VII.—CONCERNING THE FALL OF MAN.",
+            "titulo": "CAPÍTULO VII. - SOBRE A QUEDA DO HOMEM.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1584,7 +1584,7 @@
           },
           {
             "id": "anf02-137-138-146",
-            "titulo": "CHAPTER VIII.—THE DEMONS SIN AMONG MANKIND.",
+            "titulo": "CAPÍTULO VIII. - OS DEMÔNIOS PECAM ENTRE A HUMANIDADE.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1595,7 +1595,7 @@
           },
           {
             "id": "anf02-137-138-147",
-            "titulo": "CHAPTER IX.—THEY GIVE RISE TO SUPERSTITIONS.",
+            "titulo": "CAPÍTULO IX. - DÃO Origem a superstições.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1606,7 +1606,7 @@
           },
           {
             "id": "anf02-137-138-148",
-            "titulo": "CHAPTER X.—RIDICULE OF THE HEATHEN DIVINITIES.",
+            "titulo": "CAPÍTULO X. - RIDÍCULO DAS DIVINDADES PAGÔNICAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1617,7 +1617,7 @@
           },
           {
             "id": "anf02-137-138-149",
-            "titulo": "CHAPTER XI.—THE SIN OF MEN DUE NOT TO FATE, BUT TO FREE-WILL.",
+            "titulo": "CAPÍTULO XI. - O PECADO DOS HOMENS NÃO É DEVIDO AO DESTINO, MAS AO LIVRE ARBÍTRIO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1628,7 +1628,7 @@
           },
           {
             "id": "anf02-137-138-150",
-            "titulo": "CHAPTER XII.—THE TWO KINDS OF SPIRITS.",
+            "titulo": "CAPÍTULO XII. - OS DOIS TIPOS DE ESPÍRITOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1639,7 +1639,7 @@
           },
           {
             "id": "anf02-137-138-151",
-            "titulo": "CHAPTER XIII.—THEORY OF THE SOUL’S IMMORTALITY.",
+            "titulo": "CAPÍTULO XIII.-TEORIA DA IMORTALIDADE DA ALMA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1650,7 +1650,7 @@
           },
           {
             "id": "anf02-137-138-152",
-            "titulo": "CHAPTER XIV.—THE DEMONS SHALL BE PUNISHED MORE SEVERELY THAN MEN.",
+            "titulo": "CAPÍTULO XIV. - OS DEMÔNIOS SERÃO PUNIDOS MAIS SEVERAMENTE QUE OS HOMENS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1661,7 +1661,7 @@
           },
           {
             "id": "anf02-137-138-153",
-            "titulo": "CHAPTER XV.—NECESSITY OF A UNION WITH THE HOLY SPIRIT.",
+            "titulo": "CAPÍTULO XV. - NECESSIDADE DE UMA UNIÃO COM O ESPÍRITO SANTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1672,7 +1672,7 @@
           },
           {
             "id": "anf02-137-138-154",
-            "titulo": "CHAPTER XVI.—VAIN DISPLAY OF POWER BY THE DEMONS.",
+            "titulo": "CAPÍTULO XVI. - VÁ EXIBIÇÃO DE PODER PELOS DEMÔNIOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1683,7 +1683,7 @@
           },
           {
             "id": "anf02-137-138-155",
-            "titulo": "CHAPTER XVII.—THEY FALSELY PROMISE HEALTH TO THEIR VOTARIES.",
+            "titulo": "CAPÍTULO XVII. - PROMETEM FALSAMENTE SAÚDE A SEUS VOTÁRIOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1694,7 +1694,7 @@
           },
           {
             "id": "anf02-137-138-156",
-            "titulo": "CHAPTER XVIII.—THEY DECEIVE, INSTEAD OF HEALING.",
+            "titulo": "CAPÍTULO XVIII. - ELES ENGANAM, EM VEZ DE CURAR.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1705,7 +1705,7 @@
           },
           {
             "id": "anf02-137-138-157",
-            "titulo": "CHAPTER XIX.—DEPRAVITY LIES AT THE BOTTOM OF DEMON-WORSHIP.",
+            "titulo": "CAPÍTULO XIX. - A DEPRAVIDADE ESTÁ NO FUNDO DA ADORAÇÃO DE DEMÔNIOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1716,7 +1716,7 @@
           },
           {
             "id": "anf02-137-138-158",
-            "titulo": "CHAPTER XX.—THANKS ARE EVER DUE TO GOD.",
+            "titulo": "CAPÍTULO XX. - AGRADECIMENTOS SÃO SEMPRE DEVIDOS A DEUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1727,7 +1727,7 @@
           },
           {
             "id": "anf02-137-138-159",
-            "titulo": "CHAPTER XXI.—DOCTRINES OF THE CHRISTIANS AND GREEKS RESPECTING GOD COMPARED.",
+            "titulo": "CAPÍTULO XXI. - DOUTRINAS DOS CRISTÃOS E GREGOS RESPEITANDO A DEUS COMPARADAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1738,7 +1738,7 @@
           },
           {
             "id": "anf02-137-138-160",
-            "titulo": "CHAPTER XXII.—RIDICULE OF THE SOLEMNITIES OF THE GREEKS.",
+            "titulo": "CAPÍTULO XXII. - RIDÍCULO DAS SOLENIDADES DOS GREGOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1749,7 +1749,7 @@
           },
           {
             "id": "anf02-137-138-161",
-            "titulo": "CHAPTER XXIII.—OF THE PUGILISTS AND GLADIATORS.",
+            "titulo": "CAPÍTULO XXIII.- DOS PUGILISTAS E GLADIADORES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1760,7 +1760,7 @@
           },
           {
             "id": "anf02-137-138-162",
-            "titulo": "CHAPTER XXIV.—OF THE OTHER PUBLIC AMUSEMENTS.",
+            "titulo": "CAPÍTULO XXIV.-DAS OUTRAS DIVERSÕES PÚBLICAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1771,7 +1771,7 @@
           },
           {
             "id": "anf02-137-138-163",
-            "titulo": "CHAPTER XXV.—BOASTINGS AND QUARRELS OF THE PHILOSOPHERS.",
+            "titulo": "CAPÍTULO XXV. - VALORES E BRIGAS DOS FILÓSOFOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1782,7 +1782,7 @@
           },
           {
             "id": "anf02-137-138-164",
-            "titulo": "CHAPTER XXVI.—RIDICULE OF THE STUDIES OF THE GREEKS.",
+            "titulo": "CAPÍTULO XXVI.-RIDÍCULO DOS ESTUDOS DOS GREGOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1793,7 +1793,7 @@
           },
           {
             "id": "anf02-137-138-165",
-            "titulo": "CHAPTER XXVII.—THE CHRISTIANS ARE HATED UNJUSTLY.",
+            "titulo": "CAPÍTULO XXVII. - OS CRISTÃOS SÃO ODIADOS INJUSTAMENTE.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1804,7 +1804,7 @@
           },
           {
             "id": "anf02-137-138-166",
-            "titulo": "CHAPTER XXVIII.—CONDEMNATION OF THE GREEK LEGISLATION.",
+            "titulo": "CAPÍTULO XXVIII.-CONDENAÇÃO DA LEGISLAÇÃO GREGA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1815,7 +1815,7 @@
           },
           {
             "id": "anf02-137-138-167",
-            "titulo": "CHAPTER XXIX.—ACCOUNT OF TATIAN’S CONVERSION.",
+            "titulo": "CAPÍTULO XXIX. - RELATO DA CONVERSÃO DE TATIAN.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1826,7 +1826,7 @@
           },
           {
             "id": "anf02-137-138-168",
-            "titulo": "CHAPTER XXX.—HOW HE RESOLVED TO RESIST THE DEVIL.",
+            "titulo": "CAPÍTULO XXX. - COMO ELE RESOLVEU RESISTIR AO DIABO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1837,7 +1837,7 @@
           },
           {
             "id": "anf02-137-138-169",
-            "titulo": "CHAPTER XXXI.—THE PHILOSOPHY OF THE CHRISTIANS MORE ANCIENT THAN THAT OF THE GREEKS.",
+            "titulo": "CAPÍTULO XXXI. - A FILOSOFIA DOS CRISTÃOS MAIS ANTIGA QUE A DOS GREGOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1848,7 +1848,7 @@
           },
           {
             "id": "anf02-137-138-170",
-            "titulo": "CHAPTER XXXII.—THE DOCTRINE OF THE CHRISTIANS, IS OPPOSED TO DISSENSIONS, AND FITTED FOR ALL.",
+            "titulo": "CAPÍTULO XXXII. - A DOUTRINA DOS CRISTÃOS É OPOSTA ÀS DISSENSÕES E ADEQUADA PARA TODOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1859,7 +1859,7 @@
           },
           {
             "id": "anf02-137-138-171",
-            "titulo": "CHAPTER XXXIII.—VINDICATION OF CHRISTIAN WOMEN.",
+            "titulo": "CAPÍTULO XXXIII. - VINDICAÇÃO DAS MULHERES CRISTÃS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1870,7 +1870,7 @@
           },
           {
             "id": "anf02-137-138-172",
-            "titulo": "CHAPTER XXXIV.—RIDICULE OF THE STATUES ERECTED BY THE GREEKS.",
+            "titulo": "CAPÍTULO XXXIV. - RIDÍCULO DAS ESTÁTUAS ERIGIDAS PELOS GREGOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1892,7 +1892,7 @@
           },
           {
             "id": "anf02-137-138-174",
-            "titulo": "CHAPTER XXXVI.—TESTIMONY OF THE CHALDEANS TO THE ANTIQUITY OF MOSES.",
+            "titulo": "CAPÍTULO XXXVI. - TESTEMUNHO DOS CALDEUS À ANTIGUIDADE DE MOISÉS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1903,7 +1903,7 @@
           },
           {
             "id": "anf02-137-138-175",
-            "titulo": "CHAPTER XXXVII.—TESTIMONY OF THE PHOENICIANS.",
+            "titulo": "CAPÍTULO XXXVII. - TESTEMUNHO DOS FENÍCIOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1914,7 +1914,7 @@
           },
           {
             "id": "anf02-137-138-176",
-            "titulo": "CHAPTER XXXVIII.—THE EGYPTIANS PLACE MOSES IN THE REIGN OF INACHUS.",
+            "titulo": "CAPÍTULO XXXVIII.-OS EGÍPCIOS COLOCAM MOISÉS NO REINADO DE ÍNACO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1925,7 +1925,7 @@
           },
           {
             "id": "anf02-137-138-177",
-            "titulo": "CHAPTER XXXIX.—CATALOGUE OF THE ARGIVE KINGS.",
+            "titulo": "CAPÍTULO XXXIX. - CATÁLOGO DOS REIS ARGIVOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1936,7 +1936,7 @@
           },
           {
             "id": "anf02-137-138-178",
-            "titulo": "CHAPTER XL.—MOSES MORE ANCIENT AND CREDIBLE THAN THE HEATHEN HEROES.",
+            "titulo": "CAPÍTULO XL. - MOISÉS MAIS ANTIGO E CREDÍVEL DO QUE OS HERÓIS PAGÊNICOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1947,7 +1947,7 @@
           },
           {
             "id": "anf02-137-138-179",
-            "titulo": "CHAPTER XLI.",
+            "titulo": "CAPÍTULO XLI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1958,7 +1958,7 @@
           },
           {
             "id": "anf02-137-138-180",
-            "titulo": "CHAPTER XLII.—CONCLUDING STATEMENT AS TO THE AUTHOR.",
+            "titulo": "CAPÍTULO XLII.—DECLARAÇÃO CONCLUSIVA DO AUTOR.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1971,11 +1971,11 @@
       },
       {
         "id": "anf02-137-181",
-        "titulo": "Fragments.100",
+        "titulo": "Fragmentos.100",
         "children": [
           {
             "id": "anf02-137-181-182",
-            "titulo": "I.",
+            "titulo": "eu.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2012,7 +2012,7 @@
           },
           {
             "id": "anf02-137-181-185",
-            "titulo": "IV.",
+            "titulo": "4.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2119,15 +2119,15 @@
   },
   {
     "id": "anf02-194",
-    "titulo": "THEOPHILUS OF ANTIOCH",
+    "titulo": "TEÓFILO DE ANTIOQUIA",
     "children": [
       {
         "id": "anf02-194-195",
-        "titulo": "THEOPHILUS TO AUTOLYCUS.",
+        "titulo": "TEÓFILO A AUTÓLICO.",
         "children": [
           {
             "id": "anf02-194-195-196",
-            "titulo": "CHAPTER I.—AUTOLYCUS AN IDOLATER AND SCORNER OF CHRISTIANS.",
+            "titulo": "CAPÍTULO I.-AUTOLYCUS UM IDÓLATER E ESCARNEADOR DOS CRISTÃOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2138,7 +2138,7 @@
           },
           {
             "id": "anf02-194-195-197",
-            "titulo": "CHAPTER II.—THAT THE EYES OF THE SOUL MUST BE PURGED ERE GOD CAN BE SEEN.",
+            "titulo": "CAPÍTULO II. - QUE OS OLHOS DA ALMA DEVEM SER PURGADOS ANTES DE DEUS PODER SER VISTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2149,7 +2149,7 @@
           },
           {
             "id": "anf02-194-195-198",
-            "titulo": "CHAPTER III.—NATURE OF GOD.",
+            "titulo": "CAPÍTULO III. - NATUREZA DE DEUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2160,7 +2160,7 @@
           },
           {
             "id": "anf02-194-195-199",
-            "titulo": "CHAPTER IV.—ATTRIBUTES OF GOD.",
+            "titulo": "CAPÍTULO IV.-ATRIBUTOS DE DEUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2171,7 +2171,7 @@
           },
           {
             "id": "anf02-194-195-200",
-            "titulo": "CHAPTER V.—THE INVISIBLE GOD PERCEIVED THROUGH HIS WORKS.",
+            "titulo": "CAPÍTULO V. - O DEUS INVISÍVEL PERCEBIDO ATRAVÉS DE SUAS OBRAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2182,7 +2182,7 @@
           },
           {
             "id": "anf02-194-195-201",
-            "titulo": "CHAPTER VI.—GOD IS KNOWN BY HIS WORKS.",
+            "titulo": "CAPÍTULO VI. - DEUS É CONHECIDO POR SUAS OBRAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2193,7 +2193,7 @@
           },
           {
             "id": "anf02-194-195-202",
-            "titulo": "CHAPTER VII.—WE SHALL SEE GOD WHEN WE PUT ON IMMORTALITY.",
+            "titulo": "CAPÍTULO VII. - VEREMOS A DEUS QUANDO NOS COLOCARMOS NA IMORTALIDADE.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2204,7 +2204,7 @@
           },
           {
             "id": "anf02-194-195-203",
-            "titulo": "CHAPTER VIII.—FAITH REQUIRED IN ALL MATTERS.",
+            "titulo": "CAPÍTULO VIII. - FÉ EXIGIDA EM TODOS OS ASSUNTOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2215,7 +2215,7 @@
           },
           {
             "id": "anf02-194-195-204",
-            "titulo": "CHAPTER IX.—IMMORALITIES OF THE GODS.",
+            "titulo": "CAPÍTULO IX.- IMORALIDADES DOS DEUSES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2226,7 +2226,7 @@
           },
           {
             "id": "anf02-194-195-205",
-            "titulo": "CHAPTER X.—ABSURDITIES OF IDOLATRY.",
+            "titulo": "CAPÍTULO X. - ABSURDOS DA IDOLATRIA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2237,7 +2237,7 @@
           },
           {
             "id": "anf02-194-195-206",
-            "titulo": "CHAPTER XI.—THE KING TO BE HONOURED, GOD TO BE WORSHIPPED.",
+            "titulo": "CAPÍTULO XI. - O REI A SER HONRADO, DEUS A SER ADORADO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2248,7 +2248,7 @@
           },
           {
             "id": "anf02-194-195-207",
-            "titulo": "CHAPTER XII.—MEANING OF THE NAME CHRISTIAN.",
+            "titulo": "CAPÍTULO XII. - SIGNIFICADO DO NOME CRISTÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2259,7 +2259,7 @@
           },
           {
             "id": "anf02-194-195-208",
-            "titulo": "CHAPTER XIII.—THE RESURRECTION PROVED BY EXAMPLES.",
+            "titulo": "CAPÍTULO XIII. - A RESSURREIÇÃO PROVADA POR EXEMPLOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2270,7 +2270,7 @@
           },
           {
             "id": "anf02-194-195-209",
-            "titulo": "CHAPTER XIV.—THEOPHILUS AN EXAMPLE OF CONVERSION.",
+            "titulo": "CAPÍTULO XIV.-TEÓFILO UM EXEMPLO DE CONVERSÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2283,11 +2283,11 @@
       },
       {
         "id": "anf02-194-210",
-        "titulo": "Book II.",
+        "titulo": "Livro II.",
         "children": [
           {
             "id": "anf02-194-210-211",
-            "titulo": "CHAPTER I.—OCCASION OF WRITING THIS BOOK.",
+            "titulo": "CAPÍTULO I. - OCASIÃO DE ESCREVER ESTE LIVRO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2298,7 +2298,7 @@
           },
           {
             "id": "anf02-194-210-212",
-            "titulo": "CHAPTER II.—THE GODS ARE DESPISED WHEN THEY ARE MADE; BUT BECOME VALUABLE WHEN BOUGHT.",
+            "titulo": "CAPÍTULO II. - OS DEUSES SÃO DESPREZADOS QUANDO SÃO FEITOS; MAS TORNE-SE VALIOSO QUANDO COMPRADO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2309,7 +2309,7 @@
           },
           {
             "id": "anf02-194-210-213",
-            "titulo": "CHAPTER III.—WHAT HAS BECOME OF THE GODS?",
+            "titulo": "CAPÍTULO III. - O QUE ACONTECEU COM OS DEUSES?",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2320,7 +2320,7 @@
           },
           {
             "id": "anf02-194-210-214",
-            "titulo": "CHAPTER IV.—ABSURD OPINIONS OF THE PHILOSOPHERS CONCERNING GOD.",
+            "titulo": "CAPÍTULO IV. - OPINIÕES ABSURDAS DOS FILÓSOFOS SOBRE DEUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2331,7 +2331,7 @@
           },
           {
             "id": "anf02-194-210-215",
-            "titulo": "CHAPTER V.—OPINIONS OF HOMER AND HESIOD CONCERNING THE GODS.",
+            "titulo": "CAPÍTULO V.—OPINIÕES DE HOMERO E HESÍODO SOBRE OS DEUSES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2342,7 +2342,7 @@
           },
           {
             "id": "anf02-194-210-216",
-            "titulo": "CHAPTER VI.—HESIOD ON THE ORIGIN OF THE WORLD.",
+            "titulo": "CAPÍTULO VI.-HESIOD SOBRE A ORIGEM DO MUNDO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2353,7 +2353,7 @@
           },
           {
             "id": "anf02-194-210-217",
-            "titulo": "CHAPTER VII.—FABULOUS HEATHEN GENEALOGIES.",
+            "titulo": "CAPÍTULO VII. - FABULOSAS GENEALOGIAS PAGÔNICAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2364,7 +2364,7 @@
           },
           {
             "id": "anf02-194-210-218",
-            "titulo": "CHAPTER VIII.— OPINIONS CONCERNING PROVIDENCE.",
+            "titulo": "CAPÍTULO VIII.— OPINIÕES SOBRE A PROVIDÊNCIA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2379,7 +2379,7 @@
           },
           {
             "id": "anf02-194-210-219",
-            "titulo": "CHAPTER IX.—THE PROPHETS INSPIRED BY THE HOLY GHOST.",
+            "titulo": "CAPÍTULO IX.-OS PROFETAS INSPIRADOS PELO ESPÍRITO SANTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2390,7 +2390,7 @@
           },
           {
             "id": "anf02-194-210-220",
-            "titulo": "CHAPTER X.—THE WORLD CREATED BY GOD THROUGH THE WORD.",
+            "titulo": "CAPÍTULO X.—O MUNDO CRIADO POR DEUS ATRAVÉS DA PALAVRA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2401,7 +2401,7 @@
           },
           {
             "id": "anf02-194-210-221",
-            "titulo": "CHAPTER XI.—THE SIX DAYS’ WORK DESCRIBED.",
+            "titulo": "CAPÍTULO XI. - DESCRITOS OS SEIS DIAS DE TRABALHO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2412,7 +2412,7 @@
           },
           {
             "id": "anf02-194-210-222",
-            "titulo": "CHAPTER XII.—THE GLORY OF THE SIX DAYS’ WORK.",
+            "titulo": "CAPÍTULO XII. - A GLÓRIA DOS SEIS DIAS DE TRABALHO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2423,7 +2423,7 @@
           },
           {
             "id": "anf02-194-210-223",
-            "titulo": "CHAPTER XIII.—REMARKS ON THE CREATION OF THE WORLD.",
+            "titulo": "CAPÍTULO XIII. - OBSERVAÇÕES SOBRE A CRIAÇÃO DO MUNDO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2434,7 +2434,7 @@
           },
           {
             "id": "anf02-194-210-224",
-            "titulo": "CHAPTER XIV.—THE WORLD COMPARED TO THE SEA.",
+            "titulo": "CAPÍTULO XIV.—O MUNDO COMPARADO COM O MAR.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2445,7 +2445,7 @@
           },
           {
             "id": "anf02-194-210-225",
-            "titulo": "CHAPTER XV.—OF THE FOURTH DAY.",
+            "titulo": "CAPÍTULO XV. - DO QUARTO DIA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2456,7 +2456,7 @@
           },
           {
             "id": "anf02-194-210-226",
-            "titulo": "CHAPTER XVI.—OF THE FIFTH DAY.",
+            "titulo": "CAPÍTULO XVI. - DO QUINTO DIA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2467,7 +2467,7 @@
           },
           {
             "id": "anf02-194-210-227",
-            "titulo": "CHAPTER XVII.—OF THE SIXTH DAY.",
+            "titulo": "CAPÍTULO XVII.-DO SEXTO DIA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2478,7 +2478,7 @@
           },
           {
             "id": "anf02-194-210-228",
-            "titulo": "CHAPTER XVIII.—THE CREATION OF MAN.",
+            "titulo": "CAPÍTULO XVIII.-A CRIAÇÃO DO HOMEM.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2489,7 +2489,7 @@
           },
           {
             "id": "anf02-194-210-229",
-            "titulo": "CHAPTER XIX.—MAN IS PLACED IN PARADISE.",
+            "titulo": "CAPÍTULO XIX.—O HOMEM É COLOCADO NO PARAÍSO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2500,7 +2500,7 @@
           },
           {
             "id": "anf02-194-210-230",
-            "titulo": "CHAPTER XX.—THE SCRIPTURAL ACCOUNT OF PARADISE.",
+            "titulo": "CAPÍTULO XX. - O RELATO BÍBLICO DO PARAÍSO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2511,7 +2511,7 @@
           },
           {
             "id": "anf02-194-210-231",
-            "titulo": "CHAPTER XXI.—OF THE FALL OF MAN.",
+            "titulo": "CAPÍTULO XXI.- DA QUEDA DO HOMEM.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2533,7 +2533,7 @@
           },
           {
             "id": "anf02-194-210-233",
-            "titulo": "CHAPTER XXIII.—THE TRUTH OF THE ACCOUNT IN GENESIS.",
+            "titulo": "CAPÍTULO XXIII.-A VERDADE DO RELATO EM GÊNESIS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2544,7 +2544,7 @@
           },
           {
             "id": "anf02-194-210-234",
-            "titulo": "CHAPTER XXIV.—THE BEAUTY OF PARADISE.",
+            "titulo": "CAPÍTULO XXIV. - A BELEZA DO PARAÍSO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2555,7 +2555,7 @@
           },
           {
             "id": "anf02-194-210-235",
-            "titulo": "CHAPTER XXV.—GOD WAS JUSTIFIED IN FORBIDDING MAN TO EAT OF THE TREE OF KNOWLEDGE.",
+            "titulo": "CAPÍTULO XXV. - DEUS FOI JUSTIFICADO EM PROIBIR O HOMEM DE COMER DA ÁRVORE DO CONHECIMENTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2566,7 +2566,7 @@
           },
           {
             "id": "anf02-194-210-236",
-            "titulo": "CHAPTER XXVI.—GOD’S GOODNESS IN EXPELLING MAN FROM PARADISE.",
+            "titulo": "CAPÍTULO XXVI. - A BONDADE DE DEUS EM EXPULSAR O HOMEM DO PARAÍSO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2577,7 +2577,7 @@
           },
           {
             "id": "anf02-194-210-237",
-            "titulo": "CHAPTER XXVII.—THE NATURE OF MAN.",
+            "titulo": "CAPÍTULO XXVII.-A NATUREZA DO HOMEM.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2588,7 +2588,7 @@
           },
           {
             "id": "anf02-194-210-238",
-            "titulo": "CHAPTER XXVIII.—WHY EVE WAS FORMED OF ADAM’S RIB.",
+            "titulo": "CAPÍTULO XXVIII.- POR QUE EVA FOI FORMADA DA COSTELA DE ADÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2599,7 +2599,7 @@
           },
           {
             "id": "anf02-194-210-239",
-            "titulo": "CHAPTER XXIX.—CAIN’S CRIME.",
+            "titulo": "CAPÍTULO XXIX.-O CRIME DE CAIM.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2610,7 +2610,7 @@
           },
           {
             "id": "anf02-194-210-240",
-            "titulo": "CHAPTER XXX.—CAIN’S FAMILY AND THEIR INVENTIONS.",
+            "titulo": "CAPÍTULO XXX. - A FAMÍLIA DE CAIM E SUAS INVENÇÕES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2621,7 +2621,7 @@
           },
           {
             "id": "anf02-194-210-241",
-            "titulo": "CHAPTER XXXI.—THE HISTORY AFTER THE FLOOD.",
+            "titulo": "CAPÍTULO XXXI. - A HISTÓRIA APÓS O DILÚVIO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2632,7 +2632,7 @@
           },
           {
             "id": "anf02-194-210-242",
-            "titulo": "CHAPTER XXXII.—HOW THE HUMAN RACE WAS DISPERSED.",
+            "titulo": "CAPÍTULO XXXII. - COMO A RAÇA HUMANA FOI DISPERSA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2643,7 +2643,7 @@
           },
           {
             "id": "anf02-194-210-243",
-            "titulo": "CHAPTER XXXIII.—PROFANE HISTORY GIVES NO ACCOUNT OF THESE MATTERS.",
+            "titulo": "CAPÍTULO XXXIII. - A HISTÓRIA PROFANA NÃO DÁ CONTA DESSES ASSUNTOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2654,7 +2654,7 @@
           },
           {
             "id": "anf02-194-210-244",
-            "titulo": "CHAPTER XXXIV.—THE PROPHETS ENJOINED HOLINESS OF LIFE.",
+            "titulo": "CAPÍTULO XXXIV. - OS PROFETAS APRECIARAM A SANTIDADE DA VIDA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2665,7 +2665,7 @@
           },
           {
             "id": "anf02-194-210-245",
-            "titulo": "CHAPTER XXXV.—PRECEPTS FROM THE PROPHETIC BOOKS.",
+            "titulo": "CAPÍTULO XXXV. - PRECEITOS DOS LIVROS PROFÉTICOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2687,7 +2687,7 @@
           },
           {
             "id": "anf02-194-210-247",
-            "titulo": "CHAPTER XXXVII.—THE TESTIMONIES OF THE POETS.",
+            "titulo": "CAPÍTULO XXXVII. - OS TESTEMUNHOS DOS POETAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2698,7 +2698,7 @@
           },
           {
             "id": "anf02-194-210-248",
-            "titulo": "CHAPTER XXXVIII.—THE TEACHINGS OF THE GREEK POETS AND PHILOSOPHERS CONFIRMATORY OF THOSE OF THE HEBREW PROPHETS.",
+            "titulo": "CAPÍTULO XXXVIII. - OS ENSINAMENTOS DOS POETAS E FILÓSOFOS GREGOS CONFIRMATÓRIOS DOS PROFETAS HEBRAICOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2715,11 +2715,11 @@
       },
       {
         "id": "anf02-194-249",
-        "titulo": "Book III.",
+        "titulo": "Livro III.",
         "children": [
           {
             "id": "anf02-194-249-250",
-            "titulo": "CHAPTER I.—AUTOLYCUS NOT YET CONVINCED.",
+            "titulo": "CAPÍTULO I.-AUTOLYCUS AINDA NÃO ESTÁ CONVENCIDO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2730,7 +2730,7 @@
           },
           {
             "id": "anf02-194-249-251",
-            "titulo": "CHAPTER II.—PROFANE AUTHORS HAD NO MEANS OF KNOWING THE TRUTH.",
+            "titulo": "CAPÍTULO II.-AUTORES PROFANOS NÃO TINHAM MEIOS DE SABER A VERDADE.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2741,7 +2741,7 @@
           },
           {
             "id": "anf02-194-249-252",
-            "titulo": "CHAPTER III.—THEIR CONTRADICTIONS.",
+            "titulo": "CAPÍTULO III.- SUAS CONTRADIÇÕES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2752,7 +2752,7 @@
           },
           {
             "id": "anf02-194-249-253",
-            "titulo": "CHAPTER IV.—HOW AUTOLYCUS HAD BEEN MISLED BY FALSE ACCUSATIONS AGAINST THE CHRISTIANS.",
+            "titulo": "CAPÍTULO IV. - COMO AUTOLYCUS FOI ENGANADO POR FALSAS ACUSAÇÕES CONTRA OS CRISTÃOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2763,7 +2763,7 @@
           },
           {
             "id": "anf02-194-249-254",
-            "titulo": "CHAPTER V.—PHILOSOPHERS INCULCATE CANNIBALISM.",
+            "titulo": "CAPÍTULO V. - OS FILÓSOFOS INCULCAM O CANIBALISMO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2774,7 +2774,7 @@
           },
           {
             "id": "anf02-194-249-255",
-            "titulo": "CHAPTER VI.—OTHER OPINIONS OF THE PHILOSOPHERS.",
+            "titulo": "CAPÍTULO VI.-OUTRAS OPINIÕES DOS FILÓSOFOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2785,7 +2785,7 @@
           },
           {
             "id": "anf02-194-249-256",
-            "titulo": "CHAPTER VII.—VARYING DOCTRINE CONCERNING THE GODS.",
+            "titulo": "CAPÍTULO VII.-VÁRIAS DOUTRINAS RELATIVAS AOS DEUSES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2800,7 +2800,7 @@
           },
           {
             "id": "anf02-194-249-257",
-            "titulo": "CHAPTER VIII.—WICKEDNESS ATTRIBUTED TO THE GODS BY HEATHEN WRITERS.",
+            "titulo": "CAPÍTULO VIII. - MALDADE ATRIBUÍDA AOS DEUSES PELOS ESCRITORES PAGÃOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2811,7 +2811,7 @@
           },
           {
             "id": "anf02-194-249-258",
-            "titulo": "CHAPTER IX.—CHRISTIAN DOCTRINE OF GOD AND HIS LAW.",
+            "titulo": "CAPÍTULO IX. - DOUTRINA CRISTÃ DE DEUS E SUA LEI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2822,7 +2822,7 @@
           },
           {
             "id": "anf02-194-249-259",
-            "titulo": "CHAPTER X.—OF HUMANITY TO STRANGERS.",
+            "titulo": "CAPÍTULO X. - DA HUMANIDADE AOS ESTRANHOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2833,7 +2833,7 @@
           },
           {
             "id": "anf02-194-249-260",
-            "titulo": "CHAPTER XI.—OF REPENTANCE.",
+            "titulo": "CAPÍTULO XI. - DO ARREPENDIMENTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2844,7 +2844,7 @@
           },
           {
             "id": "anf02-194-249-261",
-            "titulo": "CHAPTER XII.—OF RIGHTEOUSNESS.",
+            "titulo": "CAPÍTULO XII. - DA JUSTIÇA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2855,7 +2855,7 @@
           },
           {
             "id": "anf02-194-249-262",
-            "titulo": "CHAPTER XIII.—OF CHASTITY.",
+            "titulo": "CAPÍTULO XIII.- DA CASTIDADE.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2866,7 +2866,7 @@
           },
           {
             "id": "anf02-194-249-263",
-            "titulo": "CHAPTER XIV.—OF LOVING OUR ENEMIES.",
+            "titulo": "CAPÍTULO XIV. - DE AMAR NOSSOS INIMIGOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2877,7 +2877,7 @@
           },
           {
             "id": "anf02-194-249-264",
-            "titulo": "CHAPTER XV.—THE INNOCENCE OF THE CHRISTIANS DEFENDED.",
+            "titulo": "CAPÍTULO XV. - A INOCÊNCIA DOS CRISTÃOS DEFENDIDA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2888,7 +2888,7 @@
           },
           {
             "id": "anf02-194-249-265",
-            "titulo": "CHAPTER XVI.—UNCERTAIN CONJECTURES OF THE PHILOSOPHERS.",
+            "titulo": "CAPÍTULO XVI. - CONJECTURAS INCERTAS DOS FILÓSOFOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2899,7 +2899,7 @@
           },
           {
             "id": "anf02-194-249-266",
-            "titulo": "CHAPTER XVII.—ACCURATE INFORMATION OF THE CHRISTIANS.",
+            "titulo": "CAPÍTULO XVII. - INFORMAÇÕES PRECISAS DOS CRISTÃOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2910,7 +2910,7 @@
           },
           {
             "id": "anf02-194-249-267",
-            "titulo": "CHAPTER XVIII.—ERRORS OF THE GREEKS ABOUT THE DELUGE.",
+            "titulo": "CAPÍTULO XVIII. - ERROS DOS GREGOS SOBRE O DILÚVIO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2932,7 +2932,7 @@
           },
           {
             "id": "anf02-194-249-269",
-            "titulo": "CHAPTER XX.—ANTIQUITY OF MOSES.",
+            "titulo": "CAPÍTULO XX. - ANTIGUIDADE DE MOISÉS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2943,7 +2943,7 @@
           },
           {
             "id": "anf02-194-249-270",
-            "titulo": "CHAPTER XXI.—OF MANETHO’S INACCURACY.",
+            "titulo": "CAPÍTULO XXI.- DA IMPRECISÃO DE MANETO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2954,7 +2954,7 @@
           },
           {
             "id": "anf02-194-249-271",
-            "titulo": "CHAPTER XXII.—ANTIQUITY OF THE TEMPLE.",
+            "titulo": "CAPÍTULO XXII. - ANTIGUIDADE DO TEMPLO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2965,7 +2965,7 @@
           },
           {
             "id": "anf02-194-249-272",
-            "titulo": "CHAPTER XXIII.—PROPHETS MORE ANCIENT THAN GREEK WRITERS.",
+            "titulo": "CAPÍTULO XXIII. - PROFETAS MAIS ANTIGOS QUE OS ESCRITORES GREGOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2976,7 +2976,7 @@
           },
           {
             "id": "anf02-194-249-273",
-            "titulo": "CHAPTER XXIV.—CHRONOLOGY FROM ADAM.",
+            "titulo": "CAPÍTULO XXIV.-CRONOLOGIA DE ADÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2987,7 +2987,7 @@
           },
           {
             "id": "anf02-194-249-274",
-            "titulo": "CHAPTER XXV.—FROM SAUL TO THE CAPTIVITY.",
+            "titulo": "CAPÍTULO XXV. - DE SAUL AO CATIVEIRO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2998,7 +2998,7 @@
           },
           {
             "id": "anf02-194-249-275",
-            "titulo": "CHAPTER XXVI.—CONTRAST BETWEEN HEBREW AND GREEK WRITINGS.",
+            "titulo": "CAPÍTULO XXVI. - CONTRASTE ENTRE OS ESCRITOS HEBRAICOS E GREGOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3009,7 +3009,7 @@
           },
           {
             "id": "anf02-194-249-276",
-            "titulo": "CHAPTER XXVII.—ROMAN CHRONOLOGY TO THE DEATH OF M. AURELIUS.",
+            "titulo": "CAPÍTULO XXVII.-CRONOLOGIA ROMANA ATÉ A MORTE DE M. AURÉLIO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3020,7 +3020,7 @@
           },
           {
             "id": "anf02-194-249-277",
-            "titulo": "CHAPTER XXVIII.—LEADING CHRONOLOGICAL EPOCHS.",
+            "titulo": "CAPÍTULO XXVIII.- PRINCIPAIS ÉPOCAS CRONOLÓGICAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3031,7 +3031,7 @@
           },
           {
             "id": "anf02-194-249-278",
-            "titulo": "CHAPTER XXIX.—ANTIQUITY OF CHRISTIANITY.",
+            "titulo": "CAPÍTULO XXIX. - ANTIGUIDADE DO CRISTIANISMO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3042,7 +3042,7 @@
           },
           {
             "id": "anf02-194-249-279",
-            "titulo": "CHAPTER XXX.—WHY THE GREEKS DID NOT MENTION OUR HISTORIES.",
+            "titulo": "CAPÍTULO XXX. - POR QUE OS GREGOS NÃO MENCIONARAM NOSSAS HISTÓRIAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3061,11 +3061,11 @@
   },
   {
     "id": "anf02-280",
-    "titulo": "WRITINGS OF ATHENAGORAS",
+    "titulo": "ESCRITOS DE ATENÁGORAS",
     "children": [
       {
         "id": "anf02-280-281",
-        "titulo": "ATHENAGORAS Introductory Note TO THE WRITINGS OF ATHENAGORAS",
+        "titulo": "ATENÁGORAS Nota Introdutória AOS ESCRITOS DE ATENÁGORAS",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -3116,7 +3116,7 @@
         "children": [
           {
             "id": "anf02-280-282-283",
-            "titulo": "CHAPTER I.—INJUSTICE SHOWN TOWARDS THE CHRISTIANS.",
+            "titulo": "CAPÍTULO I. - INJUSTIÇA MOSTRADA PARA OS CRISTÃOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3127,7 +3127,7 @@
           },
           {
             "id": "anf02-280-282-284",
-            "titulo": "CHAPTER II.—CLAIM TO BE TREATED AS OTHERS ARE WHEN ACCUSED.",
+            "titulo": "CAPÍTULO II.- RECLAMAR SER TRATADO COMO OS OUTROS SÃO QUANDO ACUSADOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3138,7 +3138,7 @@
           },
           {
             "id": "anf02-280-282-285",
-            "titulo": "CHAPTER III.—CHARGES BROUGHT AGAINST THE CHRISTIANS.",
+            "titulo": "CAPÍTULO III.-ACUSAÇÕES CONTRA OS CRISTÃOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3149,7 +3149,7 @@
           },
           {
             "id": "anf02-280-282-286",
-            "titulo": "CHAPTER IV.—THE CHRISTIANS ARE NOT ATHEISTS, BUT ACKNOWLEDGE ONE ONLY GOD.",
+            "titulo": "CAPÍTULO IV.-OS CRISTÃOS NÃO SÃO ATEUS, MAS RECONHECEM UM SÓ DEUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3160,7 +3160,7 @@
           },
           {
             "id": "anf02-280-282-287",
-            "titulo": "CHAPTER V.—TESTIMONY OF THE POETS TO THE UNITY OF GOD.16",
+            "titulo": "CAPÍTULO V. — TESTEMUNHO DOS POETAS SOBRE A UNIDADE DE DEUS.16",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3171,7 +3171,7 @@
           },
           {
             "id": "anf02-280-282-288",
-            "titulo": "CHAPTER VI.—OPINIONS OF THE PHILOSOPHERS AS TO THE ONE GOD.",
+            "titulo": "CAPÍTULO VI. - OPINIÕES DOS FILÓSOFOS SOBRE O DEUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3182,7 +3182,7 @@
           },
           {
             "id": "anf02-280-282-289",
-            "titulo": "CHAPTER VII.—SUPERIORITY OF THE CHRISTIAN DOCTRINE RESPECTING GOD.",
+            "titulo": "CAPÍTULO VII.-SUPERIORIDADE DA DOUTRINA CRISTÃ RESPEITANDO A DEUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3193,7 +3193,7 @@
           },
           {
             "id": "anf02-280-282-290",
-            "titulo": "CHAPTER VIII.—ABSURDITIES OF POLYTHEISM.",
+            "titulo": "CAPÍTULO VIII. - ABSURDOS DO POLITEÍSMO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3204,7 +3204,7 @@
           },
           {
             "id": "anf02-280-282-291",
-            "titulo": "CHAPTER IX.—THE TESTIMONY OF THE PROPHETS.",
+            "titulo": "CAPÍTULO IX. - O TESTEMUNHO DOS PROFETAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3215,7 +3215,7 @@
           },
           {
             "id": "anf02-280-282-292",
-            "titulo": "CHAPTER X.—THE CHRISTIANS WORSHIP THE FATHER, SON, AND HOLY GHOST.",
+            "titulo": "CAPÍTULO X. - OS CRISTÃOS ADORAM O PAI, O FILHO E O ESPÍRITO SANTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3226,7 +3226,7 @@
           },
           {
             "id": "anf02-280-282-293",
-            "titulo": "CHAPTER XI.—THE MORAL TEACHING OF THE CHRISTIANS REPELS THE CHARGE BROUGHT AGAINST THEM.",
+            "titulo": "CAPÍTULO XI. - O ENSINO MORAL DOS CRISTÃOS REPELE A CARGA TRAZIDA CONTRA ELES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3237,7 +3237,7 @@
           },
           {
             "id": "anf02-280-282-294",
-            "titulo": "CHAPTER XII.—CONSEQUENT ABSURDITY OF THE CHARGE OF ATHEISM.",
+            "titulo": "CAPÍTULO XII. - ABSURDO CONSEQUENTE DA CARGA DE ATEÍSMO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3248,7 +3248,7 @@
           },
           {
             "id": "anf02-280-282-295",
-            "titulo": "CHAPTER XIII.—WHY THE CHRISTIANS DO NOT OFFER SACRIFICES.",
+            "titulo": "CAPÍTULO XIII.- POR QUE OS CRISTÃOS NÃO OFERECEM SACRIFÍCIOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3263,7 +3263,7 @@
           },
           {
             "id": "anf02-280-282-296",
-            "titulo": "CHAPTER XIV.—INCONSISTENCY OF THOSE WHO ACCUSE THE CHRISTIANS.",
+            "titulo": "CAPÍTULO XIV. - INCONSISTÊNCIA DE QUEM ACUSAM OS CRISTÃOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3274,7 +3274,7 @@
           },
           {
             "id": "anf02-280-282-297",
-            "titulo": "CHAPTER XV.—THE CHRISTIANS DISTINGUISH GOD FROM MATTER.",
+            "titulo": "CAPÍTULO XV. - OS CRISTÃOS DISTINGUEM DEUS DA MATÉRIA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3285,7 +3285,7 @@
           },
           {
             "id": "anf02-280-282-298",
-            "titulo": "CHAPTER XVI.—THE CHRISTIANS DO NOT WORSHIP THE UNIVERSE.",
+            "titulo": "CAPÍTULO XVI. - OS CRISTÃOS NÃO ADORAM O UNIVERSO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3296,7 +3296,7 @@
           },
           {
             "id": "anf02-280-282-299",
-            "titulo": "CHAPTER XVII.—THE NAMES OF THE GODS AND THEIR IMAGES ARE BUT OF RECENT DATE.",
+            "titulo": "CAPÍTULO XVII. - OS NOMES DOS DEUSES E SUAS IMAGENS SÃO MAIS RECENTES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3307,7 +3307,7 @@
           },
           {
             "id": "anf02-280-282-300",
-            "titulo": "CHAPTER XVIII.—THE GODS THEMSELVES HAVE BEEN CREATED, AS THE POETS CONFESS.",
+            "titulo": "CAPÍTULO XVIII. - OS PRÓPRIOS DEUSES FORAM CRIADOS, COMO CONFESSAM OS POETAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3318,7 +3318,7 @@
           },
           {
             "id": "anf02-280-282-301",
-            "titulo": "CHAPTER XIX.—THE PHILOSOPHERS AGREE WITH THE POETS RESPECTING THE GODS.",
+            "titulo": "CAPÍTULO XIX. - OS FILÓSOFOS CONCORDAM COM OS POETAS A RESPEITO DOS DEUSES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3329,7 +3329,7 @@
           },
           {
             "id": "anf02-280-282-302",
-            "titulo": "CHAPTER XX.—ABSURD REPRESENTATIONS OF THE GODS.",
+            "titulo": "CAPÍTULO XX.-REPRESENTAÇÕES ABSURDAS DOS DEUSES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3340,7 +3340,7 @@
           },
           {
             "id": "anf02-280-282-303",
-            "titulo": "CHAPTER XXI.—IMPURE LOVES ASCRIBED TO THE GODS.",
+            "titulo": "CAPÍTULO XXI. - AMOR IMPURO ATRIBUÍDO AOS DEUSES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3351,7 +3351,7 @@
           },
           {
             "id": "anf02-280-282-304",
-            "titulo": "CHAPTER XXII.—PRETENDED SYMBOLICAL EXPLANATIONS.",
+            "titulo": "CAPÍTULO XXII. - EXPLICAÇÕES SIMBÓLICAS PRETENDIDAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3366,7 +3366,7 @@
           },
           {
             "id": "anf02-280-282-305",
-            "titulo": "CHAPTER XXIII.—OPINIONS OF THALES AND PLATO.",
+            "titulo": "CAPÍTULO XXIII.-OPINIÕES DE TALES E PLATÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3377,7 +3377,7 @@
           },
           {
             "id": "anf02-280-282-306",
-            "titulo": "CHAPTER XXIV.—CONCERNING THE ANGELS AND GIANTS.",
+            "titulo": "CAPÍTULO XXIV. - SOBRE OS ANJOS E GIGANTES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3388,7 +3388,7 @@
           },
           {
             "id": "anf02-280-282-307",
-            "titulo": "CHAPTER XXV.—THE POETS AND PHILOSOPHERS HAVE DENIED A DIVINE PROVIDENCE.",
+            "titulo": "CAPÍTULO XXV. - OS POETAS E FILÓSOFOS NEGAM UMA PROVIDÊNCIA DIVINA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3399,7 +3399,7 @@
           },
           {
             "id": "anf02-280-282-308",
-            "titulo": "CHAPTER XXVI.—THE DEMONS ALLURE MEN TO THE WORSHIP OF IMAGES.",
+            "titulo": "CAPÍTULO XXVI. - OS DEMÔNIOS ATRAEM OS HOMENS À ADORAÇÃO DE IMAGENS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3410,7 +3410,7 @@
           },
           {
             "id": "anf02-280-282-309",
-            "titulo": "CHAPTER XXVII.—ARTIFICES OF THE DEMONS.",
+            "titulo": "CAPÍTULO XXVII.-ARTIFÍCIOS DOS DEMÔNIOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3421,7 +3421,7 @@
           },
           {
             "id": "anf02-280-282-310",
-            "titulo": "CHAPTER XXVIII.—THE HEATHEN GODS WERE SIMPLY MEN.",
+            "titulo": "CAPÍTULO XXVIII. - OS DEUSES PAGÕES ERAM SIMPLESMENTE HOMENS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3432,7 +3432,7 @@
           },
           {
             "id": "anf02-280-282-311",
-            "titulo": "CHAPTER XXIX.—PROOF OF THE SAME FROM THE POETS.",
+            "titulo": "CAPÍTULO XXIX. - PROVA DO MESMO DOS POETAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3443,7 +3443,7 @@
           },
           {
             "id": "anf02-280-282-312",
-            "titulo": "CHAPTER XXX.—REASONS WHY DIVINITY HAS BEEN ASCRIBED TO MEN.",
+            "titulo": "CAPÍTULO XXX. - RAZÕES PELAS QUAIS A DIVINDADE FOI ATRIBUÍDA AOS HOMENS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3454,7 +3454,7 @@
           },
           {
             "id": "anf02-280-282-313",
-            "titulo": "CHAPTER XXXI.—CONFUTATION OF THE OTHER CHARGES BROUGHT AGAINST THE CHRISTIANS.",
+            "titulo": "CAPÍTULO XXXI. - CONFUTAÇÃO DAS OUTRAS CARGAS TRAZIDAS CONTRA OS CRISTÃOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3465,7 +3465,7 @@
           },
           {
             "id": "anf02-280-282-314",
-            "titulo": "CHAPTER XXXII.—ELEVATED MORALITY OF THE CHRISTIANS.",
+            "titulo": "CAPÍTULO XXXII. - ELEVADA MORALIDADE DOS CRISTÃOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3476,7 +3476,7 @@
           },
           {
             "id": "anf02-280-282-315",
-            "titulo": "CHAPTER XXXIII.—CHASTITY OF THE CHRISTIANS WITH RESPECT TO MARRIAGE.",
+            "titulo": "CAPÍTULO XXXIII.-CASTIDADE DOS CRISTÃOS COM RESPEITO AO CASAMENTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3487,7 +3487,7 @@
           },
           {
             "id": "anf02-280-282-316",
-            "titulo": "CHAPTER XXXIV.—THE VAST DIFFERENCE IN MORALS BETWEEN THE CHRISTIANS AND THEIR ACCUSERS.",
+            "titulo": "CAPÍTULO XXXIV. - A GRANDE DIFERENÇA DE MORAL ENTRE OS CRISTÃOS E SEUS ACUSADORES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3498,7 +3498,7 @@
           },
           {
             "id": "anf02-280-282-317",
-            "titulo": "CHAPTER XXXV.—THE CHRISTIANS CONDEMN AND DETEST ALL CRUELTY.",
+            "titulo": "CAPÍTULO XXXV. - OS CRISTÃOS CONDENAM E DETESTAM TODA CRUELDADE.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3509,7 +3509,7 @@
           },
           {
             "id": "anf02-280-282-318",
-            "titulo": "CHAPTER XXXVI.—BEARING OF THE DOCTRINE OF THE RESURRECTION ON THE PRACTICES OF THE CHRISTIANS.",
+            "titulo": "CAPÍTULO XXXVI. - ROLAMENTO DA DOUTRINA DA RESSURREIÇÃO NAS PRÁTICAS DOS CRISTÃOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3520,7 +3520,7 @@
           },
           {
             "id": "anf02-280-282-319",
-            "titulo": "CHAPTER XXXVII.—ENTREATY TO BE FAIRLY JUDGED.",
+            "titulo": "CAPÍTULO XXXVII.-ENTRETO PARA SER JULGADO JUSTAMENTE.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3533,11 +3533,11 @@
       },
       {
         "id": "anf02-280-320",
-        "titulo": "THE TREATISE OF ATHENAGORAS",
+        "titulo": "O TRATADO DE ATENÁGORAS",
         "children": [
           {
             "id": "anf02-280-320-321",
-            "titulo": "CHAPTER I.—DEFENCE OF THE TRUTH SHOULD PRECEDE DISCUSSIONS REGARDING IT.142",
+            "titulo": "CAPÍTULO I.—A DEFESA DA VERDADE DEVE PRECEDER AS DISCUSSÕES A RESPEITO dela.142",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3548,7 +3548,7 @@
           },
           {
             "id": "anf02-280-320-322",
-            "titulo": "CHAPTER II.—A RESURRECTION IS NOT IMPOSSIBLE.",
+            "titulo": "CAPÍTULO II. - UMA RESSURREIÇÃO NÃO É IMPOSSÍVEL.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3559,7 +3559,7 @@
           },
           {
             "id": "anf02-280-320-323",
-            "titulo": "CHAPTER III.—HE WHO COULD CREATE, CAN ALSO RAISE UP THE DEAD.",
+            "titulo": "CAPÍTULO III.—AQUELE QUE PODERIA CRIAR, TAMBÉM PODE LEVANTAR OS MORTOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3570,7 +3570,7 @@
           },
           {
             "id": "anf02-280-320-324",
-            "titulo": "CHAPTER IV.—OBJECTION FROM THE FACT THAT SOME HUMAN BODIES HAVE BECOME PART OF OTHERS.",
+            "titulo": "CAPÍTULO IV.—OBJEÇÃO PELO FATO DE ALGUNS CORPOS HUMANOS SE TORNARAM PARTE DE OUTROS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3581,7 +3581,7 @@
           },
           {
             "id": "anf02-280-320-325",
-            "titulo": "CHAPTER V.—REFERENCE TO THE PROCESSES OF DIGESTION AND NUTRITION.",
+            "titulo": "CAPÍTULO V.—REFERÊNCIA AOS PROCESSOS DE DIGESTÃO E NUTRIÇÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3592,7 +3592,7 @@
           },
           {
             "id": "anf02-280-320-326",
-            "titulo": "CHAPTER VI.—EVERYTHING THAT IS USELESS OR HURTFUL IS REJECTED.",
+            "titulo": "CAPÍTULO VI. - TUDO O QUE É INÚTIL OU DOENTE É REJEITADO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3603,7 +3603,7 @@
           },
           {
             "id": "anf02-280-320-327",
-            "titulo": "CHAPTER VII.—THE RESURRECTION-BODY DIFFERENT FROM THE PRESENT.",
+            "titulo": "CAPÍTULO VII.—O CORPO DA RESSURREIÇÃO DIFERENTE DO PRESENTE.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3614,7 +3614,7 @@
           },
           {
             "id": "anf02-280-320-328",
-            "titulo": "CHAPTER VIII.—HUMAN FLESH NOT THE PROPER OR NATURAL FOOD OF MEN.",
+            "titulo": "CAPÍTULO VIII. - A CARNE HUMANA NÃO É O ALIMENTO ADEQUADO OU NATURAL DOS HOMENS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3625,7 +3625,7 @@
           },
           {
             "id": "anf02-280-320-329",
-            "titulo": "CHAPTER IX.—ABSURDITY OF ARGUING FROM MAN’S IMPOTENCY.",
+            "titulo": "CAPÍTULO IX. - ABSURDO DE ARGUMENTAR SOBRE A IMPOTÊNCIA DO HOMEM.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3636,7 +3636,7 @@
           },
           {
             "id": "anf02-280-320-330",
-            "titulo": "CHAPTER X.—IT CANNOT BE SHOWN THAT GOD DOES NOT WILL A RESURRECTION.",
+            "titulo": "CAPÍTULO X. - NÃO PODE SER MOSTRADO QUE DEUS NÃO QUER UMA RESSURREIÇÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3647,7 +3647,7 @@
           },
           {
             "id": "anf02-280-320-331",
-            "titulo": "CHAPTER XI.—RECAPITULATION.",
+            "titulo": "CAPÍTULO XI.-RECAPITULAÇÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3658,7 +3658,7 @@
           },
           {
             "id": "anf02-280-320-332",
-            "titulo": "CHAPTER XII.—ARGUMENT FOR THE RESURRECTION FROM THE PURPOSE CONTEMPLATED IN MAN’S CREATION.",
+            "titulo": "CAPÍTULO XII.—ARGUMENTO PARA A RESSURREIÇÃO DO PROPÓSITO CONTEMPLADO NA CRIAÇÃO DO HOMEM.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3669,7 +3669,7 @@
           },
           {
             "id": "anf02-280-320-333",
-            "titulo": "CHAPTER XIII.—CONTINUATION OF THE ARGUMENT.",
+            "titulo": "CAPÍTULO XIII.-CONTINUAÇÃO DO ARGUMENTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3680,7 +3680,7 @@
           },
           {
             "id": "anf02-280-320-334",
-            "titulo": "CHAPTER XIV.—THE RESURRECTION DOES NOT REST SOLELY ON THE FACT OF A FUTURE JUDGMENT.",
+            "titulo": "CAPÍTULO XIV. - A RESSURREIÇÃO NÃO SE BASTA SOMENTE NO FATO DE UM JULGAMENTO FUTURO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3691,7 +3691,7 @@
           },
           {
             "id": "anf02-280-320-335",
-            "titulo": "CHAPTER XV.—ARGUMENT FOR THE RESURRECTION FROM THE NATURE OF MAN.",
+            "titulo": "CAPÍTULO XV. - ARGUMENTO PARA A RESSURREIÇÃO DA NATUREZA DO HOMEM.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3702,7 +3702,7 @@
           },
           {
             "id": "anf02-280-320-336",
-            "titulo": "CHAPTER XVI—ANALOGY OF DEATH AND SLEEP, AND CONSEQUENT ARGUMENT FOR THE RESURRECTION.",
+            "titulo": "CAPÍTULO XVI - ANALOGIA DA MORTE E DO SONO, E CONSEQUENTE ARGUMENTO PARA A RESSURREIÇÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3713,7 +3713,7 @@
           },
           {
             "id": "anf02-280-320-337",
-            "titulo": "CHAPTER XVII.—THE SERIES OF CHANGES WE CAN NOW TRACE IN MAN RENDERS A RESURRECTION PROBABLE.",
+            "titulo": "CAPÍTULO XVII. - A SÉRIE DE MUDANÇAS QUE AGORA PODEMOS RASTREAR NO HOMEM TORNA PROVÁVEL UMA RESSURREIÇÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3724,7 +3724,7 @@
           },
           {
             "id": "anf02-280-320-338",
-            "titulo": "CHAPTER XVIII.—JUDGMENT MUST HAVE REFERENCE BOTH TO SOUL AND BODY: THERE WILL THEREFORE BE A RESURRECTION.",
+            "titulo": "CAPÍTULO XVIII. - O JULGAMENTO DEVE TER REFERÊNCIA À ALMA E AO CORPO: PORTANTO HAVERÁ UMA RESSURREIÇÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3735,7 +3735,7 @@
           },
           {
             "id": "anf02-280-320-339",
-            "titulo": "CHAPTER XIX.—MAN WOULD BE MORE UNFAVOURABLY SITUATED THAN THE BEASTS IF THERE WERE NO RESURRECTION.",
+            "titulo": "CAPÍTULO XIX. - O HOMEM ESTARIA MAIS DESFAVORAVEL DO QUE OS ANIMAIS SE NÃO HOUVE RESSURREIÇÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3746,7 +3746,7 @@
           },
           {
             "id": "anf02-280-320-340",
-            "titulo": "CHAPTER XX.—MAN MUST BE POSSESSED BOTH OF A BODY AND SOUL HEREAFTER, THAT THE JUDGMENT PASSED UPON HIM MAY BE JUST.",
+            "titulo": "CAPÍTULO XX. - O HOMEM DEVE SER POSSUÍDO DE CORPO E ALMA DEPOIS, PARA QUE O JULGAMENTO PASSADO SOBRE ELE POSSA SER JUSTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3757,7 +3757,7 @@
           },
           {
             "id": "anf02-280-320-341",
-            "titulo": "CHAPTER XXI.—CONTINUATION OF THE ARGUMENT.",
+            "titulo": "CAPÍTULO XXI.-CONTINUAÇÃO DO ARGUMENTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3768,7 +3768,7 @@
           },
           {
             "id": "anf02-280-320-342",
-            "titulo": "CHAPTER XXII.—CONTINUATION OF THE ARGUMENT.",
+            "titulo": "CAPÍTULO XXII.-CONTINUAÇÃO DO ARGUMENTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3779,7 +3779,7 @@
           },
           {
             "id": "anf02-280-320-343",
-            "titulo": "CHAPTER XXIII.—CONTINUATION OF THE ARGUMENT.",
+            "titulo": "CAPÍTULO XXIII.-CONTINUAÇÃO DO ARGUMENTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3790,7 +3790,7 @@
           },
           {
             "id": "anf02-280-320-344",
-            "titulo": "CHAPTER XXIV.—ARGUMENT FOR THE RESURRECTION FROM THE CHIEF END OF MAN.",
+            "titulo": "CAPÍTULO XXIV. - ARGUMENTO PARA A RESSURREIÇÃO DO PRINCIPAL FIM DO HOMEM.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3801,7 +3801,7 @@
           },
           {
             "id": "anf02-280-320-345",
-            "titulo": "CHAPTER XXV.—ARGUMENT CONTINUED AND CONCLUDED.",
+            "titulo": "CAPÍTULO XXV.-ARGUMENTO CONTINUADO E CONCLUÍDO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3816,15 +3816,15 @@
   },
   {
     "id": "anf02-346",
-    "titulo": "CLEMENT OF ALEXANDRIA",
+    "titulo": "CLEMENTE DE ALEXANDRIA",
     "children": [
       {
         "id": "anf02-346-347",
-        "titulo": "EXHORTATION TO THE HEATHEN",
+        "titulo": "EXORTAÇÃO AO PAGÃO",
         "children": [
           {
             "id": "anf02-346-347-348",
-            "titulo": "CHAPTER I.—EXHORTATION TO ABANDON THE IMPIOUS MYSTERIES OF IDOLATRY FOR THE ADORATION OF THE DIVINE WORD AND GOD THE FATHER.",
+            "titulo": "CAPÍTULO I. - EXORTAÇÃO A ABANDONAR OS MISTÉRIOS ÍMPIOS DA IDOLATRIA PELA ADORAÇÃO DA PALAVRA DIVINA E DE DEUS PAI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3887,7 +3887,7 @@
           },
           {
             "id": "anf02-346-347-349",
-            "titulo": "CHAPTER II.—THE ABSURDITY AND IMPIETY OF THE HEATHEN MYSTERIES AND FABLES ABOUT THE BIRTH AND DEATH OF THEIR GODS.",
+            "titulo": "CAPÍTULO II. - O ABSURDO E A IMPIEdade DOS MISTÉRIOS E FÁBULAS PAGÊNICOS SOBRE O NASCIMENTO E A MORTE DE SEUS DEUSES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4098,7 +4098,7 @@
           },
           {
             "id": "anf02-346-347-350",
-            "titulo": "CHAPTER III.—THE CRUELTY OF THE SACRIFICES TO THE GODS.",
+            "titulo": "CAPÍTULO III. - A CRUELDADE DOS SACRIFÍCIOS AOS DEUSES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4137,7 +4137,7 @@
           },
           {
             "id": "anf02-346-347-351",
-            "titulo": "CHAPTER IV.—THE ABSURDITY AND SHAMEFULNESS OF THE IMAGES BY WHICH THE GODS ARE WORSHIPPED.",
+            "titulo": "CAPÍTULO IV. - O ABSURDO E A VERGONHA DAS IMAGENS PELAS QUAIS OS DEUSES SÃO ADORADOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4220,7 +4220,7 @@
           },
           {
             "id": "anf02-346-347-352",
-            "titulo": "CHAPTER V.—THE OPINIONS OF THE PHILOSOPHERS RESPECTING GOD.",
+            "titulo": "CAPÍTULO V. - AS OPINIÕES DOS FILÓSOFOS RESPEITANDO A DEUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4247,7 +4247,7 @@
           },
           {
             "id": "anf02-346-347-353",
-            "titulo": "CHAPTER VI.—BY DIVINE INSPIRATION PHILOSOPHERS SOMETIMES HIT ON THE TRUTH.",
+            "titulo": "CAPÍTULO VI. - POR INSPIRAÇÃO DIVINA OS FILÓSOFOS ÀS VEZES ATINGEM A VERDADE.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4282,7 +4282,7 @@
           },
           {
             "id": "anf02-346-347-354",
-            "titulo": "CHAPTER VII.—THE POETS ALSO BEAR TESTIMONY TO THE TRUTH.",
+            "titulo": "CAPÍTULO VII. - OS POETAS TAMBÉM PRESTAM TESTEMUNHO DA VERDADE.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4301,7 +4301,7 @@
           },
           {
             "id": "anf02-346-347-355",
-            "titulo": "CHAPTER VIII.—THE TRUE DOCTRINE IS TO BE SOUGHT IN THE PROPHETS.",
+            "titulo": "CAPÍTULO VIII. - A VERDADEIRA DOUTRINA DEVE SER PROCURADA NOS PROFETAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4320,7 +4320,7 @@
           },
           {
             "id": "anf02-346-347-356",
-            "titulo": "CHAPTER IX.—“THAT THOSE GRIEVOUSLY SIN WHO DESPISE OR NEGLECT GOD’S GRACIOUS CALLING.”",
+            "titulo": "CAPÍTULO IX. - “QUE AQUELES PECAM GRAVEMENTE QUE DESPREZA OU NEGLIGENCIA O CHAMADO GRACIOSO DE DEUS.”",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4347,7 +4347,7 @@
           },
           {
             "id": "anf02-346-347-357",
-            "titulo": "CHAPTER X.—ANSWER TO THE OBJECTION OF THE HEATHEN, THAT IT WAS NOT RIGHT TO ABANDON THE CUSTOMS OF THEIR FATHERS.",
+            "titulo": "CAPÍTULO X. - RESPOSTA À OBJEÇÃO DOS HEATHEN, QUE NÃO ERA CERTO ABANDONAR OS COSTUMES DE SEUS PAIS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4378,7 +4378,7 @@
           },
           {
             "id": "anf02-346-347-358",
-            "titulo": "CHAPTER XI.—HOW GREAT ARE THE BENEFITS CONFERRED ON MAN THROUGH THE ADVENT OF CHRIST.",
+            "titulo": "CAPÍTULO XI. - QUÃO GRANDES SÃO OS BENEFÍCIOS CONFERIDOS AO HOMEM ATRAVÉS DO ADVENTO DE CRISTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4393,7 +4393,7 @@
           },
           {
             "id": "anf02-346-347-359",
-            "titulo": "CHAPTER XII.—EXHORTATION TO ABANDON THEIR OLD ERRORS AND LISTEN TO THE INSTRUCTIONS OF CHRIST.",
+            "titulo": "CAPÍTULO XII. - EXORTAÇÃO A ABANDONAR SEUS ANTIGOS ERROS E OUVIR AS INSTRUÇÕES DE CRISTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4430,15 +4430,15 @@
       },
       {
         "id": "anf02-346-360",
-        "titulo": "THE INSTRUCTOR.",
+        "titulo": "O INSTRUTOR.",
         "children": [
           {
             "id": "anf02-346-360-361",
-            "titulo": "Book I",
+            "titulo": "Livro eu",
             "children": [
               {
                 "id": "anf02-346-360-361-362",
-                "titulo": "CHAPTER I. THE OFFICE OF THE INSTRUCTOR.",
+                "titulo": "CAPÍTULO I. O ESCRITÓRIO DO INSTRUTOR.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4465,7 +4465,7 @@
               },
               {
                 "id": "anf02-346-360-361-363",
-                "titulo": "CHAPTER II.—OUR INSTRUCTOR’S TREATMENT OF OUR SINS.",
+                "titulo": "CAPÍTULO II. - O TRATAMENTO DE NOSSOS PECADOS POR NOSSO INSTRUTOR.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4492,7 +4492,7 @@
               },
               {
                 "id": "anf02-346-360-361-364",
-                "titulo": "CHAPTER III.—THE PHILANTHROPY OF THE INSTRUCTOR.",
+                "titulo": "CAPÍTULO III.-A FILANTROPIA DO INSTRUTOR.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4511,7 +4511,7 @@
               },
               {
                 "id": "anf02-346-360-361-365",
-                "titulo": "CHAPTER IV.—MEN AND WOMEN ALIKE UNDER THE INSTRUCTOR’S CHARGE.",
+                "titulo": "CAPÍTULO IV.- HOMENS E MULHERES SOB A RESPONSABILIDADE DO INSTRUTOR.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4526,7 +4526,7 @@
               },
               {
                 "id": "anf02-346-360-361-366",
-                "titulo": "CHAPTER V.—ALL WHO WALK ACCORDING TO TRUTH ARE CHILDREN OF GOD.",
+                "titulo": "CAPÍTULO V. - TODOS OS QUE ANDAM SEGUNDO A VERDADE SÃO FILHOS DE DEUS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4569,7 +4569,7 @@
               },
               {
                 "id": "anf02-346-360-361-367",
-                "titulo": "CHAPTER VI.—THE NAME CHILDREN DOES NOT IMPLY INSTRUCTION IN ELEMENTARY PRINCIPLES.",
+                "titulo": "CAPÍTULO VI.—O NOME CRIANÇAS NÃO IMPLICA INSTRUÇÃO EM PRINCÍPIOS ELEMENTARES.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4644,7 +4644,7 @@
               },
               {
                 "id": "anf02-346-360-361-368",
-                "titulo": "CHAPTER VII.—WHO THE INSTRUCTOR IS, AND RESPECTING HIS INSTRUCTION.",
+                "titulo": "CAPÍTULO VII.-QUEM É O INSTRUTOR E RESPEITANDO SUAS INSTRUÇÕES.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4699,7 +4699,7 @@
               },
               {
                 "id": "anf02-346-360-361-369",
-                "titulo": "CHAPTER VIII.—AGAINST THOSE WHO THINK THAT WHAT IS JUST IS NOT GOOD.",
+                "titulo": "CAPÍTULO VIII.-CONTRA AQUELES QUE PENSA QUE O QUE É SÓ NÃO É BOM.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4770,7 +4770,7 @@
               },
               {
                 "id": "anf02-346-360-361-370",
-                "titulo": "CHAPTER IX.—THAT IT IS THE PREROGATIVE OF THE SAME POWER TO BE BENEFICENT AND TO PUNISH JUSTLY. ALSO THE MANNER OF THE INSTRUCTION OF THE LOGOS.",
+                "titulo": "CAPÍTULO IX. - QUE É PREROGATIVA DO MESMO PODER SER BENEFICENTE E PUNIR JUSTAMENTE. TAMBÉM A FORMA DE INSTRUÇÃO DOS LOGOTIPO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4865,7 +4865,7 @@
               },
               {
                 "id": "anf02-346-360-361-371",
-                "titulo": "CHAPTER X.—THAT THE SAME GOD, BY THE SAME WORD, RESTRAINS FROM SIN BY THREATENING, AND SAVES HUMANITY BY EXHORTING.",
+                "titulo": "CAPÍTULO X. - QUE O MESMO DEUS, PELA MESMA PALAVRA, RESTRE O PECADO AMEAÇANDO, E SALVA A HUMANIDADE EXORTANDO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4888,7 +4888,7 @@
               },
               {
                 "id": "anf02-346-360-361-372",
-                "titulo": "CHAPTER XI.—THAT THE WORD INSTRUCTED BY THE LAW AND THE PROPHETS.",
+                "titulo": "CAPÍTULO XI. - QUE A PALAVRA INSTRUÍDA PELA LEI E PELOS PROFETAS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4903,7 +4903,7 @@
               },
               {
                 "id": "anf02-346-360-361-373",
-                "titulo": "CHAPTER XII.—THE INSTRUCTOR CHARACTERIZED BY THE SEVERITY AND BENIGNITY OF PATERNAL AFFECTION.",
+                "titulo": "CAPÍTULO XII. - O INSTRUTOR CARACTERIZADO PELA GRAVIDADE E BENIGNIDADE DA AFEIÇÃO PATERNA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4930,7 +4930,7 @@
               },
               {
                 "id": "anf02-346-360-361-374",
-                "titulo": "CHAPTER XIII.—VIRTUE RATIONAL, SIN IRRATIONAL.",
+                "titulo": "CAPÍTULO XIII.-VIRTUDE RACIONAL, PECADO IRRACIONAL.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4947,11 +4947,11 @@
           },
           {
             "id": "anf02-346-360-375",
-            "titulo": "THE INSTRUCTOR",
+            "titulo": "O INSTRUTOR",
             "children": [
               {
                 "id": "anf02-346-360-375-376",
-                "titulo": "CHAP. I.—ON EATING.",
+                "titulo": "RACHAR. I. - SOBRE COMER.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4994,7 +4994,7 @@
               },
               {
                 "id": "anf02-346-360-375-377",
-                "titulo": "CHAPTER II.—ON DRINKING.",
+                "titulo": "CAPÍTULO II. - SOBRE BEBIDA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5105,7 +5105,7 @@
               },
               {
                 "id": "anf02-346-360-375-378",
-                "titulo": "CHAPTER III.—ON COSTLY VESSELS.",
+                "titulo": "CAPÍTULO III.-EM EMBARCAÇÕES CAROS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5140,7 +5140,7 @@
               },
               {
                 "id": "anf02-346-360-375-379",
-                "titulo": "CHAPTER IV.—HOW TO CONDUCT OURSELVES AT FEASTS.",
+                "titulo": "CAPÍTULO IV.-COMO CONDUZIR-NOS NAS FESTAS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5171,7 +5171,7 @@
               },
               {
                 "id": "anf02-346-360-375-380",
-                "titulo": "CHAPTER V.—ON LAUGHTER.",
+                "titulo": "CAPÍTULO V. - DO RISADO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5210,7 +5210,7 @@
               },
               {
                 "id": "anf02-346-360-375-381",
-                "titulo": "CHAPTER VI.—ON FILTHY SPEAKING.",
+                "titulo": "CAPÍTULO VI. - SOBRE A FALA SUJA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5233,7 +5233,7 @@
               },
               {
                 "id": "anf02-346-360-375-382",
-                "titulo": "CHAPTER VII.—DIRECTIONS FOR THOSE WHO LIVE TOGETHER.",
+                "titulo": "CAPÍTULO VII.—INDICAÇÕES PARA AQUELES QUE VIVEM JUNTOS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5252,7 +5252,7 @@
               },
               {
                 "id": "anf02-346-360-375-383",
-                "titulo": "CHAPTER VIII.—ON THE USE OF OINTMENTS AND CROWNS.",
+                "titulo": "CAPÍTULO VIII.-SOBRE O USO DE POMADAS E COROAS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5323,7 +5323,7 @@
               },
               {
                 "id": "anf02-346-360-375-384",
-                "titulo": "CHAP. IX.—ON SLEEP.",
+                "titulo": "RACHAR. IX.-NO SONO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5370,7 +5370,7 @@
               },
               {
                 "id": "anf02-346-360-375-385",
-                "titulo": "CHAPTER X.643—QUÆNAM DE PROCREATIONE LIBERORUM TRACTANDA SINT.644",
+                "titulo": "CAPÍTULO X.643 — QUÆNAM DE PROCREATIONE LIBERORUM TRACTANDA SINT.644",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5405,7 +5405,7 @@
               },
               {
                 "id": "anf02-346-360-375-386",
-                "titulo": "CHAPTER XI.672—ON CLOTHES.",
+                "titulo": "CAPÍTULO XI.672 - SOBRE ROUPAS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5464,7 +5464,7 @@
               },
               {
                 "id": "anf02-346-360-375-387",
-                "titulo": "CHAP. XII.—ON SHOES.",
+                "titulo": "CAP. XII.-NOS SAPATOS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5487,7 +5487,7 @@
               },
               {
                 "id": "anf02-346-360-375-388",
-                "titulo": "CHAPTER XIII—AGAINST EXCESSIVE FONDNESS FOR JEWELS AND GOLD ORNAMENTS.",
+                "titulo": "CAPÍTULO XIII - CONTRA O GOSTO EXCESSIVO POR JÓIAS E ENFEITES DE OURO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5556,11 +5556,11 @@
           },
           {
             "id": "anf02-346-360-389",
-            "titulo": "THE INSTRUCTOR.",
+            "titulo": "O INSTRUTOR.",
             "children": [
               {
                 "id": "anf02-346-360-389-390",
-                "titulo": "CHAPTER I.—ON THE TRUE BEAUTY.",
+                "titulo": "CAPÍTULO I. - DA VERDADEIRA BELEZA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5583,7 +5583,7 @@
               },
               {
                 "id": "anf02-346-360-389-391",
-                "titulo": "CHAPTER II.—AGAINST EMBELLISHING THE BODY.",
+                "titulo": "CAPÍTULO II. - CONTRA O EMBELEZAMENTO DO CORPO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5670,7 +5670,7 @@
               },
               {
                 "id": "anf02-346-360-389-392",
-                "titulo": "CHAPTER III.—AGAINST MEN WHO EMBELLISH THEMSELVES.",
+                "titulo": "CAPÍTULO III. - CONTRA OS HOMENS QUE SE EMBELHAM.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5733,7 +5733,7 @@
               },
               {
                 "id": "anf02-346-360-389-393",
-                "titulo": "CHAPTER IV.—WITH WHOM WE ARE TO ASSOCIATE.",
+                "titulo": "CAPÍTULO IV. - COM QUEM DEVEMOS ASSOCIAR-NOS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5760,7 +5760,7 @@
               },
               {
                 "id": "anf02-346-360-389-394",
-                "titulo": "CHAPTER V.—BEHAVIOUR IN THE BATHS.",
+                "titulo": "CAPÍTULO V.—COMPORTAMENTO NOS BANHOS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5771,7 +5771,7 @@
               },
               {
                 "id": "anf02-346-360-389-395",
-                "titulo": "CHAPTER VI.—THE CHRISTIAN ALONE RICH.",
+                "titulo": "CAPÍTULO VI. - O CRISTÃO SOZINHO RICO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5798,7 +5798,7 @@
               },
               {
                 "id": "anf02-346-360-389-396",
-                "titulo": "CHAPTER VII.—FRUGALITY A GOOD PROVISION FOR THECHRISTIAN.",
+                "titulo": "CAPÍTULO VII. - FRUGALIDADE UMA BOA DISPOSIÇÃO PARA O CRISTÃO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5821,7 +5821,7 @@
               },
               {
                 "id": "anf02-346-360-389-397",
-                "titulo": "CHAPTER VIII.—SIMILITUDES AND EXAMPLES A MOST IMPORTANT PART OF RIGHT INSTRUCTION.",
+                "titulo": "CAPÍTULO VIII. - SIMILITUDES E EXEMPLOS UMA PARTE MAIS IMPORTANTE DA INSTRUÇÃO CORRETA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5872,7 +5872,7 @@
               },
               {
                 "id": "anf02-346-360-389-398",
-                "titulo": "CHAPTER IX.—WHY WE ARE TO USE THE BATH.",
+                "titulo": "CAPÍTULO IX.- POR QUE DEVEMOS USAR O BANHO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5887,7 +5887,7 @@
               },
               {
                 "id": "anf02-346-360-389-399",
-                "titulo": "CHAPTER X.—THE EXERCISES SUITED TO A GOOD LIFE.",
+                "titulo": "CAPÍTULO X. - OS EXERCÍCIOS ADEQUADOS A UMA BOA VIDA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5906,7 +5906,7 @@
               },
               {
                 "id": "anf02-346-360-389-400",
-                "titulo": "CHAPTER XI.—A COMPENDIOUS VIEW OF THE CHRISTIAN LIFE.",
+                "titulo": "CAPÍTULO XI. - UMA VISÃO COMPÊNDIA DA VIDA CRISTÃ.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6189,7 +6189,7 @@
               },
               {
                 "id": "anf02-346-360-389-401",
-                "titulo": "CHAPTER XII.—CONTINUATION: WITH TEXTS FROM SCRIPTURE.",
+                "titulo": "CAPÍTULO XII.-CONTINUAÇÃO: COM TEXTOS DAS ESCRITURAS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6352,7 +6352,7 @@
               },
               {
                 "id": "anf02-346-360-389-402",
-                "titulo": "A HYMN TO CHRIST THE SAVIOUR.",
+                "titulo": "UM HINO A CRISTO SALVADOR.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6387,7 +6387,7 @@
               },
               {
                 "id": "anf02-346-360-389-403",
-                "titulo": "Elucidations.",
+                "titulo": "Elucidações.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6426,15 +6426,15 @@
       },
       {
         "id": "anf02-346-404",
-        "titulo": "THE STROMATA, OR MISCELLANIES",
+        "titulo": "O STROMATA, OU DIVERSOS",
         "children": [
           {
             "id": "anf02-346-404-405",
-            "titulo": "Book I",
+            "titulo": "Livro eu",
             "children": [
               {
                 "id": "anf02-346-404-405-406",
-                "titulo": "CHAPTER I.—PREFACE—THE AUTHOR’S OBJECT—THE UTILITY OF WRITTEN COMPOSITIONS.951",
+                "titulo": "CAPÍTULO I.—PREFÁCIO—O OBJETO DO AUTOR—A UTILIDADE DAS COMPOSIÇÕES ESCRITAS.951",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6509,7 +6509,7 @@
               },
               {
                 "id": "anf02-346-404-405-407",
-                "titulo": "CHAPTER II.—OBJECTION TO THE NUMBER OF EXTRACTS FROM PHILOSOPHICAL WRITINGS IN THESE BOOKS ANTICIPATED AND ANSWERED.",
+                "titulo": "CAPÍTULO II. - OBJEÇÃO AO NÚMERO DE EXTRATOS DE ESCRITOS FILOSÓFICOS NESTES LIVROS ANTECIPADOS E RESPONDIDOS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6524,7 +6524,7 @@
               },
               {
                 "id": "anf02-346-404-405-408",
-                "titulo": "CHAPTER III.—AGAINST THE SOPHISTS.",
+                "titulo": "CAPÍTULO III. - CONTRA OS SOFISTAS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6535,7 +6535,7 @@
               },
               {
                 "id": "anf02-346-404-405-409",
-                "titulo": "CHAPTER IV.—HUMAN ARTS AS WELL AS DIVINE KNOWLEDGE PROCEED FROM GOD.",
+                "titulo": "CAPÍTULO IV. - AS ARTES HUMANAS, BEM COMO O CONHECIMENTO DIVINO PROCEDEM DE DEUS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6554,7 +6554,7 @@
               },
               {
                 "id": "anf02-346-404-405-410",
-                "titulo": "CHAPTER V.—PHILOSOPHY THE HANDMAID OF THEOLOGY.",
+                "titulo": "CAPÍTULO V. - A FILOSOFIA A SERVA DA TEOLOGIA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6585,7 +6585,7 @@
               },
               {
                 "id": "anf02-346-404-405-411",
-                "titulo": "CHAPTER VI.—THE BENEFIT OF CULTURE.",
+                "titulo": "CAPÍTULO VI. - O BENEFÍCIO DA CULTURA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6604,7 +6604,7 @@
               },
               {
                 "id": "anf02-346-404-405-412",
-                "titulo": "CHAPTER VII.—THE ECLECTIC PHILOSOPHY PAVES THE WAY FOR DIVINE VIRTUE.",
+                "titulo": "CAPÍTULO VII. - A FILOSOFIA ECLÉTICA ABRE O CAMINHO PARA A VIRTUDE DIVINA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6623,7 +6623,7 @@
               },
               {
                 "id": "anf02-346-404-405-413",
-                "titulo": "CHAPTER VIII.—THE SOPHISTICAL ARTS USELESS.",
+                "titulo": "CAPÍTULO VIII. - AS ARTES SOFÍSTICAS INÚTEIS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6658,7 +6658,7 @@
               },
               {
                 "id": "anf02-346-404-405-414",
-                "titulo": "CHAPTER IX.—HUMAN KNOWLEDGE NECESSARY FOR THE UNDERSTANDING OF THE SCRIPTURES.",
+                "titulo": "CAPÍTULO IX.—CONHECIMENTO HUMANO NECESSÁRIO PARA A COMPREENSÃO DAS ESCRITURAS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6677,7 +6677,7 @@
               },
               {
                 "id": "anf02-346-404-405-415",
-                "titulo": "CHAPTER X.—TO ACT WELL OF GREATER CONSEQUENCE THAN TO SPEAK WELL.",
+                "titulo": "CAPÍTULO X. - AGIR BEM DE MAIOR CONSEQUÊNCIA DO QUE FALAR BEM.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6692,7 +6692,7 @@
               },
               {
                 "id": "anf02-346-404-405-416",
-                "titulo": "CHAPTER XI.—WHAT IS THE PHILOSOPHY WHICH THE APOSTLE BIDS US SHUN?",
+                "titulo": "CAPÍTULO XI. - QUAL É A FILOSOFIA QUE O APÓSTOLO NOS OFERECE EVITAR?",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6711,7 +6711,7 @@
               },
               {
                 "id": "anf02-346-404-405-417",
-                "titulo": "CHAPTER XII.—THE MYSTERIES OF THE FAITH NOT TO BE DIVULGED TO ALL.",
+                "titulo": "CAPÍTULO XII. - OS MISTÉRIOS DA FÉ NÃO DEVEM SER DIVULGADOS A TODOS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6726,7 +6726,7 @@
               },
               {
                 "id": "anf02-346-404-405-418",
-                "titulo": "CHAPTER XIII.—ALL SECTS OF PHILOSOPHY CONTAIN A GERM OF TRUTH.",
+                "titulo": "CAPÍTULO XIII. - TODAS AS SETAS DE FILOSOFIA CONTÊM UM GERME DE VERDADE.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6741,7 +6741,7 @@
               },
               {
                 "id": "anf02-346-404-405-419",
-                "titulo": "CHAPTER XIV.—SUCCESSION OF PHILOSOPHERS IN GREECE.",
+                "titulo": "CAPÍTULO XIV.-SUCESSÃO DE FILÓSOFOS NA GRÉCIA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6764,7 +6764,7 @@
               },
               {
                 "id": "anf02-346-404-405-420",
-                "titulo": "CHAPTER XV.—THE GREEK PHILOSOPHY IN GREAT PART DERIVED FROM THE BARBARIANS.",
+                "titulo": "CAPÍTULO XV. - A FILOSOFIA GREGA EM GRANDE PARTE DERIVADA DOS BÁRBAROS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6807,7 +6807,7 @@
               },
               {
                 "id": "anf02-346-404-405-421",
-                "titulo": "CHAPTER XVI.—THAT THE INVENTORS OF OTHER ARTS WERE MOSTLY BARBARIANS.",
+                "titulo": "CAPÍTULO XVI. - QUE OS INVENTORES DE OUTRAS ARTES ERAM MAIORIAMENTE BÁRBAROS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6822,7 +6822,7 @@
               },
               {
                 "id": "anf02-346-404-405-422",
-                "titulo": "CHAPTER XVII.—ON THE SAYING OF THE SAVIOUR, “ALL THAT CAME BEFORE ME WERE THIEVES AND ROBBERS.”1139",
+                "titulo": "CAPÍTULO XVII. - SOBRE A DIZER DO SALVADOR: “TUDO O QUE VEIO ANTES DE MIM FORAM LADRÕES E ASDRÕES.”",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6849,7 +6849,7 @@
               },
               {
                 "id": "anf02-346-404-405-423",
-                "titulo": "CHAPTER XVIII.—HE ILLUSTRATES THE APOSTLE’S SAYING, “I WILL DESTROY THE WISDOM OF THE WISE.”",
+                "titulo": "CAPÍTULO XVIII. - ELE ILUSTRA O DIZER DO APÓSTOLO: “VOU DESTRUIR A SABEDORIA DOS SÁBIOS”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6860,7 +6860,7 @@
               },
               {
                 "id": "anf02-346-404-405-424",
-                "titulo": "CHAPTER XIX.—THAT THE PHILOSOPHERS HAVE ATTAINED TO SOME PORTION OF TRUTH.",
+                "titulo": "CAPÍTULO XIX. - QUE OS FILÓSOFOS ATINGIRAM ALGUMA PORÇÃO DE VERDADE.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6875,7 +6875,7 @@
               },
               {
                 "id": "anf02-346-404-405-425",
-                "titulo": "CHAPTER XX.—IN WHAT RESPECT PHILOSOPHY CONTRIBUTES TO THE COMPREHENSION OF DIVINE TRUTH.",
+                "titulo": "CAPÍTULO XX. - EM QUE RESPEITO A FILOSOFIA CONTRIBUI PARA A COMPREENSÃO DA VERDADE DIVINA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6890,7 +6890,7 @@
               },
               {
                 "id": "anf02-346-404-405-426",
-                "titulo": "CHAPTER XXI.—THE JEWISH INSTITUTIONS AND LAWS OF FAR HIGHER ANTIQUITY THAN THE PHILOSOPHY OF THE GREEKS.",
+                "titulo": "CAPÍTULO XXI. - AS INSTITUIÇÕES JUDAICAS E LEIS DE MUITO MAIS ANTIGUIDADE DO QUE A FILOSOFIA DOS GREGOS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7125,7 +7125,7 @@
               },
               {
                 "id": "anf02-346-404-405-427",
-                "titulo": "CHAPTER XXII.—ON THE GREEK TRANSLATION OF THE OLD TESTAMENT.",
+                "titulo": "CAPÍTULO XXII. - SOBRE A TRADUÇÃO GREGA DO ANTIGO TESTAMENTO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7140,7 +7140,7 @@
               },
               {
                 "id": "anf02-346-404-405-428",
-                "titulo": "CHAPTER XXIII.—THE AGE, BIRTH, AND LIFE OF MOSES.",
+                "titulo": "CAPÍTULO XXIII.-A IDADE, NASCIMENTO E VIDA DE MOISÉS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7151,7 +7151,7 @@
               },
               {
                 "id": "anf02-346-404-405-429",
-                "titulo": "CHAPTER XXIV.—HOW MOSES DISCHARGED THE PART OF A MILITARY LEADER.",
+                "titulo": "CAPÍTULO XXIV. - COMO MOISÉS DESCARREGOU A PARTE DE UM LÍDER MILITAR.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7186,7 +7186,7 @@
               },
               {
                 "id": "anf02-346-404-405-430",
-                "titulo": "CHAPTER XXV.—PLATO AN IMITATOR OF MOSES IN FRAMING LAWS.",
+                "titulo": "CAPÍTULO XXV. - PLATÃO, UM IMITADOR DE MOISÉS NA FORMAÇÃO DE LEIS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7201,7 +7201,7 @@
               },
               {
                 "id": "anf02-346-404-405-431",
-                "titulo": "CHAPTER XXVI.—MOSES RIGHTLY CALLED A DIVINE LEGISLATOR, AND, THOUGH INFERIOR TO CHRIST, FAR SUPERIOR TO THE GREAT LEGISLATORS OF THE GREEKS, MINOS AND LYCURGUS.",
+                "titulo": "CAPÍTULO XXVI. - MOISÉS CHAMADO CORRETAMENTE DE LEGISLADOR DIVINO E, EMBORA INFERIOR A CRISTO, MUITO SUPERIOR AOS GRANDES LEGISLADORES DOS GREGOS, MINOS E LICURGO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7232,7 +7232,7 @@
               },
               {
                 "id": "anf02-346-404-405-432",
-                "titulo": "CHAPTER XXVII.—THE LAW, EVEN IN CORRECTING AND PUNISHING, AIMS AT THE GOOD OF MEN.",
+                "titulo": "CAPÍTULO XXVII.-A LEI, MESMO EM CORRIGIR E PUNIR, VISUALIZA O BEM DOS HOMENS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7271,7 +7271,7 @@
               },
               {
                 "id": "anf02-346-404-405-433",
-                "titulo": "CHAPTER XXVIII.—THE FOURFOLD DIVISION OF THE MOSAIC LAW.",
+                "titulo": "CAPÍTULO XXVIII. - A QUATRO DIVISÃO DA LEI MOSAICA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7286,7 +7286,7 @@
               },
               {
                 "id": "anf02-346-404-405-434",
-                "titulo": "CHAPTER XXIX.—THE GREEKS BUT CHILDREN COMPARED WITH THE HEBREWS.",
+                "titulo": "CAPÍTULO XXIX. - OS GREGOS, MAS AS CRIANÇAS EM COMPARAÇÃO COM OS HEBREUS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7305,7 +7305,7 @@
               },
               {
                 "id": "anf02-346-404-405-435",
-                "titulo": "Elucidations.",
+                "titulo": "Elucidações.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7466,11 +7466,11 @@
           },
           {
             "id": "anf02-346-404-436",
-            "titulo": "THE STROMATA, OR MISCELLANIES.",
+            "titulo": "O STROMATA, OU DIVERSOS.",
             "children": [
               {
                 "id": "anf02-346-404-436-437",
-                "titulo": "CHAPTER I.—INTRODUCTORY.1307",
+                "titulo": "CAPÍTULO I.-INTRODUTÓRIO.1307",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7485,7 +7485,7 @@
               },
               {
                 "id": "anf02-346-404-436-438",
-                "titulo": "CHAPTER II.—THE KNOWLEDGE OF GOD CAN BE ATTAINED ONLY THROUGH FAITH.",
+                "titulo": "CAPÍTULO II. - O CONHECIMENTO DE DEUS SÓ PODE SER ATINGIDO PELA FÉ.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7500,7 +7500,7 @@
               },
               {
                 "id": "anf02-346-404-436-439",
-                "titulo": "CHAPTER III.—FAITH NOT A PRODUCT OF NATURE.",
+                "titulo": "CAPÍTULO III. - A FÉ NÃO É UM PRODUTO DA NATUREZA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7515,7 +7515,7 @@
               },
               {
                 "id": "anf02-346-404-436-440",
-                "titulo": "CHAPTER IV.—FAITH THE FOUNDATION OF ALL KNOWLEDGE.",
+                "titulo": "CAPÍTULO IV. - A FÉ, A FUNDAÇÃO DE TODO O CONHECIMENTO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7542,7 +7542,7 @@
               },
               {
                 "id": "anf02-346-404-436-441",
-                "titulo": "CHAPTER V.—HE PROVES BY SEVERAL EXAMPLES THAT THE GREEKS DREW FROM THE SACRED WRITERS.",
+                "titulo": "CAPÍTULO V. - ELE PROVA POR VÁRIOS EXEMPLOS QUE OS GREGOS SE DESENVOLVEM DOS ESCRITORES SAGRADOS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7573,7 +7573,7 @@
               },
               {
                 "id": "anf02-346-404-436-442",
-                "titulo": "CHAPTER VI.—THE EXCELLENCE AND UTILITY OF FAITH.",
+                "titulo": "CAPÍTULO VI. - A EXCELÊNCIA E UTILIDADE DA FÉ.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7600,7 +7600,7 @@
               },
               {
                 "id": "anf02-346-404-436-443",
-                "titulo": "CHAPTER VII.—THE UTILITY OF FEAR. OBJECTIONS ANSWERED.",
+                "titulo": "CAPÍTULO VII. - A UTILIDADE DO MEDO. OBJEÇÕES RESPONDIDAS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7623,7 +7623,7 @@
               },
               {
                 "id": "anf02-346-404-436-444",
-                "titulo": "CHAPTER VIII.—THE VAGARIES OF BASILIDES AND VALENTINUS AS TO FEAR BEING THE CAUSE OF THINGS.",
+                "titulo": "CAPÍTULO VIII. - OS VAGARIOS DE BASILIDES E VALENTINUS QUANTO AO MEDO DE SER A CAUSA DAS COISAS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7654,7 +7654,7 @@
               },
               {
                 "id": "anf02-346-404-436-445",
-                "titulo": "CHAPTER IX.—THE CONNECTION OF THE CHRISTIAN VIRTUES.",
+                "titulo": "CAPÍTULO IX. - A CONEXÃO DAS VIRTUDES CRISTÃS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7677,7 +7677,7 @@
               },
               {
                 "id": "anf02-346-404-436-446",
-                "titulo": "CHAPTER X.—TO WHAT THE PHILOSOPHER APPLIES HIMSELF.",
+                "titulo": "CAPÍTULO X. - AO QUE O FILÓSOFO SE APLICA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7688,7 +7688,7 @@
               },
               {
                 "id": "anf02-346-404-436-447",
-                "titulo": "CHAPTER XI.—THE KNOWLEDGE WHICH COMES THROUGH FAITH THE SUREST OF ALL.",
+                "titulo": "CAPÍTULO XI. - O CONHECIMENTO QUE VEM PELA FÉ, O MAIS CERTO DE TODOS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7711,7 +7711,7 @@
               },
               {
                 "id": "anf02-346-404-436-448",
-                "titulo": "CHAPTER XII.—TWOFOLD FAITH.",
+                "titulo": "CAPÍTULO XII. - FÉ DUPLA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7730,7 +7730,7 @@
               },
               {
                 "id": "anf02-346-404-436-449",
-                "titulo": "CHAPTER XIII.—ON FIRST AND SECOND REPENTANCE.",
+                "titulo": "CAPÍTULO XIII. - NO PRIMEIRO E SEGUNDO ARREPENDIMENTO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7745,7 +7745,7 @@
               },
               {
                 "id": "anf02-346-404-436-450",
-                "titulo": "CHAPTER XIV.—HOW A THING MAY BE INVOLUNTARY.",
+                "titulo": "CAPÍTULO XIV. - COMO UMA COISA PODE SER INVOLUNTÁRIA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7756,7 +7756,7 @@
               },
               {
                 "id": "anf02-346-404-436-451",
-                "titulo": "CHAPTER XV.—ON THE DIFFERENT KINDS OF VOLUNTARY ACTIONS, AND THE SINS THENCE PROCEEDING.",
+                "titulo": "CAPÍTULO XV. - SOBRE OS DIFERENTES TIPOS DE AÇÕES VOLUNTÁRIAS E OS PECADOS DEPOIS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7791,7 +7791,7 @@
               },
               {
                 "id": "anf02-346-404-436-452",
-                "titulo": "CHAPTER XVI.—HOW WE ARE TO EXPLAIN THE PASSAGES OF SCRIPTURE WHICH ASCRIBE TO GOD HUMAN AFFECTIONS.",
+                "titulo": "CAPÍTULO XVI. - COMO DEVEMOS EXPLICAR AS PASSAGENS DAS ESCRITURAS QUE ATRIBUEM A DEUS AFEIÇÕES HUMANAS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7802,7 +7802,7 @@
               },
               {
                 "id": "anf02-346-404-436-453",
-                "titulo": "CHAPTER XVII.—ON THE VARIOUS KINDS OF KNOWLEDGE.",
+                "titulo": "CAPÍTULO XVII. - SOBRE OS VÁRIOS TIPOS DE CONHECIMENTO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7817,7 +7817,7 @@
               },
               {
                 "id": "anf02-346-404-436-454",
-                "titulo": "CHAPTER XVIII.—THE MOSAIC LAW THE FOUNTAIN OF ALL ETHICS, AND THE SOURCE FROM WHICH THE GREEKS DREW THEIRS.1489",
+                "titulo": "CAPÍTULO XVIII. - A LEI MOSAICA A FONTE DE TODA A ÉTICA E A FONTE DA QUAL OS GREGOS TIRAM A SUA.1489",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7864,7 +7864,7 @@
               },
               {
                 "id": "anf02-346-404-436-455",
-                "titulo": "CHAPTER XIX.—THE TRUE GNOSTIC IS AN IMITATOR OF GOD, ESPECIALLY IN BENEFICENCE.",
+                "titulo": "CAPÍTULO XIX.-O VERDADEIRO GNÓSTICO É UM IMITADOR DE DEUS, ESPECIALMENTE NA BENEFICÊNCIA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7891,7 +7891,7 @@
               },
               {
                 "id": "anf02-346-404-436-456",
-                "titulo": "CHAPTER XX.—THE TRUE GNOSTIC EXERCISES PATIENCE AND SELF-RESTRAINT.",
+                "titulo": "CAPÍTULO XX.-O VERDADEIRO GNÓSTICO EXERCITA PACIÊNCIA E AUTORESTRITO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7970,7 +7970,7 @@
               },
               {
                 "id": "anf02-346-404-436-457",
-                "titulo": "CHAPTER XXI.—OPINIONS OF VARIOUS PHILOSOPHERS ON THE CHIEF GOOD.",
+                "titulo": "CAPÍTULO XXI. - OPINIÕES DE VÁRIOS FILÓSOFOS SOBRE O BEM PRINCIPAL.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8008,7 +8008,7 @@
               },
               {
                 "id": "anf02-346-404-436-459",
-                "titulo": "Chapter XXII.—Plato’s Opinion, that the Chief Good Consists in Assimilation… CHAPTER XXIII.—ON MARRIAGE.",
+                "titulo": "Capítulo XXII.—A opinião de Platão, de que o principal bem consiste na assimilação… CAPÍTULO XXIII.—SOBRE O CASAMENTO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8051,7 +8051,7 @@
               },
               {
                 "id": "anf02-346-404-436-460",
-                "titulo": "Elucidations.",
+                "titulo": "Elucidações.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8088,7 +8088,7 @@
           },
           {
             "id": "anf02-346-404-461",
-            "titulo": "THE STROMATA, OR MISCELLANIES.",
+            "titulo": "O STROMATA, OU DIVERSOS.",
             "children": [
               {
                 "id": "anf02-346-404-461-462",
@@ -8181,7 +8181,7 @@
               },
               {
                 "id": "anf02-346-404-461-469",
-                "titulo": "CAPUT VIII.—LOCA S. SCRIPTURÆ AB HÆRETICIS IN VITUPERIUM MATRIMONII ADDUCTA EXPLICAT; ET PRIMO VERBA APOSTOLI ROMANS 6:14, AB HÆRETICORUM PERVERSA INTERPRETATIONE VINDICAT.1690",
+                "titulo": "CAPUT VIII.—LOCA S. SCRIPTURÆ AB HÆRETICIS IN VITUPERIUM MATRIMONII ADDUCTA EXPLICAT; ET PRIMO VERBA APOSTOLI ROMANOS 6:14, AB HÆRETICORUM PERVERSA INTERPRETATIONE VINDICAT.1690",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8203,7 +8203,7 @@
               },
               {
                 "id": "anf02-346-404-461-471",
-                "titulo": "CAPUT X.—VERBA CHRISTI MATT. XVIII. 20, MYSTICE EXPONIT.1703",
+                "titulo": "CAPUT X.-VERBA CHRISTI MATT. XVIII. 20, EXPONÍVEL MÍSTICO.1703",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8225,7 +8225,7 @@
               },
               {
                 "id": "anf02-346-404-461-473",
-                "titulo": "CAPUT XII.—VERBA APOSTOLI 1 COR. VII. 5, 39, 40, ALIAQUE S. SCRIPTURÆ LOCA EODEM SPECTANTIA EXPLICAT.",
+                "titulo": "CAPUT XII.-VERBA APOSTOLI 1 COR. VII. 5, 39, 40, ALIAQUE S. SCRIPTURÆ LOCA EODEM SPECTANTIA EXPLICAT.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8236,7 +8236,7 @@
               },
               {
                 "id": "anf02-346-404-461-474",
-                "titulo": "CAPUT XIII.—JULII CASSIANI HÆRETICI VERBIS RESPONDET; ITEM LOCO QUEM EX EVANGELIO APOCRYPHO IDEM ADDUXERAT.",
+                "titulo": "CAPUT XIII.-JULII CASSIANI HÆRETICI VERBIS RESPONDET; ITEM LOCO QUEM EX EVANGELIO APOCRYPHO IDEM ADDUXERAT.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8247,7 +8247,7 @@
               },
               {
                 "id": "anf02-346-404-461-475",
-                "titulo": "CAPUT XIV.—2 COR. XI. 3, ET EPH. IV. 24, EXPONIT.",
+                "titulo": "CAPUT XIV.-2 COR. XI. 3, E EPH. 4. 24, EXPONÍVEL.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8258,7 +8258,7 @@
               },
               {
                 "id": "anf02-346-404-461-476",
-                "titulo": "CAPUT XV.—1 COR. VII. 1; LUC. XIV. 26; ISA. LVI. 2, 3, EXPLICAT.",
+                "titulo": "CAPUT XV.-1 COR. VII. 1; LUC. XIV. 26; ISA. LVI. 2, 3, EXPLICADO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8269,7 +8269,7 @@
               },
               {
                 "id": "anf02-346-404-461-477",
-                "titulo": "CAPUT XVI.—JER. XX. 14; JOB XIV. 3; PS. L. 5; 1 COR. IX. 27, EXPONIT.",
+                "titulo": "CAPUT XVI.—JER. XX. 14; TRABALHO XIV. 3; PS. L. 5; 1 COR. IX. 27, EXPONÍVEL.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8291,7 +8291,7 @@
               },
               {
                 "id": "anf02-346-404-461-479",
-                "titulo": "CAPUT XVIII.—DUAS EXTREMAS OPINIONES ESSE VITANDAS: PRIMAM ILLORUM QUI CREATORIS ODIO A NUPTIIS ABSTINENT; ALTERAM ILLORUM QUI HINC OCCASIONEM ARRIPIUNT NEFARIIS LIBIDINIBUS INDULGENDI.",
+                "titulo": "CAPUT XVIII.—DUAS EXTREMAS OPINIONES ESSE VITANDAS: PRIMAM ILLORUM QUI CREATORIS ODIO A NUPTIIS ABSTINENT; ALTERAM ILLORUM QUI HINC OCASIONEM ARRIPUNT NEFARIIS LIBIDINIBUS INDULGENDI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8302,7 +8302,7 @@
               },
               {
                 "id": "anf02-346-404-461-480",
-                "titulo": "Elucidations.",
+                "titulo": "Elucidações.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8479,11 +8479,11 @@
           },
           {
             "id": "anf02-346-404-481",
-            "titulo": "THE STROMATA, OR MISCELLANIES.",
+            "titulo": "O STROMATA, OU DIVERSOS.",
             "children": [
               {
                 "id": "anf02-346-404-481-482",
-                "titulo": "CHAPTER I.—ORDER OF CONTENTS.",
+                "titulo": "CAPÍTULO I. - ORDEM DO CONTEÚDO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8502,7 +8502,7 @@
               },
               {
                 "id": "anf02-346-404-481-483",
-                "titulo": "CHAPTER II.—THE MEANING OF THE NAME STROMATA OR MISCELLANIES.",
+                "titulo": "CAPÍTULO II.-O SIGNIFICADO DO NOME STROMATA OU DIVERSOS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8517,7 +8517,7 @@
               },
               {
                 "id": "anf02-346-404-481-484",
-                "titulo": "CHAPTER III.—THE TRUE EXCELLENCE OF MAN.",
+                "titulo": "CAPÍTULO III. - A VERDADEIRA EXCELÊNCIA DO HOMEM.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8528,7 +8528,7 @@
               },
               {
                 "id": "anf02-346-404-481-485",
-                "titulo": "CHAPTER IV.—THE PRAISES OF MARTYRDOM.",
+                "titulo": "CAPÍTULO IV. - OS LOUVOR DO MARTÍRIO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8551,7 +8551,7 @@
               },
               {
                 "id": "anf02-346-404-481-486",
-                "titulo": "CHAPTER V.—ON CONTEMPT FOR PAIN, POVERTY, AND OTHER EXTERNAL THINGS.",
+                "titulo": "CAPÍTULO V. - DO DESPREZO À DOR, À POBREZA E OUTRAS COISAS EXTERNAS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8578,7 +8578,7 @@
               },
               {
                 "id": "anf02-346-404-481-487",
-                "titulo": "CHAPTER VI.—SOME POINTS IN THE BEATITUDES.",
+                "titulo": "CAPÍTULO VI. - ALGUNS PONTOS DAS BEM-AVENTURAS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8597,7 +8597,7 @@
               },
               {
                 "id": "anf02-346-404-481-488",
-                "titulo": "CHAPTER VII.—THE BLESSEDNESS OF THE MARTYR.",
+                "titulo": "CAPÍTULO VII. - A BÊNÇÃO DO MÁRTIR.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8628,7 +8628,7 @@
               },
               {
                 "id": "anf02-346-404-481-489",
-                "titulo": "CHAPTER VIII.—WOMEN AS WELL AS MEN, SLAVES AS WELL AS FREEMEN, CANDIDATES FOR THE MARTYR’S CROWN.",
+                "titulo": "CAPÍTULO VIII. - MULHERES E HOMENS, ESCRAVOS E HOMENS LIVRES, CANDIDATOS À COROA DO MÁRTIR.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8643,7 +8643,7 @@
               },
               {
                 "id": "anf02-346-404-481-490",
-                "titulo": "CHAPTER IX.—CHRIST’S SAYINGS RESPECTING MARTYRDOM.",
+                "titulo": "CAPÍTULO IX.- DIZIDORES DE CRISTO A RESPEITO DO MARTÍRIO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8654,7 +8654,7 @@
               },
               {
                 "id": "anf02-346-404-481-491",
-                "titulo": "CHAPTER X.—THOSE WHO OFFERED THEMSELVES FOR MARTYRDOM REPROVED.",
+                "titulo": "CAPÍTULO X. - AQUELES QUE SE OFERECEM PARA O MARTÍRIO REPROVADOS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8665,7 +8665,7 @@
               },
               {
                 "id": "anf02-346-404-481-492",
-                "titulo": "CHAPTER XI.—THE OBJECTION, WHY DO YOU SUFFER IF GOD CARES FOR YOU, ANSWERED.",
+                "titulo": "CAPÍTULO XI. - A OBJEÇÃO, POR QUE VOCÊ SOFRE SE DEUS CUIDA DE VOCÊ, RESPONDIDA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8680,7 +8680,7 @@
               },
               {
                 "id": "anf02-346-404-481-493",
-                "titulo": "CHAPTER XII.—BASILIDES’ IDEA OF MARTYRDOM REFUTED.",
+                "titulo": "CAPÍTULO XII. - A IDEIA DE MARTÍRIO DE BASILIDES REFUTADA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8691,7 +8691,7 @@
               },
               {
                 "id": "anf02-346-404-481-494",
-                "titulo": "CHAPTER XIII.—VALENTINIAN’S VAGARIES ABOUT THE ABOLITION OF DEATH REFUTED.",
+                "titulo": "CAPÍTULO XIII.—REFUTADAS AS VAGARIAS DE VALENTINIAN SOBRE A ABOLIÇÃO DA MORTE.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8710,7 +8710,7 @@
               },
               {
                 "id": "anf02-346-404-481-495",
-                "titulo": "CHAPTER XIV.—THE LOVE OF ALL, EVEN OF OUR ENEMIES.",
+                "titulo": "CAPÍTULO XIV. - O AMOR DE TODOS, MESMO DE NOSSOS INIMIGOS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8723,7 +8723,7 @@
           },
           {
             "id": "anf02-346-404-496",
-            "titulo": "CHAPTER XV.—ON AVOIDING OFFENCE.",
+            "titulo": "CAPÍTULO XV. - SOBRE EVITAR A OFENSA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8734,7 +8734,7 @@
           },
           {
             "id": "anf02-346-404-497",
-            "titulo": "CHAPTER XVI.—PASSAGES OF SCRIPTURE RESPECTING THE CONSTANCY, PATIENCE, AND LOVE OF THE MARTYRS.",
+            "titulo": "CAPÍTULO XVI. - PASSAGENS DAS ESCRITURAS RESPEITANDO A CONSTÂNCIA, PACIÊNCIA E AMOR DOS MÁRTIRES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8745,7 +8745,7 @@
           },
           {
             "id": "anf02-346-404-498",
-            "titulo": "CHAPTER XVII.—PASSAGES FROM CLEMENT’S EPISTLE TO THE CORINTHIANS ON MARTYRDOM.",
+            "titulo": "CAPÍTULO XVII. - PASSAGENS DA EPÍSTOLA DE CLEMENTE AOS CORÍNTIOS SOBRE O MARTÍRIO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8776,7 +8776,7 @@
           },
           {
             "id": "anf02-346-404-499",
-            "titulo": "CHAPTER XVIII.—ON LOVE, AND THE REPRESSING OF OUR DESIRES.",
+            "titulo": "CAPÍTULO XVIII. - SOBRE O AMOR E A REPRESSÃO DE NOSSOS DESEJOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8807,7 +8807,7 @@
           },
           {
             "id": "anf02-346-404-500",
-            "titulo": "CHAP. XIX.—WOMEN AS WELL AS MEN CAPABLE OF PERFECTION.",
+            "titulo": "RACHAR. XIX.— MULHERES E HOMENS CAPAZES DE PERFEIÇÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8842,7 +8842,7 @@
           },
           {
             "id": "anf02-346-404-501",
-            "titulo": "CHAPTER XX.—A GOOD WIFE.",
+            "titulo": "CAPÍTULO XX. - UMA BOA ESPOSA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8857,7 +8857,7 @@
           },
           {
             "id": "anf02-346-404-502",
-            "titulo": "CHAPTER XXI.—DESCRIPTION OF THE PERFECT MAN, OR GNOSTIC.",
+            "titulo": "CAPÍTULO XXI.- DESCRIÇÃO DO HOMEM PERFEITO OU GNÓSTICO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8872,7 +8872,7 @@
           },
           {
             "id": "anf02-346-404-503",
-            "titulo": "CHAPTER XXII.—THE TRUE GNOSTIC DOES GOOD, NOT FROM FEAR OF PUNISHMENT OR HOPE OF REWARD, BUT ONLY FOR THE SAKE OF GOOD ITSELF.",
+            "titulo": "CAPÍTULO XXII.-O VERDADEIRO GNÓSTICO FAZ O BEM, NÃO POR MEDO DE PUNIÇÃO OU ESPERANÇA DE RECOMPENSA, MAS SOMENTE POR BEM DO PRÓPRIO BEM.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8923,7 +8923,7 @@
           },
           {
             "id": "anf02-346-404-504",
-            "titulo": "CHAPTER XXIII.—THE SAME SUBJECT CONTINUED.",
+            "titulo": "CAPÍTULO XXIII. - CONTINUAÇÃO DO MESMO ASSUNTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8958,7 +8958,7 @@
           },
           {
             "id": "anf02-346-404-505",
-            "titulo": "CHAPTER XXIV.—THE REASON AND END OF DIVINE PUNISHMENTS.",
+            "titulo": "CAPÍTULO XXIV. - A RAZÃO E O FIM DAS PUNIÇÕES DIVINAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8969,7 +8969,7 @@
           },
           {
             "id": "anf02-346-404-506",
-            "titulo": "CHAPTER XXV.—TRUE PERFECTION CONSISTS IN THE KNOWLEDGE AND LOVE OF GOD.",
+            "titulo": "CAPÍTULO XXV. - A VERDADEIRA PERFEIÇÃO CONSISTE NO CONHECIMENTO E NO AMOR DE DEUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8992,7 +8992,7 @@
           },
           {
             "id": "anf02-346-404-507",
-            "titulo": "CHAPTER XXVI.—HOW THE PERFECT MAN TREATS THE BODY AND THE THINGS OF THE WORLD.",
+            "titulo": "CAPÍTULO XXVI.—COMO O HOMEM PERFEITO TRATA O CORPO E AS COISAS DO MUNDO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9019,7 +9019,7 @@
           },
           {
             "id": "anf02-346-404-508",
-            "titulo": "Elucidations.",
+            "titulo": "Elucidações.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9104,11 +9104,11 @@
       },
       {
         "id": "anf02-346-509",
-        "titulo": "THE STROMATA, OR MISCELLANIES.",
+        "titulo": "O STROMATA, OU DIVERSOS.",
         "children": [
           {
             "id": "anf02-346-509-510",
-            "titulo": "CHAP. I.—ON FAITH.",
+            "titulo": "CAP. I. - NA FÉ.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9143,7 +9143,7 @@
           },
           {
             "id": "anf02-346-509-511",
-            "titulo": "CHAP. II.—ON HOPE.",
+            "titulo": "RACHAR. II.-NA ESPERANÇA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9166,7 +9166,7 @@
           },
           {
             "id": "anf02-346-509-512",
-            "titulo": "CHAPTER III.—THE OBJECTS OF FAITH AND HOPE PERCEIVED BY THE MIND ALONE.",
+            "titulo": "CAPÍTULO III. - OS OBJETOS DE FÉ E ESPERANÇA PERCEBIDOS SOMENTE PELA MENTE.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9181,7 +9181,7 @@
           },
           {
             "id": "anf02-346-509-513",
-            "titulo": "CHAPTER IV.—DIVINE THINGS WRAPPED UP IN FIGURES BOTH IN THE SACRED AND IN HEATHEN WRITERS.",
+            "titulo": "CAPÍTULO IV. - COISAS DIVINAS ENVOLVIDAS EM FIGURAS NOS ESCRITORES SAGRADOS E NOS ESCRITORES PAGÕES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9204,7 +9204,7 @@
           },
           {
             "id": "anf02-346-509-514",
-            "titulo": "CHAPTER V.—ON THE SYMBOLS OF PYTHAGORAS.",
+            "titulo": "CAPÍTULO V. - DOS SÍMBOLOS DE PITÁGORAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9239,7 +9239,7 @@
           },
           {
             "id": "anf02-346-509-515",
-            "titulo": "CHAPTER VI.—THE MYSTIC MEANING OF THE TABERNACLE AND ITS FURNITURE.",
+            "titulo": "CAPÍTULO VI. - O SIGNIFICADO MÍSTICO DO TABERNÁCULO E SEUS MÓVEIS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9306,7 +9306,7 @@
           },
           {
             "id": "anf02-346-509-516",
-            "titulo": "CHAPTER VII.—THE EGYPTIAN SYMBOLS AND ENIGMAS OF SACRED THINGS.",
+            "titulo": "CAPÍTULO VII. - OS SÍMBOLOS E ENIGMAS EGÍPCIOS DAS COISAS SAGRADAS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9321,7 +9321,7 @@
           },
           {
             "id": "anf02-346-509-517",
-            "titulo": "CHAPTER VIII.—THE USE OF THE SYMBOLIC STYLE BY POETS AND PHILOSOPHERS.",
+            "titulo": "CAPÍTULO VIII.-O USO DO ESTILO SIMBÓLICO POR POETAS E FILÓSOFOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9380,7 +9380,7 @@
           },
           {
             "id": "anf02-346-509-518",
-            "titulo": "CHAPTER IX.—REASONS FOR VEILING THE TRUTH IN SYMBOLS.",
+            "titulo": "CAPÍTULO IX.—RAZÕES PARA VELAR A VERDADE EM SÍMBOLOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9407,7 +9407,7 @@
           },
           {
             "id": "anf02-346-509-519",
-            "titulo": "CHAPTER X.—THE OPINION OF THE APOSTLES ON VEILING THE MYSTERIES OF THE FAITH.",
+            "titulo": "CAPÍTULO X. - A OPINIÃO DOS APÓSTOLOS SOBRE VELAR OS MISTÉRIOS DA FÉ.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9438,7 +9438,7 @@
           },
           {
             "id": "anf02-346-509-520",
-            "titulo": "CHAPTER XI.—ABSTRACTION FROM MATERIAL THINGS NECESSARY IN ORDER TO ATTAIN TO THE TRUE KNOWLEDGE OF GOD.",
+            "titulo": "CAPÍTULO XI. - ABSTRAÇÃO DAS COISAS MATERIAIS NECESSÁRIAS PARA ATINGIR O VERDADEIRO CONHECIMENTO DE DEUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9485,7 +9485,7 @@
           },
           {
             "id": "anf02-346-509-521",
-            "titulo": "CHAPTER XII.—GOD CANNOT BE EMBRACED IN WORDS OR BY THE MIND.",
+            "titulo": "CAPÍTULO XII. - DEUS NÃO PODE SER ABRAÇADO EM PALAVRAS OU PELA MENTE.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9516,7 +9516,7 @@
           },
           {
             "id": "anf02-346-509-522",
-            "titulo": "CHAPTER XIII.—THE KNOWLEDGE OF GOD A DIVINE GIFT, ACCORDING TO THE PHILOSOPHERS.",
+            "titulo": "CAPÍTULO XIII. - O CONHECIMENTO DE DEUS UM DOM DIVINO, SEGUNDO OS FILÓSOFOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9543,7 +9543,7 @@
           },
           {
             "id": "anf02-346-509-523",
-            "titulo": "CHAPTER XIV.—GREEK PLAGIARISM FROM THE HEBREWS.",
+            "titulo": "CAPÍTULO XIV. - PLÁGIO GREGO DOS HEBREUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9738,7 +9738,7 @@
           },
           {
             "id": "anf02-346-509-524",
-            "titulo": "Elucidations.",
+            "titulo": "Elucidações.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9823,11 +9823,11 @@
       },
       {
         "id": "anf02-346-525",
-        "titulo": "THE STROMATA, OR MISCELLANIES",
+        "titulo": "O STROMATA, OU DIVERSOS",
         "children": [
           {
             "id": "anf02-346-525-526",
-            "titulo": "CHAPTER I.—PLAN.2347",
+            "titulo": "CAPÍTULO I.-PLAN.2347",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9854,7 +9854,7 @@
           },
           {
             "id": "anf02-346-525-527",
-            "titulo": "CHAPTER II.—THE SUBJECT OF PLAGIARISMS RESUMED. THE GREEKS PLAGIARIZED FROM ONE ANOTHER.",
+            "titulo": "CAPÍTULO II.-RESUMIDO O ASSUNTO DOS PLÁGIOS. OS GREGOS PLAGIARAM UNS OUTROS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9933,7 +9933,7 @@
           },
           {
             "id": "anf02-346-525-528",
-            "titulo": "CHAPTER III.—PLAGIARISM BY THE GREEKS OF THE MIRACLES RELATED IN THE SACRED BOOKS OF THE HEBREWS.",
+            "titulo": "CAPÍTULO III.-PLÁGIO PELOS GREGOS DOS MILAGRES RELACIONADOS NOS LIVROS SAGRADOS DOS HEBREUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9984,7 +9984,7 @@
           },
           {
             "id": "anf02-346-525-529",
-            "titulo": "CHAPTER IV.—THE GREEKS DREW MANY OF THEIR PHILOSOPHICAL TENETS FROM THE EGYPTIAN AND INDIAN GYMNOSOPHISTS.",
+            "titulo": "CAPÍTULO IV. - OS GREGOS TIRAM MUITOS DE SEUS DÍZIMOS FILOSÓFICOS DOS GYMNOSOFISTAS EGÍPCIOS E INDIANOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10003,7 +10003,7 @@
           },
           {
             "id": "anf02-346-525-530",
-            "titulo": "CHAPTER V.—THE GREEKS HAD SOME KNOWLEDGE OF THE TRUE GOD.",
+            "titulo": "CAPÍTULO V. - OS GREGOS TINHAM ALGUM CONHECIMENTO DO DEUS VERDADEIRO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10022,7 +10022,7 @@
           },
           {
             "id": "anf02-346-525-531",
-            "titulo": "CHAPTER VI.—THE GOSPEL WAS PREACHED TO JEWS AND GENTILES IN HADES.2415",
+            "titulo": "CAPÍTULO VI. - O EVANGELHO FOI PREGADO A JUDEUS E GENTIOS NO HADES.2415",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10077,7 +10077,7 @@
           },
           {
             "id": "anf02-346-525-532",
-            "titulo": "CHAPTER VII.—WHAT TRUE PHILOSOPHY IS, AND WHENCE SO CALLED.",
+            "titulo": "CAPÍTULO VII. - O QUE É A VERDADEIRA FILOSOFIA E DE ONDE É CHAMADA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10120,7 +10120,7 @@
           },
           {
             "id": "anf02-346-525-533",
-            "titulo": "CHAPTER VIII.—PHILOSOPHY IS KNOWLEDGE GIVEN BY GOD.",
+            "titulo": "CAPÍTULO VIII. - A FILOSOFIA É CONHECIMENTO DADO POR DEUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10167,7 +10167,7 @@
           },
           {
             "id": "anf02-346-525-534",
-            "titulo": "CHAPTER IX.—THE GNOSTIC FREE OF ALL PERTURBATIONS OF THE SOUL.",
+            "titulo": "CAPÍTULO IX.-O GNÓSTICO LIVRE DE TODAS AS PERTURBAÇÕES DA ALMA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10214,7 +10214,7 @@
           },
           {
             "id": "anf02-346-525-535",
-            "titulo": "CHAPTER X.—THE GNOSTIC AVAILS HIMSELF OF THE HELP OF ALL HUMAN KNOWLEDGE.",
+            "titulo": "CAPÍTULO X. — O GNÓSTICO CONTA COM A AJUDA DE TODO O CONHECIMENTO HUMANO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10245,7 +10245,7 @@
           },
           {
             "id": "anf02-346-525-536",
-            "titulo": "CHAPTER XI.—THE MYSTICAL MEANINGS IN THE PROPORTIONS OF NUMBERS, GEOMETRICAL RATIOS, AND MUSIC.",
+            "titulo": "CAPÍTULO XI. - OS SIGNIFICADOS MÍSTICOS NAS PROPORÇÕES DE NÚMEROS, RAZÕES GEOMÉTRICAS E MÚSICA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10348,7 +10348,7 @@
           },
           {
             "id": "anf02-346-525-537",
-            "titulo": "CHAPTER XII.—HUMAN NATURE POSSESSES AN ADAPTATION FOR PERFECTION; THE GNOSTIC ALONE ATTAINS IT.",
+            "titulo": "CAPÍTULO XII. — A NATUREZA HUMANA POSSUI UMA ADAPTAÇÃO PARA A PERFEIÇÃO; SÓ O GNÓSTICO O ATINGE.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10403,7 +10403,7 @@
           },
           {
             "id": "anf02-346-525-538",
-            "titulo": "CHAPTER XIII.—DEGREES OF GLORY IN HEAVEN CORRESPONDING WITH THE DIGNITIES OF THE CHURCH BELOW.",
+            "titulo": "CAPÍTULO XIII. - GRAUS DE GLÓRIA NO CÉU CORRESPONDENTES ÀS DIGNIDADES DA IGREJA ABAIXO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10422,7 +10422,7 @@
           },
           {
             "id": "anf02-346-525-539",
-            "titulo": "CHAPTER XIV.—DEGREES OF GLORY IN HEAVEN.",
+            "titulo": "CAPÍTULO XIV. - GRAUS DE GLÓRIA NO CÉU.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10477,7 +10477,7 @@
           },
           {
             "id": "anf02-346-525-540",
-            "titulo": "CHAPTER XV.—DIFFERENT DEGREES OF KNOWLEDGE.",
+            "titulo": "CAPÍTULO XV.—DIFERENTES GRAUS DE CONHECIMENTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10608,7 +10608,7 @@
           },
           {
             "id": "anf02-346-525-541",
-            "titulo": "CHAPTER XVI.—GNOSTIC EXPOSITION OF THE DECALOGUE.",
+            "titulo": "CAPÍTULO XVI. - EXPOSIÇÃO GNÓSTICA DO DECÁLOGO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10771,7 +10771,7 @@
           },
           {
             "id": "anf02-346-525-542",
-            "titulo": "CHAPTER XVII.—PHILOSOPHY CONVEYS ONLY AN IMPERFECT KNOWLEDGE OF GOD.",
+            "titulo": "CAPÍTULO XVII. - A FILOSOFIA TRANSMITE APENAS UM CONHECIMENTO IMPERFEITO DE DEUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10886,7 +10886,7 @@
           },
           {
             "id": "anf02-346-525-543",
-            "titulo": "CHAPTER XVIII.—THE USE OF PHILOSOPHY TO THE GNOSTIC.",
+            "titulo": "CAPÍTULO XVIII.-O USO DA FILOSOFIA PARA O GNÓSTICO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10981,7 +10981,7 @@
           },
           {
             "id": "anf02-346-525-544",
-            "titulo": "Elucidations.",
+            "titulo": "Elucidações.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11074,11 +11074,11 @@
       },
       {
         "id": "anf02-346-545",
-        "titulo": "THE STROMATA, OR MISCELLANIES.",
+        "titulo": "O STROMATA, OU DIVERSOS.",
         "children": [
           {
             "id": "anf02-346-545-546",
-            "titulo": "CHAPTER I.—THE GNOSTIC A TRUE WORSHIPPER OF GOD, AND UNJUSTLY CALUMNIATED BY UNBELIEVERS AS AN ATHEIST.",
+            "titulo": "CAPÍTULO I. - O GNÓSTICO, UM VERDADEIRO ADORADOR DE DEUS, E CALUMNIADO IJUSTAMENTE PELOS INCRÉVEIS COMO ATEU.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11117,7 +11117,7 @@
           },
           {
             "id": "anf02-346-545-547",
-            "titulo": "CHAPTER II.—THE SON THE RULER AND SAVIOUR OF ALL.",
+            "titulo": "CAPÍTULO II. - O FILHO, O REGENTE E SALVADOR DE TODOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11196,7 +11196,7 @@
           },
           {
             "id": "anf02-346-545-548",
-            "titulo": "CHAPTER III.—THE GNOSTIC AIMS AT THE NEAREST LIKENESS POSSIBLE TO GOD AND HIS SON.",
+            "titulo": "CAPÍTULO III. - O GNÓSTICO BUSCA A SEMELHANÇA MAIS PRÓXIMA POSSÍVEL DE DEUS E SEU FILHO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11267,7 +11267,7 @@
           },
           {
             "id": "anf02-346-545-549",
-            "titulo": "CHAPTER IV.—THE HEATHENS MADE GODS LIKE THEMSELVES, WHENCE SPRINGS ALL SUPERSTITION.",
+            "titulo": "CAPÍTULO IV. - OS PAGÕES FIZERAM DEUSES COMO SI, DE ONDE NASCE TODA A SUPERSTIÇÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11318,7 +11318,7 @@
           },
           {
             "id": "anf02-346-545-550",
-            "titulo": "CHAPTER V.—THE HOLY SOUL A MORE EXCELLENT TEMPLE THAN ANY EDIFICE BUILT BY MAN.",
+            "titulo": "CAPÍTULO V. - A ALMA SANTA UM TEMPLO MAIS EXCELENTE DO QUE QUALQUER EDIFÍCIO CONSTRUÍDO PELO HOMEM.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11341,7 +11341,7 @@
           },
           {
             "id": "anf02-346-545-551",
-            "titulo": "CHAPTER VI.—PRAYERS AND PRAISE FROM A PURE MIND, CEASELESSLY OFFERED, FAR BETTER THAN SACRIFICES.",
+            "titulo": "CAPÍTULO VI. - ORAÇÕES E ELOGIOS DE UMA MENTE PURA, OFERECIDOS INDEPENDENTEMENTE, MUITO MELHORES DO QUE SACRIFÍCIOS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11412,7 +11412,7 @@
           },
           {
             "id": "anf02-346-545-552",
-            "titulo": "CHAPTER VII.—WHAT SORT OF PRAYER THE GNOSTIC EMPLOYS, AND HOW IT IS HEARD BY GOD.",
+            "titulo": "CAPÍTULO VII. - QUE TIPO DE ORAÇÃO O GNÓSTICO EMPREGA E COMO É OUVIDO POR DEUS.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11547,7 +11547,7 @@
           },
           {
             "id": "anf02-346-545-553",
-            "titulo": "CHAPTER VIII.—THE GNOSTIC SO ADDICTED TO TRUTH AS NOT TO NEED TO USE AN OATH.",
+            "titulo": "CAPÍTULO VIII.-O GNÓSTICO TÃO VICIADO NA VERDADE QUE NÃO PRECISA USAR UM JURAMENTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11570,7 +11570,7 @@
           },
           {
             "id": "anf02-346-545-554",
-            "titulo": "CHAPTER IX.—THOSE WHO TEACH OTHERS, OUGHT TO EXCEL IN VIRTUES.",
+            "titulo": "CAPÍTULO IX. - AQUELES QUE ENSINAM OS OUTROS DEVEM EXCEDER NAS VIRTUDES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11601,7 +11601,7 @@
           },
           {
             "id": "anf02-346-545-555",
-            "titulo": "CHAPTER X.—STEPS TO PERFECTION.",
+            "titulo": "CAPÍTULO X. - PASSOS PARA A PERFEIÇÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11648,7 +11648,7 @@
           },
           {
             "id": "anf02-346-545-556",
-            "titulo": "CHAPTER XI.—DESCRIPTION OF THE GNOSTIC’S LIFE.",
+            "titulo": "CAPÍTULO XI.—DESCRIÇÃO DA VIDA DO GNÓSTICO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11747,7 +11747,7 @@
           },
           {
             "id": "anf02-346-545-557",
-            "titulo": "CHAPTER XII.—THE TRUE GNOSTIC IS BENEFICENT, CONTINENT, AND DESPISES WORLDLY THINGS.",
+            "titulo": "CAPÍTULO XII. - O VERDADEIRO GNÓSTICO É BENEFICENTE, CONTINENTE E DESPREZA AS COISAS DO MUNDO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11890,7 +11890,7 @@
           },
           {
             "id": "anf02-346-545-558",
-            "titulo": "CHAPTER XIII.—DESCRIPTION OF THE GNOSTIC CONTINUED.",
+            "titulo": "CAPÍTULO XIII. - DESCRIÇÃO DO GNÓSTICO, CONTINUAÇÃO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11937,7 +11937,7 @@
           },
           {
             "id": "anf02-346-545-559",
-            "titulo": "CHAPTER XIV.—DESCRIPTION OF THE GNOSTIC FURNISHED BY AN EXPOSITION OF 1 COR. VI. 1, ETC.",
+            "titulo": "CAPÍTULO XIV. - DESCRIÇÃO DO GNÓSTICO FORNECIDA POR UMA EXPOSIÇÃO DE 1 COR. VI. 1, ETC.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12008,7 +12008,7 @@
           },
           {
             "id": "anf02-346-545-560",
-            "titulo": "CHAPTER XV.—THE OBJECTION TO JOIN THE CHURCH ON ACCOUNT OF THE DIVERSITY OF HERESIES ANSWERED.",
+            "titulo": "CAPÍTULO XV. - A OBJEÇÃO DE JUNTE-SE À IGREJA POR CONTA DA DIVERSIDADE DAS Heresias RESPONDIDA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12063,7 +12063,7 @@
           },
           {
             "id": "anf02-346-545-561",
-            "titulo": "CHAPTER XVI.—SCRIPTURE THE CRITERION BY WHICH TRUTH AND HERESY ARE DISTINGUISHED.2818",
+            "titulo": "CAPÍTULO XVI. - ESCRITURAS O CRITÉRIO PELO QUAL A VERDADE E A Heresia SÃO DISTINGUIDAS.2818",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12182,7 +12182,7 @@
           },
           {
             "id": "anf02-346-545-562",
-            "titulo": "CHAPTER XVII.—THE TRADITION OF THE CHURCH PRIOR TO THAT OF THE HERESIES.",
+            "titulo": "CAPÍTULO XVII. - A TRADIÇÃO DA IGREJA ANTES DA DAS Heresias.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12225,7 +12225,7 @@
           },
           {
             "id": "anf02-346-545-563",
-            "titulo": "CHAPTER XVIII—THE DISTINCTION BETWEEN CLEAN AND UNCLEAN ANIMALS IN THE LAW SYMBOLICAL OF THE DISTINCTION BETWEEN THE CHURCH, AND JEWS, AND HERETICS.",
+            "titulo": "CAPÍTULO XVIII - A DISTINÇÃO ENTRE ANIMAIS LIMPOS E IMPOSTOS NA LEI SIMBÓLICA DA DISTINÇÃO ENTRE A IGREJA, OS JUDEUS E OS Hereges.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12268,7 +12268,7 @@
           },
           {
             "id": "anf02-346-545-564",
-            "titulo": "Elucidations",
+            "titulo": "Elucidações",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12309,11 +12309,11 @@
       },
       {
         "id": "anf02-346-565",
-        "titulo": "THE STROMATA, OR MISCELLANIES.",
+        "titulo": "O STROMATA, OU DIVERSOS.",
         "children": [
           {
             "id": "anf02-346-565-566",
-            "titulo": "CHAPTER I.—THE OBJECT OF PHILOSOPHICAL AND THEOLOGICAL INQUIRY—THE DISCOVERY OF TRUTH.2857",
+            "titulo": "CAPÍTULO I. - O OBJETO DA INVESTIGAÇÃO FILOSÓFICA E TEOLÓGICA - A DESCOBERTA DA VERDADE.2857",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12340,7 +12340,7 @@
           },
           {
             "id": "anf02-346-565-567",
-            "titulo": "CHAPTER II.—THE NECESSITY OF PERSPICUOUS DEFINITION.",
+            "titulo": "CAPÍTULO II. - A NECESSIDADE DE DEFINIÇÃO PERSPICUOSA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12359,7 +12359,7 @@
           },
           {
             "id": "anf02-346-565-568",
-            "titulo": "CHAPTER III.—DEMONSTRATION DEFINED.",
+            "titulo": "CAPÍTULO III.- DEMONSTRAÇÃO DEFINIDA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12430,7 +12430,7 @@
           },
           {
             "id": "anf02-346-565-569",
-            "titulo": "CHAPTER IV.—TO PREVENT AMBIGUITY, WE MUST BEGIN WITH CLEAR DEFINITION.",
+            "titulo": "CAPÍTULO IV.—PARA EVITAR AMBIGUIDADE, DEVEMOS COMEÇAR COM UMA DEFINIÇÃO CLARA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12497,7 +12497,7 @@
           },
           {
             "id": "anf02-346-565-570",
-            "titulo": "CHAPTER V.—APPLICATION OF DEMONSTRATION TO SCEPTICAL SUSPENSE OF JUDGMENT.",
+            "titulo": "CAPÍTULO V. - APLICAÇÃO DA DEMONSTRAÇÃO À SUSPENSA CÉPTICA DE JULGAMENTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12532,7 +12532,7 @@
           },
           {
             "id": "anf02-346-565-571",
-            "titulo": "CHAPTER VI.—DEFINITIONS, GENERA, AND SPECIES.",
+            "titulo": "CAPÍTULO VI.—DEFINIÇÕES, GÊNEROS E ESPÉCIES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12627,7 +12627,7 @@
           },
           {
             "id": "anf02-346-565-572",
-            "titulo": "CHAPTER VII.—ON THE CAUSES OF DOUBT OR ASSENT.",
+            "titulo": "CAPÍTULO VII.-DAS CAUSAS DE DÚVIDA OU ASSENTIMENTO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12646,7 +12646,7 @@
           },
           {
             "id": "anf02-346-565-573",
-            "titulo": "CHAPTER VIII.—THE METHOD OF CLASSIFYING THINGS AND NAMES.",
+            "titulo": "CAPÍTULO VIII.-O MÉTODO DE CLASSIFICAÇÃO DE COISAS E NOMES.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12681,7 +12681,7 @@
           },
           {
             "id": "anf02-346-565-574",
-            "titulo": "CHAPTER IX.—ON THE DIFFERENT KINDS OF CAUSE.",
+            "titulo": "CAPÍTULO IX. - SOBRE OS DIFERENTES TIPOS DE CAUSA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12808,7 +12808,7 @@
           },
           {
             "id": "anf02-346-565-575",
-            "titulo": "Elucidations.",
+            "titulo": "Elucidações.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12841,15 +12841,15 @@
       },
       {
         "id": "anf02-346-576",
-        "titulo": "FRAGMENTS OF CLEMENS ALEXANDRINUS.",
+        "titulo": "FRAGMENTOS DE CLEMENS ALEXANDRINUS.",
         "children": [
           {
             "id": "anf02-346-576-577",
-            "titulo": "I.—FROM THE LATIN TRANSLATION OF CASSIODORUS.2866",
+            "titulo": "I.—DA TRADUÇÃO LATINA DE CASSIODORUS.2866",
             "children": [
               {
                 "id": "anf02-346-576-577-578",
-                "titulo": "I.—COMMENTS2867 ON THE FIRST EPISTLE OF PETER.",
+                "titulo": "I.—COMENTÁRIOS2867 SOBRE A PRIMEIRA EPÍSTOLA DE PEDRO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -12952,7 +12952,7 @@
               },
               {
                 "id": "anf02-346-576-577-579",
-                "titulo": "II.—COMMENTS ON THE EPISTLE OF JUDE.",
+                "titulo": "II.- COMENTÁRIOS À EPÍSTOLA DE JUDAS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -12995,7 +12995,7 @@
               },
               {
                 "id": "anf02-346-576-577-580",
-                "titulo": "III.—COMMENTS ON THE FIRST EPISTLE OF JOHN.",
+                "titulo": "III.-COMENTÁRIOS À PRIMEIRA EPÍSTOLA DE JOÃO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13190,7 +13190,7 @@
               },
               {
                 "id": "anf02-346-576-577-581",
-                "titulo": "IV.—COMMENTS ON THE SECOND EPISTLE OF JOHN.",
+                "titulo": "IV.-COMENTÁRIOS À SEGUNDA EPÍSTOLA DE JOÃO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13207,11 +13207,11 @@
           },
           {
             "id": "anf02-346-576-582",
-            "titulo": "II.—NICETAS2948 BISHOP OF HERACLEA.",
+            "titulo": "II.-NICETAS2948 BISPO DE HERACLEA.",
             "children": [
               {
                 "id": "anf02-346-576-582-583",
-                "titulo": "I.—JOB I. 21.",
+                "titulo": "I.-JOB I. 21.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13222,7 +13222,7 @@
               },
               {
                 "id": "anf02-346-576-582-584",
-                "titulo": "II.—FROM THE SAME.",
+                "titulo": "II.-DO MESMO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13233,7 +13233,7 @@
               },
               {
                 "id": "anf02-346-576-582-585",
-                "titulo": "III.—FROM NICETAS’ CATENA ON MATTHEW.",
+                "titulo": "III.-DA CATENA DE NICETAS SOBRE MATEUS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13244,7 +13244,7 @@
               },
               {
                 "id": "anf02-346-576-582-586",
-                "titulo": "IV.—FROM THE SAME.",
+                "titulo": "IV.-DO MESMO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13255,7 +13255,7 @@
               },
               {
                 "id": "anf02-346-576-582-587",
-                "titulo": "V.—FROM THE SAME.",
+                "titulo": "V. - DO MESMO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13266,7 +13266,7 @@
               },
               {
                 "id": "anf02-346-576-582-588",
-                "titulo": "III.—FROM THE CATENA ON LUKE, EDITED BY CORDERIUS.",
+                "titulo": "III.-DA CATENA SOBRE LUCAS, EDITADA POR CORDERIUS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13281,7 +13281,7 @@
               },
               {
                 "id": "anf02-346-576-582-589",
-                "titulo": "IV.—FROM THE BOOKS OF THE HYPOTYPOSES. OECUMENIUS FROM BOOK III. ON 1 COR. XI. 10.",
+                "titulo": "IV.- DOS LIVROS DAS HIPOTIPOS. OECUMÊNIO DO LIVRO III. EM 1 COR. XI. 10.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13292,7 +13292,7 @@
               },
               {
                 "id": "anf02-346-576-582-590",
-                "titulo": "THE SAME, BOOK IV. ON 2 COR. V. 16.",
+                "titulo": "O MESMO, LIVRO IV. EM 2 COR. V. 16.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13303,7 +13303,7 @@
               },
               {
                 "id": "anf02-346-576-582-591",
-                "titulo": "THE SAME, BOOK IV. ON 2 COR. VI. 11.",
+                "titulo": "O MESMO, LIVRO IV. EM 2 COR. VI. 11.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13337,7 +13337,7 @@
               },
               {
                 "id": "anf02-346-576-582-593",
-                "titulo": "EUSEBIUS: ECCLESIASTICAL HISTORY, BOOK VI. II. 1.",
+                "titulo": "EUSÉBIO: HISTÓRIA ECLESIÁSTICA, LIVRO VI. II. 1.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13348,7 +13348,7 @@
               },
               {
                 "id": "anf02-346-576-582-594",
-                "titulo": "EUSEBIUS: ECCLESIASTICAL HISTORY, II. 15.",
+                "titulo": "EUSÉBIO: HISTÓRIA ECLESIÁSTICA, II. 15.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13359,7 +13359,7 @@
               },
               {
                 "id": "anf02-346-576-582-595",
-                "titulo": "EUSEBIUS: IBID.",
+                "titulo": "EUSÉBIO: IBID.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13370,7 +13370,7 @@
               },
               {
                 "id": "anf02-346-576-582-596",
-                "titulo": "EUSEBIUS: ECCLESIASTICAL HISTORY, VI. 14.",
+                "titulo": "EUSÉBIO: HISTÓRIA ECLESIÁSTICA, VI. 14.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13381,7 +13381,7 @@
               },
               {
                 "id": "anf02-346-576-582-597",
-                "titulo": "EUSEBIUS: BOOK VII.",
+                "titulo": "EUSÉBIO: LIVRO VII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13416,7 +13416,7 @@
               },
               {
                 "id": "anf02-346-576-582-598",
-                "titulo": "EUSEBIUS: ECCLESIASTICAL HISTORY, BOOK. VII. II. 1.",
+                "titulo": "EUSÉBIO: HISTÓRIA ECLESIÁSTICA, LIVRO. VII. II. 1.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13427,7 +13427,7 @@
               },
               {
                 "id": "anf02-346-576-582-599",
-                "titulo": "EUSEBIUS: THE SAME, II. 2.",
+                "titulo": "EUSÉBIO: O MESMO, II. 2.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13458,7 +13458,7 @@
               },
               {
                 "id": "anf02-346-576-582-600",
-                "titulo": "V.—FROM THE BOOK ON PROVIDENCE.",
+                "titulo": "V.—DO LIVRO SOBRE A PROVIDÊNCIA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13477,7 +13477,7 @@
               },
               {
                 "id": "anf02-346-576-582-601",
-                "titulo": "VI.—FROM THE BOOK ON THE SOUL. MAXIMUS AND ANTONIUS MELISSA.2956",
+                "titulo": "VI.-DO LIVRO DA ALMA. MAXIMUS E ANTÔNIUS MELISSA.2956",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13496,7 +13496,7 @@
               },
               {
                 "id": "anf02-346-576-582-602",
-                "titulo": "VII.—FRAGMENT FROM THE BOOK ON SLANDER. ANTONIUS MELISSA, BOOK. II. SERMON 69.2958",
+                "titulo": "VII.—FRAGMENTO DO LIVRO SOBRE CALUNA. ANTÔNIO MELISSA, LIVRO. II. SERMÃO 69.2958",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13515,7 +13515,7 @@
               },
               {
                 "id": "anf02-346-576-582-603",
-                "titulo": "VIII.—OTHER FRAGMENTS FROM ANTONIUS MELISSA.",
+                "titulo": "VIII.—OUTROS FRAGMENTOS DE ANTONIUS MELISSA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13578,7 +13578,7 @@
               },
               {
                 "id": "anf02-346-576-582-604",
-                "titulo": "IX.—FRAGMENT OF THE TREATISE ON MARRIAGE.",
+                "titulo": "IX.—FRAGMENTO DO TRATADO SOBRE O CASAMENTO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13589,7 +13589,7 @@
               },
               {
                 "id": "anf02-346-576-582-605",
-                "titulo": "X.—FRAGMENTS OF OTHER LOST BOOKS.",
+                "titulo": "X.—FRAGMENTOS DE OUTROS LIVROS PERDIDOS.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13631,7 +13631,7 @@
               },
               {
                 "id": "anf02-346-576-582-607",
-                "titulo": "XI.—FRAGMENTS FOUND IN GREEK ONLY IN THE OXFORD EDITION. FROM THE LAST WORK ON THE PASSOVER. (QUOTED IN THE PASCHAL CHRONICLE.)",
+                "titulo": "XI.—FRAGMENTOS ENCONTRADOS EM GREGO SOMENTE NA EDIÇÃO OXFORD. FROM THE LAST WORK ON THE PASSOVER. (CITADO NA CRÔNICA PASCAL.)",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13736,7 +13736,7 @@
               },
               {
                 "id": "anf02-346-576-582-610",
-                "titulo": "MACARIUS CHRYSOCEPHALUS: ORATION VIII. ON MATT. VIII., AND BOOK VII. ON LUKE XIII.",
+                "titulo": "MACARIUS CHRYSOCEPHALUS: ORAÇÃO VIII. NO MATE. VIII., E LIVRO VII. EM LUCAS XIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13759,7 +13759,7 @@
               },
               {
                 "id": "anf02-346-576-582-611",
-                "titulo": "XII.—FRAGMENTS NOT GIVEN IN THE OXFORD EDITION.",
+                "titulo": "XII.—FRAGMENTOS NÃO FORNECIDOS NA EDIÇÃO OXFORD.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13808,7 +13808,7 @@
               },
               {
                 "id": "anf02-346-576-582-614",
-                "titulo": "4. FROM MS. MARKED 2431 IN THE LIBRARY OF THE MOST CHRISTIAN KING.—IBID. P. 1336 A. FROM THE VERY HOLY AND BLESSED CLEMENT, PRESBYTER OF ALEXANDRIA, THE STROMATIST’S BOOK ON PROVIDENCE.",
+                "titulo": "4. DO MS. MARCADO EM 2431 NA BIBLIOTECA DO REI MAIS CRISTÃO.—IBID. P. 1336 A. DO SANTÍSSIMO E BEM-AVENTURADO CLEMENTE, PRESBÍTERO DE ALEXANDRIA, O LIVRO DO ESTROMATISTA SOBRE A PROVIDÊNCIA.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13834,7 +13834,7 @@
               },
               {
                 "id": "anf02-346-576-582-616",
-                "titulo": "6. IN JOHN OF DAMASCUS—PARALLEL—VOL. II. P. 307.",
+                "titulo": "6. EM JOÃO DE DAMASCO — PARALELO — VOL. II. Pág. 307.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13845,7 +13845,7 @@
               },
               {
                 "id": "anf02-346-576-582-617",
-                "titulo": "7. THE SAME, P. 341.",
+                "titulo": "7. O MESMO, pág. 341.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13856,7 +13856,7 @@
               },
               {
                 "id": "anf02-346-576-582-618",
-                "titulo": "8. THE SAME, P. 657.",
+                "titulo": "8. O MESMO, pág. 657.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13867,7 +13867,7 @@
               },
               {
                 "id": "anf02-346-576-582-619",
-                "titulo": "9. FROM THE CATENA ON THE PENTATEUCH, PUBLISHED IN LATIN BY FRANCIS ZEPHYRUS, P. 146.",
+                "titulo": "9. DA CATENA SOBRE O PENTATEUCO, PUBLICADA EM LATIN POR FRANCIS ZEPHYRUS, P. 146.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13878,7 +13878,7 @@
               },
               {
                 "id": "anf02-346-576-582-620",
-                "titulo": "10. FROM J. A. CRAMER’S CATENÆ GRÆCORUM PATRUM IN NOV. TEST. OXFORD 1840 VOL. III.",
+                "titulo": "10. DE CATENÆ GRÆCORUM PATRUM DE J. A. CRAMER EM NOVEMBRO. TESTE. OXFORD 1840 VOL. III.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13889,7 +13889,7 @@
               },
               {
                 "id": "anf02-346-576-582-621",
-                "titulo": "II. THE SAME, VOL. IV. P. 291.",
+                "titulo": "II. O MESMO, VOL. 4. Página 291.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13900,7 +13900,7 @@
               },
               {
                 "id": "anf02-346-576-582-622",
-                "titulo": "12. P. 369, CHAP. X. 3.",
+                "titulo": "12. P. 369, CAP. X. 3.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13911,7 +13911,7 @@
               },
               {
                 "id": "anf02-346-576-582-623",
-                "titulo": "13. VOL. VI. P. 385.",
+                "titulo": "13. VOL. VI. Página 385.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13930,7 +13930,7 @@
               },
               {
                 "id": "anf02-346-576-582-624",
-                "titulo": "14. FROM THE SAME, P. 391.",
+                "titulo": "14. DO MESMO, P. 391.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13949,7 +13949,7 @@
               },
               {
                 "id": "anf02-346-576-582-625",
-                "titulo": "15. FROM VOL. III. V. 286.",
+                "titulo": "15. DO VOL. III. V. 286.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13964,7 +13964,7 @@
               },
               {
                 "id": "anf02-346-576-582-626",
-                "titulo": "16. FROM THE SAME.",
+                "titulo": "16. DO MESMO.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -14095,7 +14095,7 @@
       },
       {
         "id": "anf02-346-627",
-        "titulo": "Clemens Alexandrinus ON THE SALVATION OF THE RICH MAN.",
+        "titulo": "Clemens Alexandrinus SOBRE A SALVAÇÃO DO HOMEM RICO.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -14354,7 +14354,7 @@
       },
       {
         "id": "anf02-346-628",
-        "titulo": "Elucidations",
+        "titulo": "Elucidações",
         "conteudo": [
           {
             "tipo": "paragrafo",

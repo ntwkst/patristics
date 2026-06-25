@@ -5,7 +5,7 @@
     "children": [
       {
         "id": "npnf208-3-4",
-        "titulo": "THE TREATISE DE SPIRITU SANCTO THE NINE HOMILIES OF THE HEXÆMERON AND THE LETTERS OF SAINT BASIL THE GREAT ARCHBISHOP OF CÆSARIA,",
+        "titulo": "O TRATADO DE SPIRITU SANCTO AS NOVE HOMILIAS DO HEXÆMERON E AS CARTAS DE SÃO BASILHO, O GRANDE ARCEBISPO DE CÆSARIA,",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -16,7 +16,7 @@
       },
       {
         "id": "npnf208-3-5",
-        "titulo": "CHRONOLOGICAL TABLE TO ACCOMPANY THE LIFE OF ST. BASIL.",
+        "titulo": "TABELA CRONOLÓGICA PARA ACOMPANHAR A VIDA DE SÃO. MANJERICÃO.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -327,11 +327,11 @@
       },
       {
         "id": "npnf208-3-6",
-        "titulo": "Prolegomena.",
+        "titulo": "Prolegômenos.",
         "children": [
           {
             "id": "npnf208-3-6-7",
-            "titulo": "I. Life.",
+            "titulo": "Eu. Vida.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -350,7 +350,7 @@
           },
           {
             "id": "npnf208-3-6-8",
-            "titulo": "II.—Education.",
+            "titulo": "II.—Educação.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -389,7 +389,7 @@
           },
           {
             "id": "npnf208-3-6-9",
-            "titulo": "III.—Life at Cæsarea; Baptism; and Adoption of Monastic Life.",
+            "titulo": "III.—Vida em Cesaréia; Batismo; e Adoção da Vida Monástica.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -416,7 +416,7 @@
           },
           {
             "id": "npnf208-3-6-10",
-            "titulo": "IV.—Basil and the Councils, to the Accession of Valens.",
+            "titulo": "IV.—Basílio e os Concílios, à adesão de Valente.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -443,7 +443,7 @@
           },
           {
             "id": "npnf208-3-6-11",
-            "titulo": "V.—The Presbyterate.",
+            "titulo": "V.—O Presbiterado.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -466,7 +466,7 @@
           },
           {
             "id": "npnf208-3-6-12",
-            "titulo": "VI.—Basil as Archbishop.",
+            "titulo": "VI.—Basílio como Arcebispo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -509,7 +509,7 @@
           },
           {
             "id": "npnf208-3-6-13",
-            "titulo": "VII.—The Breach with Gregory of Nazianzus.",
+            "titulo": "VII.—A Violação com Gregório de Nazianzo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -532,7 +532,7 @@
           },
           {
             "id": "npnf208-3-6-14",
-            "titulo": "VIII.—St. Basil and Eustathius.",
+            "titulo": "VIII.—S. Basílio e Eustácio.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -547,7 +547,7 @@
           },
           {
             "id": "npnf208-3-6-15",
-            "titulo": "IX.—Unbroken Friendships.",
+            "titulo": "IX.—Amizades Ininterruptas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -582,7 +582,7 @@
           },
           {
             "id": "npnf208-3-6-16",
-            "titulo": "X.—Troubles of the Closing Years.",
+            "titulo": "X.—Problemas dos últimos anos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -617,11 +617,11 @@
           },
           {
             "id": "npnf208-3-6-17",
-            "titulo": "II. Works.",
+            "titulo": "II. Funciona.",
             "children": [
               {
                 "id": "npnf208-3-6-17-18",
-                "titulo": "I.—Dogmatic.",
+                "titulo": "I.—Dogmático.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -820,7 +820,7 @@
               },
               {
                 "id": "npnf208-3-6-17-19",
-                "titulo": "II.—Exegetic.",
+                "titulo": "II.-Exegética.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -919,7 +919,7 @@
               },
               {
                 "id": "npnf208-3-6-17-20",
-                "titulo": "III.—Ascetic.",
+                "titulo": "III.-Ascético.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1054,7 +1054,7 @@
               },
               {
                 "id": "npnf208-3-6-17-21",
-                "titulo": "IV.—Homiletical.",
+                "titulo": "IV.-Homilética.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1413,7 +1413,7 @@
               },
               {
                 "id": "npnf208-3-6-17-22",
-                "titulo": "V.—Letters.",
+                "titulo": "V.—Cartas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1424,7 +1424,7 @@
               },
               {
                 "id": "npnf208-3-6-17-23",
-                "titulo": "VI.—Liturgical.",
+                "titulo": "VI.—Litúrgico.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1447,7 +1447,7 @@
               },
               {
                 "id": "npnf208-3-6-17-24",
-                "titulo": "VII.—Writings Spurious and Dubious.",
+                "titulo": "VII.—Escritos Espúrios e Duvidosos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1526,7 +1526,7 @@
               },
               {
                 "id": "npnf208-3-6-17-25",
-                "titulo": "VIII.—Writings Mentioned, But Lost.",
+                "titulo": "VIII.—Escritos mencionados, mas perdidos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1537,7 +1537,7 @@
               },
               {
                 "id": "npnf208-3-6-17-26",
-                "titulo": "IX.—Additional Notes on Some Points in St. Basil’s Doctrinal and Ecclesiastical Position.",
+                "titulo": "IX.—Notas adicionais sobre alguns pontos da posição doutrinária e eclesiástica de São Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1576,7 +1576,7 @@
               },
               {
                 "id": "npnf208-3-6-17-27",
-                "titulo": "X.—Editions and Manuscripts.",
+                "titulo": "X.—Edições e Manuscritos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2035,11 +2035,11 @@
       },
       {
         "id": "npnf208-3-28",
-        "titulo": "ΤΟΥ ΑΓΙΟΥ ΒΑΧΙΛΕΙΟΥ ΠΕΡΙ ΤΟΥ ΠΝΕΥΜΑΤΟΧ ΒΙΒΛΙΟΝ. THE BOOK OF SAINT BASIL ON THE SPIRIT. DE SPIRITU SANCTO.",
+        "titulo": "ΤΟΥ ΑΓΙΟΥ ΒΑΧΙΛΕΙΟΥ ΠΕΡΙ ΤΟΥ ΠΝΕΥΜΑΤΟΧ ΒΙΒΛΙΟΝ. O LIVRO DE SÃO MANJERICÃO SOBRE O ESPÍRITO. DE ESPÍRITO SANTO.",
         "children": [
           {
             "id": "npnf208-3-28-29",
-            "titulo": "Chapter I.",
+            "titulo": "Capítulo I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2074,7 +2074,7 @@
           },
           {
             "id": "npnf208-3-28-30",
-            "titulo": "Chapter II.",
+            "titulo": "Capítulo II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2093,7 +2093,7 @@
           },
           {
             "id": "npnf208-3-28-31",
-            "titulo": "Chapter III.",
+            "titulo": "Capítulo III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2112,7 +2112,7 @@
           },
           {
             "id": "npnf208-3-28-32",
-            "titulo": "Chapter IV.",
+            "titulo": "Capítulo IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2127,7 +2127,7 @@
           },
           {
             "id": "npnf208-3-28-33",
-            "titulo": "Chapter V.",
+            "titulo": "Capítulo V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2186,7 +2186,7 @@
           },
           {
             "id": "npnf208-3-28-34",
-            "titulo": "Chapter VI.",
+            "titulo": "Capítulo VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2225,7 +2225,7 @@
           },
           {
             "id": "npnf208-3-28-35",
-            "titulo": "Chapter VII.",
+            "titulo": "Capítulo VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2248,7 +2248,7 @@
           },
           {
             "id": "npnf208-3-28-36",
-            "titulo": "Chapter VIII.",
+            "titulo": "Capítulo VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2291,7 +2291,7 @@
           },
           {
             "id": "npnf208-3-28-37",
-            "titulo": "Chapter IX.",
+            "titulo": "Capítulo IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2310,7 +2310,7 @@
           },
           {
             "id": "npnf208-3-28-38",
-            "titulo": "Chapter X.",
+            "titulo": "Capítulo X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2345,7 +2345,7 @@
           },
           {
             "id": "npnf208-3-28-39",
-            "titulo": "Chapter XI.",
+            "titulo": "Capítulo XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2364,7 +2364,7 @@
           },
           {
             "id": "npnf208-3-28-40",
-            "titulo": "Chapter XII.",
+            "titulo": "Capítulo XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2383,7 +2383,7 @@
           },
           {
             "id": "npnf208-3-28-41",
-            "titulo": "Chapter XIII.",
+            "titulo": "Capítulo XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2402,7 +2402,7 @@
           },
           {
             "id": "npnf208-3-28-42",
-            "titulo": "Chapter XIV.",
+            "titulo": "Capítulo XIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2425,7 +2425,7 @@
           },
           {
             "id": "npnf208-3-28-43",
-            "titulo": "Chapter XV.",
+            "titulo": "Capítulo XV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2448,7 +2448,7 @@
           },
           {
             "id": "npnf208-3-28-44",
-            "titulo": "Chapter XVI.",
+            "titulo": "Capítulo XVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2479,7 +2479,7 @@
           },
           {
             "id": "npnf208-3-28-45",
-            "titulo": "Chapter XVII.",
+            "titulo": "Capítulo XVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2502,7 +2502,7 @@
           },
           {
             "id": "npnf208-3-28-46",
-            "titulo": "Chapter XVIII.",
+            "titulo": "Capítulo XVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2533,7 +2533,7 @@
           },
           {
             "id": "npnf208-3-28-47",
-            "titulo": "Chapter XIX.",
+            "titulo": "Capítulo XIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2560,7 +2560,7 @@
           },
           {
             "id": "npnf208-3-28-48",
-            "titulo": "Chapter XX.",
+            "titulo": "Capítulo XX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2575,7 +2575,7 @@
           },
           {
             "id": "npnf208-3-28-49",
-            "titulo": "Chapter XXI.",
+            "titulo": "Capítulo XXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2590,7 +2590,7 @@
           },
           {
             "id": "npnf208-3-28-50",
-            "titulo": "Chapter XXII.",
+            "titulo": "Capítulo XXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2605,7 +2605,7 @@
           },
           {
             "id": "npnf208-3-28-51",
-            "titulo": "Chapter XXIII.",
+            "titulo": "Capítulo XXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2620,7 +2620,7 @@
           },
           {
             "id": "npnf208-3-28-52",
-            "titulo": "Chapter XXIV.",
+            "titulo": "Capítulo XXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2647,7 +2647,7 @@
           },
           {
             "id": "npnf208-3-28-53",
-            "titulo": "Chapter XXV.",
+            "titulo": "Capítulo XXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2670,7 +2670,7 @@
           },
           {
             "id": "npnf208-3-28-54",
-            "titulo": "Chapter XXVI.",
+            "titulo": "Capítulo XXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2697,7 +2697,7 @@
           },
           {
             "id": "npnf208-3-28-55",
-            "titulo": "Chapter XXVII.",
+            "titulo": "Capítulo XXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2724,7 +2724,7 @@
           },
           {
             "id": "npnf208-3-28-56",
-            "titulo": "Chapter XXVIII.",
+            "titulo": "Capítulo XXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2743,7 +2743,7 @@
           },
           {
             "id": "npnf208-3-28-57",
-            "titulo": "Chapter XXIX.",
+            "titulo": "Capítulo XXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2778,7 +2778,7 @@
           },
           {
             "id": "npnf208-3-28-58",
-            "titulo": "Chapter XXX.",
+            "titulo": "Capítulo XXX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2807,11 +2807,11 @@
       },
       {
         "id": "npnf208-3-59",
-        "titulo": "Introduction to the Hexæmeron.",
+        "titulo": "Introdução ao Hexæmeron.",
         "children": [
           {
             "id": "npnf208-3-59-60",
-            "titulo": "Homily I.",
+            "titulo": "Homilia I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2886,7 +2886,7 @@
           },
           {
             "id": "npnf208-3-59-61",
-            "titulo": "Homily II.",
+            "titulo": "Homilia II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2981,7 +2981,7 @@
           },
           {
             "id": "npnf208-3-59-62",
-            "titulo": "Homily III.",
+            "titulo": "Homilia III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3060,7 +3060,7 @@
           },
           {
             "id": "npnf208-3-59-63",
-            "titulo": "Homily IV.",
+            "titulo": "Homilia IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3127,7 +3127,7 @@
           },
           {
             "id": "npnf208-3-59-64",
-            "titulo": "Homily V.",
+            "titulo": "Homilia V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3202,7 +3202,7 @@
           },
           {
             "id": "npnf208-3-59-65",
-            "titulo": "Homily VI.",
+            "titulo": "Homilia VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3309,7 +3309,7 @@
           },
           {
             "id": "npnf208-3-59-66",
-            "titulo": "Homily VII.",
+            "titulo": "Homilia VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3380,7 +3380,7 @@
           },
           {
             "id": "npnf208-3-59-67",
-            "titulo": "Homily VIII.",
+            "titulo": "Homilia VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3467,7 +3467,7 @@
           },
           {
             "id": "npnf208-3-59-68",
-            "titulo": "Homily IX.",
+            "titulo": "Homilia IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3540,11 +3540,11 @@
       },
       {
         "id": "npnf208-3-69",
-        "titulo": "Introduction to the Letters.",
+        "titulo": "Introdução às Cartas.",
         "children": [
           {
             "id": "npnf208-3-69-70",
-            "titulo": "Letter I.1737",
+            "titulo": "Carta I.1737",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3567,7 +3567,7 @@
           },
           {
             "id": "npnf208-3-69-71",
-            "titulo": "Letter II.1743",
+            "titulo": "Carta II.1743",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3602,7 +3602,7 @@
           },
           {
             "id": "npnf208-3-69-72",
-            "titulo": "Letter III.1757",
+            "titulo": "Carta III.1757",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3625,7 +3625,7 @@
           },
           {
             "id": "npnf208-3-69-73",
-            "titulo": "Letter IV.1763",
+            "titulo": "Carta IV.1763",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3640,7 +3640,7 @@
           },
           {
             "id": "npnf208-3-69-74",
-            "titulo": "Letter V.1768",
+            "titulo": "Carta V.1768",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3655,7 +3655,7 @@
           },
           {
             "id": "npnf208-3-69-75",
-            "titulo": "Letter VI.1773",
+            "titulo": "Carta VI.1773",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3670,7 +3670,7 @@
           },
           {
             "id": "npnf208-3-69-76",
-            "titulo": "Letter VII.1777",
+            "titulo": "Carta VII.1777",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3681,7 +3681,7 @@
           },
           {
             "id": "npnf208-3-69-77",
-            "titulo": "Letter VIII.1779",
+            "titulo": "Carta VIII.1779",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3752,7 +3752,7 @@
           },
           {
             "id": "npnf208-3-69-78",
-            "titulo": "Letter IX.1872",
+            "titulo": "Carta IX.1872",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3775,7 +3775,7 @@
           },
           {
             "id": "npnf208-3-69-79",
-            "titulo": "Letter X.1883",
+            "titulo": "Carta X.1883",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3786,7 +3786,7 @@
           },
           {
             "id": "npnf208-3-69-80",
-            "titulo": "Letter XI.1886",
+            "titulo": "Carta XI.1886",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3797,7 +3797,7 @@
           },
           {
             "id": "npnf208-3-69-81",
-            "titulo": "Letter XII.1888",
+            "titulo": "Carta XII.1888",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3808,7 +3808,7 @@
           },
           {
             "id": "npnf208-3-69-82",
-            "titulo": "Letter XIII.1890",
+            "titulo": "Carta XIII.1890",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3819,7 +3819,7 @@
           },
           {
             "id": "npnf208-3-69-83",
-            "titulo": "Letter XIV.1892",
+            "titulo": "Carta XIV.1892",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3834,7 +3834,7 @@
           },
           {
             "id": "npnf208-3-69-84",
-            "titulo": "Letter XV.1897",
+            "titulo": "Carta XV.1897",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3845,7 +3845,7 @@
           },
           {
             "id": "npnf208-3-69-85",
-            "titulo": "Letter XVI.1900",
+            "titulo": "Carta XVI.1900",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3856,7 +3856,7 @@
           },
           {
             "id": "npnf208-3-69-86",
-            "titulo": "Letter XVII.1903",
+            "titulo": "Carta XVII.1903",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3871,7 +3871,7 @@
           },
           {
             "id": "npnf208-3-69-87",
-            "titulo": "Letter XVIII.1905",
+            "titulo": "Carta XVIII.1905",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3882,7 +3882,7 @@
           },
           {
             "id": "npnf208-3-69-88",
-            "titulo": "Letter XIX.1908",
+            "titulo": "Carta XIX.1908",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3893,7 +3893,7 @@
           },
           {
             "id": "npnf208-3-69-89",
-            "titulo": "Letter XX.1910",
+            "titulo": "Carta XX.1910",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3908,7 +3908,7 @@
           },
           {
             "id": "npnf208-3-69-90",
-            "titulo": "Letter XXI.1912",
+            "titulo": "Carta XXI.1912",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3919,7 +3919,7 @@
           },
           {
             "id": "npnf208-3-69-91",
-            "titulo": "Letter XXII.1917",
+            "titulo": "Carta XXII.1917",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3942,7 +3942,7 @@
           },
           {
             "id": "npnf208-3-69-92",
-            "titulo": "Letter XXIII.1977",
+            "titulo": "Carta XXIII.1977",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3953,7 +3953,7 @@
           },
           {
             "id": "npnf208-3-69-93",
-            "titulo": "Letter XXIV.1980",
+            "titulo": "Carta XXIV.1980",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3964,7 +3964,7 @@
           },
           {
             "id": "npnf208-3-69-94",
-            "titulo": "Letter XXV.1986",
+            "titulo": "Carta XXV.1986",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3979,7 +3979,7 @@
           },
           {
             "id": "npnf208-3-69-95",
-            "titulo": "Letter XXVI.1988",
+            "titulo": "Carta XXVI.1988",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3990,7 +3990,7 @@
           },
           {
             "id": "npnf208-3-69-96",
-            "titulo": "Letter XXVII.1991",
+            "titulo": "Carta XXVII.1991",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4001,7 +4001,7 @@
           },
           {
             "id": "npnf208-3-69-97",
-            "titulo": "Letter XXVIII.1994",
+            "titulo": "Carta XXVIII.1994",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4024,7 +4024,7 @@
           },
           {
             "id": "npnf208-3-69-98",
-            "titulo": "Letter XXIX.2000",
+            "titulo": "Carta XXIX.2000",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4035,7 +4035,7 @@
           },
           {
             "id": "npnf208-3-69-99",
-            "titulo": "Letter XXX.2004",
+            "titulo": "Carta XXX.2004",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4046,7 +4046,7 @@
           },
           {
             "id": "npnf208-3-69-100",
-            "titulo": "Letter XXXI.2006",
+            "titulo": "Carta XXXI.2006",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4057,7 +4057,7 @@
           },
           {
             "id": "npnf208-3-69-101",
-            "titulo": "Letter XXXII.2008",
+            "titulo": "Carta XXXII.2008",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4072,7 +4072,7 @@
           },
           {
             "id": "npnf208-3-69-102",
-            "titulo": "Letter XXXIII.2013",
+            "titulo": "Carta XXXIII.2013",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4083,7 +4083,7 @@
           },
           {
             "id": "npnf208-3-69-103",
-            "titulo": "Letter XXXIV.2015",
+            "titulo": "Carta XXXIV.2015",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4094,7 +4094,7 @@
           },
           {
             "id": "npnf208-3-69-104",
-            "titulo": "Letter XXXV.2018",
+            "titulo": "Carta XXXV.2018",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4105,7 +4105,7 @@
           },
           {
             "id": "npnf208-3-69-105",
-            "titulo": "Letter XXXVI.2019",
+            "titulo": "Carta XXXVI.2019",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4116,7 +4116,7 @@
           },
           {
             "id": "npnf208-3-69-106",
-            "titulo": "Letter XXXVII.2020",
+            "titulo": "Carta XXXVII.2020",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4127,7 +4127,7 @@
           },
           {
             "id": "npnf208-3-69-107",
-            "titulo": "Letter XXXVIII.2022",
+            "titulo": "Carta XXXVIII.2022",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4174,7 +4174,7 @@
           },
           {
             "id": "npnf208-3-69-108",
-            "titulo": "Letter XXXIX.2048",
+            "titulo": "Carta XXXIX.2048",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4185,7 +4185,7 @@
           },
           {
             "id": "npnf208-3-69-109",
-            "titulo": "Letter XL.2053",
+            "titulo": "Carta XL.2053",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4196,7 +4196,7 @@
           },
           {
             "id": "npnf208-3-69-110",
-            "titulo": "Letter XLI.2057",
+            "titulo": "Carta XLI.2057",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4211,7 +4211,7 @@
           },
           {
             "id": "npnf208-3-69-111",
-            "titulo": "Letter XLII.2060",
+            "titulo": "Carta XLII.2060",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4238,7 +4238,7 @@
           },
           {
             "id": "npnf208-3-69-112",
-            "titulo": "Letter XLIII.2090",
+            "titulo": "Carta XLIII.2090",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4249,7 +4249,7 @@
           },
           {
             "id": "npnf208-3-69-113",
-            "titulo": "Letter XLIV.2092",
+            "titulo": "Carta XLIV.2092",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4264,7 +4264,7 @@
           },
           {
             "id": "npnf208-3-69-114",
-            "titulo": "Letter XLV.2102",
+            "titulo": "Carta XLV.2102",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4287,7 +4287,7 @@
           },
           {
             "id": "npnf208-3-69-115",
-            "titulo": "Letter XLVI.2108",
+            "titulo": "Carta XLVI.2108",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4322,7 +4322,7 @@
           },
           {
             "id": "npnf208-3-69-116",
-            "titulo": "Letter XLVII.2157",
+            "titulo": "Carta XLVII.2157",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4333,7 +4333,7 @@
           },
           {
             "id": "npnf208-3-69-117",
-            "titulo": "Letter XLVIII.2163",
+            "titulo": "Carta XLVIII.2163",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4344,7 +4344,7 @@
           },
           {
             "id": "npnf208-3-69-118",
-            "titulo": "Letter XLIX.2169",
+            "titulo": "Carta XLIX.2169",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4355,7 +4355,7 @@
           },
           {
             "id": "npnf208-3-69-119",
-            "titulo": "Letter L.2172",
+            "titulo": "Carta L.2172",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4366,7 +4366,7 @@
           },
           {
             "id": "npnf208-3-69-120",
-            "titulo": "Letter LI.2175",
+            "titulo": "Carta LI.2175",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4381,7 +4381,7 @@
           },
           {
             "id": "npnf208-3-69-121",
-            "titulo": "Letter LII.2184",
+            "titulo": "Carta LII.2184",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4408,7 +4408,7 @@
           },
           {
             "id": "npnf208-3-69-122",
-            "titulo": "Letter LIII.2192",
+            "titulo": "Carta LIII.2192",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4423,7 +4423,7 @@
           },
           {
             "id": "npnf208-3-69-123",
-            "titulo": "Letter LIV.2199",
+            "titulo": "Carta LIV.2199",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4434,7 +4434,7 @@
           },
           {
             "id": "npnf208-3-69-124",
-            "titulo": "Letter LV.2203",
+            "titulo": "Carta LV.2203",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4445,7 +4445,7 @@
           },
           {
             "id": "npnf208-3-69-125",
-            "titulo": "Letter LVI.2206",
+            "titulo": "Carta LVI.2206",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4456,7 +4456,7 @@
           },
           {
             "id": "npnf208-3-69-126",
-            "titulo": "Letter LVII.2208",
+            "titulo": "Carta LVII.2208",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4467,7 +4467,7 @@
           },
           {
             "id": "npnf208-3-69-127",
-            "titulo": "Letter LVIII.2211",
+            "titulo": "Carta LVIII.2211",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4478,7 +4478,7 @@
           },
           {
             "id": "npnf208-3-69-128",
-            "titulo": "Letter LIX.2216",
+            "titulo": "Carta LIX.2216",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4497,7 +4497,7 @@
           },
           {
             "id": "npnf208-3-69-129",
-            "titulo": "Letter LX.2221",
+            "titulo": "Carta LX.2221",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4512,7 +4512,7 @@
           },
           {
             "id": "npnf208-3-69-130",
-            "titulo": "Letter LXI.2222",
+            "titulo": "Carta LXI.2222",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4523,7 +4523,7 @@
           },
           {
             "id": "npnf208-3-69-131",
-            "titulo": "Letter LXII.2225",
+            "titulo": "Carta LXII.2225",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4538,7 +4538,7 @@
           },
           {
             "id": "npnf208-3-69-132",
-            "titulo": "Letter LXIII.2228",
+            "titulo": "Carta LXIII.2228",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4549,7 +4549,7 @@
           },
           {
             "id": "npnf208-3-69-133",
-            "titulo": "Letter LXIV.2230",
+            "titulo": "Carta LXIV.2230",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4560,7 +4560,7 @@
           },
           {
             "id": "npnf208-3-69-134",
-            "titulo": "Letter LXV.2232",
+            "titulo": "Carta LXV.2232",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4571,7 +4571,7 @@
           },
           {
             "id": "npnf208-3-69-135",
-            "titulo": "Letter LXVI.2237",
+            "titulo": "Carta LXVI.2237",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4582,7 +4582,7 @@
           },
           {
             "id": "npnf208-3-69-136",
-            "titulo": "Letter LXVII.2242",
+            "titulo": "Carta LXVII.2242",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4593,7 +4593,7 @@
           },
           {
             "id": "npnf208-3-69-137",
-            "titulo": "Letter LXVIII.2244",
+            "titulo": "Carta LXVIII.2244",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4604,7 +4604,7 @@
           },
           {
             "id": "npnf208-3-69-138",
-            "titulo": "Letter LXIX.2246",
+            "titulo": "Carta LXIX.2246",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4619,7 +4619,7 @@
           },
           {
             "id": "npnf208-3-69-139",
-            "titulo": "Letter LXX.2251",
+            "titulo": "Carta LXX.2251",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4630,7 +4630,7 @@
           },
           {
             "id": "npnf208-3-69-140",
-            "titulo": "Letter LXXI.2254",
+            "titulo": "Carta LXXI.2254",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4645,7 +4645,7 @@
           },
           {
             "id": "npnf208-3-69-141",
-            "titulo": "Letter LXXII.2257",
+            "titulo": "Carta LXXII.2257",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4656,7 +4656,7 @@
           },
           {
             "id": "npnf208-3-69-142",
-            "titulo": "Letter LXXIII.2259",
+            "titulo": "Carta LXXIII.2259",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4679,7 +4679,7 @@
           },
           {
             "id": "npnf208-3-69-143",
-            "titulo": "Letter LXXIV.2260",
+            "titulo": "Carta LXXIV.2260",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4702,7 +4702,7 @@
           },
           {
             "id": "npnf208-3-69-144",
-            "titulo": "Letter LXXV.2266",
+            "titulo": "Carta LXXV.2266",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4713,7 +4713,7 @@
           },
           {
             "id": "npnf208-3-69-145",
-            "titulo": "Letter LXXVI.2268",
+            "titulo": "Carta LXXVI.2268",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4724,7 +4724,7 @@
           },
           {
             "id": "npnf208-3-69-146",
-            "titulo": "Letter LXXVII.2270",
+            "titulo": "Carta LXXVII.2270",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4735,7 +4735,7 @@
           },
           {
             "id": "npnf208-3-69-147",
-            "titulo": "Letter LXXVIII.2273",
+            "titulo": "Carta LXXVIII.2273",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4746,7 +4746,7 @@
           },
           {
             "id": "npnf208-3-69-148",
-            "titulo": "Letter LXXIX.2274",
+            "titulo": "Carta LXXIX.2274",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4757,7 +4757,7 @@
           },
           {
             "id": "npnf208-3-69-149",
-            "titulo": "Letter LXXX.2276",
+            "titulo": "Carta LXXX.2276",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4768,7 +4768,7 @@
           },
           {
             "id": "npnf208-3-69-150",
-            "titulo": "Letter LXXXI.2277",
+            "titulo": "Carta LXXXI.2277",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4779,7 +4779,7 @@
           },
           {
             "id": "npnf208-3-69-151",
-            "titulo": "Letter LXXXII.2281",
+            "titulo": "Carta LXXXII.2281",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4790,7 +4790,7 @@
           },
           {
             "id": "npnf208-3-69-152",
-            "titulo": "Letter LXXXIII.2286",
+            "titulo": "Carta LXXXIII.2286",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4801,7 +4801,7 @@
           },
           {
             "id": "npnf208-3-69-153",
-            "titulo": "Letter LXXXIV.2289",
+            "titulo": "Carta LXXXIV.2289",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4816,7 +4816,7 @@
           },
           {
             "id": "npnf208-3-69-154",
-            "titulo": "Letter LXXXV.2291",
+            "titulo": "Carta LXXXV.2291",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4827,7 +4827,7 @@
           },
           {
             "id": "npnf208-3-69-155",
-            "titulo": "Letter LXXXVI.2293",
+            "titulo": "Carta LXXXVI.2293",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4838,7 +4838,7 @@
           },
           {
             "id": "npnf208-3-69-156",
-            "titulo": "Letter LXXXVII.2295",
+            "titulo": "Carta LXXXVII.2295",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4849,7 +4849,7 @@
           },
           {
             "id": "npnf208-3-69-157",
-            "titulo": "Letter LXXXVIII.2298",
+            "titulo": "Carta LXXXVIII.2298",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4860,7 +4860,7 @@
           },
           {
             "id": "npnf208-3-69-158",
-            "titulo": "Letter LXXXIX.2300",
+            "titulo": "Carta LXXXIX.2300",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4879,7 +4879,7 @@
           },
           {
             "id": "npnf208-3-69-159",
-            "titulo": "Letter XC.2302",
+            "titulo": "Carta XC.2302",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4894,7 +4894,7 @@
           },
           {
             "id": "npnf208-3-69-160",
-            "titulo": "Letter XCI.2305",
+            "titulo": "Carta XCI.2305",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4905,7 +4905,7 @@
           },
           {
             "id": "npnf208-3-69-161",
-            "titulo": "Letter XCII.2309",
+            "titulo": "Carta XCII.2309",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4928,7 +4928,7 @@
           },
           {
             "id": "npnf208-3-69-162",
-            "titulo": "Letter XCIII.2328",
+            "titulo": "Carta XCIII.2328",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4939,7 +4939,7 @@
           },
           {
             "id": "npnf208-3-69-163",
-            "titulo": "Letter XCIV.2333",
+            "titulo": "Carta XCIV.2333",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4950,7 +4950,7 @@
           },
           {
             "id": "npnf208-3-69-164",
-            "titulo": "Letter XCV.2336",
+            "titulo": "Carta XCV.2336",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4961,7 +4961,7 @@
           },
           {
             "id": "npnf208-3-69-165",
-            "titulo": "Letter XCVI.2338",
+            "titulo": "Carta XCVI.2338",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4972,7 +4972,7 @@
           },
           {
             "id": "npnf208-3-69-166",
-            "titulo": "Letter XCVII.2340",
+            "titulo": "Carta XCVII.2340",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4983,7 +4983,7 @@
           },
           {
             "id": "npnf208-3-69-167",
-            "titulo": "Letter XCVIII.2343",
+            "titulo": "Carta XCVIII.2343",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5006,7 +5006,7 @@
           },
           {
             "id": "npnf208-3-69-168",
-            "titulo": "Letter XCIX.2347",
+            "titulo": "Carta XCIX.2347",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5029,7 +5029,7 @@
           },
           {
             "id": "npnf208-3-69-169",
-            "titulo": "Letter C.2351",
+            "titulo": "Carta C.2351",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5040,7 +5040,7 @@
           },
           {
             "id": "npnf208-3-69-170",
-            "titulo": "Letter CI.2354",
+            "titulo": "Carta CI.2354",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5051,7 +5051,7 @@
           },
           {
             "id": "npnf208-3-69-171",
-            "titulo": "Letter CII.2357",
+            "titulo": "Carta CII.2357",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5066,7 +5066,7 @@
           },
           {
             "id": "npnf208-3-69-172",
-            "titulo": "Letter CIII.2361",
+            "titulo": "Carta CIII.2361",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5077,7 +5077,7 @@
           },
           {
             "id": "npnf208-3-69-173",
-            "titulo": "Letter CIV.2362",
+            "titulo": "Carta CIV.2362",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5088,7 +5088,7 @@
           },
           {
             "id": "npnf208-3-69-174",
-            "titulo": "Letter CV.2365",
+            "titulo": "Carta CV.2365",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5103,7 +5103,7 @@
           },
           {
             "id": "npnf208-3-69-175",
-            "titulo": "Letter CVI.2367",
+            "titulo": "Carta CVI.2367",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5114,7 +5114,7 @@
           },
           {
             "id": "npnf208-3-69-176",
-            "titulo": "Letter CVII.2369",
+            "titulo": "Carta CVII.2369",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5125,7 +5125,7 @@
           },
           {
             "id": "npnf208-3-69-177",
-            "titulo": "Letter CVIII.2371",
+            "titulo": "Carta CVIII.2371",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5136,7 +5136,7 @@
           },
           {
             "id": "npnf208-3-69-178",
-            "titulo": "Letter CIX.2372",
+            "titulo": "Carta CIX.2372",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5147,7 +5147,7 @@
           },
           {
             "id": "npnf208-3-69-179",
-            "titulo": "Letter CX.2373",
+            "titulo": "Carta CX.2373",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5158,7 +5158,7 @@
           },
           {
             "id": "npnf208-3-69-180",
-            "titulo": "Letter CXI.2375",
+            "titulo": "Carta CXI.2375",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5173,7 +5173,7 @@
           },
           {
             "id": "npnf208-3-69-181",
-            "titulo": "Letter CXII.2376",
+            "titulo": "Carta CXII.2376",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5192,7 +5192,7 @@
           },
           {
             "id": "npnf208-3-69-182",
-            "titulo": "Letter CXIII.2380",
+            "titulo": "Carta CXIII.2380",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5207,7 +5207,7 @@
           },
           {
             "id": "npnf208-3-69-183",
-            "titulo": "Letter CXIV.2383",
+            "titulo": "Carta CXIV.2383",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5222,7 +5222,7 @@
           },
           {
             "id": "npnf208-3-69-184",
-            "titulo": "Letter CXV.2387",
+            "titulo": "Carta CXV.2387",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5233,7 +5233,7 @@
           },
           {
             "id": "npnf208-3-69-185",
-            "titulo": "Letter CXVI.2390",
+            "titulo": "Carta CXVI.2390",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5244,7 +5244,7 @@
           },
           {
             "id": "npnf208-3-69-186",
-            "titulo": "Letter CXVII.",
+            "titulo": "Carta CXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5255,7 +5255,7 @@
           },
           {
             "id": "npnf208-3-69-187",
-            "titulo": "Letter CXVIII.2393",
+            "titulo": "Carta CXVIII.2393",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5266,7 +5266,7 @@
           },
           {
             "id": "npnf208-3-69-188",
-            "titulo": "Letter CXIX.2395",
+            "titulo": "Carta CXIX.2395",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5281,7 +5281,7 @@
           },
           {
             "id": "npnf208-3-69-189",
-            "titulo": "Letter CXX.2397",
+            "titulo": "Carta CXX.2397",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5300,7 +5300,7 @@
           },
           {
             "id": "npnf208-3-69-190",
-            "titulo": "Letter CXXI.2400",
+            "titulo": "Carta CXXI.2400",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5311,7 +5311,7 @@
           },
           {
             "id": "npnf208-3-69-191",
-            "titulo": "Letter CXXII.2402",
+            "titulo": "Carta CXXII.2402",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5326,7 +5326,7 @@
           },
           {
             "id": "npnf208-3-69-192",
-            "titulo": "Letter CXXIII.2404",
+            "titulo": "Carta CXXIII.2404",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5337,7 +5337,7 @@
           },
           {
             "id": "npnf208-3-69-193",
-            "titulo": "Letter CXXIV.2406",
+            "titulo": "Carta CXXIV.2406",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5348,7 +5348,7 @@
           },
           {
             "id": "npnf208-3-69-194",
-            "titulo": "Letter CXXV.2407",
+            "titulo": "Carta CXXV.2407",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5403,7 +5403,7 @@
           },
           {
             "id": "npnf208-3-69-195",
-            "titulo": "Letter CXXVI.2418",
+            "titulo": "Carta CXXVI.2418",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5414,7 +5414,7 @@
           },
           {
             "id": "npnf208-3-69-196",
-            "titulo": "Letter CXXVII.2420",
+            "titulo": "Carta CXXVII.2420",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5429,7 +5429,7 @@
           },
           {
             "id": "npnf208-3-69-197",
-            "titulo": "Letter CXXVIII.2422",
+            "titulo": "Carta CXXVIII.2422",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5448,7 +5448,7 @@
           },
           {
             "id": "npnf208-3-69-198",
-            "titulo": "Letter CXXIX.2427",
+            "titulo": "Carta CXXIX.2427",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5467,7 +5467,7 @@
           },
           {
             "id": "npnf208-3-69-199",
-            "titulo": "Letter CXXX.2430",
+            "titulo": "Carta CXXX.2430",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5482,7 +5482,7 @@
           },
           {
             "id": "npnf208-3-69-200",
-            "titulo": "Letter CXXXI.2436",
+            "titulo": "Carta CXXXI.2436",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5501,7 +5501,7 @@
           },
           {
             "id": "npnf208-3-69-201",
-            "titulo": "Letter CXXXII.2439",
+            "titulo": "Carta CXXXII.2439",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5512,7 +5512,7 @@
           },
           {
             "id": "npnf208-3-69-202",
-            "titulo": "Letter CXXXIII.",
+            "titulo": "Carta CXXXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5523,7 +5523,7 @@
           },
           {
             "id": "npnf208-3-69-203",
-            "titulo": "Letter CXXXIV.2442",
+            "titulo": "Carta CXXXIV.2442",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5534,7 +5534,7 @@
           },
           {
             "id": "npnf208-3-69-204",
-            "titulo": "Letter CXXXV.2443",
+            "titulo": "Carta CXXXV.2443",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5549,7 +5549,7 @@
           },
           {
             "id": "npnf208-3-69-205",
-            "titulo": "Letter CXXXVI.2445",
+            "titulo": "Carta CXXXVI.2445",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5564,7 +5564,7 @@
           },
           {
             "id": "npnf208-3-69-206",
-            "titulo": "Letter CXXXVII.2447",
+            "titulo": "Carta CXXXVII.2447",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5575,7 +5575,7 @@
           },
           {
             "id": "npnf208-3-69-207",
-            "titulo": "Letter CXXXVIII.2450",
+            "titulo": "Carta CXXXVIII.2450",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5598,7 +5598,7 @@
           },
           {
             "id": "npnf208-3-69-208",
-            "titulo": "Letter CXXXIX.2456",
+            "titulo": "Carta CXXXIX.2456",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5613,7 +5613,7 @@
           },
           {
             "id": "npnf208-3-69-209",
-            "titulo": "Letter CXL.2463",
+            "titulo": "Carta CXL.2463",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5628,7 +5628,7 @@
           },
           {
             "id": "npnf208-3-69-210",
-            "titulo": "Letter CXLI.2466",
+            "titulo": "Carta CXLI.2466",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5643,7 +5643,7 @@
           },
           {
             "id": "npnf208-3-69-211",
-            "titulo": "Letter CXLII.2470",
+            "titulo": "Carta CXLII.2470",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5654,7 +5654,7 @@
           },
           {
             "id": "npnf208-3-69-212",
-            "titulo": "Letter CXLIII.2473",
+            "titulo": "Carta CXLIII.2473",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5665,7 +5665,7 @@
           },
           {
             "id": "npnf208-3-69-213",
-            "titulo": "Letter CXLIV.2475",
+            "titulo": "Carta CXLIV.2475",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5676,7 +5676,7 @@
           },
           {
             "id": "npnf208-3-69-214",
-            "titulo": "Letter CXLV.2477",
+            "titulo": "Carta CXLV.2477",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5687,7 +5687,7 @@
           },
           {
             "id": "npnf208-3-69-215",
-            "titulo": "Letter CXLVI.2481",
+            "titulo": "Carta CXLVI.2481",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5698,7 +5698,7 @@
           },
           {
             "id": "npnf208-3-69-216",
-            "titulo": "Letter CXLVII.2484",
+            "titulo": "Carta CXLVII.2484",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5709,7 +5709,7 @@
           },
           {
             "id": "npnf208-3-69-217",
-            "titulo": "Letter CXLVIII.2486",
+            "titulo": "Carta CXLVIII.2486",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5720,7 +5720,7 @@
           },
           {
             "id": "npnf208-3-69-218",
-            "titulo": "Letter CXLIX.2488",
+            "titulo": "Carta CXLIX.2488",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5731,7 +5731,7 @@
           },
           {
             "id": "npnf208-3-69-219",
-            "titulo": "Letter CL.2490",
+            "titulo": "Carta CL.2490",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5758,7 +5758,7 @@
           },
           {
             "id": "npnf208-3-69-220",
-            "titulo": "Letter CLI.2499",
+            "titulo": "Carta CLI.2499",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5773,7 +5773,7 @@
           },
           {
             "id": "npnf208-3-69-221",
-            "titulo": "Letter CLII.2503",
+            "titulo": "Carta CLII.2503",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5788,7 +5788,7 @@
           },
           {
             "id": "npnf208-3-69-222",
-            "titulo": "Letter CLIII.2505",
+            "titulo": "Carta CLIIII.2505",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5803,7 +5803,7 @@
           },
           {
             "id": "npnf208-3-69-223",
-            "titulo": "Letter CLIV.2506",
+            "titulo": "Carta CLIV.2506",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5818,7 +5818,7 @@
           },
           {
             "id": "npnf208-3-69-224",
-            "titulo": "Letter CLV.2508",
+            "titulo": "Carta CLV.2508",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5833,7 +5833,7 @@
           },
           {
             "id": "npnf208-3-69-225",
-            "titulo": "Letter CLVI.2512",
+            "titulo": "Carta CLVI.2512",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5856,7 +5856,7 @@
           },
           {
             "id": "npnf208-3-69-226",
-            "titulo": "Letter CLVII.2515",
+            "titulo": "Carta CLVII.2515",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5871,7 +5871,7 @@
           },
           {
             "id": "npnf208-3-69-227",
-            "titulo": "Letter CLVIII.2517",
+            "titulo": "Carta CLVIII.2517",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5886,7 +5886,7 @@
           },
           {
             "id": "npnf208-3-69-228",
-            "titulo": "Letter CLIX.2518",
+            "titulo": "Carta CLIX.2518",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5905,7 +5905,7 @@
           },
           {
             "id": "npnf208-3-69-229",
-            "titulo": "Letter CLX.2526",
+            "titulo": "Carta CLX.2526",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5936,7 +5936,7 @@
           },
           {
             "id": "npnf208-3-69-230",
-            "titulo": "Letter CLXI.2540",
+            "titulo": "Carta CLXI.2540",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5955,7 +5955,7 @@
           },
           {
             "id": "npnf208-3-69-231",
-            "titulo": "Letter CLXII.2544",
+            "titulo": "Carta CLXII.2544",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5970,7 +5970,7 @@
           },
           {
             "id": "npnf208-3-69-232",
-            "titulo": "Letter CLXIII.2546",
+            "titulo": "Carta CLXIII.2546",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5985,7 +5985,7 @@
           },
           {
             "id": "npnf208-3-69-233",
-            "titulo": "Letter CLXIV.2547",
+            "titulo": "Carta CLXIV.2547",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6004,7 +6004,7 @@
           },
           {
             "id": "npnf208-3-69-234",
-            "titulo": "Letter CLXV.2551",
+            "titulo": "Carta CLXV.2551",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6019,7 +6019,7 @@
           },
           {
             "id": "npnf208-3-69-235",
-            "titulo": "Letter CLXVI.2553",
+            "titulo": "Carta CLXVI.2553",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6030,7 +6030,7 @@
           },
           {
             "id": "npnf208-3-69-236",
-            "titulo": "Letter CLXVII.2555",
+            "titulo": "Carta CLXVII.2555",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6045,7 +6045,7 @@
           },
           {
             "id": "npnf208-3-69-237",
-            "titulo": "Letter CLXVIII.2556",
+            "titulo": "Carta CLXVIII.2556",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6060,7 +6060,7 @@
           },
           {
             "id": "npnf208-3-69-238",
-            "titulo": "Letter CLXIX.2559",
+            "titulo": "Carta CLXIX.2559",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6079,7 +6079,7 @@
           },
           {
             "id": "npnf208-3-69-239",
-            "titulo": "Letter CLXX.2564",
+            "titulo": "Carta CLXX.2564",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6094,7 +6094,7 @@
           },
           {
             "id": "npnf208-3-69-240",
-            "titulo": "Letter CLXXI.2567",
+            "titulo": "Carta CLXXI.2567",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6109,7 +6109,7 @@
           },
           {
             "id": "npnf208-3-69-241",
-            "titulo": "Letter CLXXII.2568",
+            "titulo": "Carta CLXXII.2568",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6124,7 +6124,7 @@
           },
           {
             "id": "npnf208-3-69-242",
-            "titulo": "Letter CLXXIII.2572",
+            "titulo": "Carta CLXXIII.2572",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6139,7 +6139,7 @@
           },
           {
             "id": "npnf208-3-69-243",
-            "titulo": "Letter CLXXIV.2574",
+            "titulo": "Carta CLXXIV.2574",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6162,7 +6162,7 @@
           },
           {
             "id": "npnf208-3-69-244",
-            "titulo": "Letter CLXXV.2576",
+            "titulo": "Carta CLXXV.2576",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6177,7 +6177,7 @@
           },
           {
             "id": "npnf208-3-69-245",
-            "titulo": "Letter CLXXVI.2581",
+            "titulo": "Carta CLXXVI.2581",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6192,7 +6192,7 @@
           },
           {
             "id": "npnf208-3-69-246",
-            "titulo": "Letter CLXXVII.2586",
+            "titulo": "Carta CLXXVII.2586",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6207,7 +6207,7 @@
           },
           {
             "id": "npnf208-3-69-247",
-            "titulo": "Letter CLXXVIII.2587",
+            "titulo": "Carta CLXXVIII.2587",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6222,7 +6222,7 @@
           },
           {
             "id": "npnf208-3-69-248",
-            "titulo": "Letter CLXXIX.2590",
+            "titulo": "Carta CLXXIX.2590",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6237,7 +6237,7 @@
           },
           {
             "id": "npnf208-3-69-249",
-            "titulo": "Letter CLXXX.2592",
+            "titulo": "Carta CLXXX.2592",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6252,7 +6252,7 @@
           },
           {
             "id": "npnf208-3-69-250",
-            "titulo": "Letter CLXXXI.2593",
+            "titulo": "Carta CLXXXI.2593",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6271,7 +6271,7 @@
           },
           {
             "id": "npnf208-3-69-251",
-            "titulo": "Letter CLXXXII.2596",
+            "titulo": "Carta CLXXXII.2596",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6286,7 +6286,7 @@
           },
           {
             "id": "npnf208-3-69-252",
-            "titulo": "Letter CLXXXIII.2598",
+            "titulo": "Carta CLXXXIII.2598",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6309,7 +6309,7 @@
           },
           {
             "id": "npnf208-3-69-253",
-            "titulo": "Letter CLXXXIV.2601",
+            "titulo": "Carta CLXXXIV.2601",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6324,7 +6324,7 @@
           },
           {
             "id": "npnf208-3-69-254",
-            "titulo": "Letter CLXXXV.2603",
+            "titulo": "Carta CLXXXV.2603",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6339,7 +6339,7 @@
           },
           {
             "id": "npnf208-3-69-255",
-            "titulo": "Letter CLXXXVI.2605",
+            "titulo": "Carta CLXXXVI.2605",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6354,7 +6354,7 @@
           },
           {
             "id": "npnf208-3-69-256",
-            "titulo": "Letter CLXXXVII.",
+            "titulo": "Carta CLXXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6369,7 +6369,7 @@
           },
           {
             "id": "npnf208-3-69-257",
-            "titulo": "Letter CLXXXVIII.2611",
+            "titulo": "Carta CLXXXVIII.2611",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6468,7 +6468,7 @@
           },
           {
             "id": "npnf208-3-69-258",
-            "titulo": "Letter CLXXXIX.2651",
+            "titulo": "Carta CLXXXIX.2651",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6511,7 +6511,7 @@
           },
           {
             "id": "npnf208-3-69-259",
-            "titulo": "Letter CXC.2663",
+            "titulo": "Carta CXC.2663",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6546,7 +6546,7 @@
           },
           {
             "id": "npnf208-3-69-260",
-            "titulo": "Letter CXCI.2671",
+            "titulo": "Carta CXCI.2671",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6576,7 +6576,7 @@
           },
           {
             "id": "npnf208-3-69-262",
-            "titulo": "Letter CXCIII.2679",
+            "titulo": "Carta CXCIII.2679",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6591,7 +6591,7 @@
           },
           {
             "id": "npnf208-3-69-263",
-            "titulo": "Letter CXCIV.2681",
+            "titulo": "Carta CXCIV.2681",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6606,7 +6606,7 @@
           },
           {
             "id": "npnf208-3-69-264",
-            "titulo": "Letter CXCV.2682",
+            "titulo": "Carta CXCV.2682",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6621,7 +6621,7 @@
           },
           {
             "id": "npnf208-3-69-265",
-            "titulo": "Letter CXCVI.2683",
+            "titulo": "Carta CXCVI.2683",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6636,7 +6636,7 @@
           },
           {
             "id": "npnf208-3-69-266",
-            "titulo": "Letter CXCVII.2684",
+            "titulo": "Carta CXCVII.2684",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6659,7 +6659,7 @@
           },
           {
             "id": "npnf208-3-69-267",
-            "titulo": "Letter CXCVIII.2690",
+            "titulo": "Carta CXCVIII.2690",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6678,7 +6678,7 @@
           },
           {
             "id": "npnf208-3-69-268",
-            "titulo": "Letter CXCIX.2692",
+            "titulo": "Carta CXCIX.2692",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6829,7 +6829,7 @@
           },
           {
             "id": "npnf208-3-69-269",
-            "titulo": "Letter CC.2723",
+            "titulo": "Carta CC.2723",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6844,7 +6844,7 @@
           },
           {
             "id": "npnf208-3-69-270",
-            "titulo": "Letter CCI.2724",
+            "titulo": "Carta CCI.2724",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6859,7 +6859,7 @@
           },
           {
             "id": "npnf208-3-69-271",
-            "titulo": "Letter CCII.2725",
+            "titulo": "Carta CCII.2725",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6874,7 +6874,7 @@
           },
           {
             "id": "npnf208-3-69-272",
-            "titulo": "Letter CCIII.2727",
+            "titulo": "Carta CCIII.2727",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6901,7 +6901,7 @@
           },
           {
             "id": "npnf208-3-69-273",
-            "titulo": "Letter CCIV.2733",
+            "titulo": "Carta CCIV.2733",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6940,7 +6940,7 @@
           },
           {
             "id": "npnf208-3-69-274",
-            "titulo": "Letter CCV.2751",
+            "titulo": "Carta CCV.2751",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6955,7 +6955,7 @@
           },
           {
             "id": "npnf208-3-69-275",
-            "titulo": "Letter CCVI.2753",
+            "titulo": "Carta CCVI.2753",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6970,7 +6970,7 @@
           },
           {
             "id": "npnf208-3-69-276",
-            "titulo": "Letter CCVII.2754",
+            "titulo": "Carta CCVII.2754",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7001,7 +7001,7 @@
           },
           {
             "id": "npnf208-3-69-277",
-            "titulo": "Letter CCVIII.2766",
+            "titulo": "Carta CCVIII.2766",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7016,7 +7016,7 @@
           },
           {
             "id": "npnf208-3-69-278",
-            "titulo": "Letter CCIX.2767",
+            "titulo": "Carta CCIX.2767",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7031,7 +7031,7 @@
           },
           {
             "id": "npnf208-3-69-279",
-            "titulo": "Letter CCX.2768",
+            "titulo": "Carta CCX.2768",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7070,7 +7070,7 @@
           },
           {
             "id": "npnf208-3-69-280",
-            "titulo": "Letter CCXI.2798",
+            "titulo": "Carta CCXI.2798",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7085,7 +7085,7 @@
           },
           {
             "id": "npnf208-3-69-281",
-            "titulo": "Letter CCXII.2800",
+            "titulo": "Carta CCXII.2800",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7108,7 +7108,7 @@
           },
           {
             "id": "npnf208-3-69-282",
-            "titulo": "Letter CCXIII.2804",
+            "titulo": "Carta CCXIII.2804",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7127,7 +7127,7 @@
           },
           {
             "id": "npnf208-3-69-283",
-            "titulo": "Letter CCXIV.2809",
+            "titulo": "Carta CCXIV.2809",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7154,7 +7154,7 @@
           },
           {
             "id": "npnf208-3-69-284",
-            "titulo": "Letter CCXV.2821",
+            "titulo": "Carta CCXV.2821",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7169,7 +7169,7 @@
           },
           {
             "id": "npnf208-3-69-285",
-            "titulo": "Letter CCXVI.2823",
+            "titulo": "Carta CCXVI.2823",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7184,7 +7184,7 @@
           },
           {
             "id": "npnf208-3-69-286",
-            "titulo": "Letter CCXVII.",
+            "titulo": "Carta CCXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7339,7 +7339,7 @@
           },
           {
             "id": "npnf208-3-69-287",
-            "titulo": "Letter CCXVIII.2853",
+            "titulo": "Carta CCXVIII.2853",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7354,7 +7354,7 @@
           },
           {
             "id": "npnf208-3-69-288",
-            "titulo": "Letter CCXIX.2862",
+            "titulo": "Carta CCXIX.2862",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7377,7 +7377,7 @@
           },
           {
             "id": "npnf208-3-69-289",
-            "titulo": "Letter CCXX.2868",
+            "titulo": "Carta CCXX.2868",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7392,7 +7392,7 @@
           },
           {
             "id": "npnf208-3-69-290",
-            "titulo": "Letter CCXXI.2871",
+            "titulo": "Carta CCXXI.2871",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7407,7 +7407,7 @@
           },
           {
             "id": "npnf208-3-69-291",
-            "titulo": "Letter CCXXII.2872",
+            "titulo": "Carta CCXXII.2872",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7422,7 +7422,7 @@
           },
           {
             "id": "npnf208-3-69-292",
-            "titulo": "Letter CCXXIII.2876",
+            "titulo": "Carta CCXXIII.2876",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7465,7 +7465,7 @@
           },
           {
             "id": "npnf208-3-69-293",
-            "titulo": "Letter CCXXIV.2903",
+            "titulo": "Carta CCXXIV.2903",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7488,7 +7488,7 @@
           },
           {
             "id": "npnf208-3-69-294",
-            "titulo": "Letter CCXXV.2910",
+            "titulo": "Carta CCXXV.2910",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7503,7 +7503,7 @@
           },
           {
             "id": "npnf208-3-69-295",
-            "titulo": "Letter CCXXVI.2914",
+            "titulo": "Carta CCXXVI.2914",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7530,7 +7530,7 @@
           },
           {
             "id": "npnf208-3-69-296",
-            "titulo": "Letter CCXXVII.2929",
+            "titulo": "Carta CCXXVII.2929",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7545,7 +7545,7 @@
           },
           {
             "id": "npnf208-3-69-297",
-            "titulo": "Letter CCXXVIII.2933",
+            "titulo": "Carta CCXXVIII.2933",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7560,7 +7560,7 @@
           },
           {
             "id": "npnf208-3-69-298",
-            "titulo": "Letter CCXXIX.2934",
+            "titulo": "Carta CCXXIX.2934",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7579,7 +7579,7 @@
           },
           {
             "id": "npnf208-3-69-299",
-            "titulo": "Letter CCXXX.2937",
+            "titulo": "Carta CCXXX.2937",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7594,7 +7594,7 @@
           },
           {
             "id": "npnf208-3-69-300",
-            "titulo": "Letter CCXXXI.2940",
+            "titulo": "Carta CCXXXI.2940",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7613,7 +7613,7 @@
           },
           {
             "id": "npnf208-3-69-301",
-            "titulo": "Letter CCXXXII.2947",
+            "titulo": "Carta CCXXXII.2947",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7628,7 +7628,7 @@
           },
           {
             "id": "npnf208-3-69-302",
-            "titulo": "Letter CCXXXIII.2950",
+            "titulo": "Carta CCXXXIII.2950",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7647,7 +7647,7 @@
           },
           {
             "id": "npnf208-3-69-303",
-            "titulo": "Letter CCXXXIV.2955",
+            "titulo": "Carta CCXXXIV.2955",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7670,7 +7670,7 @@
           },
           {
             "id": "npnf208-3-69-304",
-            "titulo": "Letter CCXXXV.2960",
+            "titulo": "Carta CCXXXV.2960",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7693,7 +7693,7 @@
           },
           {
             "id": "npnf208-3-69-305",
-            "titulo": "Letter CCXXXVI.2975",
+            "titulo": "Carta CCXXXVI.2975",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7744,7 +7744,7 @@
           },
           {
             "id": "npnf208-3-69-306",
-            "titulo": "Letter CCXXXVII.3002",
+            "titulo": "Carta CCXXXVII.3002",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7763,7 +7763,7 @@
           },
           {
             "id": "npnf208-3-69-307",
-            "titulo": "Letter CCXXXVIII.3011",
+            "titulo": "Carta CCXXXVIII.3011",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7778,7 +7778,7 @@
           },
           {
             "id": "npnf208-3-69-308",
-            "titulo": "Letter CCXXXIX.3015",
+            "titulo": "Carta CCXXXIX.3015",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7813,7 +7813,7 @@
           },
           {
             "id": "npnf208-3-69-309",
-            "titulo": "Letter CCXL.3022",
+            "titulo": "Carta CCXL.3022",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7836,7 +7836,7 @@
           },
           {
             "id": "npnf208-3-69-310",
-            "titulo": "Letter CCXLI.3029",
+            "titulo": "Carta CCXLI.3029",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7851,7 +7851,7 @@
           },
           {
             "id": "npnf208-3-69-311",
-            "titulo": "Letter CCXLII.3030",
+            "titulo": "Carta CCXLII.3030",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7874,7 +7874,7 @@
           },
           {
             "id": "npnf208-3-69-312",
-            "titulo": "Letter CCXLIII.3036",
+            "titulo": "Carta CCXLIII.3036",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7905,7 +7905,7 @@
           },
           {
             "id": "npnf208-3-69-313",
-            "titulo": "Letter CCXLIV.3051",
+            "titulo": "Carta CCXLIV.3051",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7952,7 +7952,7 @@
           },
           {
             "id": "npnf208-3-69-314",
-            "titulo": "To Patrophilus, bishop of Ægæ.",
+            "titulo": "Para Patrófilo, bispo de Ægæ.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7967,7 +7967,7 @@
           },
           {
             "id": "npnf208-3-69-315",
-            "titulo": "Letter CCXLVI.3084",
+            "titulo": "Carta CCXLVI.3084",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8001,7 +8001,7 @@
           },
           {
             "id": "npnf208-3-69-317",
-            "titulo": "Letter CCXLVIII.3087",
+            "titulo": "Carta CCXLVIII.3087",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8016,7 +8016,7 @@
           },
           {
             "id": "npnf208-3-69-318",
-            "titulo": "Letter CCXLIX.3092",
+            "titulo": "Carta CCXLIX.3092",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8031,7 +8031,7 @@
           },
           {
             "id": "npnf208-3-69-319",
-            "titulo": "Letter CCL.3093",
+            "titulo": "Carta CCL.3093",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8046,7 +8046,7 @@
           },
           {
             "id": "npnf208-3-69-320",
-            "titulo": "Letter CCLI.3096",
+            "titulo": "Carta CCLI.3096",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8085,7 +8085,7 @@
           },
           {
             "id": "npnf208-3-69-321",
-            "titulo": "Letter CCLII.3114",
+            "titulo": "Carta CCLII.3114",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8100,7 +8100,7 @@
           },
           {
             "id": "npnf208-3-69-322",
-            "titulo": "Letter CCLIII.3117",
+            "titulo": "Carta CCLIII.3117",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8115,7 +8115,7 @@
           },
           {
             "id": "npnf208-3-69-323",
-            "titulo": "Letter CCLIV.3119",
+            "titulo": "Carta CCLIV.3119",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8130,7 +8130,7 @@
           },
           {
             "id": "npnf208-3-69-324",
-            "titulo": "Letter CCLV.3121",
+            "titulo": "Carta CCLV.3121",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8145,7 +8145,7 @@
           },
           {
             "id": "npnf208-3-69-325",
-            "titulo": "Letter CCLVI.3123",
+            "titulo": "Carta CCLVI.3123",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8160,7 +8160,7 @@
           },
           {
             "id": "npnf208-3-69-326",
-            "titulo": "Letter CCLVII.3129",
+            "titulo": "Carta CCLVII.3129",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8179,7 +8179,7 @@
           },
           {
             "id": "npnf208-3-69-327",
-            "titulo": "Letter CCLVIII.3131",
+            "titulo": "Carta CCLVIII.3131",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8206,7 +8206,7 @@
           },
           {
             "id": "npnf208-3-69-328",
-            "titulo": "Letter CCLIX.3142",
+            "titulo": "Carta CCLIX.3142",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8221,7 +8221,7 @@
           },
           {
             "id": "npnf208-3-69-329",
-            "titulo": "Letter CCLX.3143",
+            "titulo": "Carta CCLX.3143",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8276,7 +8276,7 @@
           },
           {
             "id": "npnf208-3-69-330",
-            "titulo": "Letter CCLXI.3167",
+            "titulo": "Carta CCLXI.3167",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8303,7 +8303,7 @@
           },
           {
             "id": "npnf208-3-69-331",
-            "titulo": "Letter CCLXII.3183",
+            "titulo": "Carta CCLXII.3183",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8322,7 +8322,7 @@
           },
           {
             "id": "npnf208-3-69-332",
-            "titulo": "Letter CCLXIII.3189",
+            "titulo": "Carta CCLXIII.3189",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8353,7 +8353,7 @@
           },
           {
             "id": "npnf208-3-69-333",
-            "titulo": "Letter CCLXIV.3195",
+            "titulo": "Carta CCLXIV.3195",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8391,7 +8391,7 @@
           },
           {
             "id": "npnf208-3-69-335",
-            "titulo": "Letter CCLXVI.3209",
+            "titulo": "Carta CCLXVI.3209",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8410,7 +8410,7 @@
           },
           {
             "id": "npnf208-3-69-336",
-            "titulo": "Letter CCLXVII.3213",
+            "titulo": "Carta CCLXVII.3213",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8425,7 +8425,7 @@
           },
           {
             "id": "npnf208-3-69-337",
-            "titulo": "Letter CCLXVIII.3215",
+            "titulo": "Carta CCLXVIII.3215",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8440,7 +8440,7 @@
           },
           {
             "id": "npnf208-3-69-338",
-            "titulo": "Letter CCLXIX.3218",
+            "titulo": "Carta CCLXIX.3218",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8459,7 +8459,7 @@
           },
           {
             "id": "npnf208-3-69-339",
-            "titulo": "Letter CCLXX.3221",
+            "titulo": "Carta CCLXX.3221",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8474,7 +8474,7 @@
           },
           {
             "id": "npnf208-3-69-340",
-            "titulo": "Letter CCLXXI.3224",
+            "titulo": "Carta CCLXXI.3224",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8489,7 +8489,7 @@
           },
           {
             "id": "npnf208-3-69-341",
-            "titulo": "Letter CCLXXII.3226",
+            "titulo": "Carta CCLXXII.3226",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8512,7 +8512,7 @@
           },
           {
             "id": "npnf208-3-69-342",
-            "titulo": "Letter CCLXXIII.3229",
+            "titulo": "Carta CCLXXIII.3229",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8527,7 +8527,7 @@
           },
           {
             "id": "npnf208-3-69-343",
-            "titulo": "Letter CCLXXIV.3230",
+            "titulo": "Carta CCLXXIV.3230",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8542,7 +8542,7 @@
           },
           {
             "id": "npnf208-3-69-344",
-            "titulo": "Letter CCLXXV.3231",
+            "titulo": "Carta CCLXXV.3231",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8557,7 +8557,7 @@
           },
           {
             "id": "npnf208-3-69-345",
-            "titulo": "Letter CCLXXVI.3232",
+            "titulo": "Carta CCLXXVI.3232",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8572,7 +8572,7 @@
           },
           {
             "id": "npnf208-3-69-346",
-            "titulo": "Letter CCLXXVII.3233",
+            "titulo": "Carta CCLXXVII.3233",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8595,7 +8595,7 @@
           },
           {
             "id": "npnf208-3-69-347",
-            "titulo": "Letter CCLXXVIII.3235",
+            "titulo": "Carta CCLXXVIII.3235",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8610,7 +8610,7 @@
           },
           {
             "id": "npnf208-3-69-348",
-            "titulo": "Letter CCLXXIX.3238",
+            "titulo": "Carta CCLXXIX.3238",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8629,7 +8629,7 @@
           },
           {
             "id": "npnf208-3-69-349",
-            "titulo": "Letter CCLXXX.3239",
+            "titulo": "Carta CCLXXX.3239",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8648,7 +8648,7 @@
           },
           {
             "id": "npnf208-3-69-350",
-            "titulo": "Letter CCLXXXI.3240",
+            "titulo": "Carta CCLXXXI.3240",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8675,7 +8675,7 @@
           },
           {
             "id": "npnf208-3-69-351",
-            "titulo": "Letter CCLXXXII.3241",
+            "titulo": "Carta CCLXXXII.3241",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8698,7 +8698,7 @@
           },
           {
             "id": "npnf208-3-69-352",
-            "titulo": "Letter CCLXXXIII.3242",
+            "titulo": "Carta CCLXXXIII.3242",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8717,7 +8717,7 @@
           },
           {
             "id": "npnf208-3-69-353",
-            "titulo": "Letter CCLXXXIV.3243",
+            "titulo": "Carta CCLXXXIV.3243",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8740,7 +8740,7 @@
           },
           {
             "id": "npnf208-3-69-354",
-            "titulo": "Letter CCLXXXV.3244",
+            "titulo": "Carta CCLXXXV.3244",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8763,7 +8763,7 @@
           },
           {
             "id": "npnf208-3-69-355",
-            "titulo": "Letter CCLXXXVI.3245",
+            "titulo": "Carta CCLXXXVI.3245",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8782,7 +8782,7 @@
           },
           {
             "id": "npnf208-3-69-356",
-            "titulo": "Letter CCLXXXVII.3247",
+            "titulo": "Carta CCLXXXVII.3247",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8801,7 +8801,7 @@
           },
           {
             "id": "npnf208-3-69-357",
-            "titulo": "Letter CCLXXXVIII.3248",
+            "titulo": "Carta CCLXXXVIII.3248",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8820,7 +8820,7 @@
           },
           {
             "id": "npnf208-3-69-358",
-            "titulo": "Letter CCLXXXIX.3251",
+            "titulo": "Carta CCLXXXIX.3251",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8855,7 +8855,7 @@
           },
           {
             "id": "npnf208-3-69-359",
-            "titulo": "Letter CCXC.3253",
+            "titulo": "Carta CCXC.3253",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8882,7 +8882,7 @@
           },
           {
             "id": "npnf208-3-69-360",
-            "titulo": "Letter CCXCI.3255",
+            "titulo": "Carta CCXCI.3255",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8921,7 +8921,7 @@
           },
           {
             "id": "npnf208-3-69-361",
-            "titulo": "Letter CCXCII.",
+            "titulo": "Carta CCXCII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8944,7 +8944,7 @@
           },
           {
             "id": "npnf208-3-69-362",
-            "titulo": "Letter CCXCIII.",
+            "titulo": "Carta CCXCIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8979,7 +8979,7 @@
           },
           {
             "id": "npnf208-3-69-363",
-            "titulo": "Letter CCXCIV.",
+            "titulo": "Carta CCXCIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9014,7 +9014,7 @@
           },
           {
             "id": "npnf208-3-69-364",
-            "titulo": "Letter CCXCV.",
+            "titulo": "Carta CCXCV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9049,7 +9049,7 @@
           },
           {
             "id": "npnf208-3-69-365",
-            "titulo": "Letter CCXCVI.",
+            "titulo": "Carta CCXCVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9064,7 +9064,7 @@
           },
           {
             "id": "npnf208-3-69-366",
-            "titulo": "Letter CCXCVII.",
+            "titulo": "Carta CCXCVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9079,7 +9079,7 @@
           },
           {
             "id": "npnf208-3-69-367",
-            "titulo": "Letter CCXCVIII.",
+            "titulo": "Carta CCXCVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9094,7 +9094,7 @@
           },
           {
             "id": "npnf208-3-69-368",
-            "titulo": "Letter CCXCIX.",
+            "titulo": "Carta CCXCIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9109,7 +9109,7 @@
           },
           {
             "id": "npnf208-3-69-369",
-            "titulo": "Letter CCC.",
+            "titulo": "Carta CCC.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9124,7 +9124,7 @@
           },
           {
             "id": "npnf208-3-69-370",
-            "titulo": "Letter CCCI.",
+            "titulo": "Carta CCCI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9139,7 +9139,7 @@
           },
           {
             "id": "npnf208-3-69-371",
-            "titulo": "Letter CCCII.",
+            "titulo": "Carta CCCII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9154,7 +9154,7 @@
           },
           {
             "id": "npnf208-3-69-372",
-            "titulo": "Letter CCCIII.",
+            "titulo": "Carta CCCIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9169,7 +9169,7 @@
           },
           {
             "id": "npnf208-3-69-373",
-            "titulo": "Letter CCCIV.",
+            "titulo": "Carta CCCIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9184,7 +9184,7 @@
           },
           {
             "id": "npnf208-3-69-374",
-            "titulo": "Letter CCCV.",
+            "titulo": "Carta CCCV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9199,7 +9199,7 @@
           },
           {
             "id": "npnf208-3-69-375",
-            "titulo": "Letter CCCVI.",
+            "titulo": "Carta CCCVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9214,7 +9214,7 @@
           },
           {
             "id": "npnf208-3-69-376",
-            "titulo": "Letter CCCVII.",
+            "titulo": "Carta CCCVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9229,7 +9229,7 @@
           },
           {
             "id": "npnf208-3-69-377",
-            "titulo": "Letter CCCVIII.",
+            "titulo": "Carta CCCVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9244,7 +9244,7 @@
           },
           {
             "id": "npnf208-3-69-378",
-            "titulo": "Letter CCCIX.",
+            "titulo": "Carta CCCIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9259,7 +9259,7 @@
           },
           {
             "id": "npnf208-3-69-379",
-            "titulo": "Letter CCCX.",
+            "titulo": "Carta CCCX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9274,7 +9274,7 @@
           },
           {
             "id": "npnf208-3-69-380",
-            "titulo": "Letter CCCXI.",
+            "titulo": "Carta CCCXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9285,7 +9285,7 @@
           },
           {
             "id": "npnf208-3-69-381",
-            "titulo": "Letter CCCXII.",
+            "titulo": "Carta CCCXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9296,7 +9296,7 @@
           },
           {
             "id": "npnf208-3-69-382",
-            "titulo": "Letter CCCXIII.",
+            "titulo": "Carta CCCXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9307,7 +9307,7 @@
           },
           {
             "id": "npnf208-3-69-383",
-            "titulo": "Letter CCCXIV.",
+            "titulo": "Carta CCCXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9322,7 +9322,7 @@
           },
           {
             "id": "npnf208-3-69-384",
-            "titulo": "Letter CCCXV.",
+            "titulo": "Carta CCCXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9337,7 +9337,7 @@
           },
           {
             "id": "npnf208-3-69-385",
-            "titulo": "Letters CCCXVI., CCCXVII., CCCXVIII., CCCXIX. Without address.",
+            "titulo": "Letras CCCXVI., CCCXVII., CCCXVIII., CCCXIX. Sem endereço.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9348,7 +9348,7 @@
           },
           {
             "id": "npnf208-3-69-386",
-            "titulo": "Letter CCCXX.",
+            "titulo": "Carta CCCXX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9363,7 +9363,7 @@
           },
           {
             "id": "npnf208-3-69-387",
-            "titulo": "Letter CCCXXI.",
+            "titulo": "Carta CCCXXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9378,7 +9378,7 @@
           },
           {
             "id": "npnf208-3-69-388",
-            "titulo": "Letter CCCXXII.",
+            "titulo": "Carta CCCXXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9393,7 +9393,7 @@
           },
           {
             "id": "npnf208-3-69-389",
-            "titulo": "Letter CCCXXIII.",
+            "titulo": "Carta CCCXXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9404,7 +9404,7 @@
           },
           {
             "id": "npnf208-3-69-390",
-            "titulo": "Letter CCCXXIV.",
+            "titulo": "Carta CCCXXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9415,7 +9415,7 @@
           },
           {
             "id": "npnf208-3-69-391",
-            "titulo": "Letter CCCXXV.",
+            "titulo": "Carta CCCXXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9426,7 +9426,7 @@
           },
           {
             "id": "npnf208-3-69-392",
-            "titulo": "Letter CCCXXVI.",
+            "titulo": "Carta CCCXXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9441,7 +9441,7 @@
           },
           {
             "id": "npnf208-3-69-393",
-            "titulo": "Letter CCCXXVII.",
+            "titulo": "Carta CCCXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9456,7 +9456,7 @@
           },
           {
             "id": "npnf208-3-69-394",
-            "titulo": "Letter CCCXXVIII.",
+            "titulo": "Carta CCCXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9471,7 +9471,7 @@
           },
           {
             "id": "npnf208-3-69-395",
-            "titulo": "Letter CCCXXIX.",
+            "titulo": "Carta CCCXXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9486,7 +9486,7 @@
           },
           {
             "id": "npnf208-3-69-396",
-            "titulo": "Letters CCCXXX., CCCXXXI., CCCXXXII., CCCXXXIII.",
+            "titulo": "Letras CCCXXX., CCCXXXI., CCCXXXII., CCCXXXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9497,7 +9497,7 @@
           },
           {
             "id": "npnf208-3-69-397",
-            "titulo": "Letter CCCXXXIV.",
+            "titulo": "Carta CCCXXXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9512,7 +9512,7 @@
           },
           {
             "id": "npnf208-3-69-398",
-            "titulo": "Letter CCCXXXV.",
+            "titulo": "Carta CCCXXXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9527,7 +9527,7 @@
           },
           {
             "id": "npnf208-3-69-399",
-            "titulo": "Letter CCCXXXVI.",
+            "titulo": "Carta CCCXXXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9550,7 +9550,7 @@
           },
           {
             "id": "npnf208-3-69-400",
-            "titulo": "Letter CCCXXXVII.",
+            "titulo": "Carta CCCXXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9565,7 +9565,7 @@
           },
           {
             "id": "npnf208-3-69-401",
-            "titulo": "Letter CCCXXXVIII.",
+            "titulo": "Carta CCCXXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9580,7 +9580,7 @@
           },
           {
             "id": "npnf208-3-69-402",
-            "titulo": "Letter CCCXXXIX.",
+            "titulo": "Carta CCCXXXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9595,7 +9595,7 @@
           },
           {
             "id": "npnf208-3-69-403",
-            "titulo": "Letter CCCXL.",
+            "titulo": "Carta CCCXL.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9610,7 +9610,7 @@
           },
           {
             "id": "npnf208-3-69-404",
-            "titulo": "Letter CCCXLI.",
+            "titulo": "Carta CCXLI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9625,7 +9625,7 @@
           },
           {
             "id": "npnf208-3-69-405",
-            "titulo": "Letter CCCXLII.",
+            "titulo": "Carta CCCXLII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9640,7 +9640,7 @@
           },
           {
             "id": "npnf208-3-69-406",
-            "titulo": "Letter CCCXLIII.",
+            "titulo": "Carta CCCXLIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9655,7 +9655,7 @@
           },
           {
             "id": "npnf208-3-69-407",
-            "titulo": "Letter CCCXLIV.",
+            "titulo": "Carta CCCXLIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9670,7 +9670,7 @@
           },
           {
             "id": "npnf208-3-69-408",
-            "titulo": "Letter CCCXLV.",
+            "titulo": "Carta CCCXLV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9685,7 +9685,7 @@
           },
           {
             "id": "npnf208-3-69-409",
-            "titulo": "Letter CCCXLVI.",
+            "titulo": "Carta CCCXLVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9704,7 +9704,7 @@
           },
           {
             "id": "npnf208-3-69-410",
-            "titulo": "Letter CCCXLVII.",
+            "titulo": "Carta CCCXLVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9719,7 +9719,7 @@
           },
           {
             "id": "npnf208-3-69-411",
-            "titulo": "Letter CCCXLVIII.",
+            "titulo": "Carta CCCXLVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9734,7 +9734,7 @@
           },
           {
             "id": "npnf208-3-69-412",
-            "titulo": "Letter CCCXLIX.",
+            "titulo": "Carta CCCXLIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9753,7 +9753,7 @@
           },
           {
             "id": "npnf208-3-69-413",
-            "titulo": "Letter CCCL.",
+            "titulo": "Carta CCCL.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9768,7 +9768,7 @@
           },
           {
             "id": "npnf208-3-69-414",
-            "titulo": "Letter CCCLI.",
+            "titulo": "Carta CCCLI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9783,7 +9783,7 @@
           },
           {
             "id": "npnf208-3-69-415",
-            "titulo": "Letter CCCLII.",
+            "titulo": "Carta CCCLII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9798,7 +9798,7 @@
           },
           {
             "id": "npnf208-3-69-416",
-            "titulo": "Letter CCCLIII.",
+            "titulo": "Carta CCCLIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9813,7 +9813,7 @@
           },
           {
             "id": "npnf208-3-69-417",
-            "titulo": "Letter CCCLIV.",
+            "titulo": "Carta CCCLIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9828,7 +9828,7 @@
           },
           {
             "id": "npnf208-3-69-418",
-            "titulo": "Letter CCCLV.",
+            "titulo": "Carta CCCLV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9843,7 +9843,7 @@
           },
           {
             "id": "npnf208-3-69-419",
-            "titulo": "Letter CCCLVI.",
+            "titulo": "Carta CCCLVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9858,7 +9858,7 @@
           },
           {
             "id": "npnf208-3-69-420",
-            "titulo": "Letter CCCLVII.",
+            "titulo": "Carta CCCLVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9873,7 +9873,7 @@
           },
           {
             "id": "npnf208-3-69-421",
-            "titulo": "Letter CCCLVIII.",
+            "titulo": "Carta CCCLVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9888,7 +9888,7 @@
           },
           {
             "id": "npnf208-3-69-422",
-            "titulo": "Letter CCCLIX.",
+            "titulo": "Carta CCCLIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9903,7 +9903,7 @@
           },
           {
             "id": "npnf208-3-69-423",
-            "titulo": "Letter CCCLX.3289",
+            "titulo": "Carta CCCLX.3289",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9929,7 +9929,7 @@
           },
           {
             "id": "npnf208-3-69-425",
-            "titulo": "Letter CCCLXVI.3294",
+            "titulo": "Carta CCCLXVI.3294",
             "conteudo": [
               {
                 "tipo": "paragrafo",

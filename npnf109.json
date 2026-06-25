@@ -1,11 +1,11 @@
 [
   {
     "id": "npnf109-3",
-    "titulo": "Prolegomena.",
+    "titulo": "Prolegômenos.",
     "children": [
       {
         "id": "npnf109-3-4",
-        "titulo": "CHAPTER I.—Literature.",
+        "titulo": "CAPÍTULO I.—Literatura.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -76,7 +76,7 @@
       },
       {
         "id": "npnf109-3-5",
-        "titulo": "CHAPTER II.—Chrysostom’s Youth and Training, a.d. 347–370.",
+        "titulo": "CAPÍTULO II. - Juventude e Treinamento de Crisóstomo, a.d. 347–370.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -123,7 +123,7 @@
       },
       {
         "id": "npnf109-3-6",
-        "titulo": "CHAPTER III.—His Conversion and Ascetic Life.",
+        "titulo": "CAPÍTULO III. - Sua conversão e vida ascética.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -158,7 +158,7 @@
       },
       {
         "id": "npnf109-3-7",
-        "titulo": "CHAPTER IV.—Chrysostom Evades Election to a Bishopric, and Writes His Work on the Priesthood.",
+        "titulo": "CAPÍTULO IV. - Crisóstomo evita a eleição para um bispado e escreve sua obra sobre o sacerdócio.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -181,7 +181,7 @@
       },
       {
         "id": "npnf109-3-8",
-        "titulo": "CHAPTER V.—Chrysostom as a Monk. a.d. 374–381.",
+        "titulo": "CAPÍTULO V. — Crisóstomo como Monge. anúncio. 374–381.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -204,7 +204,7 @@
       },
       {
         "id": "npnf109-3-9",
-        "titulo": "CHAPTER VI.—Chrysostom as Deacon, Priest and Preacher at Antioch. a.d. 381–398.",
+        "titulo": "CAPÍTULO VI.—Crisóstomo como diácono, sacerdote e pregador em Antioquia. anúncio. 381–398.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -251,7 +251,7 @@
       },
       {
         "id": "npnf109-3-10",
-        "titulo": "CHAPTER VII.—Chrysostom as Patriarch of Constantinople. a.d. 398–404.",
+        "titulo": "CAPÍTULO VII.—Crisóstomo como Patriarca de Constantinopla. anúncio. 398–404.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -278,7 +278,7 @@
       },
       {
         "id": "npnf109-3-11",
-        "titulo": "CHAPTER VIII.—Chrysostom and Theophilus. His First Deposition and Banishment.",
+        "titulo": "CAPÍTULO VIII. - Crisóstomo e Teófilo. Seu primeiro depoimento e banimento.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -305,7 +305,7 @@
       },
       {
         "id": "npnf109-3-12",
-        "titulo": "CHAPTER IX.—Chrysostom and Eudoxia. His Second Banishment, a.d. 403.",
+        "titulo": "CAPÍTULO IX. - Crisóstomo e Eudóxia. Seu segundo banimento, d.C. 403.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -332,7 +332,7 @@
       },
       {
         "id": "npnf109-3-13",
-        "titulo": "CHAPTER X.—Chrysostom in Exile. His Death. a.d. 404–407.",
+        "titulo": "CAPÍTULO X. - Crisóstomo no Exílio. Sua morte. anúncio. 404–407.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -367,7 +367,7 @@
       },
       {
         "id": "npnf109-3-14",
-        "titulo": "CHAPTER XI.—His Character.",
+        "titulo": "CAPÍTULO XI. - Seu caráter.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -398,7 +398,7 @@
       },
       {
         "id": "npnf109-3-15",
-        "titulo": "CHAPTER XII.—The Writings of Chrysostom.",
+        "titulo": "CAPÍTULO XII. - Os Escritos de Crisóstomo.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -425,7 +425,7 @@
       },
       {
         "id": "npnf109-3-16",
-        "titulo": "CHAPTER XIII.—His Theology and Exegesis.",
+        "titulo": "CAPÍTULO XIII. - Sua Teologia e Exegese.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -496,7 +496,7 @@
       },
       {
         "id": "npnf109-3-17",
-        "titulo": "CHAPTER XIV.—Chrysostom as a Preacher.",
+        "titulo": "CAPÍTULO XIV. - Crisóstomo como pregador.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -544,7 +544,7 @@
       },
       {
         "id": "npnf109-18-20",
-        "titulo": "INTRODUCTION TO THE TREATISE ON THE PRIESTHOOD.",
+        "titulo": "INTRODUÇÃO AO TRATADO SOBRE O SACERDÓCIO.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -579,7 +579,7 @@
       },
       {
         "id": "npnf109-18-21",
-        "titulo": "TREATISE ON THE PRIESTHOOD.",
+        "titulo": "TRATADO SOBRE O SACERDÓCIO.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -638,7 +638,7 @@
       },
       {
         "id": "npnf109-18-22",
-        "titulo": "Book II.",
+        "titulo": "Livro II.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -733,7 +733,7 @@
       },
       {
         "id": "npnf109-18-23",
-        "titulo": "Book III.",
+        "titulo": "Livro III.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -884,7 +884,7 @@
       },
       {
         "id": "npnf109-18-24",
-        "titulo": "Book IV.",
+        "titulo": "Livro IV.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -979,7 +979,7 @@
       },
       {
         "id": "npnf109-18-25",
-        "titulo": "Book V.",
+        "titulo": "Livro V.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1018,7 +1018,7 @@
       },
       {
         "id": "npnf109-18-26",
-        "titulo": "Book VI.",
+        "titulo": "Livro VI.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1166,7 +1166,7 @@
       },
       {
         "id": "npnf109-27-29",
-        "titulo": "INTRODUCTION TO THE LETTERS TO THEODORE.",
+        "titulo": "INTRODUÇÃO ÀS CARTAS A TEODORE.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1181,11 +1181,11 @@
       },
       {
         "id": "npnf109-27-30",
-        "titulo": "AN EXHORTATION TO THEODORE AFTER HIS FALL.",
+        "titulo": "UMA EXORTAÇÃO A TEODORE APÓS SUA QUEDA.",
         "children": [
           {
             "id": "npnf109-27-30-31",
-            "titulo": "Letter II.",
+            "titulo": "Carta II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1251,7 +1251,7 @@
       },
       {
         "id": "npnf109-32-34",
-        "titulo": "INTRODUCTION TO THE LETTER TO A YOUNG WIDOW.",
+        "titulo": "INTRODUÇÃO À CARTA A UMA JOVEM VIÚVA.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1262,7 +1262,7 @@
       },
       {
         "id": "npnf109-32-35",
-        "titulo": "LETTER TO A YOUNG WIDOW.",
+        "titulo": "CARTA PARA UMA JOVEM VIÚVA.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1350,7 +1350,7 @@
       },
       {
         "id": "npnf109-36-38",
-        "titulo": "INTRODUCTION TO THE HOMILIES ON S. IGNATIUS AND S. BABYLAS.",
+        "titulo": "INTRODUÇÃO ÀS HOMILIAS SOBRE S. IGNATIUS E S. BABYLAS.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1373,7 +1373,7 @@
       },
       {
         "id": "npnf109-36-39",
-        "titulo": "HOMILIES ON S. IGNATIUS AND S. BABYLAS.",
+        "titulo": "HOMILIAS SOBRE S. IGNATIUS E S. BABYLAS.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1420,7 +1420,7 @@
       },
       {
         "id": "npnf109-36-40",
-        "titulo": "on the holy martyr, s. babylas.",
+        "titulo": "sobre o santo mártir, s. babylas.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1484,7 +1484,7 @@
       },
       {
         "id": "npnf109-41-43",
-        "titulo": "CONCERNING LOWLINESS OF MIND.",
+        "titulo": "II SOBRE A BAIXIDADE DA MENTE.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1495,7 +1495,7 @@
       },
       {
         "id": "npnf109-41-44",
-        "titulo": "Introduction.",
+        "titulo": "Introdução.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1587,11 +1587,11 @@
       },
       {
         "id": "npnf109-45-47",
-        "titulo": "INSTRUCTIONS TO CATECHUMENS.",
+        "titulo": "INSTRUÇÕES AOS CATECUMENOS.",
         "children": [
           {
             "id": "npnf109-45-47-48",
-            "titulo": "first instruction.",
+            "titulo": "primeira instrução.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1630,7 +1630,7 @@
           },
           {
             "id": "npnf109-45-47-49",
-            "titulo": "second instruction.",
+            "titulo": "segunda instrução.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1708,11 +1708,11 @@
       },
       {
         "id": "npnf109-50-52",
-        "titulo": "THREE HOMILIES CONCERNING THE POWER OF DEMONS.",
+        "titulo": "TRÊS HOMILIAS SOBRE O PODER DOS DEMÔNIOS.",
         "children": [
           {
             "id": "npnf109-50-52-53",
-            "titulo": "introduction by rev. w. r. w. stephens.",
+            "titulo": "introdução do rev. c. R. c. Estevão.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1727,7 +1727,7 @@
           },
           {
             "id": "npnf109-50-52-54",
-            "titulo": "Homily I.",
+            "titulo": "Homilia I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1806,7 +1806,7 @@
           },
           {
             "id": "npnf109-50-52-55",
-            "titulo": "Homily II.",
+            "titulo": "Homilia II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1853,7 +1853,7 @@
           },
           {
             "id": "npnf109-50-52-56",
-            "titulo": "Homily III.",
+            "titulo": "Homilia III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1939,7 +1939,7 @@
       },
       {
         "id": "npnf109-57-59",
-        "titulo": "AGAINST MARCIONISTS AND MANICHÆANS.",
+        "titulo": "CONTRA MARCIONISTAS E MANICHANOS.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -2003,7 +2003,7 @@
       },
       {
         "id": "npnf109-60-62",
-        "titulo": "HOMILY ON THE PARALYTIC LET DOWN THROUGH THE ROOF.",
+        "titulo": "HOMILIA SOBRE O PARALÍTICO DESCIDO PELO TELHADO.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -2095,7 +2095,7 @@
       },
       {
         "id": "npnf109-63-65",
-        "titulo": "TO THOSE WHO HAD NOT ATTENDED THE ASSEMBLY.",
+        "titulo": "AOS QUE NÃO PARTICIPARAM DA ASSEMBLÉIA.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -2191,7 +2191,7 @@
       },
       {
         "id": "npnf109-66-68",
-        "titulo": "AGAINST PUBLISHING THE ERRORS OF THE BRETHREN.",
+        "titulo": "CONTRA A PUBLICAÇÃO DOS ERROS DOS IRMÃOS.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -2279,7 +2279,7 @@
       },
       {
         "id": "npnf109-69-71",
-        "titulo": "INTRODUCTION TO THE TWO HOMILIES ON EUTROPIUS.",
+        "titulo": "INTRODUÇÃO ÀS DUAS HOMÍLIAS SOBRE EUTRÓPIO.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -2298,7 +2298,7 @@
       },
       {
         "id": "npnf109-69-72",
-        "titulo": "EUTROPIUS, PATRICIAN AND CONSUL.",
+        "titulo": "EUTRÓPIO, PATRÍCIO E CÔNsul.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -2333,7 +2333,7 @@
       },
       {
         "id": "npnf109-69-73",
-        "titulo": "Homily II.",
+        "titulo": "Homilia II.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -2453,7 +2453,7 @@
       },
       {
         "id": "npnf109-74-76",
-        "titulo": "INTRODUCTION TO THE TREATISE THAT NO ONE CAN HARM THE MAN WHO DOES NOT INJURE HIMSELF.",
+        "titulo": "INTRODUÇÃO AO TRATADO DE QUE NINGUÉM PODE PREJUDICAR O HOMEM QUE NÃO SE FAZ.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -2604,7 +2604,7 @@
       },
       {
         "id": "npnf109-74-77",
-        "titulo": "A TREATISE TO PROVE THAT NO ONE CAN HARM THE MAN WHO DOES NOT INJURE HIMSELF.",
+        "titulo": "UM TRATADO PARA PROVAR QUE NINGUÉM PODE PREJUDICAR O HOMEM QUE NÃO SE FAZ.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -2724,7 +2724,7 @@
       },
       {
         "id": "npnf109-78-80",
-        "titulo": "INTRODUCTION TO THE LETTERS TO OLYMPIAS.",
+        "titulo": "INTRODUÇÃO ÀS CARTAS AO OLÍMPIAS.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -2739,11 +2739,11 @@
       },
       {
         "id": "npnf109-78-81",
-        "titulo": "LETTERS TO OLYMPIAS.",
+        "titulo": "CARTAS AO OLÍMPIAS.",
         "children": [
           {
             "id": "npnf109-78-81-82",
-            "titulo": "to my lady.",
+            "titulo": "para minha senhora.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2794,7 +2794,7 @@
           },
           {
             "id": "npnf109-78-81-83",
-            "titulo": "to olympias.",
+            "titulo": "para olimpíadas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2821,7 +2821,7 @@
           },
           {
             "id": "npnf109-78-81-84",
-            "titulo": "to olympias.",
+            "titulo": "para olimpíadas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2836,7 +2836,7 @@
           },
           {
             "id": "npnf109-78-81-85",
-            "titulo": "to olympias.",
+            "titulo": "para olimpíadas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2875,7 +2875,7 @@
           },
           {
             "id": "npnf109-78-81-86",
-            "titulo": "to olympias.",
+            "titulo": "para olimpíadas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2890,7 +2890,7 @@
           },
           {
             "id": "npnf109-78-81-87",
-            "titulo": "to castus, valerius, diophantus, cyriacus presbyters of antioch.",
+            "titulo": "a castus, valerius, diophantus, cyriacus presbíteros de antioquia.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2924,7 +2924,7 @@
       },
       {
         "id": "npnf109-88-90",
-        "titulo": "INTRODUCTION TO THE CORRESPONDENCE OF ST. CHRYSOSTOM, AND THE CHURCH AT CONSTANTINOPLE, WITH INNOCENT, BISHOP OF ROME.",
+        "titulo": "INTRODUÇÃO À CORRESPONDÊNCIA DE ST. CRISÓSTOMO E A IGREJA DE CONSTANTINOPLA, COM INOCENTE, BISPO DE ROMA.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -2955,11 +2955,11 @@
       },
       {
         "id": "npnf109-88-91",
-        "titulo": "CORRESPONDENCE OF ST. CHRYSOSTOM WITH THE BISHOP OF ROME.",
+        "titulo": "CORRESPONDÊNCIA DE ST. CRISÓSTOMO COM O BISPO DE ROMA.",
         "children": [
           {
             "id": "npnf109-88-91-92",
-            "titulo": "letter from st. john chrysostom to innocent, bishop of rome.",
+            "titulo": "carta de st. João Crisóstomo ao Inocente, Bispo de Roma.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2998,7 +2998,7 @@
           },
           {
             "id": "npnf109-88-91-93",
-            "titulo": "to innocent, bishop of rome, greeting in the lord.",
+            "titulo": "ao inocente, bispo de roma, saudação no senhor.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3009,7 +3009,7 @@
           },
           {
             "id": "npnf109-88-91-94",
-            "titulo": "to the beloved brother john, innocent.",
+            "titulo": "ao querido irmão João, inocente.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3020,7 +3020,7 @@
           },
           {
             "id": "npnf109-88-91-95",
-            "titulo": "innocent, bishop, to presbyters and deacons, and to all the clergy and people of the church of constantinople, the brethren beloved who are subject to the bishop john, greeting.",
+            "titulo": "inocente, bispo, aos presbíteros e diáconos, e a todo o clero e povo da igreja de Constantinopla, os amados irmãos que estão sujeitos ao bispo João, saudação.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3054,11 +3054,11 @@
       },
       {
         "id": "npnf109-96-98",
-        "titulo": "HOMILIES OF ST. JOHN CHRYSOSTOM, ARCHBISHOP OF CONSTANTINOPLE, ADDRESSED TO THE PEOPLE OF ANTIOCH, CONCERNING THE STATUES.",
+        "titulo": "HOMILIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, DISCURSO AO POVO DE ANTIOQUIA, SOBRE AS ESTÁTUAS.",
         "children": [
           {
             "id": "npnf109-96-98-99",
-            "titulo": "Homily I.",
+            "titulo": "Homilia I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3241,7 +3241,7 @@
           },
           {
             "id": "npnf109-96-98-100",
-            "titulo": "Homily II.",
+            "titulo": "Homilia II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3360,7 +3360,7 @@
           },
           {
             "id": "npnf109-96-98-101",
-            "titulo": "Homily III.",
+            "titulo": "Homilia III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3459,7 +3459,7 @@
           },
           {
             "id": "npnf109-96-98-102",
-            "titulo": "Homily IV.",
+            "titulo": "Homilia IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3518,7 +3518,7 @@
           },
           {
             "id": "npnf109-96-98-103",
-            "titulo": "Homily V.",
+            "titulo": "Homilia V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3621,7 +3621,7 @@
           },
           {
             "id": "npnf109-96-98-104",
-            "titulo": "Homily VI.",
+            "titulo": "Homilia VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3716,7 +3716,7 @@
           },
           {
             "id": "npnf109-96-98-105",
-            "titulo": "Homily VII.",
+            "titulo": "Homilia VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3775,7 +3775,7 @@
           },
           {
             "id": "npnf109-96-98-106",
-            "titulo": "Homily VIII.",
+            "titulo": "Homilia VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3814,7 +3814,7 @@
           },
           {
             "id": "npnf109-96-98-107",
-            "titulo": "Homily IX.",
+            "titulo": "Homilia IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3869,7 +3869,7 @@
           },
           {
             "id": "npnf109-96-98-108",
-            "titulo": "Homily X.",
+            "titulo": "Homilia X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3928,7 +3928,7 @@
           },
           {
             "id": "npnf109-96-98-109",
-            "titulo": "Homily XI.",
+            "titulo": "Homilia XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4003,7 +4003,7 @@
           },
           {
             "id": "npnf109-96-98-110",
-            "titulo": "Homily XII.",
+            "titulo": "Homilia XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4082,7 +4082,7 @@
           },
           {
             "id": "npnf109-96-98-111",
-            "titulo": "Homily XIII.",
+            "titulo": "Homilia XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4153,7 +4153,7 @@
           },
           {
             "id": "npnf109-96-98-112",
-            "titulo": "Homily XIV.",
+            "titulo": "Homilia XIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4228,7 +4228,7 @@
           },
           {
             "id": "npnf109-96-98-113",
-            "titulo": "Homily XV.",
+            "titulo": "Homilia XV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4299,7 +4299,7 @@
           },
           {
             "id": "npnf109-96-98-114",
-            "titulo": "Homily XVI.",
+            "titulo": "Homilia XVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4374,7 +4374,7 @@
           },
           {
             "id": "npnf109-96-98-115",
-            "titulo": "Homily XVII.",
+            "titulo": "Homilia XVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4445,7 +4445,7 @@
           },
           {
             "id": "npnf109-96-98-116",
-            "titulo": "Homily XVIII.",
+            "titulo": "Homilia XVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4508,7 +4508,7 @@
           },
           {
             "id": "npnf109-96-98-117",
-            "titulo": "Homily XIX.",
+            "titulo": "Homilia XIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4583,7 +4583,7 @@
           },
           {
             "id": "npnf109-96-98-118",
-            "titulo": "Homily XX.1799",
+            "titulo": "Homilia XX.1799",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4694,7 +4694,7 @@
           },
           {
             "id": "npnf109-96-98-119",
-            "titulo": "Homily XXI.",
+            "titulo": "Homilia XXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",

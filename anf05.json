@@ -1,15 +1,15 @@
 [
   {
     "id": "anf05-3",
-    "titulo": "HIPPOLYTUS.",
+    "titulo": "HIPÓLITO.",
     "children": [
       {
         "id": "anf05-3-4",
-        "titulo": "The Refutation of All Heresies.",
+        "titulo": "A refutação de todas as heresias.",
         "children": [
           {
             "id": "anf05-3-4-5",
-            "titulo": "Book I.",
+            "titulo": "Livro I.",
             "children": [
               {
                 "id": "anf05-3-4-5-6",
@@ -36,7 +36,7 @@
               },
               {
                 "id": "anf05-3-4-5-7",
-                "titulo": "Chapter I.—Thales; His Physics and Theology; Founder of Greek Astronomy.",
+                "titulo": "Capítulo I. - Tales; Sua Física e Teologia; Fundador da Astronomia Grega.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -47,7 +47,7 @@
               },
               {
                 "id": "anf05-3-4-5-8",
-                "titulo": "Chapter II.—Pythagoras; His Cosmogony; Rules of His Sect; Discoverer of Physiognomy; His Philosophy of Numbers; His System of the Transmigration of Souls; Zaratas on Demons; Why Pythagoras Forbade the Eating of Beans; The Mode of Living Adopted by His Disciples.",
+                "titulo": "Capítulo II. — Pitágoras; Sua Cosmogonia; Regras de sua seita; Discoverer of Physiognomy; Sua Filosofia dos Números; Seu Sistema de Transmigração de Almas; Zaratas em Demônios; Por que Pitágoras proibiu comer feijão; The Mode of Living Adopted by His Disciples.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -70,7 +70,7 @@
               },
               {
                 "id": "anf05-3-4-5-9",
-                "titulo": "Chapter III.—Empedocles; His Twofold Cause; Tenet of Transmigration.",
+                "titulo": "Capítulo III. — Empédocles; Sua Dupla Causa; Princípio da Transmigração.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -85,7 +85,7 @@
               },
               {
                 "id": "anf05-3-4-5-10",
-                "titulo": "Chapter IV.—Heraclitus; His Universal Dogmatism; His Theory of Flux; Other Systems.",
+                "titulo": "Capítulo IV.-Heráclito; Seu Dogmatismo Universal; Sua Teoria do Fluxo; Outros Sistemas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -100,7 +100,7 @@
               },
               {
                 "id": "anf05-3-4-5-11",
-                "titulo": "Chapter V.—Anaximander; His Theory of the Infinite; His Astronomic Opinions; His Physics.",
+                "titulo": "Capítulo V. — Anaximandro; Sua Teoria do Infinito; Suas opiniões astronômicas; Sua Física.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -111,7 +111,7 @@
               },
               {
                 "id": "anf05-3-4-5-12",
-                "titulo": "Chapter VI.—Anaximenes; His System of “An Infinite Air;” His Views of Astronomy and Natural Phenomena.",
+                "titulo": "Capítulo VI. — Anaxímenes; His System of “An Infinite Air;” Suas visões sobre astronomia e fenômenos naturais.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -122,7 +122,7 @@
               },
               {
                 "id": "anf05-3-4-5-13",
-                "titulo": "Chapter VII.—Anaxagoras; His Theory of Mind; Recognises an Efficient Cause; His Cosmogony and Astronomy.",
+                "titulo": "Capítulo VII.—Anaxágoras; Sua Teoria da Mente; Reconhece uma Causa Eficiente; Sua Cosmogonia e Astronomia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -133,7 +133,7 @@
               },
               {
                 "id": "anf05-3-4-5-14",
-                "titulo": "Chapter VIII.—Archelaus; System Akin to that of Anaxagoras; His Origin of the Earth and of Animals; Other Systems.",
+                "titulo": "Capítulo VIII. — Arquelau; Sistema semelhante ao de Anaxágoras; Sua Origem da Terra e dos Animais; Outros Sistemas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -148,7 +148,7 @@
               },
               {
                 "id": "anf05-3-4-5-15",
-                "titulo": "Chapter IX.—Parmenides; His Theory of “Unity;” His Eschatology.",
+                "titulo": "Capítulo IX.—Parmênides; Sua Teoria da “Unidade”; Sua Escatologia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -159,7 +159,7 @@
               },
               {
                 "id": "anf05-3-4-5-16",
-                "titulo": "Chapter X.—Leucippus; His Atomic Theory.",
+                "titulo": "Capítulo X. — Leucipo; Sua Teoria Atômica.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -170,7 +170,7 @@
               },
               {
                 "id": "anf05-3-4-5-17",
-                "titulo": "Chapter XI.—Democritus; His Duality of Principles; His Cosmogony.",
+                "titulo": "Capítulo XI. — Demócrito; Sua Dualidade de Princípios; Sua Cosmogonia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -181,7 +181,7 @@
               },
               {
                 "id": "anf05-3-4-5-18",
-                "titulo": "Chapter XII.—Xenophanes; His Scepticism; His Notions of God and Nature; Believes in a Flood.",
+                "titulo": "Capítulo XII. — Xenófanes; Seu ceticismo; His Notions of God and Nature; Acredita em um dilúvio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -196,7 +196,7 @@
               },
               {
                 "id": "anf05-3-4-5-19",
-                "titulo": "Chapter XIII.—Ecphantus; His Scepticism; Tenet of Infinity.",
+                "titulo": "Capítulo XIII.-Ecphantus; Seu ceticismo; Princípio do Infinito.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -207,7 +207,7 @@
               },
               {
                 "id": "anf05-3-4-5-20",
-                "titulo": "Chapter XIV.—Hippo; His Duality of Principles; His Psychology.",
+                "titulo": "Capítulo XIV. — Hipopótamo; Sua Dualidade de Princípios; Sua psicologia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -222,7 +222,7 @@
               },
               {
                 "id": "anf05-3-4-5-21",
-                "titulo": "Chapter XV.—Socrates; His Philosophy Reproduced by Plato.",
+                "titulo": "Capítulo XV. — Sócrates; Sua filosofia reproduzida por Platão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -233,7 +233,7 @@
               },
               {
                 "id": "anf05-3-4-5-22",
-                "titulo": "Chapter XVI.—Plato; Threefold Classification of Principles; His Idea of God; Different Opinions Regarding His Theology and Psychology; His Eschatology and System of Metempsychosis; His Ethical Doctrines; Notions on the Free-Will Question.",
+                "titulo": "Capítulo XVI.-Platão; Classificação Tríplice de Princípios; Sua ideia de Deus; Diferentes opiniões sobre sua teologia e psicologia; Sua Escatologia e Sistema de Metempsicose; Suas Doutrinas Éticas; Noções sobre a questão do livre arbítrio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -256,7 +256,7 @@
               },
               {
                 "id": "anf05-3-4-5-23",
-                "titulo": "Chapter XVII.—Aristotle; Duality of Principles; His Categories; His Psychology; His Ethical Doctrines; Origin of the Epithet “Peripatetic.”",
+                "titulo": "Capítulo XVII.—Aristóteles; Dualidade de Princípios; Suas categorias; Sua psicologia; Suas Doutrinas Éticas; Origem do epíteto “Peripatético”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -267,7 +267,7 @@
               },
               {
                 "id": "anf05-3-4-5-24",
-                "titulo": "Chapter XVIII.—The Stoics; Their Superiority in Logic; Fatalists; Their Doctrine of Conflagrations.",
+                "titulo": "Capítulo XVIII. — Os estóicos; Their Superiority in Logic; Fatalistas; Sua Doutrina de Conflagrações.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -278,7 +278,7 @@
               },
               {
                 "id": "anf05-3-4-5-25",
-                "titulo": "Chapter XIX.—Epicurus; Adopts the Democritic Atomism; Denial of Divine Providence; The Principle of His Ethical System.",
+                "titulo": "Capítulo XIX.—Epicuro; Adota o Atomismo Democrítico; Negação da Providência Divina; O princípio de seu sistema ético.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -289,7 +289,7 @@
               },
               {
                 "id": "anf05-3-4-5-26",
-                "titulo": "Chapter XX.—The Academics; Difference of Opinion Among Them.",
+                "titulo": "Capítulo XX. — Os Acadêmicos; Diferença de opinião entre eles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -300,7 +300,7 @@
               },
               {
                 "id": "anf05-3-4-5-27",
-                "titulo": "Chapter XXI.—The Brachmans; Their Mode of Life; Ideas of Deity; Different Sorts Of; Their Ethical Notions.",
+                "titulo": "Capítulo XXI. — Os Brachmans; Seu modo de vida; Ideias de Divindade; Diferentes tipos de; Suas noções éticas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -311,7 +311,7 @@
               },
               {
                 "id": "anf05-3-4-5-28",
-                "titulo": "Chapter XXII.—The Druids; Progenitors of Their System.",
+                "titulo": "Capítulo XXII. — Os Druidas; Progenitores de seu sistema.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -322,7 +322,7 @@
               },
               {
                 "id": "anf05-3-4-5-29",
-                "titulo": "Chapter XXIII.—Hesiod; The Nine Muses; The Hesiodic Cosmogony; The Ancient Speculators, Materialists; Derivative Character of the Heresies from Heathen Philosophy.",
+                "titulo": "Capítulo XXIII.-Hesíodo; As Nove Musas; A Cosmogonia Hesiódica; Os Antigos Especuladores, Materialistas; Caráter derivado das heresias da filosofia pagã.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -347,11 +347,11 @@
           },
           {
             "id": "anf05-3-4-30",
-            "titulo": "Book IV.",
+            "titulo": "Livro IV.",
             "children": [
               {
                 "id": "anf05-3-4-30-31",
-                "titulo": "Chapter I.—System of the Astrologers; Sidereal Influence; Configuration of the Stars.",
+                "titulo": "Capítulo I. — Sistema dos Astrólogos; Influência Sideral; Configuração das Estrelas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -362,7 +362,7 @@
               },
               {
                 "id": "anf05-3-4-30-32",
-                "titulo": "Chapter II.—Doctrines Concerning Æons; The Chaldean Astrology; Heresy Derivable from It.",
+                "titulo": "Capítulo II.—Doutrinas Relativas a Æons; A Astrologia Caldéia; Heresia derivada disso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -373,7 +373,7 @@
               },
               {
                 "id": "anf05-3-4-30-33",
-                "titulo": "Chapter III.—The Horoscope the Foundation of Astrology; Indiscoverability of the Horoscope; Therefore the Futility of the Chaldean Art.",
+                "titulo": "Capítulo III. — O Horóscopo, a Fundação da Astrologia; Indetectabilidade do Horóscopo; Portanto a Futilidade da Arte Caldéia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -388,7 +388,7 @@
               },
               {
                 "id": "anf05-3-4-30-34",
-                "titulo": "Chapter IV.—Impossibility of Fixing the Horoscope; Failure of an Attempt to Do This at the Period of Birth.",
+                "titulo": "Capítulo IV. — Impossibilidade de fixar o horóscopo; Falha na tentativa de fazer isso no período do nascimento.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -403,7 +403,7 @@
               },
               {
                 "id": "anf05-3-4-30-35",
-                "titulo": "Chapter V.—Another Method of Fixing the Horoscope at Birth; Equally Futile; Use of the Clepsydra in Astrology; The Predictions of the Chaldeans Not Verified.",
+                "titulo": "Capítulo V. — Outro método de fixação do horóscopo no nascimento; Igualmente fútil; Uso da Clepsidra em Astrologia; As previsões dos caldeus não verificadas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -422,7 +422,7 @@
               },
               {
                 "id": "anf05-3-4-30-36",
-                "titulo": "Chapter VI.—Zodiacal Influence; Origin of Sidereal Names.",
+                "titulo": "Capítulo VI. — Influência Zodiacal; Origem dos Nomes Siderais.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -433,7 +433,7 @@
               },
               {
                 "id": "anf05-3-4-30-37",
-                "titulo": "Chapter VII.—Practical Absurdity of the Chaldaic Art; Development of the Art.",
+                "titulo": "Capítulo VII.—Absurdo prático da arte caldaica; Desenvolvimento da Arte.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -448,7 +448,7 @@
               },
               {
                 "id": "anf05-3-4-30-38",
-                "titulo": "Chapter VIII.—Prodigies of the Astrologers; System of the Astronomers; Chaldean Doctrine of Circles; Distances of the Heavenly Bodies.",
+                "titulo": "Capítulo VIII. — Prodígios dos Astrólogos; Sistema dos Astrônomos; Doutrina Caldéia dos Círculos; Distâncias dos Corpos Celestes.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -463,7 +463,7 @@
               },
               {
                 "id": "anf05-3-4-30-39",
-                "titulo": "Chapter IX.—Further Astronomic Calculations.",
+                "titulo": "Capítulo IX. — Cálculos Astronômicos Adicionais.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -474,7 +474,7 @@
               },
               {
                 "id": "anf05-3-4-30-40",
-                "titulo": "Chapter X.—Theory of Stellar Motion and Distance in Accordance with Harmony.",
+                "titulo": "Capítulo X.—Teoria do movimento estelar e da distância de acordo com a harmonia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -489,7 +489,7 @@
               },
               {
                 "id": "anf05-3-4-30-41",
-                "titulo": "Chapter XI.—Theory of the Size of the Heavenly Bodies in Accordance with Numerical Harmonies.",
+                "titulo": "Capítulo XI. — Teoria do tamanho dos corpos celestes de acordo com as harmonias numéricas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -500,7 +500,7 @@
               },
               {
                 "id": "anf05-3-4-30-42",
-                "titulo": "Chapter XII.—Waste of Mental Energy in the Systems of the Astrologers.",
+                "titulo": "Capítulo XII. — Desperdício de energia mental nos sistemas dos astrólogos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -511,7 +511,7 @@
               },
               {
                 "id": "anf05-3-4-30-43",
-                "titulo": "Chapter XIII.—Mention of the Heretic Colarbasus; Alliance Between Heresy and the Pythagorean Philosophy.",
+                "titulo": "Capítulo XIII. — Menção do Herege Colarbasus; Aliança entre a heresia e a filosofia pitagórica.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -522,7 +522,7 @@
               },
               {
                 "id": "anf05-3-4-30-44",
-                "titulo": "Chapter XIV.—System of the Arithmeticians; Predictions Through Calculations; Numerical Roots; Transference of These Doctrines to Letters; Examples in Particular Names; Different Methods of Calculation; Prescience Possible by These.",
+                "titulo": "Capítulo XIV. — Sistema dos Aritméticos; Previsões através de cálculos; Raízes Numéricas; Transferência destas doutrinas para cartas; Exemplos em nomes particulares; Diferentes Métodos de Cálculo; Presciência possível por estes.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -549,7 +549,7 @@
               },
               {
                 "id": "anf05-3-4-30-45",
-                "titulo": "Chapter XV.—Quibbles of the Numerical Theorists; The Art of the Frontispicists (Physiognomy); Connection of This Art with Astrology; Type of Those Born Under Aries.",
+                "titulo": "Capítulo XV.—Quibbles dos Teóricos Numéricos; A Arte dos Frontispicistas (Fisiognomia); Conexão desta Arte com a Astrologia; Tipo de quem nasceu sob Áries.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -564,7 +564,7 @@
               },
               {
                 "id": "anf05-3-4-30-46",
-                "titulo": "Chapter XVI.—Type of Those Born Under Taurus.",
+                "titulo": "Capítulo XVI.—Tipo dos nascidos sob Touro.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -575,7 +575,7 @@
               },
               {
                 "id": "anf05-3-4-30-47",
-                "titulo": "Chapter XVII.—Type of Those Born Under Gemini.",
+                "titulo": "Capítulo XVII.—Tipo dos nascidos sob Gêmeos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -586,7 +586,7 @@
               },
               {
                 "id": "anf05-3-4-30-48",
-                "titulo": "Chapter XVIII.—Type of Those Born Under Cancer.",
+                "titulo": "Capítulo XVIII. — Tipo de nascidos com câncer.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -597,7 +597,7 @@
               },
               {
                 "id": "anf05-3-4-30-49",
-                "titulo": "Chapter XIX.—Type of Those Born Under Leo.",
+                "titulo": "Capítulo XIX.—Tipo dos nascidos sob Leão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -608,7 +608,7 @@
               },
               {
                 "id": "anf05-3-4-30-50",
-                "titulo": "Chapter XX.—Type of Those Born Under Virgo.",
+                "titulo": "Capítulo XX.—Tipo dos nascidos em Virgem.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -619,7 +619,7 @@
               },
               {
                 "id": "anf05-3-4-30-51",
-                "titulo": "Chapter XXI.—Type of Those Born Under Libra.",
+                "titulo": "Capítulo XXI.—Tipo dos nascidos em Libra.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -630,7 +630,7 @@
               },
               {
                 "id": "anf05-3-4-30-52",
-                "titulo": "Chapter XXII.—Type of Those Born Under Scorpio.",
+                "titulo": "Capítulo XXII.—Tipo dos nascidos em Escorpião.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -641,7 +641,7 @@
               },
               {
                 "id": "anf05-3-4-30-53",
-                "titulo": "Chapter XXIII.—Type of Those Born Under Sagittarius.",
+                "titulo": "Capítulo XXIII.—Tipo dos nascidos sob Sagitário.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -652,7 +652,7 @@
               },
               {
                 "id": "anf05-3-4-30-54",
-                "titulo": "Chapter XXIV.—Type of Those Born Under Capricorn.",
+                "titulo": "Capítulo XXIV.—Tipo dos nascidos em Capricórnio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -663,7 +663,7 @@
               },
               {
                 "id": "anf05-3-4-30-55",
-                "titulo": "Chapter XXV.—Type of Those Born Under Aquarius.",
+                "titulo": "Capítulo XXV. — Tipo dos nascidos em Aquário.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -674,7 +674,7 @@
               },
               {
                 "id": "anf05-3-4-30-56",
-                "titulo": "Chapter XXVI.—Type of Those Born Under Pisces.",
+                "titulo": "Capítulo XXVI.—Tipo dos nascidos sob Peixes.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -685,7 +685,7 @@
               },
               {
                 "id": "anf05-3-4-30-57",
-                "titulo": "Chapter XXVII.—Futility of This Theory of Stellar Influence.",
+                "titulo": "Capítulo XXVII. — Futilidade desta teoria da influência estelar.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -696,7 +696,7 @@
               },
               {
                 "id": "anf05-3-4-30-58",
-                "titulo": "Chapter XXVIII.233—System of the Magicians; Incantations of Demons; Secret Magical Rites.",
+                "titulo": "Capítulo XXVIII.233 — Sistema dos Magos; Encantamentos de Demônios; Ritos Mágicos Secretos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -715,7 +715,7 @@
               },
               {
                 "id": "anf05-3-4-30-59",
-                "titulo": "Chapter XXIX.—Display of Different Eggs.",
+                "titulo": "Capítulo XXIX.—Exibição de diferentes ovos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -726,7 +726,7 @@
               },
               {
                 "id": "anf05-3-4-30-60",
-                "titulo": "Chapter XXX.—Self-Slaughter of Sheep.",
+                "titulo": "Capítulo XXX. — Auto-abate de ovelhas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -737,7 +737,7 @@
               },
               {
                 "id": "anf05-3-4-30-61",
-                "titulo": "Chapter XXXI.—Method of Poisoning Goats.",
+                "titulo": "Capítulo XXXI. — Método de envenenamento de cabras.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -748,7 +748,7 @@
               },
               {
                 "id": "anf05-3-4-30-62",
-                "titulo": "Chapter XXXII.—Imitations of Thunder, and Other Illusions.",
+                "titulo": "Capítulo XXXII. — Imitações de trovão e outras ilusões.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -763,7 +763,7 @@
               },
               {
                 "id": "anf05-3-4-30-63",
-                "titulo": "Chapter XXXIII.—The Burning Æsculapius; Tricks with Fire.",
+                "titulo": "Capítulo XXXIII. — O Esculápio Ardente; Truques com Fogo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -778,7 +778,7 @@
               },
               {
                 "id": "anf05-3-4-30-64",
-                "titulo": "Chapter XXXIV.—The Illusion of the Sealed Letters; Object in Detailing These Juggleries.",
+                "titulo": "Capítulo XXXIV. — A Ilusão das Cartas Seladas; Objeto em detalhar esses malabarismos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -793,7 +793,7 @@
               },
               {
                 "id": "anf05-3-4-30-65",
-                "titulo": "Chapter XXXV.—The Divination by a Cauldron; Illusion of Fiery Demons; Specimen of a Magical Invocation.",
+                "titulo": "Capítulo XXXV. — A adivinhação por um caldeirão; Ilusão de Demônios de Fogo; Espécime de uma Invocação Mágica.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -804,7 +804,7 @@
               },
               {
                 "id": "anf05-3-4-30-66",
-                "titulo": "Chapter XXXVI.—Mode of Managing an Apparition.",
+                "titulo": "Capítulo XXXVI.—Modo de administrar uma aparição.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -815,7 +815,7 @@
               },
               {
                 "id": "anf05-3-4-30-67",
-                "titulo": "Chapter XXXVII.—Illusive Appearance of the Moon.",
+                "titulo": "Capítulo XXXVII. — Aparência Ilusória da Lua.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -830,7 +830,7 @@
               },
               {
                 "id": "anf05-3-4-30-68",
-                "titulo": "Chapter XXXVIII.—Illusive Appearance of the Stars.",
+                "titulo": "Capítulo XXXVIII. — Aparência Ilusória das Estrelas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -841,7 +841,7 @@
               },
               {
                 "id": "anf05-3-4-30-69",
-                "titulo": "Chapter XXXIX.—Imitation of an Earthquake.",
+                "titulo": "Capítulo XXXIX. — Imitação de um terremoto.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -852,7 +852,7 @@
               },
               {
                 "id": "anf05-3-4-30-70",
-                "titulo": "Chapter XL.—Trick with the Liver.",
+                "titulo": "Capítulo XL. — Truque com o Fígado.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -863,7 +863,7 @@
               },
               {
                 "id": "anf05-3-4-30-71",
-                "titulo": "Chapter XLI.—Making a Skull Speak.",
+                "titulo": "Capítulo XLI. — Fazendo uma Caveira Falar.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -874,7 +874,7 @@
               },
               {
                 "id": "anf05-3-4-30-72",
-                "titulo": "Chapter XLII.—The Fraud of the Foregoing Practices; Their Connection with Heresy.",
+                "titulo": "Capítulo XLII.—A Fraude das Práticas Anteriores; Sua conexão com a heresia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -885,7 +885,7 @@
               },
               {
                 "id": "anf05-3-4-30-73",
-                "titulo": "Chapter XLIII.—Recapitulation of Theologies and Cosmogonies; System of the Persians; Of the Babylonians; The Egyptian Notion of Deity; Their Theology Based on a Theory of Numbers; Their System of Cosmogony.",
+                "titulo": "Capítulo XLIII. — Recapitulação de Teologias e Cosmogonias; Sistema dos Persas; Dos babilônios; A noção egípcia de divindade; Sua Teologia Baseada na Teoria dos Números; Seu sistema de cosmogonia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -904,7 +904,7 @@
               },
               {
                 "id": "anf05-3-4-30-74",
-                "titulo": "Chapter XLIV.—Egyptian Theory of Nature; Their Amulets.",
+                "titulo": "Capítulo XLIV. — Teoria Egípcia da Natureza; Their Amulets.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -915,7 +915,7 @@
               },
               {
                 "id": "anf05-3-4-30-75",
-                "titulo": "Chapter XLV.—Use of the Foregoing Discussions.",
+                "titulo": "Capítulo XLV.—Uso das Discussões Anteriores.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -926,7 +926,7 @@
               },
               {
                 "id": "anf05-3-4-30-76",
-                "titulo": "Chapter XLVI.—The Astrotheosophists; Aratus Imitated by the Heresiarchs; His System of the Disposition of the Stars.",
+                "titulo": "Capítulo XLVI. — Os Astroteosofistas; Arato imitado pelos heresiarcas; Seu Sistema de Disposição das Estrelas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -941,7 +941,7 @@
               },
               {
                 "id": "anf05-3-4-30-77",
-                "titulo": "Chapter XLVII.—Opinions of the Heretics Borrowed from Aratus.",
+                "titulo": "Capítulo XLVII. — Opiniões dos hereges emprestadas de Arato.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -964,7 +964,7 @@
               },
               {
                 "id": "anf05-3-4-30-78",
-                "titulo": "Chapter XLVIII.—Invention of the Lyre; Allegorizing the Appearance and Position of the Stars; Origin of the Phoenicians; The Logos Identified by Aratus with the Constellation Canis; Influence of Canis on Fertility and Life Generally.",
+                "titulo": "Chapter XLVIII.—Invention of the Lyre; Alegorizando a Aparência e Posição das Estrelas; Origem dos Fenícios; O Logos Identificado por Aratus com a Constelação Canis; Influência do Canis na fertilidade e na vida em geral.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -983,7 +983,7 @@
               },
               {
                 "id": "anf05-3-4-30-79",
-                "titulo": "Chapter XLIX.—Symbol of the Creature; And of Spirit; And of the Different Orders of Animals.",
+                "titulo": "Capítulo XLIX. — Símbolo da Criatura; E de Espírito; E das diferentes ordens de animais.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -994,7 +994,7 @@
               },
               {
                 "id": "anf05-3-4-30-80",
-                "titulo": "Chapter L.—Folly of Astrology.",
+                "titulo": "Capítulo L. — Loucura da Astrologia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1005,7 +1005,7 @@
               },
               {
                 "id": "anf05-3-4-30-81",
-                "titulo": "Chapter LI.—The Hebdomadarii; System of the Arithmeticians; Pressed into the Service of Heresy; Instances Of, in Simon and Valentinus; The Nature of the Universe Deducible from the Physiology of the Brain.",
+                "titulo": "Capítulo LI. - Os Hebdomadarii; System of the Arithmeticians; Pressionado a servir a heresia; Instâncias de, em Simão e Valentino; A natureza do universo dedutível da fisiologia do cérebro.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1036,7 +1036,7 @@
               },
               {
                 "id": "anf05-3-4-30-82",
-                "titulo": "Note.",
+                "titulo": "Nota.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1049,11 +1049,11 @@
           },
           {
             "id": "anf05-3-4-83",
-            "titulo": "Book V.",
+            "titulo": "Livro V.",
             "children": [
               {
                 "id": "anf05-3-4-83-84",
-                "titulo": "Chapter I.—Recapitulation; Characteristics of Heresy; Origin of the Name Naasseni;",
+                "titulo": "Capítulo I. — Recapitulação; Características da Heresia; Origem do Nome Naasseni;",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1068,7 +1068,7 @@
               },
               {
                 "id": "anf05-3-4-83-85",
-                "titulo": "Chapter II.—Naasseni Ascribe Their System, Through Mariamne, to James the Lord’s Brother; Really Traceable to the Ancient Mysteries; Their Psychology as Given in the “Gospel According to Thomas;” Assyrian Theory of the Soul; The Systems of the Naasseni and the Assyrians Compared; Support Drawn by the Naasseni from the Phrygian and Egyptian Mysteries; The Mysteries of Isis; These Mysteries Allegorized by the Naasseni.",
+                "titulo": "Capítulo II.—Naasseni atribui seu sistema, por meio de Mariamne, a Tiago, irmão do Senhor; Realmente rastreável até os mistérios antigos; Sua psicologia conforme apresentada no “Evangelho segundo Tomé”; Teoria Assíria da Alma; Os sistemas dos Naasseni e dos assírios comparados; Apoio extraído pelos Naasseni dos mistérios frígios e egípcios; Os Mistérios de Ísis; Esses mistérios alegorizados pelos Naasseni.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1131,7 +1131,7 @@
               },
               {
                 "id": "anf05-3-4-83-86",
-                "titulo": "Chapter III.—Further Exposition of the Heresy of the Naasseni; Profess to Follow Homer; Acknowledge a Triad of Principles; Their Technical Names of the Triad; Support These on the Authority of Greek Poets; Allegorize Our Saviour’s Miracles; The Mystery of the Samothracians; Why the Lord Chose Twelve Disciples; The Name Corybas, Used by Thracians and Phrygians, Explained; Naasseni Profess to Find Their System in Scripture; Their Interpretation of Jacob’s Vision; Their Idea of the “Perfect Man;” The “Perfect Man” Called “Papa” By the Phrygians; The Naasseni and Phrygians on the Resurrection; The Ecstasis of St. Paul; The Mysteries of Religion as Alluded to by Christ; Interpretation of the Parable of the Sower; Allegory of the Promised Land; Comparison of the System of the Phrygians with the Statements of Scripture; Exposition of the Meaning of the Higher and Lower Eleusinian Mysteries; The Incarnation Discoverable Here According to the Naasseni.",
+                "titulo": "Capítulo III.—Exposição adicional da heresia dos Naasseni; Professar seguir Homero; Reconhecer uma Tríade de Princípios; Seus Nomes Técnicos da Tríade; Apoie-os na autoridade dos poetas gregos; Alegorize os milagres de nosso Salvador; O Mistério dos Samotrácios; Por que o Senhor escolheu doze discípulos; O nome Coribas, usado por trácios e frígios, explicado; Naasseni professa encontrar seu sistema nas Escrituras; A interpretação deles da visão de Jacó; Sua ideia do “homem perfeito”; O “Homem Perfeito” Chamado de “Papai” pelos Frígios; Os Naasseni e os Frígios sobre a Ressurreição; O Êxtase de São Paulo; Os mistérios da religião aludidos por Cristo; Interpretação da Parábola do Semeador; Alegoria da Terra Prometida; Comparação do Sistema dos Frígios com as Declarações das Escrituras; Exposição do Significado dos Mistérios Eleusinos Superiores e Inferiores; A encarnação que pode ser descoberta aqui, de acordo com os Naasseni.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1190,7 +1190,7 @@
               },
               {
                 "id": "anf05-3-4-83-87",
-                "titulo": "Chapter IV.—Further Use Made of the System of the Phrygians; Mode of Celebrating the Mysteries; The Mystery of the “Great Mother;” These Mysteries Have a Joint Object of Worship with the Naasseni; The Naasseni Allegorize the Scriptural Account of the Garden of Eden; The Allegory Applied to the Life of Jesus.",
+                "titulo": "Capítulo IV.—Utilização adicional do sistema dos frígios; Modo de Celebrar os Mistérios; O Mistério da “Grande Mãe”; Esses mistérios têm um objeto conjunto de adoração com os Naasseni; Os Naasseni Alegorizam o Relato Bíblico do Jardim do Éden; A alegoria aplicada à vida de Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1217,7 +1217,7 @@
               },
               {
                 "id": "anf05-3-4-83-88",
-                "titulo": "Chapter V.—Explanation of the System of the Naasseni Taken from One of Their Hymns.",
+                "titulo": "Capítulo V. — Explicação do sistema dos Naasseni extraída de um de seus hinos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1228,7 +1228,7 @@
               },
               {
                 "id": "anf05-3-4-83-89",
-                "titulo": "Chapter VI.—The Ophites the Grand Source of Heresy.",
+                "titulo": "Capítulo VI. - Os Ofitas, a Grande Fonte da Heresia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1239,7 +1239,7 @@
               },
               {
                 "id": "anf05-3-4-83-90",
-                "titulo": "Chapter VII.—The System of the Peratæ; Their Tritheism; Explanation of the Incarnation.",
+                "titulo": "Capítulo VII.—O Sistema dos Peratæ; Seu triteísmo; Explicação da Encarnação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1254,7 +1254,7 @@
               },
               {
                 "id": "anf05-3-4-83-91",
-                "titulo": "Chapter VIII.—The Peratæ Derive Their System from the Astrologers; This Proved by a Statement of the Astrological Theories of the Zodiac; Hence the Terminology of the Peratic Heretics.",
+                "titulo": "Capítulo VIII. — Os Peratæ derivam seu sistema dos astrólogos; Isto é comprovado por uma declaração das teorias astrológicas do Zodíaco; Daí a Terminologia dos Hereges Peráticos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1277,7 +1277,7 @@
               },
               {
                 "id": "anf05-3-4-83-92",
-                "titulo": "Chapter IX.—System of the Peratæ Explained Out of One of Their Own Books.",
+                "titulo": "Capítulo IX.—Sistema dos Peratæ explicado em um de seus próprios livros.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1288,7 +1288,7 @@
               },
               {
                 "id": "anf05-3-4-83-93",
-                "titulo": "Chapter X.—The Peratic Heresy Nominally Different from Astrology, But Really the Same System Allegorized.",
+                "titulo": "Capítulo X. — A heresia perática nominalmente diferente da astrologia, mas na verdade o mesmo sistema alegorizado.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1299,7 +1299,7 @@
               },
               {
                 "id": "anf05-3-4-83-94",
-                "titulo": "Chapter XI.—Why They Call Themselves Peratæ; Their Theory of Generation Supported by an Appeal to Antiquity; Their Interpretation of the Exodus of Israel; Their System of “The Serpent;” Deduced by Them from Scripture; This the Real Import of the Doctrines of the Astrologers.",
+                "titulo": "Capítulo XI. — Por que eles se autodenominam Peratæ; Sua teoria da geração apoiada por um apelo à antiguidade; Sua Interpretação do Êxodo de Israel; Seu sistema de “A Serpente”; Deduzido por eles das Escrituras; Esta é a verdadeira importância das doutrinas dos astrólogos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1326,7 +1326,7 @@
               },
               {
                 "id": "anf05-3-4-83-95",
-                "titulo": "Chapter XII.—Compendious Statement of the Doctrines of the Peratæ.",
+                "titulo": "Capítulo XII. — Declaração resumida das doutrinas dos Peratæ.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1345,7 +1345,7 @@
               },
               {
                 "id": "anf05-3-4-83-96",
-                "titulo": "Chapter XIII.—The Peratic Heresy Not Generally Known.",
+                "titulo": "Capítulo XIII. — A heresia perática geralmente não conhecida.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1356,7 +1356,7 @@
               },
               {
                 "id": "anf05-3-4-83-97",
-                "titulo": "Chapter XIV.—The System of the Sethians; Their Triad of Infinite Principles; Their Heresy Explained; Their Interpretation of the Incarnation.",
+                "titulo": "Capítulo XIV. — O Sistema dos Sethianos; Sua Tríade de Princípios Infinitos; Sua heresia explicada; Sua Interpretação da Encarnação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1379,7 +1379,7 @@
               },
               {
                 "id": "anf05-3-4-83-98",
-                "titulo": "Chapter XV.—The Sethians Support Their Doctrines by an Allegorical Interpretation of Scripture; Their System Really Derived from Natural Philosophers and from the Orphic Rites; Adopt the Homeric Cosmogony.",
+                "titulo": "Capítulo XV. — Os setianos apóiam suas doutrinas por meio de uma interpretação alegórica das Escrituras; Seu sistema realmente derivou dos filósofos naturais e dos ritos órficos; Adopt the Homeric Cosmogony.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1398,7 +1398,7 @@
               },
               {
                 "id": "anf05-3-4-83-99",
-                "titulo": "Chapter XVI.—The Sethian Theory Concerning “Mixture” And “Composition;” Application of It to Christ; Illustration from the Well of Ampa.",
+                "titulo": "Capítulo XVI. - A Teoria Sethiana sobre “Mistura” e “Composição”; Aplicação disso a Cristo; Ilustração do Poço de Ampa.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1417,7 +1417,7 @@
               },
               {
                 "id": "anf05-3-4-83-100",
-                "titulo": "Chapter XVII.—The Sethian Doctrines to Be Learned from the “Paraphrase of Seth.”",
+                "titulo": "Capítulo XVII. — As doutrinas setianas a serem aprendidas na “paráfrase de Seth”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1428,7 +1428,7 @@
               },
               {
                 "id": "anf05-3-4-83-101",
-                "titulo": "Chapter XVIII.—The System of Justinus Antiscriptural and Essentially Pagan.",
+                "titulo": "Capítulo XVIII. — O Sistema de Justino Antibíblico e Essencialmente Pagão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1439,7 +1439,7 @@
               },
               {
                 "id": "anf05-3-4-83-102",
-                "titulo": "Chapter XIX.—The Justinian Heresy Unfolded in the “Book of Baruch.”",
+                "titulo": "Capítulo XIX. - A heresia justiniana revelada no “Livro de Baruque”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1450,7 +1450,7 @@
               },
               {
                 "id": "anf05-3-4-83-103",
-                "titulo": "Chapter XX.—The Cosmogony of Justinus an Allegorical Explanation of Herodotus’ Legend of Hercules.",
+                "titulo": "Capítulo XX.—A cosmogonia de Justino, uma explicação alegórica da lenda de Hércules de Heródoto.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1461,7 +1461,7 @@
               },
               {
                 "id": "anf05-3-4-83-104",
-                "titulo": "Chapter XXI.—Justinus’ Triad of Principles; His Angelography Founded on This Triad; His Explanation of the Birth, Life, and Death of Our Lord.",
+                "titulo": "Capítulo XXI.—Tríade de Princípios de Justino; Sua Angelografia Fundada nesta Tríade; Sua explicação do nascimento, vida e morte de Nosso Senhor.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1500,7 +1500,7 @@
               },
               {
                 "id": "anf05-3-4-83-105",
-                "titulo": "Chapter XXII.—Oath Used by the Justinian Heretics; The Book of Baruch; The Repertory of Their System.",
+                "titulo": "Capítulo XXII. — Juramento usado pelos hereges justinianos; O Livro de Baruque; O repertório de seu sistema.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1511,7 +1511,7 @@
               },
               {
                 "id": "anf05-3-4-83-106",
-                "titulo": "Chapter XXIII.—Subsequent Heresies Deducible from the System of Justinus.",
+                "titulo": "Capítulo XXIII. — Heresias subsequentes dedutíveis do sistema de Justino.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1524,11 +1524,11 @@
           },
           {
             "id": "anf05-3-4-107",
-            "titulo": "Book VI.",
+            "titulo": "Livro VI.",
             "children": [
               {
                 "id": "anf05-3-4-107-108",
-                "titulo": "Chapter I.607—The Ophites the Progenitors of Subsequent Heresies.",
+                "titulo": "Capítulo I.607 — Os ofitas, os progenitores das heresias subsequentes.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1539,7 +1539,7 @@
               },
               {
                 "id": "anf05-3-4-107-109",
-                "titulo": "Chapter II.—Simon Magus.",
+                "titulo": "Capítulo II.-Simão Mago.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1550,7 +1550,7 @@
               },
               {
                 "id": "anf05-3-4-107-110",
-                "titulo": "Chapter III.—Story of Apsethus the Libyan.",
+                "titulo": "Capítulo III. — História de Apseto, o Líbio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1561,7 +1561,7 @@
               },
               {
                 "id": "anf05-3-4-107-111",
-                "titulo": "Chapter IV.—Simon’s Forced Interpretation of Scripture; Plagiarizes from Heraclitus and Aristotle; Simon’s System of Sensible and Intelligible Existences.",
+                "titulo": "Capítulo IV.—A interpretação forçada das Escrituras por Simão; Plagia de Heráclito e Aristóteles; O Sistema de Existências Sensíveis e Inteligíveis de Simon.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1580,7 +1580,7 @@
               },
               {
                 "id": "anf05-3-4-107-112",
-                "titulo": "Chapter V.—Simon Appeals to Scripture in Support of His System.",
+                "titulo": "Capítulo V. — Simão apela às Escrituras em apoio ao seu sistema.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1591,7 +1591,7 @@
               },
               {
                 "id": "anf05-3-4-107-113",
-                "titulo": "Chapter VI.—Simon’s System Expounded in the Work, Great Announcement; Follows Empedocles.",
+                "titulo": "Capítulo VI.—O sistema de Simão exposto na obra, grande anúncio; Segue Empédocles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1602,7 +1602,7 @@
               },
               {
                 "id": "anf05-3-4-107-114",
-                "titulo": "Chapter VII.—Simon’s System of a Threefold Emanation by Pairs.",
+                "titulo": "Capítulo VII.—O sistema de Simão de uma tríplice emanação por pares.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1613,7 +1613,7 @@
               },
               {
                 "id": "anf05-3-4-107-115",
-                "titulo": "Chapter VIII.—Further Progression of This Threefold Emanation; Co-Existence with the Double Triad of a Seventh Existence.",
+                "titulo": "Capítulo VIII.—Progressão adicional desta tríplice emanação; Coexistência com a Tríade Dupla de uma Sétima Existência.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1624,7 +1624,7 @@
               },
               {
                 "id": "anf05-3-4-107-116",
-                "titulo": "Chapter IX.—Simon’s Interpretation of the Mosaic Hexaëmeron; His Allegorical Representation of Paradise.",
+                "titulo": "Capítulo IX.—A Interpretação de Simão do Hexaëmeron Mosaico; Sua representação alegórica do paraíso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1639,7 +1639,7 @@
               },
               {
                 "id": "anf05-3-4-107-117",
-                "titulo": "Chapter X.—Simon’s Explanation of the First Two Books of Moses.",
+                "titulo": "Capítulo X. — Explicação de Simão sobre os dois primeiros livros de Moisés.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1650,7 +1650,7 @@
               },
               {
                 "id": "anf05-3-4-107-118",
-                "titulo": "Chapter XI.—Simon’s Explanation of the Three Last Books of the Pentateuch.",
+                "titulo": "Capítulo XI. — Explicação de Simão dos Três Últimos Livros do Pentateuco.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1665,7 +1665,7 @@
               },
               {
                 "id": "anf05-3-4-107-119",
-                "titulo": "Chapter XII.—Fire a Primal Principle, According to Simon.",
+                "titulo": "Capítulo XII. — O fogo é um princípio primordial, segundo Simon.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1680,7 +1680,7 @@
               },
               {
                 "id": "anf05-3-4-107-120",
-                "titulo": "Chapter XIII.—His Doctrine of Emanation Further Expanded.",
+                "titulo": "Capítulo XIII.—Sua Doutrina da Emanação Ampliada.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1691,7 +1691,7 @@
               },
               {
                 "id": "anf05-3-4-107-121",
-                "titulo": "Chapter XIV.—Simon Interprets His System by the Mythological Representation of Helen of Troy; Gives an Account of Himself in Connection with the Trojan Heroine; Immorality of His Followers; Simon’s View of Christ; The Simonists’ Apology for Their Vice.",
+                "titulo": "Capítulo XIV.—Simão interpreta seu sistema pela representação mitológica de Helena de Tróia; Dá um relato de si mesmo em conexão com a heroína troiana; Imoralidade de Seus Seguidores; A Visão de Simão sobre Cristo; As desculpas dos simonistas pelo seu vício.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1706,7 +1706,7 @@
               },
               {
                 "id": "anf05-3-4-107-122",
-                "titulo": "Chapter XV.—Simon’s Disciples Adopt the Mysteries; Simon Meets St. Peter at Rome; Account of Simon’s Closing Years.",
+                "titulo": "Capítulo XV. — Os discípulos de Simão adotam os mistérios; Simão encontra São Pedro em Roma; Relato dos últimos anos de Simon.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1717,7 +1717,7 @@
               },
               {
                 "id": "anf05-3-4-107-123",
-                "titulo": "Chapter XVI.—Heresy of Valentinus; Derived from Plato and Pythagoras.",
+                "titulo": "Capítulo XVI. — Heresia de Valentino; Derivado de Platão e Pitágoras.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1728,7 +1728,7 @@
               },
               {
                 "id": "anf05-3-4-107-124",
-                "titulo": "Chapter XVII.—Origin of the Greek Philosophy.",
+                "titulo": "Capítulo XVII.—Origem da filosofia grega.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1739,7 +1739,7 @@
               },
               {
                 "id": "anf05-3-4-107-125",
-                "titulo": "Chapter XVIII.—Pythagoras’ System of Numbers.",
+                "titulo": "Capítulo XVIII. — Sistema de Números de Pitágoras.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1754,7 +1754,7 @@
               },
               {
                 "id": "anf05-3-4-107-126",
-                "titulo": "Chapter XIX.—Pythagoras’ Duality of Substances; His “Categories.”",
+                "titulo": "Capítulo XIX.—A Dualidade das Substâncias de Pitágoras; Suas “categorias”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1765,7 +1765,7 @@
               },
               {
                 "id": "anf05-3-4-107-127",
-                "titulo": "Chapter XX.—Pythagoras’ Cosmogony; Similar to that of Empedocles.",
+                "titulo": "Capítulo XX. — Cosmogonia de Pitágoras; Semelhante ao de Empédocles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1780,7 +1780,7 @@
               },
               {
                 "id": "anf05-3-4-107-128",
-                "titulo": "Chapter XXI.—Other Opinions of Pythagoras.",
+                "titulo": "Capítulo XXI.—Outras Opiniões de Pitágoras.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1791,7 +1791,7 @@
               },
               {
                 "id": "anf05-3-4-107-129",
-                "titulo": "Chapter XXII.—The “Sayings” Of Pythagoras.",
+                "titulo": "Capítulo XXII. — Os “Ditos” de Pitágoras.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1802,7 +1802,7 @@
               },
               {
                 "id": "anf05-3-4-107-130",
-                "titulo": "Chapter XXIII.—Pythagoras’ Astronomic System.",
+                "titulo": "Capítulo XXIII.—Sistema Astronômico de Pitágoras.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1813,7 +1813,7 @@
               },
               {
                 "id": "anf05-3-4-107-131",
-                "titulo": "Chapter XXIV.—Valentinus Convicted of Plagiarisms from the Platonic and Pythagoric Philosophy; The Valentinian Theory of Emanation by Duads.",
+                "titulo": "Capítulo XXIV.—Valentinus condenado por plágios da filosofia platônica e pitagórica; A Teoria Valentiniana da Emanação de Duads.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1824,7 +1824,7 @@
               },
               {
                 "id": "anf05-3-4-107-132",
-                "titulo": "Chapter XXV.—The Tenet of the Duad Made the Foundation of Valentinus’ System of the Emanation of Æons.",
+                "titulo": "Capítulo XXV.—O Princípio da Dúada constituiu a base do Sistema de Emanação de Æons de Valentinus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1835,7 +1835,7 @@
               },
               {
                 "id": "anf05-3-4-107-133",
-                "titulo": "Chapter XXVI.—Valentinus’ Explanation of the Existence of Christ and the Spirit.",
+                "titulo": "Capítulo XXVI. — Explicação de Valentino sobre a existência de Cristo e do Espírito.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1850,7 +1850,7 @@
               },
               {
                 "id": "anf05-3-4-107-134",
-                "titulo": "Chapter XXVII.—Valentinus’ Explanation of the Existence of Jesus; Power of Jesus Over Humanity.",
+                "titulo": "Capítulo XXVII. — Explicação de Valentinus sobre a existência de Jesus; Poder de Jesus sobre a humanidade.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1865,7 +1865,7 @@
               },
               {
                 "id": "anf05-3-4-107-135",
-                "titulo": "Chapter XXVIII.—The Valentinian Origin of the Creation.",
+                "titulo": "Capítulo XXVIII.—A Origem Valentiniana da Criação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1876,7 +1876,7 @@
               },
               {
                 "id": "anf05-3-4-107-136",
-                "titulo": "Chapter XXIX.—The Other Valentinian Emanations in Conformity with the Pythagorean System of Numbers.",
+                "titulo": "Capítulo XXIX. — As outras emanações valentinianas em conformidade com o sistema pitagórico de números.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1891,7 +1891,7 @@
               },
               {
                 "id": "anf05-3-4-107-137",
-                "titulo": "Chapter XXX.—Valentinus’ Explanation of the Birth of Jesus; Twofold Doctrine on the Nature of Jesus’ Body; Opinion of the Italians, that Is, Heracleon and Ptolemæus; Opinion of the Orientals, that Is, Axionicus and Bardesanes.",
+                "titulo": "Capítulo XXX. — Explicação de Valentino sobre o nascimento de Jesus; Twofold Doctrine on the Nature of Jesus’ Body; Opinião dos italianos, isto é, Heracleão e Ptolemaeus; Opinião dos Orientais, isto é, Axionicus e Bardesanes.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1906,7 +1906,7 @@
               },
               {
                 "id": "anf05-3-4-107-138",
-                "titulo": "Chapter XXXI.—Further Doctrines of Valentinus Respecting the Æons; Reasons for the Incarnation.",
+                "titulo": "Capítulo XXXI. — Outras Doutrinas de Valentinus Respeitando os Æons; Razões da Encarnação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1917,7 +1917,7 @@
               },
               {
                 "id": "anf05-3-4-107-139",
-                "titulo": "Chapter XXXII.—Valentinus Convicted of Plagiarisms from Plato.",
+                "titulo": "Capítulo XXXII.—Valentinus condenado por plágio de Platão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1932,7 +1932,7 @@
               },
               {
                 "id": "anf05-3-4-107-140",
-                "titulo": "Chapter XXXIII.—Secundus’ System of Æons; Epiphanes; Ptolemæus.",
+                "titulo": "Capítulo XXXIII.—Sistema de Æons de Secundus; Epifânio; Ptolomeu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1947,7 +1947,7 @@
               },
               {
                 "id": "anf05-3-4-107-141",
-                "titulo": "Chapter XXXIV.—System of Marcus; A Mere Impostor; His Wicked Devices Upon the Eucharistic Cup.",
+                "titulo": "Capítulo XXXIV.—Sistema de Marcus; Um mero impostor; Seus dispositivos perversos na taça eucarística.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1958,7 +1958,7 @@
               },
               {
                 "id": "anf05-3-4-107-142",
-                "titulo": "Chapter XXXV.—Further Acts of Jugglery on the Part of Marcus.",
+                "titulo": "Capítulo XXXV. — Outros atos de malabarismo por parte de Marcus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1969,7 +1969,7 @@
               },
               {
                 "id": "anf05-3-4-107-143",
-                "titulo": "Chapter XXXVI.—The Heretical Practices of the Marcites in Regard of Baptism.",
+                "titulo": "Capítulo XXXVI. — As práticas heréticas dos marcites em relação ao batismo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1980,7 +1980,7 @@
               },
               {
                 "id": "anf05-3-4-107-144",
-                "titulo": "Chapter XXXVII.—Marcus’ System Explained by Irenæus; Marcus’ Vision; The Vision of Valentinus Revealing to Him His System.",
+                "titulo": "Capítulo XXXVII. - Sistema de Marco explicado por Irineu; Visão de Marcus; A visão de Valentino revelando-lhe seu sistema.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1995,7 +1995,7 @@
               },
               {
                 "id": "anf05-3-4-107-145",
-                "titulo": "Chapter XXXVIII.—Marcus’ System of Letters.",
+                "titulo": "Capítulo XXXVIII.—Sistema de Letras de Marcus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2006,7 +2006,7 @@
               },
               {
                 "id": "anf05-3-4-107-146",
-                "titulo": "Chapter XXXIX.—The Quaternion Exhibits “Truth.”",
+                "titulo": "Capítulo XXXIX. - O Quaternion exibe a “verdade”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2017,7 +2017,7 @@
               },
               {
                 "id": "anf05-3-4-107-147",
-                "titulo": "Chapter XL.—The Name of Christ Jesus.",
+                "titulo": "Capítulo XL. - O Nome de Cristo Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2028,7 +2028,7 @@
               },
               {
                 "id": "anf05-3-4-107-148",
-                "titulo": "Chapter XLI.—Marcus’ Mystic Interpretation of the Alphabet.",
+                "titulo": "Capítulo XLI. - Interpretação Mística do Alfabeto de Marcus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2039,7 +2039,7 @@
               },
               {
                 "id": "anf05-3-4-107-149",
-                "titulo": "Chapter XLII.—His System Applied to Explain Our Lord’s Life and Death.",
+                "titulo": "Capítulo XLII. - Seu sistema aplicado para explicar a vida e a morte de Nosso Senhor.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2050,7 +2050,7 @@
               },
               {
                 "id": "anf05-3-4-107-150",
-                "titulo": "Chapter XLIII—Letters, Symbols of the Heavens.",
+                "titulo": "Capítulo XLIII — Letras, Símbolos dos Céus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2061,7 +2061,7 @@
               },
               {
                 "id": "anf05-3-4-107-151",
-                "titulo": "Chapter XLIV.—Respecting the Generation of the Twenty-Four Letters.",
+                "titulo": "Capítulo XLIV.—Respeitando a Geração das Vinte e Quatro Cartas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2072,7 +2072,7 @@
               },
               {
                 "id": "anf05-3-4-107-152",
-                "titulo": "Chapter XLV.—Why Jesus is Called Alpha.",
+                "titulo": "Capítulo XLV. — Por que Jesus é chamado de Alfa.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2083,7 +2083,7 @@
               },
               {
                 "id": "anf05-3-4-107-153",
-                "titulo": "Chapter XLVI.—Marcus’ Account of the Birth and Life of Our Lord.",
+                "titulo": "Capítulo XLVI. — Relato de Marco sobre o nascimento e a vida de Nosso Senhor.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2094,7 +2094,7 @@
               },
               {
                 "id": "anf05-3-4-107-154",
-                "titulo": "Chapter XLVII.—The System of Marcus Shown to Be that of Pythagoras, by Quotations from the Writings of Marcus’ Followers.",
+                "titulo": "Capítulo XLVII. — O sistema de Marco demonstrado ser o de Pitágoras, por meio de citações dos escritos dos seguidores de Marco.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2109,7 +2109,7 @@
               },
               {
                 "id": "anf05-3-4-107-155",
-                "titulo": "Chapter XLVIII.—Their Cosmogony Framed According to These Mystic Doctrines of Letters.",
+                "titulo": "Capítulo XLVIII. — Sua cosmogonia enquadrada de acordo com essas doutrinas místicas das letras.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2120,7 +2120,7 @@
               },
               {
                 "id": "anf05-3-4-107-156",
-                "titulo": "Chapter XLIX.—The Work of the Demiurge Perishable.",
+                "titulo": "Capítulo XLIX. — A Obra do Demiurgo Perecível.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2131,7 +2131,7 @@
               },
               {
                 "id": "anf05-3-4-107-157",
-                "titulo": "Chapter L.—Marcus and Colarbasus Refuted by Irenæus.",
+                "titulo": "Capítulo L.—Marco e Colarbaso refutados por Irineu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2144,11 +2144,11 @@
           },
           {
             "id": "anf05-3-4-158",
-            "titulo": "Book VII.",
+            "titulo": "Livro VII.",
             "children": [
               {
                 "id": "anf05-3-4-158-159",
-                "titulo": "Chapter I.—Heresy Compared to (1) the Stormy Ocean, (2) the Rocks of the Sirens; Moral from Ulysses and the Sirens.",
+                "titulo": "Capítulo I. — Heresia comparada a (1) o oceano tempestuoso, (2) as rochas das sereias; Moral de Ulisses e as Sereias.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2159,7 +2159,7 @@
               },
               {
                 "id": "anf05-3-4-158-160",
-                "titulo": "Chapter II.—The System of Basilides Derived from Aristotle.",
+                "titulo": "Capítulo II.—O sistema de Basilides derivado de Aristóteles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2170,7 +2170,7 @@
               },
               {
                 "id": "anf05-3-4-158-161",
-                "titulo": "Chapter III.—Sketch of Aristotle’s Philosophy.",
+                "titulo": "Capítulo III. — Esboço da filosofia de Aristóteles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2181,7 +2181,7 @@
               },
               {
                 "id": "anf05-3-4-158-162",
-                "titulo": "Chapter IV.—Aristotle’s General Idea.",
+                "titulo": "Capítulo IV. — A Ideia Geral de Aristóteles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2192,7 +2192,7 @@
               },
               {
                 "id": "anf05-3-4-158-163",
-                "titulo": "Chapter V.—Nonentity as a Cause.",
+                "titulo": "Capítulo V. — A nulidade como causa.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2203,7 +2203,7 @@
               },
               {
                 "id": "anf05-3-4-158-164",
-                "titulo": "Chapter VI.—Substance, According to Aristotle; The Predicates.",
+                "titulo": "Capítulo VI. — Substância, segundo Aristóteles; Os Predicados.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2218,7 +2218,7 @@
               },
               {
                 "id": "anf05-3-4-158-165",
-                "titulo": "Chapter VII.—Aristotle’s Cosmogony; His “Psychology;” His “Entelecheia;” His Theology; His Ethics; Basilides Follows Aristotle.",
+                "titulo": "Capítulo VII. — Cosmogonia de Aristóteles; Sua “Psicologia”; Sua “Enteléquia”; Sua Teologia; Sua Ética; Basilides segue Aristóteles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2233,7 +2233,7 @@
               },
               {
                 "id": "anf05-3-4-158-166",
-                "titulo": "Chapter VIII.—Basilides and Isidorus Allege Apostolic Sanction for Their Systems; They Really Follow Aristotle.",
+                "titulo": "Capítulo VIII. — Basilides e Isidoro alegam sanção apostólica para seus sistemas; Eles realmente seguem Aristóteles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2244,7 +2244,7 @@
               },
               {
                 "id": "anf05-3-4-158-167",
-                "titulo": "Chapter IX.—Basilides Adopts the Aristotelian Doctrine of “Nonentity.”",
+                "titulo": "Capítulo IX. - Basilides adota a doutrina aristotélica da “não-entidade”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2255,7 +2255,7 @@
               },
               {
                 "id": "anf05-3-4-158-168",
-                "titulo": "Chapter X.—Origin of the World; Basilides’ Account of the “Sonship.”",
+                "titulo": "Capítulo X. — Origem do Mundo; O relato de Basilides sobre a “filiação”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2278,7 +2278,7 @@
               },
               {
                 "id": "anf05-3-4-158-169",
-                "titulo": "Chapter XI.—The “Great Archon” Of Basilides.",
+                "titulo": "Capítulo XI.—O “Grande Arconte” de Basilides.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2289,7 +2289,7 @@
               },
               {
                 "id": "anf05-3-4-158-170",
-                "titulo": "Chapter XII.—Basilides Adopts the “Entelecheia” Of Aristotle.",
+                "titulo": "Capítulo XII. — Basilides adota a “Enteléquia” de Aristóteles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2300,7 +2300,7 @@
               },
               {
                 "id": "anf05-3-4-158-171",
-                "titulo": "Chapter XIII.—Further Explanation of the “Sonship.”",
+                "titulo": "Capítulo XIII. - Explicação adicional da “Filiação”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2311,7 +2311,7 @@
               },
               {
                 "id": "anf05-3-4-158-172",
-                "titulo": "Chapter XIV.—Whence Came the Gospel; The Number of Heavens According to Basilides; Explanation of Christ’s Miraculous Conception.",
+                "titulo": "Capítulo XIV. — De onde veio o Evangelho; O Número dos Céus Segundo Basilides; Explicação da concepção milagrosa de Cristo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2326,7 +2326,7 @@
               },
               {
                 "id": "anf05-3-4-158-173",
-                "titulo": "Chapter XV.—God’s Dealings with the Creature; Basilides’ Notion of (1) the Inner Man, (2) the Gospel; His Interpretation of the Life and Sufferings of Our Lord.",
+                "titulo": "Capítulo XV. — O trato de Deus com a criatura; A noção de Basilides de (1) o Homem Interior, (2) o Evangelho; Sua interpretação da vida e dos sofrimentos de Nosso Senhor.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2341,7 +2341,7 @@
               },
               {
                 "id": "anf05-3-4-158-174",
-                "titulo": "Chapter XVI.—The System of Saturnilus.",
+                "titulo": "Capítulo XVI. — O Sistema de Saturnilus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2352,7 +2352,7 @@
               },
               {
                 "id": "anf05-3-4-158-175",
-                "titulo": "Chapter XVII.—Marcion; His Dualism; Derives His System from Empedocles; Sketch of the Doctrine of Empedocles.",
+                "titulo": "Capítulo XVII.-Marcion; Seu Dualismo; Deriva seu sistema de Empédocles; Esboço da Doutrina de Empédocles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2415,7 +2415,7 @@
               },
               {
                 "id": "anf05-3-4-158-176",
-                "titulo": "Chapter XVIII.—Source of Marcionism; Empedocles Reasserted as the Suggester of the Heresy.",
+                "titulo": "Capítulo XVIII.—Fonte do Marcionismo; Empédocles reafirmado como o sugeridor da heresia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2426,7 +2426,7 @@
               },
               {
                 "id": "anf05-3-4-158-177",
-                "titulo": "Chapter XIX.—The Heresy of Prepon; Follows Empedocles; Marcion Rejects the Generation of the Saviour.",
+                "titulo": "Capítulo XIX. — A Heresia de Prepon; Segue Empédocles; Marcion rejeita a geração do Salvador.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2441,7 +2441,7 @@
               },
               {
                 "id": "anf05-3-4-158-178",
-                "titulo": "Chapter XX.—The Heresy of Carpocrates; Wicked Doctrines Concerning Jesus Christ; Practise Magical Arts; Adopt a Metempsychosis.",
+                "titulo": "Capítulo XX. — A Heresia de Carpócrates; Doutrinas Perversas a Respeito de Jesus Cristo; Praticar Artes Mágicas; Adote uma Metempsicose.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2456,7 +2456,7 @@
               },
               {
                 "id": "anf05-3-4-158-179",
-                "titulo": "Chapter XXI.—The System of Cerinthus Concerning Christ.",
+                "titulo": "Capítulo XXI.—O sistema de Cerinto a respeito de Cristo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2467,7 +2467,7 @@
               },
               {
                 "id": "anf05-3-4-158-180",
-                "titulo": "Chapter XXII.—Doctrine of the Ebionæans.",
+                "titulo": "Capítulo XXII. — Doutrina dos Ebionæans.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2489,7 +2489,7 @@
               },
               {
                 "id": "anf05-3-4-158-182",
-                "titulo": "Chapter XXIV.—The Melchisedecians; The Nicolaitans.",
+                "titulo": "Capítulo XXIV. — Os Melquisedeques; Os nicolaítas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2504,7 +2504,7 @@
               },
               {
                 "id": "anf05-3-4-158-183",
-                "titulo": "Chapter XXV.—The Heresy of Cerdon.",
+                "titulo": "Capítulo XXV. — A Heresia de Cerdon.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2515,7 +2515,7 @@
               },
               {
                 "id": "anf05-3-4-158-184",
-                "titulo": "Chapter XXVI.—The Doctrines of Apelles; Philumene, His Prophetess.",
+                "titulo": "Capítulo XXVI. — As Doutrinas de Apeles; Filumene, sua profetisa.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2532,11 +2532,11 @@
           },
           {
             "id": "anf05-3-4-185",
-            "titulo": "Book VIII.903",
+            "titulo": "Livro VIII.903",
             "children": [
               {
                 "id": "anf05-3-4-185-186",
-                "titulo": "Chapter I.—Heresies Hitherto Refuted; Opinions of the Docetæ.",
+                "titulo": "Capítulo I. — Heresias até agora refutadas; Pareceres da Docetæ.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2551,7 +2551,7 @@
               },
               {
                 "id": "anf05-3-4-185-187",
-                "titulo": "Chapter II.—Docetic Notion of the Incarnation; Their Doctrines of Æons; Their Account of Creation; Their Notion of a Fiery God.",
+                "titulo": "Capítulo II.—Noção Docetética da Encarnação; Their Doctrines of Æons; Seu relato da criação; Sua noção de um Deus de fogo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2566,7 +2566,7 @@
               },
               {
                 "id": "anf05-3-4-185-188",
-                "titulo": "Chapter III.—Christ Undoes the Work of the Demiurge; Docetic Account of the Baptism and Death of Jesus; Why He Lived for Thirty Years on Earth.",
+                "titulo": "Capítulo III. — Cristo desfaz a obra do Demiurgo; Relato Docético do Batismo e Morte de Jesus; Por que ele viveu trinta anos na Terra.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2581,7 +2581,7 @@
               },
               {
                 "id": "anf05-3-4-185-189",
-                "titulo": "Chapter IV.—Docetic Doctrine Derived from the Greek Sophists.",
+                "titulo": "Capítulo IV. — Doutrina Docetica Derivada dos Sofistas Gregos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2592,7 +2592,7 @@
               },
               {
                 "id": "anf05-3-4-185-190",
-                "titulo": "Chapter V.—Monoïmus; Man the Universe, According to Monoïmus; His System of the Monad.",
+                "titulo": "Capítulo V.—Monoïmus; Homem, o Universo, segundo Monoïmus; Seu Sistema da Mônada.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2607,7 +2607,7 @@
               },
               {
                 "id": "anf05-3-4-185-191",
-                "titulo": "Chapter VI.—Monoïmus’ “Iota;” His Notion of the “Son of Man.”",
+                "titulo": "Capítulo VI. - “Iota” de Monoïmus; Sua noção do “Filho do Homem”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2618,7 +2618,7 @@
               },
               {
                 "id": "anf05-3-4-185-192",
-                "titulo": "Chapter VII.—Monoïmus on the Sabbath; Allegorizes the Rod of Moses; Notion Concerning the Decalogue.",
+                "titulo": "Capítulo VII.—Monoïmus no sábado; Alegoriza a Vara de Moisés; Noção sobre o Decálogo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2629,7 +2629,7 @@
               },
               {
                 "id": "anf05-3-4-185-193",
-                "titulo": "Chapter VIII.—Monoïmus Explains His Opinions in a Letter to Theophrastus; Where to Find God; His System Derived from Pythagoras.",
+                "titulo": "Capítulo VIII. — Monoïmus explica suas opiniões em uma carta a Teofrasto; Onde encontrar Deus; Seu sistema derivou de Pitágoras.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2640,7 +2640,7 @@
               },
               {
                 "id": "anf05-3-4-185-194",
-                "titulo": "Chapter IX.—Tatian.",
+                "titulo": "Capítulo IX.-Taciano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2651,7 +2651,7 @@
               },
               {
                 "id": "anf05-3-4-185-195",
-                "titulo": "Chapter X.—Hermogenes; Adopts the Socratic Philosophy; His Notion Concerning the Birth and Body of Our Lord.",
+                "titulo": "Capítulo X. - Hermógenes; Adota a Filosofia Socrática; Sua noção sobre o nascimento e corpo de Nosso Senhor.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2662,7 +2662,7 @@
               },
               {
                 "id": "anf05-3-4-185-196",
-                "titulo": "Chapter XI.—The Quartodecimans.",
+                "titulo": "Capítulo XI. — Os Quartodecimanos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2673,7 +2673,7 @@
               },
               {
                 "id": "anf05-3-4-185-197",
-                "titulo": "Chapter XII.—The Montanists; Priscilla and Maximilla Their Prophetesses; Some of Them Noetians.",
+                "titulo": "Capítulo XII. — Os Montanistas; Priscila e Maximila, suas profetisas; Alguns deles Noetianos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2684,7 +2684,7 @@
               },
               {
                 "id": "anf05-3-4-185-198",
-                "titulo": "Chapter XIII.—The Doctrines of the Encratites.950",
+                "titulo": "Capítulo XIII. - As Doutrinas dos Encratitas.950",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2697,11 +2697,11 @@
           },
           {
             "id": "anf05-3-4-199",
-            "titulo": "Book IX.",
+            "titulo": "Livro IX.",
             "children": [
               {
                 "id": "anf05-3-4-199-200",
-                "titulo": "Chapter I.—An Account of Contemporaneous Heresy.957",
+                "titulo": "Capítulo I. — Um Relato da Heresia Contemporânea.957",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2712,7 +2712,7 @@
               },
               {
                 "id": "anf05-3-4-199-201",
-                "titulo": "Chapter II.—Source of the Heresy of Noetus; Cleomenes His Disciple; Its Appearance at Rome During the Episcopates of Zephyrinus and Callistus; Noetianism Opposed at Rome by Hippolytus.",
+                "titulo": "Capítulo II. — Fonte da Heresia de Noeto; Cleomenes, seu discípulo; Seu aparecimento em Roma durante os episcopados de Zefirino e Calisto; Noetianismo contestado em Roma por Hipólito.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2723,7 +2723,7 @@
               },
               {
                 "id": "anf05-3-4-199-202",
-                "titulo": "Chapter III.—Noetianism an Offshoot from the Heraclitic Philosophy.",
+                "titulo": "Capítulo III. — Noetianismo, uma ramificação da filosofia heraclítica.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2734,7 +2734,7 @@
               },
               {
                 "id": "anf05-3-4-199-203",
-                "titulo": "Chapter IV.—An Account of the System of Heraclitus.",
+                "titulo": "Capítulo IV.—Um relato do sistema de Heráclito.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2745,7 +2745,7 @@
               },
               {
                 "id": "anf05-3-4-199-204",
-                "titulo": "Chapter V.—Heraclitus’ Estimate of Hesiod; Paradoxes of Heraclitus; His Eschatology; The Heresy of Noetus of Heraclitean Origin; Noetus’ View of the Birth and Passion of Our Lord.",
+                "titulo": "Capítulo V. — Estimativa de Heráclito sobre Hesíodo; Paradoxos de Heráclito; Sua Escatologia; A Heresia de Noeto de Origem Heraclitiana; A Visão de Noetus sobre o Nascimento e Paixão de Nosso Senhor.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2764,7 +2764,7 @@
               },
               {
                 "id": "anf05-3-4-199-205",
-                "titulo": "Chapter VI.—Conduct of Callistus and Zephyrinus in the Matter of Noetianism; Avowed Opinion of Zephyrinus Concerning Jesus Christ; Disapproval of Hippolytus; As a Contemporaneous Event, Hippolytus Competent to Explain It.",
+                "titulo": "Capítulo VI. — Conduta de Calisto e Zefirino em matéria de Noetianismo; Opinião declarada de Zefirino a respeito de Jesus Cristo; Desaprovação de Hipólito; Como acontecimento contemporâneo, Hipólito competente para explicá-lo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2779,7 +2779,7 @@
               },
               {
                 "id": "anf05-3-4-199-206",
-                "titulo": "Chapter VII.—The Personal History of Callistus; His Occupation as a Banker; Fraud on Carpophorus; Callistus Absconds; Attempted Suicide; Condemned to the Treadmill; Re-Condemnation by Order of the Prefect Fuscianus; Banished to Sardinia; Release of Callistus by the Interference Of Marcion; Callistus Arrives at Rome; Pope Victor Removes Callistus to Antium; Return of Callistus on Victor’s Death; Zephyrinus Friendly to Him; Callistus Accused by Sabellius; Hippolytus’ Account of the Opinions of Callistus; The Callistian School at Rome, and Its Practices; This Sect in Existence in Hippolytus’ Time.",
+                "titulo": "Capítulo VII.—A História Pessoal de Calisto; Sua ocupação como banqueiro; Fraude em Carpophorus; Calisto foge; Tentativa de Suicídio; Condenado à esteira; Recondenação por Ordem do Prefeito Fusciano; Banido para a Sardenha; Liberação de Calisto pela Interferência de Marcião; Calisto chega a Roma; Papa Victor remove Calisto para Antium; Retorno de Calisto após a morte de Victor; Zefirino amigável com ele; Calisto acusado por Sabellius; O relato de Hipólito sobre as opiniões de Calisto; A Escola Callistiana em Roma e suas práticas; Esta seita existia na época de Hipólito.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2810,7 +2810,7 @@
               },
               {
                 "id": "anf05-3-4-199-207",
-                "titulo": "Chapter VIII.—Sect of the Elchasaites; Hippolytus’ Opposition to It.",
+                "titulo": "Capítulo VIII. — Seita dos Elchasaítas; A oposição de Hipólito a isso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2825,7 +2825,7 @@
               },
               {
                 "id": "anf05-3-4-199-208",
-                "titulo": "Chapter IX.—Elchasai Derived His System from Pythagoras; Practised Incantations.",
+                "titulo": "Capítulo IX. — Elchasai derivou seu sistema de Pitágoras; Encantamentos praticados.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2836,7 +2836,7 @@
               },
               {
                 "id": "anf05-3-4-199-209",
-                "titulo": "Chapter X.—Elchasai’s Mode of Administering Baptism; Formularies.",
+                "titulo": "Capítulo X.—O Modo de Administrar o Batismo de Elchasai; Formulários.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2847,7 +2847,7 @@
               },
               {
                 "id": "anf05-3-4-199-210",
-                "titulo": "Chapter XI.—Precepts of Elchasai.",
+                "titulo": "Capítulo XI. — Preceitos de Elchasai.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2858,7 +2858,7 @@
               },
               {
                 "id": "anf05-3-4-199-211",
-                "titulo": "Chapter XII.—The Heresy of the Elchasaites a Derivative One.",
+                "titulo": "Capítulo XII. — A heresia dos Elchasaítas, uma heresia derivada.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2869,7 +2869,7 @@
               },
               {
                 "id": "anf05-3-4-199-212",
-                "titulo": "Chapter XIII.—The Jewish Sects.",
+                "titulo": "Capítulo XIII. — As seitas judaicas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2880,7 +2880,7 @@
               },
               {
                 "id": "anf05-3-4-199-213",
-                "titulo": "Chapter XIV.—The Tenets of the Esseni.",
+                "titulo": "Capítulo XIV. — Os princípios dos essênios.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2891,7 +2891,7 @@
               },
               {
                 "id": "anf05-3-4-199-214",
-                "titulo": "Chapter XV.—The Tenets of the Esseni Continued.",
+                "titulo": "Capítulo XV. — Continuação dos princípios dos essênios.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2902,7 +2902,7 @@
               },
               {
                 "id": "anf05-3-4-199-215",
-                "titulo": "Chapter XVI.—The Tenets of the Esseni Continued.",
+                "titulo": "Capítulo XVI. — Continuação dos princípios dos essênios.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2913,7 +2913,7 @@
               },
               {
                 "id": "anf05-3-4-199-216",
-                "titulo": "Chapter XVII.—The Tenets of the Esseni Continued.",
+                "titulo": "Capítulo XVII. — Continuação dos princípios dos essênios.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2924,7 +2924,7 @@
               },
               {
                 "id": "anf05-3-4-199-217",
-                "titulo": "Chapter XVIII.—The Tenets of the Esseni Continued.",
+                "titulo": "Capítulo XVIII. — Continuação dos princípios dos essênios.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2935,7 +2935,7 @@
               },
               {
                 "id": "anf05-3-4-199-218",
-                "titulo": "Chapter XIX.—The Tenets of the Esseni Continued.",
+                "titulo": "Capítulo XIX. — Continuação dos princípios dos essênios.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2946,7 +2946,7 @@
               },
               {
                 "id": "anf05-3-4-199-219",
-                "titulo": "Chapter XX.—The Tenets of the Esseni Concluded.",
+                "titulo": "Capítulo XX. — Concluídos os princípios dos essênios.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2957,7 +2957,7 @@
               },
               {
                 "id": "anf05-3-4-199-220",
-                "titulo": "Chapter XXI.—Different Sects of the Esseni.",
+                "titulo": "Capítulo XXI.—Diferentes Seitas dos Esseni.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2968,7 +2968,7 @@
               },
               {
                 "id": "anf05-3-4-199-221",
-                "titulo": "Chapter XXII.—Belief of the Esseni in the Resurrection; Their System a Suggestive One.",
+                "titulo": "Capítulo XXII. — A crença dos essênios na ressurreição; Seu sistema é sugestivo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2979,7 +2979,7 @@
               },
               {
                 "id": "anf05-3-4-199-222",
-                "titulo": "Chapter XXIII.—Another Sect of the Esseni: the Pharisees.",
+                "titulo": "Capítulo XXIII. — Outra seita dos essênios: os fariseus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2994,7 +2994,7 @@
               },
               {
                 "id": "anf05-3-4-199-223",
-                "titulo": "Chapter XXIV.—The Sadducees.",
+                "titulo": "Capítulo XXIV. - Os saduceus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3005,7 +3005,7 @@
               },
               {
                 "id": "anf05-3-4-199-224",
-                "titulo": "Chapter XXV.—The Jewish Religion.",
+                "titulo": "Capítulo XXV. — A Religião Judaica.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3020,7 +3020,7 @@
               },
               {
                 "id": "anf05-3-4-199-225",
-                "titulo": "Chapter XXVI.—Conclusion to the Work Explained.",
+                "titulo": "Capítulo XXVI.—Conclusão do Trabalho Explicada.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3033,11 +3033,11 @@
           },
           {
             "id": "anf05-3-4-226",
-            "titulo": "Book X.",
+            "titulo": "Livro X.",
             "children": [
               {
                 "id": "anf05-3-4-226-227",
-                "titulo": "Chapter I.—Recapitulation.",
+                "titulo": "Capítulo I. — Recapitulação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3048,7 +3048,7 @@
               },
               {
                 "id": "anf05-3-4-226-228",
-                "titulo": "Chapter II.—Summary of the Opinions of Philosophers.",
+                "titulo": "Capítulo II. — Resumo das opiniões dos filósofos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3059,7 +3059,7 @@
               },
               {
                 "id": "anf05-3-4-226-229",
-                "titulo": "Chapter III.—Summary of the Opinions of Philosophers Continued.",
+                "titulo": "Capítulo III.—Continuação do Resumo das Opiniões dos Filósofos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3078,7 +3078,7 @@
               },
               {
                 "id": "anf05-3-4-226-230",
-                "titulo": "Chapter IV.—Summary of the Opinions of Philosophers Continued.",
+                "titulo": "Capítulo IV.—Continuação do Resumo das Opiniões dos Filósofos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3089,7 +3089,7 @@
               },
               {
                 "id": "anf05-3-4-226-231",
-                "titulo": "Chapter V.—The Naasseni.",
+                "titulo": "Capítulo V. — Os Naasseni.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3100,7 +3100,7 @@
               },
               {
                 "id": "anf05-3-4-226-232",
-                "titulo": "Chapter VI.—The Peratæ.",
+                "titulo": "Capítulo VI. - O Peratæ.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3111,7 +3111,7 @@
               },
               {
                 "id": "anf05-3-4-226-233",
-                "titulo": "Chapter VII.—The Sethians.",
+                "titulo": "Capítulo VII. — Os setianos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3126,7 +3126,7 @@
               },
               {
                 "id": "anf05-3-4-226-234",
-                "titulo": "Chapter VIII.—Simon Magus.",
+                "titulo": "Capítulo VIII.—Simão Mago.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3137,7 +3137,7 @@
               },
               {
                 "id": "anf05-3-4-226-235",
-                "titulo": "Chapter IX.—Valentinus.",
+                "titulo": "Capítulo IX.-Valentinus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3148,7 +3148,7 @@
               },
               {
                 "id": "anf05-3-4-226-236",
-                "titulo": "Chapter X.—Basilides.",
+                "titulo": "Capítulo X. — Basilides.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3163,7 +3163,7 @@
               },
               {
                 "id": "anf05-3-4-226-237",
-                "titulo": "Chapter XI.—Justinus.",
+                "titulo": "Capítulo XI.-Justino.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3174,7 +3174,7 @@
               },
               {
                 "id": "anf05-3-4-226-238",
-                "titulo": "Chapter XII.—The Docetæ.",
+                "titulo": "Capítulo XII. — A Docetæ.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3185,7 +3185,7 @@
               },
               {
                 "id": "anf05-3-4-226-239",
-                "titulo": "Chapter XIII.—Monoïmus.",
+                "titulo": "Capítulo XIII.—Monoïmus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3196,7 +3196,7 @@
               },
               {
                 "id": "anf05-3-4-226-240",
-                "titulo": "Chapter XIV.—Tatian.",
+                "titulo": "Capítulo XIV.-Taciano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3207,7 +3207,7 @@
               },
               {
                 "id": "anf05-3-4-226-241",
-                "titulo": "Chapter XV.—Marcion and Cerdo.",
+                "titulo": "Capítulo XV.—Marcion e Cerdo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3218,7 +3218,7 @@
               },
               {
                 "id": "anf05-3-4-226-242",
-                "titulo": "Chapter XVI.—Apelles.",
+                "titulo": "Capítulo XVI.-Apeles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3229,7 +3229,7 @@
               },
               {
                 "id": "anf05-3-4-226-243",
-                "titulo": "Chapter XVII.—Cerinthus.",
+                "titulo": "Capítulo XVII.-Cerinto.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3240,7 +3240,7 @@
               },
               {
                 "id": "anf05-3-4-226-244",
-                "titulo": "Chapter XVIII.—The Ebionæans.",
+                "titulo": "Capítulo XVIII. — Os Ebionianos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3251,7 +3251,7 @@
               },
               {
                 "id": "anf05-3-4-226-245",
-                "titulo": "Chapter XIX.—Theodotus.1054",
+                "titulo": "Capítulo XIX.-Teódoto.1054",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3262,7 +3262,7 @@
               },
               {
                 "id": "anf05-3-4-226-246",
-                "titulo": "Chapter XX.—Melchisedecians.",
+                "titulo": "Capítulo XX.-Melquisedecianos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3273,7 +3273,7 @@
               },
               {
                 "id": "anf05-3-4-226-247",
-                "titulo": "Chapter XXI.—The Phrygians or Montanists.",
+                "titulo": "Capítulo XXI.—Os frígios ou montanistas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3284,7 +3284,7 @@
               },
               {
                 "id": "anf05-3-4-226-248",
-                "titulo": "Chapter XXII.—The Phrygians or Montanists Continued.",
+                "titulo": "Capítulo XXII. - Continuação dos frígios ou montanistas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3295,7 +3295,7 @@
               },
               {
                 "id": "anf05-3-4-226-249",
-                "titulo": "Chapter XXIII.—Noetus and Callistus.",
+                "titulo": "Capítulo XXIII. — Noeto e Calisto.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3310,7 +3310,7 @@
               },
               {
                 "id": "anf05-3-4-226-250",
-                "titulo": "Chapter XXIV.—Hermogenes.",
+                "titulo": "Capítulo XXIV.-Hermógenes.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3321,7 +3321,7 @@
               },
               {
                 "id": "anf05-3-4-226-251",
-                "titulo": "Chapter XXV.—The Elchasaites.",
+                "titulo": "Capítulo XXV. — Os Elchasaítas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3332,7 +3332,7 @@
               },
               {
                 "id": "anf05-3-4-226-252",
-                "titulo": "Chapter XXVI.—Jewish Chronology.",
+                "titulo": "Capítulo XXVI. — Cronologia Judaica.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3343,7 +3343,7 @@
               },
               {
                 "id": "anf05-3-4-226-253",
-                "titulo": "Chapter XXVII.—Jewish Chronology Continued.",
+                "titulo": "Capítulo XXVII. - Continuação da Cronologia Judaica.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3358,7 +3358,7 @@
               },
               {
                 "id": "anf05-3-4-226-254",
-                "titulo": "Chapter XXVIII.—The Doctrine of the Truth.",
+                "titulo": "Capítulo XXVIII. — A Doutrina da Verdade.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3369,7 +3369,7 @@
               },
               {
                 "id": "anf05-3-4-226-255",
-                "titulo": "Chapter XXIX.—The Doctrine of the Truth Continued.",
+                "titulo": "Capítulo XXIX. — A Doutrina da Verdade Continuada.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3392,7 +3392,7 @@
               },
               {
                 "id": "anf05-3-4-226-256",
-                "titulo": "Chapter XXX.—The Author’s Concluding Address.",
+                "titulo": "Capítulo XXX.—Discurso final do autor.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3407,7 +3407,7 @@
               },
               {
                 "id": "anf05-3-4-226-257",
-                "titulo": "Elucidations.",
+                "titulo": "Elucidações.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3594,7 +3594,7 @@
               },
               {
                 "id": "anf05-3-4-226-258",
-                "titulo": "General Note.",
+                "titulo": "Nota Geral.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3607,15 +3607,15 @@
           },
           {
             "id": "anf05-3-4-259",
-            "titulo": "The Extant Works and Fragments of Hippolytus.",
+            "titulo": "As obras e fragmentos existentes de Hipólito.",
             "children": [
               {
                 "id": "anf05-3-4-259-260",
-                "titulo": "Part I.—Exegetical.",
+                "titulo": "Parte I.—Exegético.",
                 "children": [
                   {
                     "id": "anf05-3-4-259-260-261",
-                    "titulo": "II. From the Commentary of the Holy Hippolytus of Rome Upon Genesis.1190",
+                    "titulo": "II. Do Comentário do Santo Hipólito de Roma sobre Gênesis.1190",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -3626,7 +3626,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-260-262",
-                    "titulo": "III. Quoted in Jerome, Epist. 36, ad Damasum, Num. xviii. (from Galland).",
+                    "titulo": "III. Citado em Jerônimo, Epist. 36, ad Damasum, Num. XVIII. (de Galland).",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -3881,7 +3881,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-260-263",
-                    "titulo": "On the Prophet Isaiah.1275",
+                    "titulo": "Sobre o Profeta Isaías.1275",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -3892,7 +3892,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-260-264",
-                    "titulo": "II. From the Discourse of St. Hippolytus on the beginning of Isaiah.1279",
+                    "titulo": "II. Do Discurso de São Hipólito no início de Isaías.1279",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -3922,7 +3922,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-260-266",
-                    "titulo": "On Daniel.",
+                    "titulo": "Em Daniel.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -3937,7 +3937,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-260-267",
-                    "titulo": "II. The interpretation by Hippolytus, (bishop) of Rome, of the visions of Daniel and Nebuchadnezzar, taken in conjunction.1294",
+                    "titulo": "II. A interpretação de Hipólito, (bispo) de Roma, das visões de Daniel e Nabucodonosor, tomadas em conjunto.1294",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -4367,7 +4367,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-260-269",
-                    "titulo": "IV.",
+                    "titulo": "4.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -4872,7 +4872,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-260-272",
-                    "titulo": "Section I.",
+                    "titulo": "Seção I.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -4891,7 +4891,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-260-273",
-                    "titulo": "Sections II., III.",
+                    "titulo": "Seções II., III.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -4966,7 +4966,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-260-274",
-                    "titulo": "Section IV. On Gen. vii. 6",
+                    "titulo": "Seção IV. Em Gen. vii. 6",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -5005,7 +5005,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-260-275",
-                    "titulo": "Section V.",
+                    "titulo": "Seção V.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -5036,7 +5036,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-260-276",
-                    "titulo": "Section X. On Deut. xxxiii. II",
+                    "titulo": "Seção X. Em Deut. xxxiii. II",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -5091,7 +5091,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-260-277",
-                    "titulo": "On the Psalms.1376",
+                    "titulo": "Nos Salmos.1376",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -5142,7 +5142,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-260-278",
-                    "titulo": "Other Fragments on the Psalms.1388",
+                    "titulo": "Outros fragmentos dos Salmos.1388",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -5172,7 +5172,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-260-280",
-                    "titulo": "IV.",
+                    "titulo": "4.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -5222,7 +5222,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-260-282",
-                    "titulo": "VI. On Psalm lxii. 6",
+                    "titulo": "VI. No Salmo lxii. 6",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -5325,7 +5325,7 @@
               },
               {
                 "id": "anf05-3-4-259-289",
-                "titulo": "Part II.—Dogmatical and Historical.",
+                "titulo": "Parte II.—Dogmática e Histórica.",
                 "children": [
                   {
                     "id": "anf05-3-4-259-289-290",
@@ -5608,7 +5608,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-289-291",
-                    "titulo": "Expository Treatise Against the Jews.",
+                    "titulo": "Tratado Expositivo Contra os Judeus.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -5659,7 +5659,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-289-292",
-                    "titulo": "Against Plato, on the Cause of the Universe.1579",
+                    "titulo": "Contra Platão, sobre a Causa do Universo.1579",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -5678,7 +5678,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-289-293",
-                    "titulo": "Against the Heresy of One Noetus.1603",
+                    "titulo": "Contra a Heresia de Um Noetus.1603",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -5757,7 +5757,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-289-294",
-                    "titulo": "Against Beron and Helix.",
+                    "titulo": "Contra Beron e Helix.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -5832,7 +5832,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-289-295",
-                    "titulo": "The Discourse on the Holy Theophany.",
+                    "titulo": "O Discurso sobre a Santa Teofania.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -5879,7 +5879,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-289-296",
-                    "titulo": "Fragments of Discourses or Homilies.",
+                    "titulo": "Fragmentos de Discursos ou Homilias.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -5894,7 +5894,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-289-297",
-                    "titulo": "II.1842 From the Discourse of St. Hippolytus, Bishop and Martyr, on the Divine Nature.1843",
+                    "titulo": "II.1842 Do Discurso de São Hipólito, Bispo e Mártir, sobre a Natureza Divina.1843",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -6036,7 +6036,7 @@
                   },
                   {
                     "id": "anf05-3-4-259-289-307",
-                    "titulo": "Fragments from Other Writings of Hippolytus.1864",
+                    "titulo": "Fragmentos de outros escritos de Hipólito.1864",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -6120,11 +6120,11 @@
           },
           {
             "id": "anf05-3-4-311",
-            "titulo": "Appendix to the Works of Hippolytus.",
+            "titulo": "Apêndice às Obras de Hipólito.",
             "children": [
               {
                 "id": "anf05-3-4-311-312",
-                "titulo": "I.",
+                "titulo": "eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6157,7 +6157,7 @@
               },
               {
                 "id": "anf05-3-4-311-315",
-                "titulo": "IV.",
+                "titulo": "4.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6454,7 +6454,7 @@
               },
               {
                 "id": "anf05-3-4-311-342",
-                "titulo": "XXXI.",
+                "titulo": "XXXII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6667,7 +6667,7 @@
               },
               {
                 "id": "anf05-3-4-311-361",
-                "titulo": "Hippolytus on the Twelve Apostles:",
+                "titulo": "Hipólito sobre os Doze Apóstolos:",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6730,7 +6730,7 @@
               },
               {
                 "id": "anf05-3-4-311-362",
-                "titulo": "The same Hippolytus on the Seventy Apostles.2027",
+                "titulo": "O mesmo Hipólito sobre os Setenta Apóstolos.2027",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7009,7 +7009,7 @@
               },
               {
                 "id": "anf05-3-4-311-363",
-                "titulo": "Heads of the Canons of Abulide or Hippolytus,",
+                "titulo": "Chefes dos Cânones de Abulide ou Hipólito,",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7172,7 +7172,7 @@
               },
               {
                 "id": "anf05-3-4-311-364",
-                "titulo": "Canons of the Church of Alexandria.",
+                "titulo": "Cânones da Igreja de Alexandria.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7343,7 +7343,7 @@
               },
               {
                 "id": "anf05-3-4-311-365",
-                "titulo": "Elucidations.",
+                "titulo": "Elucidações.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7374,11 +7374,11 @@
       },
       {
         "id": "anf05-3-366",
-        "titulo": "CYPRIAN.",
+        "titulo": "CIPRIANO.",
         "children": [
           {
             "id": "anf05-3-366-367",
-            "titulo": "Note by the American Editor.2095",
+            "titulo": "Nota do Editor Americano.2095",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7389,7 +7389,7 @@
           },
           {
             "id": "anf05-3-366-368",
-            "titulo": "The Life and Passion of Cyprian, Bishop and Martyr.",
+            "titulo": "A Vida e Paixão de Cipriano, Bispo e Mártir.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7476,11 +7476,11 @@
           },
           {
             "id": "anf05-3-366-369",
-            "titulo": "The Epistles of Cyprian.",
+            "titulo": "As Epístolas de Cipriano.",
             "children": [
               {
                 "id": "anf05-3-366-369-370",
-                "titulo": "Epistle I.2112",
+                "titulo": "Epístola I.2112",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7559,7 +7559,7 @@
               },
               {
                 "id": "anf05-3-366-369-371",
-                "titulo": "Epistle II.2127",
+                "titulo": "Epístola II.2127",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7586,7 +7586,7 @@
               },
               {
                 "id": "anf05-3-366-369-372",
-                "titulo": "Epistle III.2137",
+                "titulo": "Epístola III.2137",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7609,7 +7609,7 @@
               },
               {
                 "id": "anf05-3-366-369-373",
-                "titulo": "Epistle IV.2140",
+                "titulo": "Epístola IV.2140",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7632,7 +7632,7 @@
               },
               {
                 "id": "anf05-3-366-369-374",
-                "titulo": "Epistle V.2143",
+                "titulo": "Epístola V.2143",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7663,7 +7663,7 @@
               },
               {
                 "id": "anf05-3-366-369-375",
-                "titulo": "Epistle VI.2154",
+                "titulo": "Epístola VI.2154",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7702,7 +7702,7 @@
               },
               {
                 "id": "anf05-3-366-369-376",
-                "titulo": "Epistle VII.2175",
+                "titulo": "Epístola VII.2175",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7745,7 +7745,7 @@
               },
               {
                 "id": "anf05-3-366-369-377",
-                "titulo": "Epistle VIII.2197",
+                "titulo": "Epístola VIII.2197",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7764,7 +7764,7 @@
               },
               {
                 "id": "anf05-3-366-369-378",
-                "titulo": "Epistle IX.2208",
+                "titulo": "Epístola IX.2208",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7795,7 +7795,7 @@
               },
               {
                 "id": "anf05-3-366-369-379",
-                "titulo": "Epistle X.2218",
+                "titulo": "Epístola X.2218",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7826,7 +7826,7 @@
               },
               {
                 "id": "anf05-3-366-369-380",
-                "titulo": "Epistle XI.2224",
+                "titulo": "Epístola XI.2224",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7853,7 +7853,7 @@
               },
               {
                 "id": "anf05-3-366-369-381",
-                "titulo": "Epistle XII.2230",
+                "titulo": "Epístola XII.2230",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7876,7 +7876,7 @@
               },
               {
                 "id": "anf05-3-366-369-382",
-                "titulo": "Epistle XIII.2235",
+                "titulo": "Epístola XIII.2235",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7899,7 +7899,7 @@
               },
               {
                 "id": "anf05-3-366-369-383",
-                "titulo": "Epistle XIV.2240",
+                "titulo": "Epístola XIV.2240",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7926,7 +7926,7 @@
               },
               {
                 "id": "anf05-3-366-369-384",
-                "titulo": "Epistle XV.2244",
+                "titulo": "Epístola XV.2244",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7957,7 +7957,7 @@
               },
               {
                 "id": "anf05-3-366-369-385",
-                "titulo": "Epistle XVI.2247",
+                "titulo": "Epístola XVI.2247",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7976,7 +7976,7 @@
               },
               {
                 "id": "anf05-3-366-369-386",
-                "titulo": "Epistle XVII.2249",
+                "titulo": "Epístola XVII.2249",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7995,7 +7995,7 @@
               },
               {
                 "id": "anf05-3-366-369-387",
-                "titulo": "Epistle XVIII.2253",
+                "titulo": "Epístola XVIII.2253",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8014,7 +8014,7 @@
               },
               {
                 "id": "anf05-3-366-369-388",
-                "titulo": "Epistle XIX.2259",
+                "titulo": "Epístola XIX.2259",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8033,7 +8033,7 @@
               },
               {
                 "id": "anf05-3-366-369-389",
-                "titulo": "Epistle XX.2262",
+                "titulo": "Epístola XX.2262",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8064,7 +8064,7 @@
               },
               {
                 "id": "anf05-3-366-369-390",
-                "titulo": "Epistle XXI.2273",
+                "titulo": "Epístola XXI.2273",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8091,7 +8091,7 @@
               },
               {
                 "id": "anf05-3-366-369-391",
-                "titulo": "Epistle XXII.2280",
+                "titulo": "Epístola XXII.2280",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8122,7 +8122,7 @@
               },
               {
                 "id": "anf05-3-366-369-392",
-                "titulo": "Epistle XXIII.2284",
+                "titulo": "Epístola XXIII.2284",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8141,7 +8141,7 @@
               },
               {
                 "id": "anf05-3-366-369-393",
-                "titulo": "Epistle XXIV.2286",
+                "titulo": "Epístola XXIV.2286",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8164,7 +8164,7 @@
               },
               {
                 "id": "anf05-3-366-369-394",
-                "titulo": "Epistle XXV.2290",
+                "titulo": "Epístola XXV.2290",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8207,7 +8207,7 @@
               },
               {
                 "id": "anf05-3-366-369-395",
-                "titulo": "Epistle XXVI.2309",
+                "titulo": "Epístola XXVI.2309",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8230,7 +8230,7 @@
               },
               {
                 "id": "anf05-3-366-369-396",
-                "titulo": "Epistle XXVII.2315",
+                "titulo": "Epístola XXVII.2315",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8257,7 +8257,7 @@
               },
               {
                 "id": "anf05-3-366-369-397",
-                "titulo": "Epistle XXVIII.2324",
+                "titulo": "Epístola XXVIII.2324",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8276,7 +8276,7 @@
               },
               {
                 "id": "anf05-3-366-369-398",
-                "titulo": "Epistle XXIX.2325",
+                "titulo": "Epístola XXIX.2325",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8307,7 +8307,7 @@
               },
               {
                 "id": "anf05-3-366-369-399",
-                "titulo": "Epistle XXX.2330",
+                "titulo": "Epístola XXX.2330",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8354,7 +8354,7 @@
               },
               {
                 "id": "anf05-3-366-369-400",
-                "titulo": "Epistle XXXI.2353",
+                "titulo": "Epístola XXXI.2353",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8373,7 +8373,7 @@
               },
               {
                 "id": "anf05-3-366-369-401",
-                "titulo": "Epistle XXXII.2356",
+                "titulo": "Epístola XXXII.2356",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8392,7 +8392,7 @@
               },
               {
                 "id": "anf05-3-366-369-402",
-                "titulo": "Epistle XXXIII.2360",
+                "titulo": "Epístola XXXIII.2360",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8427,7 +8427,7 @@
               },
               {
                 "id": "anf05-3-366-369-403",
-                "titulo": "Epistle XXXIV.2368",
+                "titulo": "Epístola XXXIV.2368",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8446,7 +8446,7 @@
               },
               {
                 "id": "anf05-3-366-369-404",
-                "titulo": "Epistle XXXV.2371",
+                "titulo": "Epístola XXXV.2371",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8465,7 +8465,7 @@
               },
               {
                 "id": "anf05-3-366-369-405",
-                "titulo": "Epistle XXXVI.2373",
+                "titulo": "Epístola XXXVI.2373",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8488,7 +8488,7 @@
               },
               {
                 "id": "anf05-3-366-369-406",
-                "titulo": "Epistle XXXVII.2378",
+                "titulo": "Epístola XXXVII.2378",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8511,7 +8511,7 @@
               },
               {
                 "id": "anf05-3-366-369-407",
-                "titulo": "Epistle XXXVIII.2381",
+                "titulo": "Epístola XXXVIII.2381",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8530,7 +8530,7 @@
               },
               {
                 "id": "anf05-3-366-369-408",
-                "titulo": "Epistle XXXIX.2385",
+                "titulo": "Epístola XXXIX.2385",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8573,7 +8573,7 @@
               },
               {
                 "id": "anf05-3-366-369-409",
-                "titulo": "Epistle XL.2401",
+                "titulo": "Epístola XL.2401",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8596,7 +8596,7 @@
               },
               {
                 "id": "anf05-3-366-369-410",
-                "titulo": "Epistle XLI.2408",
+                "titulo": "Epístola XLI.2408",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8627,7 +8627,7 @@
               },
               {
                 "id": "anf05-3-366-369-411",
-                "titulo": "Epistle XLII.2418",
+                "titulo": "Epístola XLII.2418",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8646,7 +8646,7 @@
               },
               {
                 "id": "anf05-3-366-369-412",
-                "titulo": "Epistle XLIII.2420",
+                "titulo": "Epístola XLIII.2420",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8665,7 +8665,7 @@
               },
               {
                 "id": "anf05-3-366-369-413",
-                "titulo": "Epistle XLIV.2422",
+                "titulo": "Epístola XLIV.2422",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8696,7 +8696,7 @@
               },
               {
                 "id": "anf05-3-366-369-414",
-                "titulo": "Epistle XLV.2424",
+                "titulo": "Epístola XLV.2424",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8723,7 +8723,7 @@
               },
               {
                 "id": "anf05-3-366-369-415",
-                "titulo": "Epistle XLVI.2432",
+                "titulo": "Epístola XLVI.2432",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8746,7 +8746,7 @@
               },
               {
                 "id": "anf05-3-366-369-416",
-                "titulo": "Epistle XLVII.2436",
+                "titulo": "Epístola XLVII.2436",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8765,7 +8765,7 @@
               },
               {
                 "id": "anf05-3-366-369-417",
-                "titulo": "Epistle XLVIII.2438",
+                "titulo": "Epístola XLVIII.2438",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8796,7 +8796,7 @@
               },
               {
                 "id": "anf05-3-366-369-418",
-                "titulo": "Epistle XLIX.2444",
+                "titulo": "Epístola XLIX.2444",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8815,7 +8815,7 @@
               },
               {
                 "id": "anf05-3-366-369-419",
-                "titulo": "Epistle L.2446",
+                "titulo": "Epístola L.2446",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8846,7 +8846,7 @@
               },
               {
                 "id": "anf05-3-366-369-420",
-                "titulo": "Epistle LI.2450",
+                "titulo": "Epístola LI.2450",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8977,7 +8977,7 @@
               },
               {
                 "id": "anf05-3-366-369-421",
-                "titulo": "Epistle LII.2511",
+                "titulo": "Epístola LII.2511",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9004,7 +9004,7 @@
               },
               {
                 "id": "anf05-3-366-369-422",
-                "titulo": "Epistle LIII.2514",
+                "titulo": "Epístola LIII.2514",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9043,7 +9043,7 @@
               },
               {
                 "id": "anf05-3-366-369-423",
-                "titulo": "Epistle LIV.2522",
+                "titulo": "Epístola LIV.2522",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9142,7 +9142,7 @@
               },
               {
                 "id": "anf05-3-366-369-424",
-                "titulo": "Epistle LV.2595",
+                "titulo": "Epístola LV.2595",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9201,7 +9201,7 @@
               },
               {
                 "id": "anf05-3-366-369-425",
-                "titulo": "Epistle LVI.2619",
+                "titulo": "Epístola LVI.2619",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9236,7 +9236,7 @@
               },
               {
                 "id": "anf05-3-366-369-426",
-                "titulo": "Epistle LVII.2623",
+                "titulo": "Epístola LVII.2623",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9267,7 +9267,7 @@
               },
               {
                 "id": "anf05-3-366-369-427",
-                "titulo": "Epistle LVIII.2626",
+                "titulo": "Epístola LVIII.2626",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9306,7 +9306,7 @@
               },
               {
                 "id": "anf05-3-366-369-428",
-                "titulo": "Epistle LIX.2635",
+                "titulo": "Epístola LIX.2635",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9337,7 +9337,7 @@
               },
               {
                 "id": "anf05-3-366-369-429",
-                "titulo": "Epistle LX.2645",
+                "titulo": "Epístola LX.2645",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9360,7 +9360,7 @@
               },
               {
                 "id": "anf05-3-366-369-430",
-                "titulo": "Epistle LXI.2647",
+                "titulo": "Epístola LXI.2647",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9395,7 +9395,7 @@
               },
               {
                 "id": "anf05-3-366-369-431",
-                "titulo": "Epistle LXII.2663",
+                "titulo": "Epístola LXII.2663",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9486,7 +9486,7 @@
               },
               {
                 "id": "anf05-3-366-369-432",
-                "titulo": "Epistle LXIII.2710",
+                "titulo": "Epístola LXIII.2710",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9521,7 +9521,7 @@
               },
               {
                 "id": "anf05-3-366-369-433",
-                "titulo": "Epistle LXIV.2722",
+                "titulo": "Epístola LXIV.2722",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9548,7 +9548,7 @@
               },
               {
                 "id": "anf05-3-366-369-434",
-                "titulo": "Epistle LXV.2735",
+                "titulo": "Epístola LXV.2735",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9571,7 +9571,7 @@
               },
               {
                 "id": "anf05-3-366-369-435",
-                "titulo": "Epistle LXVI.2739",
+                "titulo": "Epístola LXVI.2739",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9606,7 +9606,7 @@
               },
               {
                 "id": "anf05-3-366-369-436",
-                "titulo": "Epistle LXVII.2751",
+                "titulo": "Epístola LXVII.2751",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9657,7 +9657,7 @@
               },
               {
                 "id": "anf05-3-366-369-437",
-                "titulo": "Epistle LXVIII.2783",
+                "titulo": "Epístola LXVIII.2783",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9712,7 +9712,7 @@
               },
               {
                 "id": "anf05-3-366-369-438",
-                "titulo": "Epistle LXIX.2807",
+                "titulo": "Epístola LXIX.2807",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9739,7 +9739,7 @@
               },
               {
                 "id": "anf05-3-366-369-439",
-                "titulo": "Epistle LXX.2828",
+                "titulo": "Epístola LXX.2828",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9770,7 +9770,7 @@
               },
               {
                 "id": "anf05-3-366-369-440",
-                "titulo": "Epistle LXXI.2838",
+                "titulo": "Epístola LXXI.2838",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9797,7 +9797,7 @@
               },
               {
                 "id": "anf05-3-366-369-441",
-                "titulo": "Epistle LXXII.2847",
+                "titulo": "Epístola LXXII.2847",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9916,7 +9916,7 @@
               },
               {
                 "id": "anf05-3-366-369-442",
-                "titulo": "Epistle LXXIII.2887",
+                "titulo": "Epístola LXXIII.2887",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9975,7 +9975,7 @@
               },
               {
                 "id": "anf05-3-366-369-443",
-                "titulo": "Epistle LXXIV.2916",
+                "titulo": "Epístola LXXIV.2916",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10094,7 +10094,7 @@
               },
               {
                 "id": "anf05-3-366-369-444",
-                "titulo": "Epistle LXXV.2967",
+                "titulo": "Epístola LXXV.2967",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10177,7 +10177,7 @@
               },
               {
                 "id": "anf05-3-366-369-445",
-                "titulo": "Epistle LXXVI.3004",
+                "titulo": "Epístola LXXVI.3004",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10220,7 +10220,7 @@
               },
               {
                 "id": "anf05-3-366-369-446",
-                "titulo": "Epistle LXXVII.3020",
+                "titulo": "Epístola LXXVII.3020",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10243,7 +10243,7 @@
               },
               {
                 "id": "anf05-3-366-369-447",
-                "titulo": "Epistle LXXVIII.3024",
+                "titulo": "Epístola LXXVIII.3024",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10266,7 +10266,7 @@
               },
               {
                 "id": "anf05-3-366-369-448",
-                "titulo": "Epistle LXXIX.3029",
+                "titulo": "Epístola LXXIX.3029",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10285,7 +10285,7 @@
               },
               {
                 "id": "anf05-3-366-369-449",
-                "titulo": "Epistle LXXX.3030",
+                "titulo": "Epístola LXXX.3030",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10316,7 +10316,7 @@
               },
               {
                 "id": "anf05-3-366-369-450",
-                "titulo": "Epistle LXXXI.3043",
+                "titulo": "Epístola LXXXI.3043",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10339,7 +10339,7 @@
               },
               {
                 "id": "anf05-3-366-369-451",
-                "titulo": "Epistle LXXXII.3050",
+                "titulo": "Epístola LXXXII.3050",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10362,7 +10362,7 @@
               },
               {
                 "id": "anf05-3-366-369-452",
-                "titulo": "Elucidations.",
+                "titulo": "Elucidações.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10651,11 +10651,11 @@
           },
           {
             "id": "anf05-3-366-453",
-            "titulo": "The Treatises of Cyprian.",
+            "titulo": "Os Tratados de Cipriano.",
             "children": [
               {
                 "id": "anf05-3-366-453-454",
-                "titulo": "Treatise I.",
+                "titulo": "Tratado I.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10778,7 +10778,7 @@
               },
               {
                 "id": "anf05-3-366-453-455",
-                "titulo": "Treatise II.3170",
+                "titulo": "Tratado II.3170",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10889,7 +10889,7 @@
               },
               {
                 "id": "anf05-3-366-453-456",
-                "titulo": "Treatise III.3211",
+                "titulo": "Tratado III.3211",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11048,7 +11048,7 @@
               },
               {
                 "id": "anf05-3-366-453-457",
-                "titulo": "Treatise IV.3301",
+                "titulo": "Tratado IV.3301",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11207,7 +11207,7 @@
               },
               {
                 "id": "anf05-3-366-453-458",
-                "titulo": "Treatise V.3402",
+                "titulo": "Tratado V.3402",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11322,7 +11322,7 @@
               },
               {
                 "id": "anf05-3-366-453-459",
-                "titulo": "Treatise VI.3449",
+                "titulo": "Tratado VI.3449",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11397,7 +11397,7 @@
               },
               {
                 "id": "anf05-3-366-453-460",
-                "titulo": "Treatise VII.",
+                "titulo": "Tratado VII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11516,7 +11516,7 @@
               },
               {
                 "id": "anf05-3-366-453-461",
-                "titulo": "Treatise VIII.3519",
+                "titulo": "Tratado VIII.3519",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11635,7 +11635,7 @@
               },
               {
                 "id": "anf05-3-366-453-462",
-                "titulo": "Treatise IX.",
+                "titulo": "Tratado IX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11746,7 +11746,7 @@
               },
               {
                 "id": "anf05-3-366-453-463",
-                "titulo": "Treatise X.3641",
+                "titulo": "Tratado X.3641",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11835,11 +11835,11 @@
           },
           {
             "id": "anf05-3-366-464",
-            "titulo": "Treatise XI.3693",
+            "titulo": "Tratado XI.3693",
             "children": [
               {
                 "id": "anf05-3-366-464-465",
-                "titulo": "Heads of the Following Book.",
+                "titulo": "Cabeçalhos do livro seguinte.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11894,7 +11894,7 @@
               },
               {
                 "id": "anf05-3-366-464-466",
-                "titulo": "On the Exhortation to Martyrdom.",
+                "titulo": "Sobre a Exortação ao Martírio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -12011,15 +12011,15 @@
           },
           {
             "id": "anf05-3-366-467",
-            "titulo": "Treatise XII.3812",
+            "titulo": "Tratado XII.3812",
             "children": [
               {
                 "id": "anf05-3-366-467-468",
-                "titulo": "First Book.",
+                "titulo": "Primeiro livro.",
                 "children": [
                   {
                     "id": "anf05-3-366-467-468-469",
-                    "titulo": "Heads.",
+                    "titulo": "Cabeças.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -12122,7 +12122,7 @@
                   },
                   {
                     "id": "anf05-3-366-467-468-470",
-                    "titulo": "Testimonies.",
+                    "titulo": "Testemunhos.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -12323,11 +12323,11 @@
               },
               {
                 "id": "anf05-3-366-467-471",
-                "titulo": "Second Book.",
+                "titulo": "Segundo livro.",
                 "children": [
                   {
                     "id": "anf05-3-366-467-471-472",
-                    "titulo": "Heads.",
+                    "titulo": "Cabeças.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -12454,7 +12454,7 @@
                   },
                   {
                     "id": "anf05-3-366-467-471-473",
-                    "titulo": "Testimonies.",
+                    "titulo": "Testemunhos.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -12703,11 +12703,11 @@
               },
               {
                 "id": "anf05-3-366-467-474",
-                "titulo": "Third Book.",
+                "titulo": "Terceiro Livro.",
                 "children": [
                   {
                     "id": "anf05-3-366-467-474-475",
-                    "titulo": "Heads.4142",
+                    "titulo": "Cabeças.4142",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -13198,7 +13198,7 @@
                   },
                   {
                     "id": "anf05-3-366-467-474-476",
-                    "titulo": "Testimonies.",
+                    "titulo": "Testemunhos.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -14165,7 +14165,7 @@
                   },
                   {
                     "id": "anf05-3-366-467-474-477",
-                    "titulo": "Elucidations.",
+                    "titulo": "Elucidações.",
                     "conteudo": [
                       {
                         "tipo": "paragrafo",
@@ -14400,7 +14400,7 @@
           },
           {
             "id": "anf05-3-366-479",
-            "titulo": "Translator’s Introduction to Treatises Attributed to Cyprian on Questionable Authority.",
+            "titulo": "Introdução do tradutor aos tratados atribuídos a Cipriano sobre autoridade questionável.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14423,11 +14423,11 @@
           },
           {
             "id": "anf05-3-366-480",
-            "titulo": "Treatises Attributed to Cyprian on Questionable Authority.",
+            "titulo": "Tratados atribuídos a Cipriano sobre autoridade questionável.",
             "children": [
               {
                 "id": "anf05-3-366-480-481",
-                "titulo": "On the Public Shows.4816",
+                "titulo": "Nas Mostras Públicas.4816",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -14478,7 +14478,7 @@
               },
               {
                 "id": "anf05-3-366-480-482",
-                "titulo": "On the Glory of Martyrdom.4835",
+                "titulo": "Sobre a Glória do Martírio.4835",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -14609,7 +14609,7 @@
               },
               {
                 "id": "anf05-3-366-480-483",
-                "titulo": "Of the Discipline and Advantage of Chastity.4870",
+                "titulo": "Da Disciplina e Vantagem da Castidade.4870",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -14672,7 +14672,7 @@
               },
               {
                 "id": "anf05-3-366-480-484",
-                "titulo": "Exhortation to Repentance.4886",
+                "titulo": "Exortação ao arrependimento.4886",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -14863,7 +14863,7 @@
               },
               {
                 "id": "anf05-3-366-480-485",
-                "titulo": "Elucidations.",
+                "titulo": "Elucidações.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -14908,7 +14908,7 @@
     "children": [
       {
         "id": "anf05-486-487",
-        "titulo": "Note by the American Editor.",
+        "titulo": "Nota do Editor Americano.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -14919,11 +14919,11 @@
       },
       {
         "id": "anf05-486-488",
-        "titulo": "Fragments of Caius.",
+        "titulo": "Fragmentos de Caio.",
         "children": [
           {
             "id": "anf05-486-488-489",
-            "titulo": "I.—From a Dialogue or Disputation Against Proclus.4956",
+            "titulo": "I.—De um diálogo ou disputa contra Proclus.4956",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14954,7 +14954,7 @@
           },
           {
             "id": "anf05-486-488-490",
-            "titulo": "II.—Against the Heresy of Artemon.4961",
+            "titulo": "II.—Contra a Heresia de Artemon.4961",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14985,7 +14985,7 @@
           },
           {
             "id": "anf05-486-488-491",
-            "titulo": "III.—Canon Muratorianus.4977",
+            "titulo": "III.-Cânon Muratorianus.4977",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15012,7 +15012,7 @@
           },
           {
             "id": "anf05-486-488-492",
-            "titulo": "Elucidations.",
+            "titulo": "Elucidações.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15039,15 +15039,15 @@
   },
   {
     "id": "anf05-493",
-    "titulo": "NOVATIAN.",
+    "titulo": "NOVACIANO.",
     "children": [
       {
         "id": "anf05-493-494",
-        "titulo": "A Treatise of Novatian Concerning the Trinity.",
+        "titulo": "Um Tratado de Novaciano sobre a Trindade.",
         "children": [
           {
             "id": "anf05-493-494-495",
-            "titulo": "Chapter I. Argument.—Novatian, with the View of Treating of the Trinity, Sets Forth from the Rule of Faith that We Should First of All Believe in God the Father and Lord Omnipotent, the Absolute Founder of All Things. The Works of Creation are Beautifully Described. Man’s Free-Will is Asserted; God’s Mercy in Inflicting Penalty on Man is Shown; The Condition After Death of the Souls of the Righteous and Unrighteous is Determined.",
+            "titulo": "Capítulo I. Argumento. - Novaciano, com o ponto de vista do tratamento da Trindade, estabelece a partir da regra de fé que devemos antes de tudo acreditar em Deus, o Pai e Senhor Onipotente, o Fundador Absoluto de Todas as Coisas. As obras da criação são lindamente descritas. O Livre Arbítrio do Homem é Afirmado; É mostrada a misericórdia de Deus em infligir penalidades ao homem; A condição após a morte das almas dos justos e dos injustos é determinada.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15058,7 +15058,7 @@
           },
           {
             "id": "anf05-493-494-496",
-            "titulo": "Chapter II. Argument.—God is Above All Things, Himself Containing All Things, Immense, Eternal, Transcending the Mind of Man; Inexplicable in Discourse, Loftier Than All Sublimity.",
+            "titulo": "Capítulo II. Argumento. - Deus está acima de todas as coisas, contendo ele mesmo todas as coisas, imenso, eterno, transcendendo a mente do homem; Inexplicável no discurso, mais elevado que toda sublimidade.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15069,7 +15069,7 @@
           },
           {
             "id": "anf05-493-494-497",
-            "titulo": "Chapter III. Argument.—That God is the Founder of All Things, Their Lord and Parent, is Proved from the Holy Scriptures.",
+            "titulo": "Capítulo III. Argumento. - Que Deus é o Fundador de Todas as Coisas, Seu Senhor e Pai, é comprovado pelas Sagradas Escrituras.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15080,7 +15080,7 @@
           },
           {
             "id": "anf05-493-494-498",
-            "titulo": "Chapter IV. Argument.—Moreover, He is Good, Always the Same, Immutable, One and Only, Infinite; And His Own Name Can Never Be Declared, and He is Incorruptible and Immortal.",
+            "titulo": "Capítulo IV. Argumento. - Além disso, Ele é Bom, Sempre o Mesmo, Imutável, Único e Infinito; E Seu próprio nome nunca poderá ser declarado, e Ele é incorruptível e imortal.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15091,7 +15091,7 @@
           },
           {
             "id": "anf05-493-494-499",
-            "titulo": "Chapter V. Argument.—If We Regard the Anger, and Indignation, and Hatred of God Described in the Sacred Pages, We Must Remember that They are Not to Be Understood as Bearing the Character of Human Vices.",
+            "titulo": "Capítulo V. Argumento. - Se considerarmos a raiva, a indignação e o ódio a Deus descritos nas páginas sagradas, devemos lembrar que eles não devem ser entendidos como portadores do caráter de vícios humanos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15102,7 +15102,7 @@
           },
           {
             "id": "anf05-493-494-500",
-            "titulo": "Chapter VI. Argument.—And That, Although Scripture Often Changes the Divine Appearance into a Human Form, Yet the Measure of the Divine Majesty is Not Included Within These Lineaments of Our Bodily Nature.",
+            "titulo": "Capítulo VI. Argumento. - E que, embora as Escrituras freqüentemente mudem a aparência divina para uma forma humana, ainda assim a medida da majestade divina não está incluída nesses contornos de nossa natureza corporal.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15113,7 +15113,7 @@
           },
           {
             "id": "anf05-493-494-501",
-            "titulo": "Chapter VII. Argument.—Moreover, that When God is Called a Spirit, Brightness, and Light, God is Not Sufficiently Expressed by Those Appellations.",
+            "titulo": "Capítulo VII. Argumento. - Além disso, que quando Deus é chamado de Espírito, Brilho e Luz, Deus não é suficientemente expresso por essas denominações.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15124,7 +15124,7 @@
           },
           {
             "id": "anf05-493-494-502",
-            "titulo": "Chapter VIII. Argument.—It is This God, Therefore, that the Church Has Known and Adores; And to Him the Testimony of Things as Well Visible as Invisible is Given Both at All Times and in All Forms, by the Nature Which His Providence Rules and Governs.",
+            "titulo": "Capítulo VIII. Argumento. - É este Deus, portanto, que a Igreja conheceu e adora; E para Ele o testemunho de coisas tão visíveis quanto invisíveis é dado em todos os momentos e em todas as formas, pela natureza que sua providência governa e governa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15135,7 +15135,7 @@
           },
           {
             "id": "anf05-493-494-503",
-            "titulo": "Chapter IX. Argument.—Further, that the Same Rule of Truth Teaches Us to Believe, After the Father, Also in the Son of God, Jesus Christ Our Lord God, Being the Same that Was Promised in the Old Testament, and Manifested in the New.",
+            "titulo": "Capítulo IX. Argumento. - Além disso, que a mesma regra da verdade nos ensina a acreditar, depois do Pai, também no Filho de Deus, Jesus Cristo Nosso Senhor Deus, sendo o mesmo que foi prometido no Antigo Testamento e manifestado no Novo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15146,7 +15146,7 @@
           },
           {
             "id": "anf05-493-494-504",
-            "titulo": "Chapter X. Argument.—That Jesus Christ is the Son of God and Truly Man, as Opposed to the Fancies of Heretics, Who Deny that He Took Upon Him True Flesh.",
+            "titulo": "Capítulo X. Argumento. - Que Jesus Cristo é o Filho de Deus e verdadeiramente homem, em oposição às fantasias dos hereges, que negam que Ele assumiu sobre si a verdadeira carne.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15161,7 +15161,7 @@
           },
           {
             "id": "anf05-493-494-505",
-            "titulo": "Chapter XI.—And Indeed that Christ Was Not Only Man, But God Also; That Even as He Was the Son of Man, So Also He Was the Son of God.",
+            "titulo": "Capítulo XI. - E de fato que Cristo não era apenas homem, mas também Deus; Que assim como Ele era o Filho do Homem, Ele também era o Filho de Deus.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15172,7 +15172,7 @@
           },
           {
             "id": "anf05-493-494-506",
-            "titulo": "Chapter XII. Argument.—That Christ is God, is Proved by the Authority of the Old Testament Scriptures.",
+            "titulo": "Capítulo XII. Argumento. - Que Cristo é Deus é provado pela autoridade das Escrituras do Antigo Testamento.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15183,7 +15183,7 @@
           },
           {
             "id": "anf05-493-494-507",
-            "titulo": "Chapter XIII. Argument.—That the Same Truth is Proved from the Sacred Writings of the New Covenant.",
+            "titulo": "Capítulo XIII. Argumento. - Que a mesma verdade é provada pelos escritos sagrados da Nova Aliança.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15194,7 +15194,7 @@
           },
           {
             "id": "anf05-493-494-508",
-            "titulo": "Chapter XIV. Argument.—The Author Prosecutes the Same Argument.",
+            "titulo": "Capítulo XIV. Argumento. - O autor processa o mesmo argumento.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15205,7 +15205,7 @@
           },
           {
             "id": "anf05-493-494-509",
-            "titulo": "Chapter XV.5116 Argument.—Again He Proves from the Gospel that Christ is God.",
+            "titulo": "Capítulo XV.5116 Argumento. - Mais uma vez ele prova pelo Evangelho que Cristo é Deus.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15216,7 +15216,7 @@
           },
           {
             "id": "anf05-493-494-510",
-            "titulo": "Chapter XVI.5129 Argument.—Again from the Gospel He Proves Christ to Be God.",
+            "titulo": "Capítulo XVI.5129 Argumento. - Novamente a partir do Evangelho, ele prova que Cristo é Deus.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15227,7 +15227,7 @@
           },
           {
             "id": "anf05-493-494-511",
-            "titulo": "Chapter XVII.5136 Argument.—It Is, Moreover, Proved by Moses in the Beginning of the Holy Scriptures.",
+            "titulo": "Capítulo XVII.5136 Argumento. - Além disso, é provado por Moisés no início das Sagradas Escrituras.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15238,7 +15238,7 @@
           },
           {
             "id": "anf05-493-494-512",
-            "titulo": "Chapter XVIII.5146 Argument.—Moreover Also, from the Fact that He Who Was Seen of Abraham is Called God; Which Cannot Be Understood of the Father, Whom No Man Hath Seen at Any Time; But of the Son in the Likeness of an Angel.",
+            "titulo": "Capítulo XVIII.5146 Argumento. - Além disso, do fato de que Aquele que foi visto por Abraão é chamado de Deus; Que não pode ser compreendido pelo Pai, a quem ninguém viu em nenhum momento; Mas do Filho em semelhança de um anjo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15253,7 +15253,7 @@
           },
           {
             "id": "anf05-493-494-513",
-            "titulo": "Chapter XIX.5164 Argument.—That God Also Appeared to Jacob as an Angel; Namely, the Son of God.",
+            "titulo": "Capítulo XIX.5164 Argumento. - Que Deus também apareceu a Jacó como um anjo; Ou seja, o Filho de Deus.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15264,7 +15264,7 @@
           },
           {
             "id": "anf05-493-494-514",
-            "titulo": "Chapter XX.5172 Argument.—It is Proved from the Scriptures that Christ Was Called an Angel. But Yet It is Shown from Other Parts of Holy Scripture that He is God Also.",
+            "titulo": "Capítulo XX.5172 Argumento. - Está provado pelas Escrituras que Cristo foi chamado de anjo. Mas ainda assim é mostrado em outras partes da Sagrada Escritura que Ele também é Deus.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15275,7 +15275,7 @@
           },
           {
             "id": "anf05-493-494-515",
-            "titulo": "Chapter XXI.5179 Argument.—That the Same Divine Majesty is Again Confirmed in Christ by Other Scriptures.",
+            "titulo": "Capítulo XXI.5179 Argumento. - Que a mesma Majestade Divina é novamente confirmada em Cristo por outras Escrituras.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15286,7 +15286,7 @@
           },
           {
             "id": "anf05-493-494-516",
-            "titulo": "Chapter XXII.5193 Argument—That the Same Divine Majesty is in Christ, He Once More Asserts by Other Scriptures.",
+            "titulo": "Capítulo XXII.5193 Argumento - Que a Mesma Majestade Divina está em Cristo, Ele mais uma vez afirma por meio de outras Escrituras.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15297,7 +15297,7 @@
           },
           {
             "id": "anf05-493-494-517",
-            "titulo": "Chapter XXIII.5196 Argument.—And This is So Manifest, that Some Heretics Have Thought Him to Be God the Father, Others that He Was Only God Without the Flesh.",
+            "titulo": "Capítulo XXIII.5196 Argumento. - E isso é tão manifesto que alguns hereges pensaram que ele era Deus o Pai, outros que ele era apenas Deus sem carne.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15308,7 +15308,7 @@
           },
           {
             "id": "anf05-493-494-518",
-            "titulo": "Chapter XXIV.5199 Argument.—That These Have Therefore Erred, by Thinking that There Was No Difference Between the Son of God and the Son of Man; Because They Have Ill Understood the Scripture.",
+            "titulo": "Capítulo XXIV.5199 Argumento. - Que estes, portanto, erraram, ao pensar que não havia diferença entre o Filho de Deus e o Filho do Homem; Porque eles não entenderam as Escrituras.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15319,7 +15319,7 @@
           },
           {
             "id": "anf05-493-494-519",
-            "titulo": "Chapter XXV.5206 Argument.—And that It Does Not Follow Thence, that Because Christ Died It Must Also Be Received that God Died; For Scripture Sets Forth that Not Only Was Christ God, But Man Also.",
+            "titulo": "Capítulo XXV.5206 Argumento. - E que não se segue daí que, porque Cristo morreu, também deve ser recebido que Deus morreu; Pois as Escrituras estabelecem que não apenas Cristo era Deus, mas também o homem.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15330,7 +15330,7 @@
           },
           {
             "id": "anf05-493-494-520",
-            "titulo": "Chapter XXVI.5209 Argument.—Moreover, Against the Sabellians He Proves that the Father is One, the Son Another.",
+            "titulo": "Capítulo XXVI.5209 Argumento. - Além disso, contra os Sabelianos, ele prova que o Pai é Um, o Filho Outro.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15341,7 +15341,7 @@
           },
           {
             "id": "anf05-493-494-521",
-            "titulo": "Chapter XXVII.5227 Argument.—He Skilfully Replies to a Passage Which the Heretics Employed in Defence of Their Own Opinion.",
+            "titulo": "Capítulo XXVII.5227 Argumento. - Ele responde habilmente a uma passagem que os hereges empregaram em defesa de sua própria opinião.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15352,7 +15352,7 @@
           },
           {
             "id": "anf05-493-494-522",
-            "titulo": "Chapter XXVIII. Argument.—He Proves Also that the Words Spoken to Philip Make Nothing for the Sabellians.",
+            "titulo": "Capítulo XXVIII. Argumento. - Ele prova também que as palavras ditas a Filipe não trazem nada para os sabelianos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15363,7 +15363,7 @@
           },
           {
             "id": "anf05-493-494-523",
-            "titulo": "Chapter XXIX. Argument.—He Next Teaches Us that the Authority of the Faith Enjoins, After the Father and the Son, to Believe Also on the Holy Spirit, Whose Operations He Enumerates from Scripture.",
+            "titulo": "Capítulo XXIX. Argumento. - Em seguida, ele nos ensina que a autoridade da fé ordena, depois do Pai e do Filho, a acreditar também no Espírito Santo, cujas operações ele enumera nas Escrituras.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15374,7 +15374,7 @@
           },
           {
             "id": "anf05-493-494-524",
-            "titulo": "Chapter XXX. Argument.—In Fine, Notwithstanding the Said Heretics Have Gathered the Origin of Their Error from Consideration of What is Written:5279 Although We Call Christ God, and the Father God, Still Scripture Does Not Set Forth Two Gods, Any More Than Two Lords or Two Teachers.",
+            "titulo": "Capítulo XXX. Argumento. - Em suma, embora os ditos hereges tenham reunido a origem de seu erro a partir da consideração do que está escrito: 5279 Embora chamemos Cristo de Deus e o Deus Pai, ainda assim as Escrituras não apresentam dois deuses, nem mais do que dois senhores ou dois professores.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15385,7 +15385,7 @@
           },
           {
             "id": "anf05-493-494-525",
-            "titulo": "Chapter XXXI. Argument.—But that God, the Son of God, Born of God the Father from Everlasting, Who Was Always in the Father, is the Second Person to the Father, Who Does Nothing Without His Father’s Decree; And that He is Lord, and the Angel of God’s Great Counsel, to Whom the Father’s Godhead is Given by Community of Substance.",
+            "titulo": "Capítulo XXXI. Argumento. - Mas que Deus, o Filho de Deus, nascido de Deus Pai desde a eternidade, que sempre esteve no Pai, é a segunda pessoa do Pai, que nada faz sem o decreto de seu Pai; E que Ele é o Senhor e o Anjo do Grande Conselho de Deus, a Quem a Divindade do Pai é dada pela Comunidade de Substância.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15396,7 +15396,7 @@
           },
           {
             "id": "anf05-493-494-526",
-            "titulo": "Two Notes by the American Editor.",
+            "titulo": "Duas notas do editor americano.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15413,11 +15413,11 @@
       },
       {
         "id": "anf05-493-527",
-        "titulo": "On the Jewish Meats.5302",
+        "titulo": "Nas Carnes Judaicas.5302",
         "children": [
           {
             "id": "anf05-493-527-528",
-            "titulo": "Chapter I. Argument.—Novatian, a Roman Presbyter, During His Retirement at the Time of the Decian Persecution, Being Urged by Various Letters from His Brethren, Had Written Two Earlier Epistles Against the Jews on the Subjects of Circumcision and the Sabbath, and Now Writes the Present One on the Jewish Meats.",
+            "titulo": "Capítulo I. Argumento. - Novaciano, um presbítero romano, durante sua aposentadoria na época da perseguição deciana, sendo instado por várias cartas de seus irmãos, escreveu duas epístolas anteriores contra os judeus sobre os assuntos da circuncisão e do sábado, e agora escreve a atual sobre as carnes judaicas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15428,7 +15428,7 @@
           },
           {
             "id": "anf05-493-527-529",
-            "titulo": "Chapter II. Argument.—He First of All Asserts that the Law is Spiritual; And Thence, Man’s First Food Was Only the Fruit Trees, and the Use of Flesh Was Added, that the Law that Followed Subsequently5309 Was to Be Understood Spiritually.",
+            "titulo": "Capítulo II. Argumento. - Ele afirma antes de tudo que a lei é espiritual; E daí, o primeiro alimento do homem foram apenas as árvores frutíferas, e o uso da carne foi acrescentado, para que a lei que se seguiu posteriormente 5309 fosse compreendida espiritualmente.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15439,7 +15439,7 @@
           },
           {
             "id": "anf05-493-527-530",
-            "titulo": "Chapter III. Argument.—And Thus Unclean Animals are Not to Be Reproached, Lest the Reproach Be Thrown Upon Their Author; But When an Irrational Animal is Rejected on Any Account, It is Rather that that Very Thing Should Be Condemned in Man Who is Rational; And Therefore that in Animals the Character, the Doings, and the Wills of Men are Depicted.",
+            "titulo": "Capítulo III. Argumento. - E assim os animais impuros não devem ser reprovados, para que a reprovação não seja lançada sobre seu autor; Mas quando um animal irracional é rejeitado por qualquer motivo, é antes que essa mesma coisa deve ser condenada no homem que é racional; E é por isso que nos animais o caráter, as ações e as vontades dos homens são retratados.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15450,7 +15450,7 @@
           },
           {
             "id": "anf05-493-527-531",
-            "titulo": "Chapter IV. Argument.—To These Things Also Was Added Another Reason for Prohibiting Many Kinds of Meats to the Jews; To Wit, for the Restraint of the Intemperance of the People, and that They Might Serve the One God.",
+            "titulo": "Capítulo IV. Argumento. - A essas coisas também foi acrescentada outra razão para proibir muitos tipos de carnes aos judeus; A saber, para restringir a intemperança do povo e para que eles possam servir ao Deus Único.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15461,7 +15461,7 @@
           },
           {
             "id": "anf05-493-527-532",
-            "titulo": "Chapter V. Argument.—But There Was a Limit to the Use of These Shadows or Figures; For Afterwards, When the End of the Law, Christ, Came, All Things Were Said by the Apostle to Be Pure to the Pure, and the True and Holy Meat Was a Right Faith and an Unspotted Conscience.",
+            "titulo": "Capítulo V. Argumento. - Mas havia um limite para o uso dessas sombras ou figuras; Pois depois, quando veio o fim da lei, Cristo, todas as coisas foram ditas pelo apóstolo como puras para as puras, e a comida verdadeira e santa era uma fé correta e uma consciência imaculada.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15472,7 +15472,7 @@
           },
           {
             "id": "anf05-493-527-533",
-            "titulo": "Chapter VI. Argument.—But, on the Ground that Liberty in Meats is Granted to Us, There is No Permission of Luxury, There is No Taking Away of Continence and Fasting: for These Things Greatly Become the Faithful,—To Wit, that They Should Pray to God, and Give Him Thanks, Not Only by Day, But by Night.",
+            "titulo": "Capítulo VI. Argumento. - Mas, com base em que a liberdade nas carnes nos é concedida, não há permissão de luxo, não há como tirar a continência e o jejum: pois essas coisas tornam-se grandemente os fiéis, - a saber, que eles deveriam orar a Deus e dar-lhe graças, não apenas de dia, mas de noite.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15483,7 +15483,7 @@
           },
           {
             "id": "anf05-493-527-534",
-            "titulo": "Chapter VII. Argument.—Moreover, We Must Be Careful that No One Should Think that This Licence May Be Carried to Such an Extent as that He May Approach to Things Offered to Idols.",
+            "titulo": "Capítulo VII. Argumento. - Além disso, devemos ter cuidado para que ninguém pense que esta licença pode ser levada a tal ponto que ele possa se aproximar de coisas oferecidas aos ídolos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15502,7 +15502,7 @@
   },
   {
     "id": "anf05-535",
-    "titulo": "APPENDIX.",
+    "titulo": "APÊNDICE.",
     "children": [
       {
         "id": "anf05-535-536",
@@ -15573,7 +15573,7 @@
       },
       {
         "id": "anf05-535-537",
-        "titulo": "Note.",
+        "titulo": "Nota.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -15584,7 +15584,7 @@
       },
       {
         "id": "anf05-535-538",
-        "titulo": "A Treatise Against the Heretic Novatian by an Anonymous Bishop.",
+        "titulo": "Um Tratado Contra o Herege Novaciano, escrito por um Bispo Anônimo.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -15671,11 +15671,11 @@
       },
       {
         "id": "anf05-535-539",
-        "titulo": "A Treatise on Re-Baptism by an Anonymous Writer.",
+        "titulo": "Um Tratado sobre Rebatismo por um Escritor Anônimo.",
         "children": [
           {
             "id": "anf05-535-539-540",
-            "titulo": "Note by the Edinburgh Translator.",
+            "titulo": "Nota do tradutor de Edimburgo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",

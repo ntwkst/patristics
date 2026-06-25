@@ -20,7 +20,7 @@
       },
       {
         "id": "npnf206-3-5",
-        "titulo": "Translator’s Preface.",
+        "titulo": "Prefácio do tradutor.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -51,11 +51,11 @@
       },
       {
         "id": "npnf206-3-6",
-        "titulo": "Prolegomena to Jerome.",
+        "titulo": "Prolegômenos a Jerônimo.",
         "children": [
           {
             "id": "npnf206-3-6-7",
-            "titulo": "I.—Introductory.",
+            "titulo": "I.—Introdutório.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -66,7 +66,7 @@
           },
           {
             "id": "npnf206-3-6-8",
-            "titulo": "II.—Contemporary History.",
+            "titulo": "II.—História Contemporânea.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -153,7 +153,7 @@
           },
           {
             "id": "npnf206-3-6-9",
-            "titulo": "III.—Life of Jerome.",
+            "titulo": "III.-Vida de Jerônimo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -388,7 +388,7 @@
           },
           {
             "id": "npnf206-3-6-10",
-            "titulo": "IV.—The Writings of Jerome.",
+            "titulo": "IV.—Os Escritos de Jerônimo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -559,7 +559,7 @@
           },
           {
             "id": "npnf206-3-6-11",
-            "titulo": "V.—Estimate of the Scope and Value of Jerome’s Writings.",
+            "titulo": "V.—Estimativa do escopo e valor dos escritos de Jerônimo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -634,7 +634,7 @@
           },
           {
             "id": "npnf206-3-6-12",
-            "titulo": "VI.—Character and Influence of Jerome.",
+            "titulo": "VI.—Caráter e influência de Jerônimo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -649,7 +649,7 @@
           },
           {
             "id": "npnf206-3-6-13",
-            "titulo": "Chronological Tables of the Life and Times of St. Jerome A.D. 345–420.",
+            "titulo": "Tabelas cronológicas da vida e dos tempos de São Jerônimo 345-420 DC.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1208,11 +1208,11 @@
           },
           {
             "id": "npnf206-3-6-14",
-            "titulo": "THE LETTERS OF ST. JEROME.",
+            "titulo": "AS CARTAS DE ST. JERÔME.",
             "children": [
               {
                 "id": "npnf206-3-6-14-15",
-                "titulo": "Letter I. To Innocent.",
+                "titulo": "Carta I. Para Inocente.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1295,7 +1295,7 @@
               },
               {
                 "id": "npnf206-3-6-14-16",
-                "titulo": "Letter II. To Theodosius and the Rest of the Anchorites.",
+                "titulo": "Carta II. Para Teodósio e o resto dos anacoretas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1318,7 +1318,7 @@
               },
               {
                 "id": "npnf206-3-6-14-17",
-                "titulo": "Letter III. To Rufinus the Monk.23",
+                "titulo": "Carta III. Para Rufino, o Monge.23",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1361,7 +1361,7 @@
               },
               {
                 "id": "npnf206-3-6-14-18",
-                "titulo": "Letter IV. To Florentius.",
+                "titulo": "Carta IV. Para Florêncio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1384,7 +1384,7 @@
               },
               {
                 "id": "npnf206-3-6-14-19",
-                "titulo": "Letter V. To Florentius.",
+                "titulo": "Carta V. Para Florêncio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1411,7 +1411,7 @@
               },
               {
                 "id": "npnf206-3-6-14-20",
-                "titulo": "Letter VI. To Julian, a Deacon of Antioch.",
+                "titulo": "Carta VI. Para Juliano, diácono de Antioquia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1438,7 +1438,7 @@
               },
               {
                 "id": "npnf206-3-6-14-21",
-                "titulo": "Letter VII. To Chromatius, Jovinus, and Eusebius.91",
+                "titulo": "Carta VII. Para Cromácio, Jovino e Eusébio.91",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1489,7 +1489,7 @@
               },
               {
                 "id": "npnf206-3-6-14-22",
-                "titulo": "Letter VIII. To Niceas, Sub-Deacon of Aquileia.",
+                "titulo": "Carta VIII. A Niceas, Subdiácono de Aquileia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1504,7 +1504,7 @@
               },
               {
                 "id": "npnf206-3-6-14-23",
-                "titulo": "Letter IX. To Chrysogonus, a Monk of Aquileia.",
+                "titulo": "Carta IX. Para Crisógono, um monge de Aquileia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1527,7 +1527,7 @@
               },
               {
                 "id": "npnf206-3-6-14-24",
-                "titulo": "Letter X. To Paul, an Old Man of Concordia.",
+                "titulo": "Carta X. Para Paulo, um Velho de Concórdia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1558,7 +1558,7 @@
               },
               {
                 "id": "npnf206-3-6-14-25",
-                "titulo": "Letter XI. To the Virgins of Æmona.",
+                "titulo": "Carta XI. Às Virgens de Æmona.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1581,7 +1581,7 @@
               },
               {
                 "id": "npnf206-3-6-14-26",
-                "titulo": "Letter XII. To Antony, Monk.",
+                "titulo": "Carta XII. Para Antônio, Monge.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1600,7 +1600,7 @@
               },
               {
                 "id": "npnf206-3-6-14-27",
-                "titulo": "Letter XIII. To Castorina, His Maternal Aunt.",
+                "titulo": "Carta XIII. Para Castorina, sua tia materna.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1615,7 +1615,7 @@
               },
               {
                 "id": "npnf206-3-6-14-28",
-                "titulo": "Letter XIV. To Heliodorus, Monk.",
+                "titulo": "Carta XIV. Para Heliodoro, Monge.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1698,7 +1698,7 @@
               },
               {
                 "id": "npnf206-3-6-14-29",
-                "titulo": "Letter XV. To Pope Damasus.",
+                "titulo": "Carta XV. Ao Papa Dâmaso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1729,7 +1729,7 @@
               },
               {
                 "id": "npnf206-3-6-14-30",
-                "titulo": "Letter XVI. To Pope Damasus.",
+                "titulo": "Carta XVI. Ao Papa Dâmaso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1752,7 +1752,7 @@
               },
               {
                 "id": "npnf206-3-6-14-31",
-                "titulo": "Letter XVII. To the Presbyter Marcus.",
+                "titulo": "Carta XVII. Ao Presbítero Marcus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1783,7 +1783,7 @@
               },
               {
                 "id": "npnf206-3-6-14-32",
-                "titulo": "Letter XVIII. To Pope Damasus.",
+                "titulo": "Carta XVIII. Ao Papa Dâmaso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1802,7 +1802,7 @@
               },
               {
                 "id": "npnf206-3-6-14-33",
-                "titulo": "Letter XIX. From Pope Damasus.",
+                "titulo": "Carta XIX. Do Papa Dâmaso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1813,7 +1813,7 @@
               },
               {
                 "id": "npnf206-3-6-14-34",
-                "titulo": "Letter XX. To Pope Damasus.",
+                "titulo": "Carta XX. Ao Papa Dâmaso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1824,7 +1824,7 @@
               },
               {
                 "id": "npnf206-3-6-14-35",
-                "titulo": "Letter XXI. To Damasus",
+                "titulo": "Carta XXI. Para Dâmaso",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1835,7 +1835,7 @@
               },
               {
                 "id": "npnf206-3-6-14-36",
-                "titulo": "Letter XXII. To Eustochium.",
+                "titulo": "Carta XXII. Para Eustóquio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2066,7 +2066,7 @@
               },
               {
                 "id": "npnf206-3-6-14-37",
-                "titulo": "Letter XXIII. To Marcella.",
+                "titulo": "Carta XXIII. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2097,7 +2097,7 @@
               },
               {
                 "id": "npnf206-3-6-14-38",
-                "titulo": "Letter XXIV. To Marcella.",
+                "titulo": "Carta XXIV. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2132,7 +2132,7 @@
               },
               {
                 "id": "npnf206-3-6-14-39",
-                "titulo": "Letter XXV. To Marcella.",
+                "titulo": "Carta XXV. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2143,7 +2143,7 @@
               },
               {
                 "id": "npnf206-3-6-14-40",
-                "titulo": "Letter XXVI. To Marcella.",
+                "titulo": "Carta XXVI. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2154,7 +2154,7 @@
               },
               {
                 "id": "npnf206-3-6-14-41",
-                "titulo": "Letter XXVII. To Marcella.",
+                "titulo": "Carta XXVII. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2177,7 +2177,7 @@
               },
               {
                 "id": "npnf206-3-6-14-42",
-                "titulo": "Letter XXVIII. To Marcella.",
+                "titulo": "Carta XXVIII. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2188,7 +2188,7 @@
               },
               {
                 "id": "npnf206-3-6-14-43",
-                "titulo": "Letter XXIX. To Marcella.",
+                "titulo": "Carta XXIX. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2199,7 +2199,7 @@
               },
               {
                 "id": "npnf206-3-6-14-44",
-                "titulo": "Letter XXX. To Paula.",
+                "titulo": "Carta XXX. Para Paula.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2210,7 +2210,7 @@
               },
               {
                 "id": "npnf206-3-6-14-45",
-                "titulo": "Letter XXXI. To Eustochium.",
+                "titulo": "Carta XXXI. Para Eustóquio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2237,7 +2237,7 @@
               },
               {
                 "id": "npnf206-3-6-14-46",
-                "titulo": "Letter XXXII. To Marcella.",
+                "titulo": "Carta XXXII. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2256,7 +2256,7 @@
               },
               {
                 "id": "npnf206-3-6-14-47",
-                "titulo": "Letter XXXIII. To Paula.",
+                "titulo": "Carta XXXIII. Para Paula.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2287,7 +2287,7 @@
               },
               {
                 "id": "npnf206-3-6-14-48",
-                "titulo": "Letter XXXIV. To Marcella.",
+                "titulo": "Carta XXXIV. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2306,7 +2306,7 @@
               },
               {
                 "id": "npnf206-3-6-14-49",
-                "titulo": "Letter XXXV. From Pope Damasus.",
+                "titulo": "Carta XXXV. Do Papa Dâmaso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2337,7 +2337,7 @@
               },
               {
                 "id": "npnf206-3-6-14-50",
-                "titulo": "Letter XXXVI. To Pope Damasus.",
+                "titulo": "Carta XXXVI. Ao Papa Dâmaso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2356,7 +2356,7 @@
               },
               {
                 "id": "npnf206-3-6-14-51",
-                "titulo": "Letter XXXVII. To Marcella.",
+                "titulo": "Carta XXXVII. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2367,7 +2367,7 @@
               },
               {
                 "id": "npnf206-3-6-14-52",
-                "titulo": "Letter XXXVIII. To Marcella.",
+                "titulo": "Carta XXXVIII. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2398,7 +2398,7 @@
               },
               {
                 "id": "npnf206-3-6-14-53",
-                "titulo": "Letter XXXIX. To Paula.",
+                "titulo": "Carta XXXIX. Para Paula.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2453,7 +2453,7 @@
               },
               {
                 "id": "npnf206-3-6-14-54",
-                "titulo": "Letter XL. To Marcella.",
+                "titulo": "Carta XL. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2488,7 +2488,7 @@
               },
               {
                 "id": "npnf206-3-6-14-55",
-                "titulo": "Letter XLI. To Marcella.",
+                "titulo": "Carta XLI. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2519,7 +2519,7 @@
               },
               {
                 "id": "npnf206-3-6-14-56",
-                "titulo": "Letter XLII. To Marcella.",
+                "titulo": "Carta XLII. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2542,7 +2542,7 @@
               },
               {
                 "id": "npnf206-3-6-14-57",
-                "titulo": "Letter XLIII. To Marcella.",
+                "titulo": "Carta XLIII. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2569,7 +2569,7 @@
               },
               {
                 "id": "npnf206-3-6-14-58",
-                "titulo": "Letter XLIV. To Marcella.",
+                "titulo": "Carta XLIV. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2584,7 +2584,7 @@
               },
               {
                 "id": "npnf206-3-6-14-59",
-                "titulo": "Letter XLV. To Asella.",
+                "titulo": "Carta XLV. Para Asela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2631,7 +2631,7 @@
               },
               {
                 "id": "npnf206-3-6-14-60",
-                "titulo": "Letter XLVI. Paula and Eustochium to Marcella.",
+                "titulo": "Carta XLVI. Paula e Eustóquio para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2706,7 +2706,7 @@
               },
               {
                 "id": "npnf206-3-6-14-61",
-                "titulo": "Letter XLVII. To Desiderius.",
+                "titulo": "Carta XLVII. Para Desidério.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2733,7 +2733,7 @@
               },
               {
                 "id": "npnf206-3-6-14-62",
-                "titulo": "Letter XLVIII. To Pammachius.",
+                "titulo": "Carta XLVIII. Para Pamáquio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2860,7 +2860,7 @@
               },
               {
                 "id": "npnf206-3-6-14-63",
-                "titulo": "Letter XLIX. To Pammachius.",
+                "titulo": "Carta XLIX. Para Pamáquio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2891,7 +2891,7 @@
               },
               {
                 "id": "npnf206-3-6-14-64",
-                "titulo": "Letter L. To Domnio.",
+                "titulo": "Carta L. Para Domnio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2938,7 +2938,7 @@
               },
               {
                 "id": "npnf206-3-6-14-65",
-                "titulo": "Letter LI. From Epiphanius, Bishop of Salamis, in Cyprus, to John, Bishop of Jerusalem.",
+                "titulo": "Carta LI. De Epifânio, Bispo de Salamina, em Chipre, a João, Bispo de Jerusalém.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2997,7 +2997,7 @@
               },
               {
                 "id": "npnf206-3-6-14-66",
-                "titulo": "Letter LII. To Nepotian.",
+                "titulo": "Carta LII. Para Nepotiano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3124,7 +3124,7 @@
               },
               {
                 "id": "npnf206-3-6-14-67",
-                "titulo": "Letter LIII. To Paulinus.",
+                "titulo": "Carta LIII. Para Paulino.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3199,7 +3199,7 @@
               },
               {
                 "id": "npnf206-3-6-14-68",
-                "titulo": "Letter LIV. To Furia.",
+                "titulo": "Carta LIV. Para Fúria.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3302,7 +3302,7 @@
               },
               {
                 "id": "npnf206-3-6-14-69",
-                "titulo": "Letter LV. To Amandus.",
+                "titulo": "Carta LV. Para Amando.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3333,7 +3333,7 @@
               },
               {
                 "id": "npnf206-3-6-14-70",
-                "titulo": "Letter LVI. From Augustine.",
+                "titulo": "Carta LVI. De Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3344,7 +3344,7 @@
               },
               {
                 "id": "npnf206-3-6-14-71",
-                "titulo": "Letter LVII. To Pammachius on the Best Method of Translating.",
+                "titulo": "Carta LVII. Para Pammachius sobre o melhor método de tradução.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3415,7 +3415,7 @@
               },
               {
                 "id": "npnf206-3-6-14-72",
-                "titulo": "Letter LVIII. To Paulinus.",
+                "titulo": "Carta LVIII. Para Paulino.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3494,7 +3494,7 @@
               },
               {
                 "id": "npnf206-3-6-14-73",
-                "titulo": "Letter LIX. To Marcella.",
+                "titulo": "Carta LIX. Para Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3521,7 +3521,7 @@
               },
               {
                 "id": "npnf206-3-6-14-74",
-                "titulo": "Letter LX. To Heliodorus.",
+                "titulo": "Carta LX. Para Heliodoro.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3648,7 +3648,7 @@
               },
               {
                 "id": "npnf206-3-6-14-75",
-                "titulo": "Letter LXI. To Vigilantius.",
+                "titulo": "Carta LXI. Para Vigilâncio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3675,7 +3675,7 @@
               },
               {
                 "id": "npnf206-3-6-14-76",
-                "titulo": "Letter LXII. To Tranquillinus.",
+                "titulo": "Carta LXII. Para Tranquilino.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3694,7 +3694,7 @@
               },
               {
                 "id": "npnf206-3-6-14-77",
-                "titulo": "Letter LXIII. To Theophilus.",
+                "titulo": "Carta LXIII. Para Teófilo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3721,7 +3721,7 @@
               },
               {
                 "id": "npnf206-3-6-14-78",
-                "titulo": "Letter LXIV. To Fabiola.",
+                "titulo": "Carta LXIV. Para Fabíola.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3732,7 +3732,7 @@
               },
               {
                 "id": "npnf206-3-6-14-79",
-                "titulo": "Letter LXV. To Principia.",
+                "titulo": "Carta LXV. Para Principia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3743,7 +3743,7 @@
               },
               {
                 "id": "npnf206-3-6-14-80",
-                "titulo": "Letter LXVI. To Pammachius.",
+                "titulo": "Carta LXVI. Para Pamáquio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3818,7 +3818,7 @@
               },
               {
                 "id": "npnf206-3-6-14-81",
-                "titulo": "Letter LXVII. From Augustine.",
+                "titulo": "Carta LXVII. De Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3833,7 +3833,7 @@
               },
               {
                 "id": "npnf206-3-6-14-82",
-                "titulo": "Letter LXVIII. To Castrutius.",
+                "titulo": "Carta LXVIII. Para Castrúcio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3856,7 +3856,7 @@
               },
               {
                 "id": "npnf206-3-6-14-83",
-                "titulo": "Letter LXIX. To Oceanus.",
+                "titulo": "Carta LXIX. Para Oceano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3911,7 +3911,7 @@
               },
               {
                 "id": "npnf206-3-6-14-84",
-                "titulo": "Letter LXX. To Magnus an Orator of Rome.",
+                "titulo": "Carta LXX. Para Magnus, um orador de Roma.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3946,7 +3946,7 @@
               },
               {
                 "id": "npnf206-3-6-14-85",
-                "titulo": "Letter LXXI. To Lucinius.",
+                "titulo": "Carta LXXI. Para Lucinio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3989,7 +3989,7 @@
               },
               {
                 "id": "npnf206-3-6-14-86",
-                "titulo": "Letter LXXII. To Vitalis.",
+                "titulo": "Carta LXXII. Para Vitalis.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4000,7 +4000,7 @@
               },
               {
                 "id": "npnf206-3-6-14-87",
-                "titulo": "Letter LXXIII. To Evangelus.",
+                "titulo": "Carta LXXIII. Para Evangelus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4011,7 +4011,7 @@
               },
               {
                 "id": "npnf206-3-6-14-88",
-                "titulo": "Letter LXXIV. To Rufinus of Rome.",
+                "titulo": "Carta LXXIV. Para Rufino de Roma.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4022,7 +4022,7 @@
               },
               {
                 "id": "npnf206-3-6-14-89",
-                "titulo": "Letter LXXV. To Theodora.",
+                "titulo": "Carta LXXV. Para Teodora.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4057,7 +4057,7 @@
               },
               {
                 "id": "npnf206-3-6-14-90",
-                "titulo": "Letter LXXVI. To Abigaus.",
+                "titulo": "Carta LXXVI. Para Abigaus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4084,7 +4084,7 @@
               },
               {
                 "id": "npnf206-3-6-14-91",
-                "titulo": "Letter LXXVII. To Oceanus.",
+                "titulo": "Carta LXXVII. Para Oceano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4155,7 +4155,7 @@
               },
               {
                 "id": "npnf206-3-6-14-92",
-                "titulo": "Letter LXXVIII. To Fabiola.",
+                "titulo": "Carta LXXVIII. Para Fabíola.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4166,7 +4166,7 @@
               },
               {
                 "id": "npnf206-3-6-14-93",
-                "titulo": "Letter LXXIX. To Salvina.",
+                "titulo": "Carta LXXIX. Para Salvina.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4241,7 +4241,7 @@
               },
               {
                 "id": "npnf206-3-6-14-94",
-                "titulo": "Letter LXXX. From Rufinus to Macarius.",
+                "titulo": "Carta LXXX. De Rufino a Macário.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4268,7 +4268,7 @@
               },
               {
                 "id": "npnf206-3-6-14-95",
-                "titulo": "Letter LXXXI. To Rufinus.",
+                "titulo": "Carta LXXXI. Para Rufino.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4295,7 +4295,7 @@
               },
               {
                 "id": "npnf206-3-6-14-96",
-                "titulo": "Letter LXXXII. To Theophilus Bishop of Alexandria.",
+                "titulo": "Carta LXXXII. Para Teófilo Bispo de Alexandria.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4354,7 +4354,7 @@
               },
               {
                 "id": "npnf206-3-6-14-97",
-                "titulo": "Letter LXXXIII. From Pammachius and Oceanus.",
+                "titulo": "Carta LXXXIII. De Pamáquio e Oceano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4369,7 +4369,7 @@
               },
               {
                 "id": "npnf206-3-6-14-98",
-                "titulo": "Letter LXXXIV. To Pammachius and Oceanus.",
+                "titulo": "Carta LXXXIV. Para Pamáquio e Oceano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4432,7 +4432,7 @@
               },
               {
                 "id": "npnf206-3-6-14-99",
-                "titulo": "Letter LXXXV. To Paulinus.",
+                "titulo": "Carta LXXXV. Para Paulino.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4467,7 +4467,7 @@
               },
               {
                 "id": "npnf206-3-6-14-100",
-                "titulo": "Letter LXXXVI. To Theophilus.",
+                "titulo": "Carta LXXXVI. Para Teófilo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4482,7 +4482,7 @@
               },
               {
                 "id": "npnf206-3-6-14-101",
-                "titulo": "Letter LXXXVII. From Theophilus to Jerome.",
+                "titulo": "Carta LXXXVII. De Teófilo a Jerônimo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4497,7 +4497,7 @@
               },
               {
                 "id": "npnf206-3-6-14-102",
-                "titulo": "Letter LXXXVIII. To Theophilus.",
+                "titulo": "Carta LXXXVIII. Para Teófilo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4512,7 +4512,7 @@
               },
               {
                 "id": "npnf206-3-6-14-103",
-                "titulo": "Letter LXXXIX. From Theophilus to Jerome.",
+                "titulo": "Carta LXXXIX. De Teófilo a Jerônimo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4527,7 +4527,7 @@
               },
               {
                 "id": "npnf206-3-6-14-104",
-                "titulo": "Letter XC. From Theophilus to Epiphanius.",
+                "titulo": "Carta XC. De Teófilo a Epifânio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4546,7 +4546,7 @@
               },
               {
                 "id": "npnf206-3-6-14-105",
-                "titulo": "Letter XCI. From Epiphanius to Jerome.",
+                "titulo": "Carta XCI. De Epifânio a Jerônimo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4561,7 +4561,7 @@
               },
               {
                 "id": "npnf206-3-6-14-106",
-                "titulo": "Letter XCII. The Synodical Letter of Theophilus to the Bishops of Palestine and of Cyprus.",
+                "titulo": "Carta XCII. A Carta Sinódica de Teófilo aos Bispos da Palestina e de Chipre.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4628,7 +4628,7 @@
               },
               {
                 "id": "npnf206-3-6-14-107",
-                "titulo": "Letter XCIII. From the Bishops of Palestine to Theophilus.",
+                "titulo": "Carta XCIII. Dos Bispos da Palestina a Teófilo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4639,7 +4639,7 @@
               },
               {
                 "id": "npnf206-3-6-14-108",
-                "titulo": "Letter XCIV. From Dionysius to Theophilus.",
+                "titulo": "Carta XCIV. De Dionísio a Teófilo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4650,7 +4650,7 @@
               },
               {
                 "id": "npnf206-3-6-14-109",
-                "titulo": "Letter XCV. From Pope Anastasius to Simplicianus.",
+                "titulo": "Carta XCV. Do Papa Anastácio a Simpliciano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4673,7 +4673,7 @@
               },
               {
                 "id": "npnf206-3-6-14-110",
-                "titulo": "Letter XCVI. From Theophilus.",
+                "titulo": "Carta XCVI. De Teófilo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4684,7 +4684,7 @@
               },
               {
                 "id": "npnf206-3-6-14-111",
-                "titulo": "Letter XCVII. To Pammachius and Marcella.",
+                "titulo": "Carta XCVII. Para Pamáquio e Marcela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4715,7 +4715,7 @@
               },
               {
                 "id": "npnf206-3-6-14-112",
-                "titulo": "Letter XCVIII. From Theophilus.",
+                "titulo": "Carta XCVIII. De Teófilo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4726,7 +4726,7 @@
               },
               {
                 "id": "npnf206-3-6-14-113",
-                "titulo": "Letter XCIX. To Theophilus.",
+                "titulo": "Carta XCIX. Para Teófilo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4749,7 +4749,7 @@
               },
               {
                 "id": "npnf206-3-6-14-114",
-                "titulo": "Letter C. From Theophilus.",
+                "titulo": "Carta C. De Teófilo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4760,7 +4760,7 @@
               },
               {
                 "id": "npnf206-3-6-14-115",
-                "titulo": "Letter CI. From Augustine.",
+                "titulo": "Carta CI. De Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4771,7 +4771,7 @@
               },
               {
                 "id": "npnf206-3-6-14-116",
-                "titulo": "Letter CII. To Augustine.",
+                "titulo": "Carta CII. Para Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4782,7 +4782,7 @@
               },
               {
                 "id": "npnf206-3-6-14-117",
-                "titulo": "Letter CIII. To Augustine.",
+                "titulo": "Carta CIII. Para Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4793,7 +4793,7 @@
               },
               {
                 "id": "npnf206-3-6-14-118",
-                "titulo": "Letter CIV. From Augustine.",
+                "titulo": "Carta CIV. De Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4804,7 +4804,7 @@
               },
               {
                 "id": "npnf206-3-6-14-119",
-                "titulo": "Letter CV. To Augustine.",
+                "titulo": "Carta CV. Para Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4815,7 +4815,7 @@
               },
               {
                 "id": "npnf206-3-6-14-120",
-                "titulo": "Letter CVI. To Sunnias and Fretela.",
+                "titulo": "Carta CVI. Para Sunnias e Fretela.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4826,7 +4826,7 @@
               },
               {
                 "id": "npnf206-3-6-14-121",
-                "titulo": "Letter CVII. To Laeta.",
+                "titulo": "Carta CVII. Para Laeta.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4893,7 +4893,7 @@
               },
               {
                 "id": "npnf206-3-6-14-122",
-                "titulo": "Letter CVIII. To Eustochium.",
+                "titulo": "Carta CVIII. Para Eustóquio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5080,7 +5080,7 @@
               },
               {
                 "id": "npnf206-3-6-14-123",
-                "titulo": "Letter CIX. To Riparius.",
+                "titulo": "Carta CIX. Para Riparius.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5115,7 +5115,7 @@
               },
               {
                 "id": "npnf206-3-6-14-124",
-                "titulo": "Letter CX. From Augustine.",
+                "titulo": "Carta CX. De Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5130,7 +5130,7 @@
               },
               {
                 "id": "npnf206-3-6-14-125",
-                "titulo": "Letter CXI. From Augustine to Præsidius.",
+                "titulo": "Carta CXI. De Agostinho a Praesidius.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5141,7 +5141,7 @@
               },
               {
                 "id": "npnf206-3-6-14-126",
-                "titulo": "Letter CXII. To Augustine.",
+                "titulo": "Carta CXII. Para Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5152,7 +5152,7 @@
               },
               {
                 "id": "npnf206-3-6-14-127",
-                "titulo": "Letter CXIII. From Theophilus to Jerome.",
+                "titulo": "Carta CXIII. De Teófilo a Jerônimo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5175,7 +5175,7 @@
               },
               {
                 "id": "npnf206-3-6-14-128",
-                "titulo": "Letter CXIV. To Theophilus.",
+                "titulo": "Carta CXIV. Para Teófilo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5202,7 +5202,7 @@
               },
               {
                 "id": "npnf206-3-6-14-129",
-                "titulo": "Letter CXV. To Augustine.",
+                "titulo": "Carta CXV. Para Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5217,7 +5217,7 @@
               },
               {
                 "id": "npnf206-3-6-14-130",
-                "titulo": "Letter CXVI. From Augustine.",
+                "titulo": "Carta CXVI. De Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5232,7 +5232,7 @@
               },
               {
                 "id": "npnf206-3-6-14-131",
-                "titulo": "Letter CXVII. To a Mother and Daughter Living in Gaul.",
+                "titulo": "Carta CXVII. Para uma mãe e uma filha que vivem na Gália.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5311,7 +5311,7 @@
               },
               {
                 "id": "npnf206-3-6-14-132",
-                "titulo": "Letter CXVIII. To Julian.",
+                "titulo": "Carta CXVIII. Para Juliano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5366,7 +5366,7 @@
               },
               {
                 "id": "npnf206-3-6-14-133",
-                "titulo": "Letter CXIX. To Minervius and Alexander.",
+                "titulo": "Carta CXIX. Para Minervius e Alexandre.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5377,7 +5377,7 @@
               },
               {
                 "id": "npnf206-3-6-14-134",
-                "titulo": "Letter CXX. To Hedibia.3113",
+                "titulo": "Carta CXX. Para Hedibia.3113",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5440,7 +5440,7 @@
               },
               {
                 "id": "npnf206-3-6-14-135",
-                "titulo": "Letter CXXI. To Algasia.",
+                "titulo": "Carta CXXI. Para Algásia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5499,7 +5499,7 @@
               },
               {
                 "id": "npnf206-3-6-14-136",
-                "titulo": "Letter CXXII. To Rusticus.",
+                "titulo": "Carta CXXII. Para Rústico.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5558,7 +5558,7 @@
               },
               {
                 "id": "npnf206-3-6-14-137",
-                "titulo": "Letter CXXIII. To Ageruchia.",
+                "titulo": "Carta CXXIII. Para Agerúquia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5701,7 +5701,7 @@
               },
               {
                 "id": "npnf206-3-6-14-138",
-                "titulo": "Letter CXXIV. To Avitus.",
+                "titulo": "Carta CXXIV. Para Avito.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5776,7 +5776,7 @@
               },
               {
                 "id": "npnf206-3-6-14-139",
-                "titulo": "Letter CXXV. To Rusticus.",
+                "titulo": "Carta CXXV. Para Rústico.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5903,7 +5903,7 @@
               },
               {
                 "id": "npnf206-3-6-14-140",
-                "titulo": "Letter CXXVI. To Marcellinus and Anapsychia.",
+                "titulo": "Carta CXXVI. Para Marcelino e Anapsiquia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5930,7 +5930,7 @@
               },
               {
                 "id": "npnf206-3-6-14-141",
-                "titulo": "Letter CXXVII. To Principia.",
+                "titulo": "Carta CXXVII. Para Principia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6021,7 +6021,7 @@
               },
               {
                 "id": "npnf206-3-6-14-142",
-                "titulo": "Letter CXXVIII. To Gaudentius.",
+                "titulo": "Carta CXXVIII. Para Gaudêncio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6068,7 +6068,7 @@
               },
               {
                 "id": "npnf206-3-6-14-143",
-                "titulo": "Letter CXXIX. To Dardanus.",
+                "titulo": "Carta CXXIX. Para Dardano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6079,7 +6079,7 @@
               },
               {
                 "id": "npnf206-3-6-14-144",
-                "titulo": "Letter CXXX. To Demetrias.",
+                "titulo": "Carta CXXX. Para Demétrias.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6214,7 +6214,7 @@
               },
               {
                 "id": "npnf206-3-6-14-145",
-                "titulo": "Letter CXXXI. From Augustine.",
+                "titulo": "Carta CXXXI. De Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6229,7 +6229,7 @@
               },
               {
                 "id": "npnf206-3-6-14-146",
-                "titulo": "Letter CXXXII. From Augustine.",
+                "titulo": "Carta CXXXII. De Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6244,7 +6244,7 @@
               },
               {
                 "id": "npnf206-3-6-14-147",
-                "titulo": "Letter CXXXIII. To Ctesiphon.",
+                "titulo": "Carta CXXXIII. Para Ctesifonte.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6347,7 +6347,7 @@
               },
               {
                 "id": "npnf206-3-6-14-148",
-                "titulo": "Letter CXXXIV. To Augustine.",
+                "titulo": "Carta CXXXIV. Para Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6358,7 +6358,7 @@
               },
               {
                 "id": "npnf206-3-6-14-149",
-                "titulo": "Letter CXXXV. From Pope Innocent to Aurelius.",
+                "titulo": "Carta CXXXV. Do Papa Inocêncio a Aurélio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6377,7 +6377,7 @@
               },
               {
                 "id": "npnf206-3-6-14-150",
-                "titulo": "Letter CXXXVI. From Pope Innocent to Jerome.",
+                "titulo": "Carta CXXXVI. Do Papa Inocêncio a Jerônimo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6396,7 +6396,7 @@
               },
               {
                 "id": "npnf206-3-6-14-151",
-                "titulo": "Letter CXXXVII. From Pope Innocent to John, Bishop of Jerusalem.",
+                "titulo": "Carta CXXXVII. From Pope Innocent to John, Bishop of Jerusalem.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6415,7 +6415,7 @@
               },
               {
                 "id": "npnf206-3-6-14-152",
-                "titulo": "Letter CXXXVIII. To Riparius.",
+                "titulo": "Carta CXXXVIII. Para Riparius.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6430,7 +6430,7 @@
               },
               {
                 "id": "npnf206-3-6-14-153",
-                "titulo": "Letter CXXXIX. To Apronius.",
+                "titulo": "Carta CXXXIX. Para Aprônio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6457,7 +6457,7 @@
               },
               {
                 "id": "npnf206-3-6-14-154",
-                "titulo": "Letter CXL. To Cyprian the Presbyter.",
+                "titulo": "Carta CXL. Para Cipriano, o Presbítero.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6468,7 +6468,7 @@
               },
               {
                 "id": "npnf206-3-6-14-155",
-                "titulo": "Letter CXLI. To Augustine",
+                "titulo": "Carta CXLI. Para Agostinho",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6479,7 +6479,7 @@
               },
               {
                 "id": "npnf206-3-6-14-156",
-                "titulo": "Letter CXLII. To Augustine.",
+                "titulo": "Carta CXLII. Para Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6490,7 +6490,7 @@
               },
               {
                 "id": "npnf206-3-6-14-157",
-                "titulo": "Letter CXLIII. To Alypius and Augustine.",
+                "titulo": "Carta CXLIII. Para Alípio e Agostinho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6501,7 +6501,7 @@
               },
               {
                 "id": "npnf206-3-6-14-158",
-                "titulo": "Letter CXLIV. From Augustine to Optatus.",
+                "titulo": "Carta CXLIV. De Agostinho a Optato.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6572,7 +6572,7 @@
               },
               {
                 "id": "npnf206-3-6-14-159",
-                "titulo": "Letter CXLV. To Exuperantius.",
+                "titulo": "Carta CXLV. Para Exuperâncio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6591,7 +6591,7 @@
               },
               {
                 "id": "npnf206-3-6-14-160",
-                "titulo": "Letter CXLVI. To Evangelus.",
+                "titulo": "Carta CXLVI. Para Evangelus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6618,7 +6618,7 @@
               },
               {
                 "id": "npnf206-3-6-14-161",
-                "titulo": "Letter CXLVII. To Sabinianus.",
+                "titulo": "Carta CXLVII. Para Sabiniano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6681,7 +6681,7 @@
               },
               {
                 "id": "npnf206-3-6-14-162",
-                "titulo": "Letter CXLVIII. To the Matron Celantia.",
+                "titulo": "Carta CXLVIII. Para a Matrona Celantia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6692,7 +6692,7 @@
               },
               {
                 "id": "npnf206-3-6-14-163",
-                "titulo": "Letter CXLIX. On the Jewish Festivals.",
+                "titulo": "Carta CXLIX. Nas festas judaicas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6703,7 +6703,7 @@
               },
               {
                 "id": "npnf206-3-6-14-164",
-                "titulo": "Letter CL. From Procopius to Jerome.",
+                "titulo": "Carta CL. De Procópio a Jerônimo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6716,11 +6716,11 @@
           },
           {
             "id": "npnf206-3-6-165",
-            "titulo": "TREATISES.",
+            "titulo": "TRATADOS.",
             "children": [
               {
                 "id": "npnf206-3-6-165-166",
-                "titulo": "The Life of Paulus the First Hermit.",
+                "titulo": "A Vida de Paulus, o Primeiro Eremita.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -6811,7 +6811,7 @@
               },
               {
                 "id": "npnf206-3-6-165-167",
-                "titulo": "The Life of S. Hilarion.",
+                "titulo": "A Vida de S. Hilarion.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7010,7 +7010,7 @@
               },
               {
                 "id": "npnf206-3-6-165-168",
-                "titulo": "The Life of Malchus, the Captive Monk.",
+                "titulo": "A Vida de Malchus, o Monge Cativo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7069,7 +7069,7 @@
               },
               {
                 "id": "npnf206-3-6-165-169",
-                "titulo": "The Dialogue Against the Luciferians.",
+                "titulo": "O Diálogo Contra os Luciferianos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7432,7 +7432,7 @@
               },
               {
                 "id": "npnf206-3-6-165-170",
-                "titulo": "The Perpetual Virginity of Blessed Mary.",
+                "titulo": "A Virgindade Perpétua de Maria Santíssima.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7565,7 +7565,7 @@
           },
           {
             "id": "npnf206-3-6-171",
-            "titulo": "Against Jovinianus.",
+            "titulo": "Contra Joviniano.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7824,7 +7824,7 @@
           },
           {
             "id": "npnf206-3-6-172",
-            "titulo": "Book II.",
+            "titulo": "Livro II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8023,7 +8023,7 @@
           },
           {
             "id": "npnf206-3-6-173",
-            "titulo": "Against Vigilantius.",
+            "titulo": "Contra Vigilâncio.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8110,7 +8110,7 @@
           },
           {
             "id": "npnf206-3-6-174",
-            "titulo": "To Pammachius Against John of Jerusalem.",
+            "titulo": "Para Pamáquio Contra João de Jerusalém.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8313,7 +8313,7 @@
           },
           {
             "id": "npnf206-3-6-175",
-            "titulo": "Against the Pelagians:",
+            "titulo": "Contra os Pelagianos:",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8336,7 +8336,7 @@
           },
           {
             "id": "npnf206-3-6-176",
-            "titulo": "Prologue.",
+            "titulo": "Prólogo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8351,7 +8351,7 @@
           },
           {
             "id": "npnf206-3-6-177",
-            "titulo": "Book I.",
+            "titulo": "Livro I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9054,7 +9054,7 @@
           },
           {
             "id": "npnf206-3-6-178",
-            "titulo": "Book II.",
+            "titulo": "Livro II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9961,7 +9961,7 @@
           },
           {
             "id": "npnf206-3-6-179",
-            "titulo": "Book III.",
+            "titulo": "Livro III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10216,7 +10216,7 @@
           },
           {
             "id": "npnf206-3-6-180",
-            "titulo": "Prefaces.",
+            "titulo": "Prefácios.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10235,7 +10235,7 @@
           },
           {
             "id": "npnf206-3-6-181",
-            "titulo": "Prefaces to Jerome’s Early Works.",
+            "titulo": "Prefácios aos primeiros trabalhos de Jerônimo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10274,7 +10274,7 @@
           },
           {
             "id": "npnf206-3-6-182",
-            "titulo": "Prefaces to the Vulgate Version of the New Testament.",
+            "titulo": "Prefácios à Versão Vulgata do Novo Testamento.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10285,7 +10285,7 @@
           },
           {
             "id": "npnf206-3-6-183",
-            "titulo": "The Four Gospels.",
+            "titulo": "Os Quatro Evangelhos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10304,7 +10304,7 @@
           },
           {
             "id": "npnf206-3-6-184",
-            "titulo": "Prefaces to the Books of the Vulgate Version of the Old Testament.",
+            "titulo": "Prefácios aos livros da versão Vulgata do Antigo Testamento.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10315,7 +10315,7 @@
           },
           {
             "id": "npnf206-3-6-185",
-            "titulo": "Joshua, Judges, and Ruth.",
+            "titulo": "Josué, Juízes e Rute.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10326,7 +10326,7 @@
           },
           {
             "id": "npnf206-3-6-186",
-            "titulo": "The Books of Samuel and Kings.",
+            "titulo": "Os Livros de Samuel e Reis.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10361,7 +10361,7 @@
           },
           {
             "id": "npnf206-3-6-187",
-            "titulo": "Chronicles.",
+            "titulo": "Crônicas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10372,7 +10372,7 @@
           },
           {
             "id": "npnf206-3-6-188",
-            "titulo": "Ezra and Nehemiah.",
+            "titulo": "Esdras e Neemias.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10387,7 +10387,7 @@
           },
           {
             "id": "npnf206-3-6-189",
-            "titulo": "Esther.",
+            "titulo": "Ester.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10398,7 +10398,7 @@
           },
           {
             "id": "npnf206-3-6-190",
-            "titulo": "Job.",
+            "titulo": "Trabalho.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10413,7 +10413,7 @@
           },
           {
             "id": "npnf206-3-6-191",
-            "titulo": "Psalms.",
+            "titulo": "Salmos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10424,7 +10424,7 @@
           },
           {
             "id": "npnf206-3-6-192",
-            "titulo": "Proverbs, Ecclesiastes, and the Song of Songs.",
+            "titulo": "Provérbios, Eclesiastes e o Cântico dos Cânticos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10447,7 +10447,7 @@
           },
           {
             "id": "npnf206-3-6-193",
-            "titulo": "Isaiah.",
+            "titulo": "Isaías.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10458,7 +10458,7 @@
           },
           {
             "id": "npnf206-3-6-194",
-            "titulo": "Jeremiah and Ezekiel.",
+            "titulo": "Jeremias e Ezequiel.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10484,7 +10484,7 @@
           },
           {
             "id": "npnf206-3-6-196",
-            "titulo": "The Twelve Minor Prophets.",
+            "titulo": "Os Doze Profetas Menores.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10495,7 +10495,7 @@
           },
           {
             "id": "npnf206-3-6-197",
-            "titulo": "Translations from the Septuagint and Chaldee.",
+            "titulo": "Traduções da Septuaginta e Caldeu.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10506,7 +10506,7 @@
           },
           {
             "id": "npnf206-3-6-198",
-            "titulo": "Chronicles.",
+            "titulo": "Crônicas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10517,7 +10517,7 @@
           },
           {
             "id": "npnf206-3-6-199",
-            "titulo": "Book of Job.",
+            "titulo": "Livro de Jó.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10528,7 +10528,7 @@
           },
           {
             "id": "npnf206-3-6-200",
-            "titulo": "The Psalms.",
+            "titulo": "Os Salmos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10543,7 +10543,7 @@
           },
           {
             "id": "npnf206-3-6-201",
-            "titulo": "Books of Solomon.",
+            "titulo": "Livros de Salomão.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10554,7 +10554,7 @@
           },
           {
             "id": "npnf206-3-6-202",
-            "titulo": "Tobit and Judith.",
+            "titulo": "Tobias e Judite.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10565,7 +10565,7 @@
           },
           {
             "id": "npnf206-3-6-203",
-            "titulo": "The Commentaries.",
+            "titulo": "Os comentários.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10648,7 +10648,7 @@
           },
           {
             "id": "npnf206-3-6-204",
-            "titulo": "Matthew.",
+            "titulo": "Mateus.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10671,7 +10671,7 @@
           },
           {
             "id": "npnf206-3-6-205",
-            "titulo": "Galatians.",
+            "titulo": "Gálatas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10734,7 +10734,7 @@
           },
           {
             "id": "npnf206-3-6-206",
-            "titulo": "Ephesians.",
+            "titulo": "Efésios.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10745,7 +10745,7 @@
           },
           {
             "id": "npnf206-3-6-207",
-            "titulo": "Philemon.",
+            "titulo": "Filemom.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10756,7 +10756,7 @@
           },
           {
             "id": "npnf206-3-6-208",
-            "titulo": "Titus.",
+            "titulo": "Tito.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10767,7 +10767,7 @@
           },
           {
             "id": "npnf206-3-6-209",
-            "titulo": "Isaiah.",
+            "titulo": "Isaías.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10786,7 +10786,7 @@
           },
           {
             "id": "npnf206-3-6-210",
-            "titulo": "Jeremiah.",
+            "titulo": "Jeremias.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10813,7 +10813,7 @@
           },
           {
             "id": "npnf206-3-6-211",
-            "titulo": "Ezekiel.",
+            "titulo": "Ezequiel.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10867,7 +10867,7 @@
           },
           {
             "id": "npnf206-3-6-213",
-            "titulo": "Prefaces to the Commentaries on the Minor Prophets.",
+            "titulo": "Prefácios aos Comentários sobre os Profetas Menores.",
             "conteudo": [
               {
                 "tipo": "paragrafo",

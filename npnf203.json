@@ -1,11 +1,11 @@
 [
   {
     "id": "npnf203-3",
-    "titulo": "THE ECCLESIASTICAL HISTORY, DIALOGUES, AND LETTERS OF THEODORET.",
+    "titulo": "A HISTÓRIA ECLESIÁSTICA, DIÁLOGOS E CARTAS DE TEODORETO.",
     "children": [
       {
         "id": "npnf203-3-4",
-        "titulo": "Translator’s Preface.",
+        "titulo": "Prefácio do tradutor.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -28,7 +28,7 @@
       },
       {
         "id": "npnf203-3-5",
-        "titulo": "Chronological Tables to accompany the History and Life of Theodoret.",
+        "titulo": "Tabelas cronológicas para acompanhar a História e Vida de Teodoreto.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -867,7 +867,7 @@
       },
       {
         "id": "npnf203-3-6",
-        "titulo": "Prolegomena.",
+        "titulo": "Prolegômenos.",
         "children": [
           {
             "id": "npnf203-3-6-7",
@@ -906,7 +906,7 @@
           },
           {
             "id": "npnf203-3-6-8",
-            "titulo": "II.—Episcopate at Cyrus.",
+            "titulo": "II.—Episcopado em Ciro.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -929,7 +929,7 @@
           },
           {
             "id": "npnf203-3-6-9",
-            "titulo": "III.—Relations with Nestorius and to Nestorianism.",
+            "titulo": "III.—Relações com Nestório e com o Nestorianismo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -968,7 +968,7 @@
           },
           {
             "id": "npnf203-3-6-10",
-            "titulo": "IV.—Under the Ban of Theodosius and of the Latrocinium.",
+            "titulo": "IV.—Sob a proibição de Teodósio e do Latrocínio.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -991,7 +991,7 @@
           },
           {
             "id": "npnf203-3-6-11",
-            "titulo": "V.—Theodoret and Chalcedon.",
+            "titulo": "V.—Teodoreto e Calcedônia.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1010,7 +1010,7 @@
           },
           {
             "id": "npnf203-3-6-12",
-            "titulo": "VI.—Retirement after Chalcedon, and Death.",
+            "titulo": "VI.—Aposentadoria após Calcedônia e morte.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1025,7 +1025,7 @@
           },
           {
             "id": "npnf203-3-6-13",
-            "titulo": "VII.—The Condemnation of “the Three Chapters.”",
+            "titulo": "VII.—A condenação dos “Três Capítulos”.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1056,7 +1056,7 @@
           },
           {
             "id": "npnf203-3-6-14",
-            "titulo": "VIII.—The Works of Theodoret.",
+            "titulo": "VIII.—As Obras de Teodoreto.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1175,7 +1175,7 @@
           },
           {
             "id": "npnf203-3-6-15",
-            "titulo": "IX.—Contents and Character of the Extant Works.",
+            "titulo": "IX.—Conteúdo e Caráter das Obras Existentes.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1366,7 +1366,7 @@
           },
           {
             "id": "npnf203-3-6-16",
-            "titulo": "Manuscripts and Editions of Separate Works.",
+            "titulo": "Manuscritos e edições de obras separadas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1425,7 +1425,7 @@
           },
           {
             "id": "npnf203-3-6-17",
-            "titulo": "The Anathemas of Cyril in Opposition to Nestorius.",
+            "titulo": "Os anátemas de Cirilo em oposição a Nestório.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1484,7 +1484,7 @@
           },
           {
             "id": "npnf203-3-6-18",
-            "titulo": "Counter-statements of Theodoret.",
+            "titulo": "Contra-declarações de Teodoreto.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1545,15 +1545,15 @@
       },
       {
         "id": "npnf203-3-19",
-        "titulo": "THE ECCLESIASTICAL HISTORY OF THEODORET.",
+        "titulo": "A HISTÓRIA ECLESIÁSTICA DE TEODORETO.",
         "children": [
           {
             "id": "npnf203-3-19-20",
-            "titulo": "Book I.",
+            "titulo": "Livro I.",
             "children": [
               {
                 "id": "npnf203-3-19-20-21",
-                "titulo": "Chapter I.—Origin of the Arian Heresy.",
+                "titulo": "Capítulo I. — Origem da Heresia Ariana.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1568,7 +1568,7 @@
               },
               {
                 "id": "npnf203-3-19-20-22",
-                "titulo": "Chapter II.—List of the Principal Bishops",
+                "titulo": "Capítulo II.—Lista dos Bispos Principais",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1599,7 +1599,7 @@
               },
               {
                 "id": "npnf203-3-19-20-23",
-                "titulo": "Chapter III.—The Epistle of Alexander, Bishop of Alexandria to Alexander, Bishop of Constantinople.",
+                "titulo": "Capítulo III.—A Epístola de Alexandre, Bispo de Alexandria, a Alexandre, Bispo de Constantinopla.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1694,7 +1694,7 @@
               },
               {
                 "id": "npnf203-3-19-20-24",
-                "titulo": "Chapter IV.—The Letter of Arius to Eusebius, Bishop of Nicomedia",
+                "titulo": "Capítulo IV.—A Carta de Ário a Eusébio, Bispo de Nicomédia",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1717,7 +1717,7 @@
               },
               {
                 "id": "npnf203-3-19-20-25",
-                "titulo": "Chapter V.—The Letter of Eusebius, Bishop of Nicomedia, to Paulinus, Bishop of Tyre.",
+                "titulo": "Capítulo V. — Carta de Eusébio, Bispo de Nicomédia, a Paulino, Bispo de Tiro.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1748,7 +1748,7 @@
               },
               {
                 "id": "npnf203-3-19-20-26",
-                "titulo": "Chapter VI.—General Council of Nicæa.",
+                "titulo": "Capítulo VI.—Concílio Geral de Nicéia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1771,7 +1771,7 @@
               },
               {
                 "id": "npnf203-3-19-20-27",
-                "titulo": "Chapter VII.—Confutation of Arianism deduced from the Writings of Eustathius and Athanasius.",
+                "titulo": "Capítulo VII.—Confutação do Arianismo deduzida dos Escritos de Eustáquio e Atanásio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1810,7 +1810,7 @@
               },
               {
                 "id": "npnf203-3-19-20-28",
-                "titulo": "Chapter VIII.—Facts relating to Meletius the Egyptian, from whom originated the Meletian Schism, which remains to this day.—Synodical Epistle respecting him.",
+                "titulo": "Capítulo VIII. — Fatos relativos a Melécio, o Egípcio, de quem se originou o Cisma Meletiano, que permanece até hoje. — Epístola Sinódica a respeito dele.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1849,7 +1849,7 @@
               },
               {
                 "id": "npnf203-3-19-20-29",
-                "titulo": "Chapter IX.—The Epistle of the Emperor Constantine, concerning the matters transacted at the Council, addressed to those Bishops who were not present.",
+                "titulo": "Capítulo IX.—A Epístola do Imperador Constantino, relativa aos assuntos tratados no Concílio, dirigida aos Bispos que não estavam presentes.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1876,7 +1876,7 @@
               },
               {
                 "id": "npnf203-3-19-20-30",
-                "titulo": "Chapter X.—The daily wants of the Church supplied by the Emperor, and an account of his other virtues.",
+                "titulo": "Capítulo X. — As necessidades diárias da Igreja supridas pelo Imperador e um relato de suas outras virtudes.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1891,7 +1891,7 @@
               },
               {
                 "id": "npnf203-3-19-20-31",
-                "titulo": "Chapter XI",
+                "titulo": "Capítulo XI",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1950,7 +1950,7 @@
               },
               {
                 "id": "npnf203-3-19-20-32",
-                "titulo": "Chapter XII.—Confutation of the blasphemies of the Arians of our time, from the writings of Eusebius, Bishop of Cæsarea.",
+                "titulo": "Capítulo XII.—Confutação das blasfêmias dos arianos de nosso tempo, dos escritos de Eusébio, bispo de Cesaréia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1977,7 +1977,7 @@
               },
               {
                 "id": "npnf203-3-19-20-33",
-                "titulo": "Chapter XIII.—Extract from the Letter of Athanasius on the Death of Arius375.",
+                "titulo": "Capítulo XIII.—Extrato da Carta de Atanásio sobre a Morte de Ário375.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2000,7 +2000,7 @@
               },
               {
                 "id": "npnf203-3-19-20-34",
-                "titulo": "Chapter XIV.—Letter written by the Emperor Constantine respecting the building of Churches383.",
+                "titulo": "Capítulo XIV.—Carta escrita pelo Imperador Constantino a respeito da construção de Igrejas383.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2019,7 +2019,7 @@
               },
               {
                 "id": "npnf203-3-19-20-35",
-                "titulo": "Chapter XV.—The Epistle of Constantine concerning the preparation of copies of the Holy Scriptures.",
+                "titulo": "Capítulo XV.—A Epístola de Constantino sobre a preparação de cópias das Sagradas Escrituras.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2038,7 +2038,7 @@
               },
               {
                 "id": "npnf203-3-19-20-36",
-                "titulo": "Chapter XVI.—Letter from the Emperor to Macarius, Bishop of Jerusalem, concerning the building of the Holy Church.",
+                "titulo": "Capítulo XVI.—Carta do Imperador a Macário, Bispo de Jerusalém, sobre a construção da Santa Igreja.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2057,7 +2057,7 @@
               },
               {
                 "id": "npnf203-3-19-20-37",
-                "titulo": "Chapter XVII.—Helena395, Mother of the Emperor Constantine.—Her zeal in the Erection of the Holy Church.",
+                "titulo": "Capítulo XVII.—Helena395, Mãe do Imperador Constantino.—Seu zelo na ereção da Santa Igreja.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2088,7 +2088,7 @@
               },
               {
                 "id": "npnf203-3-19-20-38",
-                "titulo": "Chapter XVIII.—The Unlawful Translation of Eusebius, Bishop of Nicomedia.",
+                "titulo": "Capítulo XVIII.—A Tradução Ilegal de Eusébio, Bispo de Nicomédia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2099,7 +2099,7 @@
               },
               {
                 "id": "npnf203-3-19-20-39",
-                "titulo": "Chapter XIX.—Epistle of the Emperor Constantine against Eusebius and Theognis, addressed to the Nicomedians.",
+                "titulo": "Capítulo XIX.—Epístola do Imperador Constantino contra Eusébio e Teógnis, dirigida aos Nicomedianos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2134,7 +2134,7 @@
               },
               {
                 "id": "npnf203-3-19-20-40",
-                "titulo": "Chapter XX.—The artful Machinations of Eusebius and his followers against the Holy Eustathius, Bishop of Antioch.",
+                "titulo": "Capítulo XX. — As engenhosas maquinações de Eusébio e seus seguidores contra Santo Eustáquio, Bispo de Antioquia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2145,7 +2145,7 @@
               },
               {
                 "id": "npnf203-3-19-20-41",
-                "titulo": "Chapter XXI.—Bishops of Heretical opinions ordained in Antioch after the Banishment of St. Eustathius411.",
+                "titulo": "Capítulo XXI.—Bispos de opiniões heréticas ordenados em Antioquia após o banimento de Santo Eustáquio411.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2156,7 +2156,7 @@
               },
               {
                 "id": "npnf203-3-19-20-42",
-                "titulo": "Chapter XXII.—Conversion of the Indians413.",
+                "titulo": "Capítulo XXII.—Conversão dos índios413.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2167,7 +2167,7 @@
               },
               {
                 "id": "npnf203-3-19-20-43",
-                "titulo": "Chapter XXIII.—Conversion of the Iberians417.",
+                "titulo": "Capítulo XXIII.—Conversão dos Ibéricos417.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2178,7 +2178,7 @@
               },
               {
                 "id": "npnf203-3-19-20-44",
-                "titulo": "Chapter XXIV.—Letter written by the Emperor Constantine to Sapor419, the King of Persia, respecting the Christians.",
+                "titulo": "Capítulo XXIV.—Carta escrita pelo imperador Constantino a Sapor419, rei da Pérsia, a respeito dos cristãos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2213,7 +2213,7 @@
               },
               {
                 "id": "npnf203-3-19-20-45",
-                "titulo": "Chapter XXV.—An account of the plot formed against the Holy Athanasius.",
+                "titulo": "Capítulo XXV. — Relato da conspiração formada contra Santo Atanásio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2236,7 +2236,7 @@
               },
               {
                 "id": "npnf203-3-19-20-46",
-                "titulo": "Chapter XXVI.—Another plot against Athanasius.",
+                "titulo": "Capítulo XXVI.—Outra conspiração contra Atanásio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2251,7 +2251,7 @@
               },
               {
                 "id": "npnf203-3-19-20-47",
-                "titulo": "Chapter XXVII.—Epistle of the Emperor Constantine to the Council of Tyre434.",
+                "titulo": "Capítulo XXVII. — Epístola do Imperador Constantino ao Concílio de Tiro434.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2286,7 +2286,7 @@
               },
               {
                 "id": "npnf203-3-19-20-48",
-                "titulo": "Chapter XXVIII.—The Council of Tyre.",
+                "titulo": "Capítulo XXVIII.—O Concílio de Tiro.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2313,7 +2313,7 @@
               },
               {
                 "id": "npnf203-3-19-20-49",
-                "titulo": "Chapter XXIX.—Consecration of the Church of Jerusalem.—Banishment of St. Athanasius.",
+                "titulo": "Capítulo XXIX. — Consagração da Igreja de Jerusalém. — Banimento de Santo Atanásio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2328,7 +2328,7 @@
               },
               {
                 "id": "npnf203-3-19-20-50",
-                "titulo": "Chapter XXX.—Will of the blessed Emperor Constantine.",
+                "titulo": "Capítulo XXX.—Testamento do abençoado Imperador Constantino.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2347,7 +2347,7 @@
               },
               {
                 "id": "npnf203-3-19-20-51",
-                "titulo": "Chapter XXXI.—Apology for Constantine.",
+                "titulo": "Capítulo XXXI. — Desculpas para Constantino.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2358,7 +2358,7 @@
               },
               {
                 "id": "npnf203-3-19-20-52",
-                "titulo": "Chapter XXXII.—The End of the Holy Emperor Constantine.",
+                "titulo": "Capítulo XXXII. — O Fim do Sacro Imperador Constantino.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2375,11 +2375,11 @@
           },
           {
             "id": "npnf203-3-19-53",
-            "titulo": "Book II.",
+            "titulo": "Livro II.",
             "children": [
               {
                 "id": "npnf203-3-19-53-54",
-                "titulo": "Chapter I.—Return of St. Athanasius.",
+                "titulo": "Capítulo I. — Retorno de Santo Atanásio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2406,7 +2406,7 @@
               },
               {
                 "id": "npnf203-3-19-53-55",
-                "titulo": "Chapter II.—Declension of the Emperor Constantius from the true Faith.",
+                "titulo": "Capítulo II. — Declinação do Imperador Constâncio da verdadeira Fé.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2425,7 +2425,7 @@
               },
               {
                 "id": "npnf203-3-19-53-56",
-                "titulo": "Chapter III.—Second Exile of St. Athanasius.—Ordination and Death of Gregorius.",
+                "titulo": "Capítulo III. — Segundo exílio de Santo Atanásio. — Ordenação e morte de Gregório.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2436,7 +2436,7 @@
               },
               {
                 "id": "npnf203-3-19-53-57",
-                "titulo": "Chapter IV.—Paulus, Bishop of Constantinople.",
+                "titulo": "Capítulo IV.—Paulus, Bispo de Constantinopla.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2451,7 +2451,7 @@
               },
               {
                 "id": "npnf203-3-19-53-58",
-                "titulo": "Chapter V.—The Heresy of Macedonius.",
+                "titulo": "Capítulo V. — A Heresia de Macedônio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2462,7 +2462,7 @@
               },
               {
                 "id": "npnf203-3-19-53-59",
-                "titulo": "Chapter VI.—Council held at Sardica.",
+                "titulo": "Capítulo VI.—Concílio realizado em Sardica.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2581,7 +2581,7 @@
               },
               {
                 "id": "npnf203-3-19-53-60",
-                "titulo": "Chapter VII.—Account of the Bishops Euphratas and Vincentius, and of the plot formed in Antioch against them.",
+                "titulo": "Capítulo VII. — Relato dos Bispos Eufratas e Vicente e da conspiração formada em Antioquia contra eles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2600,7 +2600,7 @@
               },
               {
                 "id": "npnf203-3-19-53-61",
-                "titulo": "Chapter VIII.—Stephanus Deposed.",
+                "titulo": "Capítulo VIII. - Estéfano deposto.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2611,7 +2611,7 @@
               },
               {
                 "id": "npnf203-3-19-53-62",
-                "titulo": "Chapter IX.—The Second Return of Saint Athanasius.",
+                "titulo": "Capítulo IX. — O Segundo Retorno de Santo Atanásio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2634,7 +2634,7 @@
               },
               {
                 "id": "npnf203-3-19-53-63",
-                "titulo": "Chapter X.—Third exile and flight of Athanasius.",
+                "titulo": "Capítulo X. — Terceiro exílio e fuga de Atanásio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2649,7 +2649,7 @@
               },
               {
                 "id": "npnf203-3-19-53-64",
-                "titulo": "Chapter XI.—The evil and daring deeds done by Georgius510 in Alexandria.",
+                "titulo": "Capítulo XI. — Os atos malignos e ousados ​​cometidos por Georgius510 em Alexandria.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2680,7 +2680,7 @@
               },
               {
                 "id": "npnf203-3-19-53-65",
-                "titulo": "Chapter XII.—Council of Milan.",
+                "titulo": "Capítulo XII.—Concílio de Milão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2707,7 +2707,7 @@
               },
               {
                 "id": "npnf203-3-19-53-66",
-                "titulo": "Chapter XIII.—Conference between Liberius, Pope of Rome, and the Emperor Constantius537.",
+                "titulo": "Capítulo XIII.—Conferência entre Libério, Papa de Roma, e o Imperador Constâncio537.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2818,7 +2818,7 @@
               },
               {
                 "id": "npnf203-3-19-53-67",
-                "titulo": "Chapter XIV.—Concerning the Banishment and Return of the Holy Liberius.",
+                "titulo": "Capítulo XIV. — Sobre o Banimento e Retorno do Santo Libério.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2833,7 +2833,7 @@
               },
               {
                 "id": "npnf203-3-19-53-68",
-                "titulo": "Chapter XV.—Council of Ariminum545.",
+                "titulo": "Capítulo XV.—Concílio de Ariminum545.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2876,7 +2876,7 @@
               },
               {
                 "id": "npnf203-3-19-53-69",
-                "titulo": "Chapter XVI.—Concerning the Synod held at Nica554 in Thrace, and the Confession of Faith drawn up there.",
+                "titulo": "Capítulo XVI. — Sobre o Sínodo realizado em Nica554, na Trácia, e a Confissão de Fé ali redigida.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2899,7 +2899,7 @@
               },
               {
                 "id": "npnf203-3-19-53-70",
-                "titulo": "Chapter XVII.—Synodical Act of Damasus, Bishop of Rome, and of the Western Bishops, about the Council at Ariminum.",
+                "titulo": "Capítulo XVII.—Ato Sinodal de Dâmaso, Bispo de Roma, e dos Bispos Ocidentais, sobre o Concílio de Ariminum.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2934,7 +2934,7 @@
               },
               {
                 "id": "npnf203-3-19-53-71",
-                "titulo": "Chapter XVIII.—The Letter of Athanasius, Bishop of Alexandria, concerning the same Council.",
+                "titulo": "Capítulo XVIII.—A Carta de Atanásio, Bispo de Alexandria, a respeito do mesmo Concílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2953,7 +2953,7 @@
               },
               {
                 "id": "npnf203-3-19-53-72",
-                "titulo": "Chapter XIX.—Concerning the cunning of Leontius, Bishop of Antioch, and the boldness of Flavianus and Diodorus.",
+                "titulo": "Capítulo XIX. — Sobre a astúcia de Leôncio, bispo de Antioquia, e a ousadia de Flaviano e Diodoro.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2976,7 +2976,7 @@
               },
               {
                 "id": "npnf203-3-19-53-73",
-                "titulo": "Chapter XX.—Concerning the innovations of Eudoxius,572 of Germanicia, and the zeal of Basilius573 of Ancyra, and of Eustathius574 of Sebasteia against him.",
+                "titulo": "Capítulo XX. — A respeito das inovações de Eudóxio,572 da Germânica, e do zelo de Basílio573 de Ancira, e de Eustáquio574 de Sebasteia contra ele.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2987,7 +2987,7 @@
               },
               {
                 "id": "npnf203-3-19-53-74",
-                "titulo": "Chapter XXI.—Of the Second Council of Nicæa.",
+                "titulo": "Capítulo XXI.-Do Segundo Concílio de Nicéia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -2998,7 +2998,7 @@
               },
               {
                 "id": "npnf203-3-19-53-75",
-                "titulo": "Chapter XXII.—Of the Council held at Seleucia in Isauria.",
+                "titulo": "Capítulo XXII.-Do Concílio realizado em Selêucia, na Isáuria.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3017,7 +3017,7 @@
               },
               {
                 "id": "npnf203-3-19-53-76",
-                "titulo": "Chapter XXIII.—Of what befell the orthodox bishops at Constantinople.",
+                "titulo": "Capítulo XXIII. — Do que aconteceu aos bispos ortodoxos em Constantinopla.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3040,7 +3040,7 @@
               },
               {
                 "id": "npnf203-3-19-53-77",
-                "titulo": "Chapter XXIV.—Synodical Epistle written against Aetius.",
+                "titulo": "Capítulo XXIV. — Epístola Sinodal escrita contra Aécio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3071,7 +3071,7 @@
               },
               {
                 "id": "npnf203-3-19-53-78",
-                "titulo": "Chapter XXV.—Of the causes which separated the Eunomians from the Arians.",
+                "titulo": "Capítulo XXV. — Das causas que separaram os eunomianos dos arianos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3098,7 +3098,7 @@
               },
               {
                 "id": "npnf203-3-19-53-79",
-                "titulo": "Chapter XXVI.—Of the siege of the city of Nisibis,582and the apostolic conversation of Bishop Jacobus.",
+                "titulo": "Capítulo XXVI. — Do cerco à cidade de Nísibis582 e da conversação apostólica do Bispo Jacó.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3117,7 +3117,7 @@
               },
               {
                 "id": "npnf203-3-19-53-80",
-                "titulo": "Chapter XXVII.—Of the Council of Antioch and what was done there against the holy Meletius.",
+                "titulo": "Capítulo XXVII. — Do Concílio de Antioquia e o que ali foi feito contra o santo Melécio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3140,7 +3140,7 @@
               },
               {
                 "id": "npnf203-3-19-53-81",
-                "titulo": "Chapter XXVIII.—About Eusebius, Bishop of Samosata.",
+                "titulo": "Capítulo XXVIII.—Sobre Eusébio, Bispo de Samósata.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3161,11 +3161,11 @@
           },
           {
             "id": "npnf203-3-19-82",
-            "titulo": "Book III.",
+            "titulo": "Livro III.",
             "children": [
               {
                 "id": "npnf203-3-19-82-83",
-                "titulo": "Chapter I.—Of the reign of Julianus; how from a child he was brought up in piety and lapsed into impiety; and in what manner, though at first he kept his impiety secret, he afterwards laid it bare.",
+                "titulo": "Capítulo I. — Do reinado de Juliano; como desde criança ele foi criado na piedade e caiu na impiedade; e de que maneira, embora a princípio ele tenha mantido sua impiedade em segredo, depois ele a revelou.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3196,7 +3196,7 @@
               },
               {
                 "id": "npnf203-3-19-82-84",
-                "titulo": "Chapter II.—Of the return of the bishops and the consecration of Paulinus.",
+                "titulo": "Capítulo II. — Do retorno dos bispos e da consagração de Paulino.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3227,7 +3227,7 @@
               },
               {
                 "id": "npnf203-3-19-82-85",
-                "titulo": "Chapter III.—Of the number and character of the deeds done by Pagans against the Christians when they got the power from Julian.",
+                "titulo": "Capítulo III. — Do número e caráter dos atos cometidos pelos pagãos contra os cristãos quando eles obtiveram o poder de Juliano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3258,7 +3258,7 @@
               },
               {
                 "id": "npnf203-3-19-82-86",
-                "titulo": "Chapter IV.—Of the laws made by Julian against the Christians.",
+                "titulo": "Capítulo IV. — Das leis feitas por Juliano contra os cristãos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3273,7 +3273,7 @@
               },
               {
                 "id": "npnf203-3-19-82-87",
-                "titulo": "Chapter V.—Of the fourth exile and flight of the holy Athanasius.",
+                "titulo": "Capítulo V. — Do quarto exílio e fuga do santo Atanásio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3284,7 +3284,7 @@
               },
               {
                 "id": "npnf203-3-19-82-88",
-                "titulo": "Chapter VI.—Of Apollo and Daphne, and of the holy Babylas.",
+                "titulo": "Capítulo VI. - De Apolo e Dafne, e dos santos Babylas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3295,7 +3295,7 @@
               },
               {
                 "id": "npnf203-3-19-82-89",
-                "titulo": "Chapter VII.—Of Theodorus the Confessor.",
+                "titulo": "Capítulo VII. — De Teodoro, o Confessor.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3306,7 +3306,7 @@
               },
               {
                 "id": "npnf203-3-19-82-90",
-                "titulo": "Chapter VIII.—Of the confiscation of the sacred treasures and taking away of the allowances.627",
+                "titulo": "Capítulo VIII. — Do confisco dos tesouros sagrados e da retirada das mesadas.627",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3317,7 +3317,7 @@
               },
               {
                 "id": "npnf203-3-19-82-91",
-                "titulo": "Chapter IX.—Of what befell Julianus, the Emperor’s Uncle, and Felix.",
+                "titulo": "Capítulo IX. — Do que aconteceu com Juliano, tio do imperador e Félix.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3340,7 +3340,7 @@
               },
               {
                 "id": "npnf203-3-19-82-92",
-                "titulo": "Chapter X.—Of the Son of the Priest.",
+                "titulo": "Capítulo X. — Do Filho do Sacerdote.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3351,7 +3351,7 @@
               },
               {
                 "id": "npnf203-3-19-82-93",
-                "titulo": "Chapter XI.—Of the Holy Martyrs Juventinus and Maximinus.",
+                "titulo": "Capítulo XI. — Dos Santos Mártires Juventino e Maximino.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3366,7 +3366,7 @@
               },
               {
                 "id": "npnf203-3-19-82-94",
-                "titulo": "Chapter XII.—Of Valentinianus the great Emperor.",
+                "titulo": "Capítulo XII. — De Valentiniano, o grande imperador.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3381,7 +3381,7 @@
               },
               {
                 "id": "npnf203-3-19-82-95",
-                "titulo": "Chapter XIII.—Of other confessors.",
+                "titulo": "Capítulo XIII. — Dos outros confessores.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3396,7 +3396,7 @@
               },
               {
                 "id": "npnf203-3-19-82-96",
-                "titulo": "Chapter XIV.—Of Artemius the Duke.639 Of Publia the Deaconess and her divine boldness.",
+                "titulo": "Capítulo XIV. — De Artêmio, o duque.639 De Publia, a diaconisa, e sua divina ousadia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3419,7 +3419,7 @@
               },
               {
                 "id": "npnf203-3-19-82-97",
-                "titulo": "Chapter XV.—Of the Jews; of their attempt at building, and of the heaven-sent plagues that befel them.",
+                "titulo": "Capítulo XV. — Dos Judeus; de sua tentativa de construção e das pragas enviadas pelos céus que se abateram sobre eles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3430,7 +3430,7 @@
               },
               {
                 "id": "npnf203-3-19-82-98",
-                "titulo": "Chapter XVI.—Of the expedition against the Persians.",
+                "titulo": "Capítulo XVI.—Da expedição contra os persas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3441,7 +3441,7 @@
               },
               {
                 "id": "npnf203-3-19-82-99",
-                "titulo": "Chapter XVII.—Of the boldness of speech of the decurion of Beroea.652",
+                "titulo": "Capítulo XVII. — Da ousadia do discurso do decurião de Beréia.652",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3456,7 +3456,7 @@
               },
               {
                 "id": "npnf203-3-19-82-100",
-                "titulo": "Chapter XVIII.—Of the prediction of the pedagogue.",
+                "titulo": "Capítulo XVIII. — Da previsão do pedagogo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3475,7 +3475,7 @@
               },
               {
                 "id": "npnf203-3-19-82-101",
-                "titulo": "Chapter XIX.—Of the Prophecy of St. Julianus the monk.",
+                "titulo": "Capítulo XIX. — Da Profecia do Monge São Juliano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3486,7 +3486,7 @@
               },
               {
                 "id": "npnf203-3-19-82-102",
-                "titulo": "Chapter XX.—Of the death of the Emperor Julian in Persia.",
+                "titulo": "Capítulo XX. — Da morte do imperador Juliano na Pérsia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3497,7 +3497,7 @@
               },
               {
                 "id": "npnf203-3-19-82-103",
-                "titulo": "Chapter XXI.—Of the sorcery at Carræ which was detected after his death. After he was slain the jugglery of his sorcery was detected. For Carræ is a city which still retains the relics of his false religion.",
+                "titulo": "Capítulo XXI. — Da feitiçaria em Carræ que foi detectada após sua morte. Depois que ele foi morto, o malabarismo de sua feitiçaria foi detectado. Pois Carræ é uma cidade que ainda conserva as relíquias da sua falsa religião.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3512,7 +3512,7 @@
               },
               {
                 "id": "npnf203-3-19-82-104",
-                "titulo": "Chapter XXII.—Of the heads discovered in the palace at Antioch and the public rejoicings there.",
+                "titulo": "Capítulo XXII. — Das cabeças descobertas no palácio de Antioquia e das alegrias públicas ali.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3533,11 +3533,11 @@
           },
           {
             "id": "npnf203-3-19-105",
-            "titulo": "Book IV.",
+            "titulo": "Livro IV.",
             "children": [
               {
                 "id": "npnf203-3-19-105-106",
-                "titulo": "Chapter I.—Of the reign and piety of Jovianus",
+                "titulo": "Capítulo I. - Do reinado e piedade de Joviano",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3548,7 +3548,7 @@
               },
               {
                 "id": "npnf203-3-19-105-107",
-                "titulo": "Chapter II.—Of the return of Athanasius.",
+                "titulo": "Capítulo II. — Do retorno de Atanásio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3559,7 +3559,7 @@
               },
               {
                 "id": "npnf203-3-19-105-108",
-                "titulo": "Chapter III.—Synodical letter to the Emperor Jovian concerning the Faith.",
+                "titulo": "Capítulo III. — Carta Sinodal ao Imperador Joviano sobre a Fé.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3578,7 +3578,7 @@
               },
               {
                 "id": "npnf203-3-19-105-109",
-                "titulo": "Chapter IV.—Of the restoration of allowances to the churches; and of the Emperor’s death.",
+                "titulo": "Capítulo IV. — Da restauração das licenças às igrejas; e da morte do Imperador.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3593,7 +3593,7 @@
               },
               {
                 "id": "npnf203-3-19-105-110",
-                "titulo": "Chapter V.—Of the reign of Valentinianus, and how he associated Valens his brother with him.",
+                "titulo": "Capítulo V. — Do reinado de Valentiniano e como ele associou Valente, seu irmão, a ele.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3604,7 +3604,7 @@
               },
               {
                 "id": "npnf203-3-19-105-111",
-                "titulo": "Chapter VI.—Of the election of Ambrosius, the Bishop of Milan.",
+                "titulo": "Capítulo VI. — Da eleição de Ambrósio, Bispo de Milão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3623,7 +3623,7 @@
               },
               {
                 "id": "npnf203-3-19-105-112",
-                "titulo": "Chapter VII.—Letters of the Emperors Valentinianus and Valens, written to the diocese681of Asia about the Homoüsion, on hearing that some men in Asia and in Phrygia were in dispute about the divine decree.",
+                "titulo": "Capítulo VII. — Cartas dos imperadores Valentiniano e Valente, escritas à diocese da Ásia sobre a Homoüsion, ao saberem que alguns homens na Ásia e na Frígia estavam em disputa sobre o decreto divino.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3670,7 +3670,7 @@
               },
               {
                 "id": "npnf203-3-19-105-113",
-                "titulo": "Chapter VIII.—Synodical Epistle of the Synod in Illyricum concerning the Faith.",
+                "titulo": "Capítulo VIII. — Epístola Sinodal do Sínodo da Ilíria sobre a Fé.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3725,7 +3725,7 @@
               },
               {
                 "id": "npnf203-3-19-105-114",
-                "titulo": "Chapter IX.—Of the heresy of the Audiani.",
+                "titulo": "Capítulo IX. — Da heresia dos Audiani.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3740,7 +3740,7 @@
               },
               {
                 "id": "npnf203-3-19-105-115",
-                "titulo": "Chapter X.—Of the heresy of the Messaliani.",
+                "titulo": "Capítulo X. — Da heresia dos Messaliani.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3779,7 +3779,7 @@
               },
               {
                 "id": "npnf203-3-19-105-116",
-                "titulo": "Chapter XI.—In what manner Valens fell into heresy.",
+                "titulo": "Capítulo XI. — De que maneira Valente caiu na heresia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3790,7 +3790,7 @@
               },
               {
                 "id": "npnf203-3-19-105-117",
-                "titulo": "Chapter XII.—How Valens exiled the virtuous bishops.",
+                "titulo": "Capítulo XII. — Como Valente exilou os bispos virtuosos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3801,7 +3801,7 @@
               },
               {
                 "id": "npnf203-3-19-105-118",
-                "titulo": "Chapter XIII.—Of Eusebius, bishop of Samosata, and others.",
+                "titulo": "Capítulo XIII. — De Eusébio, bispo de Samósata, e outros.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3848,7 +3848,7 @@
               },
               {
                 "id": "npnf203-3-19-105-119",
-                "titulo": "Chapter XIV.—Of the holy Barses, and of the exile of the bishop of Edessa and his companions.",
+                "titulo": "Capítulo XIV. — Dos santos Barses e do exílio do bispo de Edessa e seus companheiros.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3859,7 +3859,7 @@
               },
               {
                 "id": "npnf203-3-19-105-120",
-                "titulo": "Chapter XV.—Of the persecution which took place at Edessa, and of Eulogius and Protogenes, presbyters of Edessa.",
+                "titulo": "Capítulo XV. — Da perseguição ocorrida em Edessa, e de Eulógio e Protógenes, presbíteros de Edessa.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3882,7 +3882,7 @@
               },
               {
                 "id": "npnf203-3-19-105-121",
-                "titulo": "Chapter XVI.—Of the holy Basilius, Bishop of Cæsarea, and the measures taken against him by Valens and the prefect Modestus.",
+                "titulo": "Capítulo XVI. — Do santo Basílio, bispo de Cesaréia, e das medidas tomadas contra ele por Valente e pelo prefeito Modesto.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3913,7 +3913,7 @@
               },
               {
                 "id": "npnf203-3-19-105-122",
-                "titulo": "Chapter XVII.—Of the death of the great Athanasius and the election of Petrus.",
+                "titulo": "Capítulo XVII. — Da morte do grande Atanásio e da eleição de Petrus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3924,7 +3924,7 @@
               },
               {
                 "id": "npnf203-3-19-105-123",
-                "titulo": "Chapter XVIII.—On the overthrow of Petrus and the introduction of Lucius the Arian.",
+                "titulo": "Capítulo XVIII. — Sobre a derrubada de Petrus e a introdução de Lúcio, o Ariano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -3951,7 +3951,7 @@
               },
               {
                 "id": "npnf203-3-19-105-124",
-                "titulo": "Chapter XIX.—Narrative of events at Alexandria in the time of Lucius the Arian, taken from a letter of Petrus, Bishop of Alexandria.",
+                "titulo": "Capítulo XIX. — Narrativa dos acontecimentos em Alexandria na época de Lúcio, o Ariano, extraída de uma carta de Petrus, bispo de Alexandria.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4014,7 +4014,7 @@
               },
               {
                 "id": "npnf203-3-19-105-125",
-                "titulo": "Chapter XX.—Of Mavia,759 Queen of the Saracens, and the ordination760of Moses the monk.",
+                "titulo": "Capítulo XX. — De Mavia,759 Rainha dos Sarracenos, e a ordenação760do monge Moisés.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4029,7 +4029,7 @@
               },
               {
                 "id": "npnf203-3-19-105-126",
-                "titulo": "Chapter XXI",
+                "titulo": "Capítulo XXI",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4044,7 +4044,7 @@
               },
               {
                 "id": "npnf203-3-19-105-127",
-                "titulo": "Chapter XXII.—How Flavianus and Diodorus gathered the church of the orthodox in Antioch.",
+                "titulo": "Capítulo XXII. — Como Flaviano e Diodoro reuniram a igreja ortodoxa em Antioquia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4063,7 +4063,7 @@
               },
               {
                 "id": "npnf203-3-19-105-128",
-                "titulo": "Chapter XXIII.—Of the holy monk Aphraates.",
+                "titulo": "Capítulo XXIII. — Do santo monge Afraates.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4074,7 +4074,7 @@
               },
               {
                 "id": "npnf203-3-19-105-129",
-                "titulo": "Chapter XXIV.—Of the holy monk Julianus.",
+                "titulo": "Capítulo XXIV.—Do santo monge Juliano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4089,7 +4089,7 @@
               },
               {
                 "id": "npnf203-3-19-105-130",
-                "titulo": "Chapter XXV.—Of what other monks were distinguished at this period.",
+                "titulo": "Capítulo XXV.—Do que outros monges se distinguiram neste período.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4104,7 +4104,7 @@
               },
               {
                 "id": "npnf203-3-19-105-131",
-                "titulo": "Chapter XXVI.—Of Didymus of Alexandria and Ephraim the Syrian.",
+                "titulo": "Capítulo XXVI. — De Dídimo de Alexandria e Efraim, o Sírio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4119,7 +4119,7 @@
               },
               {
                 "id": "npnf203-3-19-105-132",
-                "titulo": "Chapter XXVII.—Of what bishops were at this time distinguished in Asia and Pontus.",
+                "titulo": "Capítulo XXVII. — Do que os bispos se distinguiam naquela época na Ásia e no Ponto.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4138,7 +4138,7 @@
               },
               {
                 "id": "npnf203-3-19-105-133",
-                "titulo": "Chapter XXVIII.—Of the letter written by Valens to the great Valentinianus about the war, and how he replied.",
+                "titulo": "Capítulo XXVIII. — Da carta escrita por Valente ao grande Valentiniano sobre a guerra e como ele respondeu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4149,7 +4149,7 @@
               },
               {
                 "id": "npnf203-3-19-105-134",
-                "titulo": "Chapter XXIX.—Of the piety of Count Terentius.",
+                "titulo": "Capítulo XXIX. — Da piedade do Conde Terêncio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4160,7 +4160,7 @@
               },
               {
                 "id": "npnf203-3-19-105-135",
-                "titulo": "Chapter XXX.—Of the bold utterance of Trajanus the general.",
+                "titulo": "Capítulo XXX. — Da ousada declaração de Trajano, o general.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4171,7 +4171,7 @@
               },
               {
                 "id": "npnf203-3-19-105-136",
-                "titulo": "Chapter XXXI.—Of Isaac804the monk of Constantinople and Bretanio the Scythian Bishop.",
+                "titulo": "Capítulo XXXI. — De Isaac804, o monge de Constantinopla, e de Bretânio, o bispo cita.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4186,7 +4186,7 @@
               },
               {
                 "id": "npnf203-3-19-105-137",
-                "titulo": "Chapter XXXII.—Of the expedition of Valens against the Goths and how he paid the penalty of his impiety.",
+                "titulo": "Capítulo XXXII. — Da expedição de Valente contra os godos e como ele pagou a pena de sua impiedade.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4197,7 +4197,7 @@
               },
               {
                 "id": "npnf203-3-19-105-138",
-                "titulo": "Chapter XXXIII.—How the Goths became tainted by the Arian error.",
+                "titulo": "Capítulo XXXIII. — Como os godos foram contaminados pelo erro ariano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4210,11 +4210,11 @@
           },
           {
             "id": "npnf203-3-19-139",
-            "titulo": "Book V.",
+            "titulo": "Livro V.",
             "children": [
               {
                 "id": "npnf203-3-19-139-140",
-                "titulo": "Chapter I.—Of the piety of the emperor Gratianus",
+                "titulo": "Capítulo I. — Da piedade do imperador Graciano",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4229,7 +4229,7 @@
               },
               {
                 "id": "npnf203-3-19-139-141",
-                "titulo": "Chapter II.—Of the return of the bishops.",
+                "titulo": "Capítulo II.—Do retorno dos bispos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4248,7 +4248,7 @@
               },
               {
                 "id": "npnf203-3-19-139-142",
-                "titulo": "Chapter III.—Of the dissension caused by Paulinus; of the innovation by Apollinarius of Laodicea, and of the philosophy of Meletius.",
+                "titulo": "Capítulo III. — Da dissensão causada por Paulino; da inovação de Apolinário de Laodicéia e da filosofia de Melécio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4267,7 +4267,7 @@
               },
               {
                 "id": "npnf203-3-19-139-143",
-                "titulo": "Chapter IV.—Of Eusebius814 Bishop of Samosata.",
+                "titulo": "Capítulo IV. — De Eusébio814 Bispo de Samósata.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4298,7 +4298,7 @@
               },
               {
                 "id": "npnf203-3-19-139-144",
-                "titulo": "Chapter V.—Of the campaign of Theodosius.",
+                "titulo": "Capítulo V. — Da campanha de Teodósio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4336,7 +4336,7 @@
               },
               {
                 "id": "npnf203-3-19-139-146",
-                "titulo": "Chapter VII.—Of famous leaders of the Arian faction.",
+                "titulo": "Capítulo VII. — Dos líderes famosos da facção ariana.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4351,7 +4351,7 @@
               },
               {
                 "id": "npnf203-3-19-139-147",
-                "titulo": "Chapter VIII.—The council assembled at Constantinople.",
+                "titulo": "Capítulo VIII. — O conselho reunido em Constantinopla.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4374,7 +4374,7 @@
               },
               {
                 "id": "npnf203-3-19-139-148",
-                "titulo": "Chapter IX.—Synodical letter from the council at Constantinople.",
+                "titulo": "Capítulo IX. — Carta sinodal do concílio de Constantinopla.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4417,7 +4417,7 @@
               },
               {
                 "id": "npnf203-3-19-139-149",
-                "titulo": "Chapter X.—Synodical letter of Damasus bishop of Rome against Apollinarius and Timotheus.",
+                "titulo": "Capítulo X. — Carta sinodal do bispo Dâmaso de Roma contra Apolinário e Timóteo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4444,7 +4444,7 @@
               },
               {
                 "id": "npnf203-3-19-139-150",
-                "titulo": "Chapter XI.—A confession of the Catholic faith which Pope Damasus sent to Bishop Paulinus852 in Macedonia when he was at Thessalonica.",
+                "titulo": "Capítulo XI.—Uma confissão de fé católica que o Papa Dâmaso enviou ao Bispo Paulino852 na Macedônia, quando ele estava em Tessalônica.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4535,7 +4535,7 @@
               },
               {
                 "id": "npnf203-3-19-139-151",
-                "titulo": "Chapter XII.—Of the death of Gratianus and the sovereignty of Maximus",
+                "titulo": "Capítulo XII.—Da morte de Graciano e da soberania de Máximo",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4546,7 +4546,7 @@
               },
               {
                 "id": "npnf203-3-19-139-152",
-                "titulo": "Chapter XIII.—Of Justina, the wife of Valentinianus, and of her plot against Ambrosius.",
+                "titulo": "Capítulo XIII. — De Justina, esposa de Valentiniano, e de sua conspiração contra Ambrósio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4561,7 +4561,7 @@
               },
               {
                 "id": "npnf203-3-19-139-153",
-                "titulo": "Chapter XIV.—Of the information given by Maximus the tyrant to Valentinianus.",
+                "titulo": "Capítulo XIV. — Da informação dada por Máximo, o tirano, a Valentiniano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4572,7 +4572,7 @@
               },
               {
                 "id": "npnf203-3-19-139-154",
-                "titulo": "Chapter XV.—Of the Letter written by the Emperor Theodosius concerning the same.",
+                "titulo": "Capítulo XV. — Da Carta escrita pelo Imperador Teodósio a respeito do mesmo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4587,7 +4587,7 @@
               },
               {
                 "id": "npnf203-3-19-139-155",
-                "titulo": "Chapter XVI.—Of Amphilochius, bishop of Iconium.",
+                "titulo": "Capítulo XVI. — De Anfilóquio, bispo de Icônio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4610,7 +4610,7 @@
               },
               {
                 "id": "npnf203-3-19-139-156",
-                "titulo": "Chapter XVII.—Of the massacre of Thessalonica; the boldness of Bishop Ambrosius, and the piety of the Emperor.",
+                "titulo": "Capítulo XVII. — Do massacre de Tessalônica; a ousadia do bispo Ambrósio e a piedade do imperador.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4677,7 +4677,7 @@
               },
               {
                 "id": "npnf203-3-19-139-157",
-                "titulo": "Chapter XVIII.—Of the Empress Placilla.880",
+                "titulo": "Capítulo XVIII.-Da Imperatriz Placilla.880",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4692,7 +4692,7 @@
               },
               {
                 "id": "npnf203-3-19-139-158",
-                "titulo": "Chapter XIX.—Of the sedition of Antioch.881",
+                "titulo": "Capítulo XIX.—Da sedição de Antioquia.881",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4711,7 +4711,7 @@
               },
               {
                 "id": "npnf203-3-19-139-159",
-                "titulo": "Chapter XX.—Of the destruction of the temples all over the Empire.",
+                "titulo": "Capítulo XX. — Da destruição dos templos em todo o Império.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4722,7 +4722,7 @@
               },
               {
                 "id": "npnf203-3-19-139-160",
-                "titulo": "Chapter XXI.—Of Marcellus, bishop of Apamea, and the idols’ temples destroyed by him.",
+                "titulo": "Capítulo XXI.—De Marcelo, bispo de Apamea, e dos templos dos ídolos por ele destruídos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4749,7 +4749,7 @@
               },
               {
                 "id": "npnf203-3-19-139-161",
-                "titulo": "Chapter XXII.—Of Theophilus, bishop of Alexandria, and what happened at the demolition of the idols in that city.",
+                "titulo": "Capítulo XXII. — De Teófilo, bispo de Alexandria, e o que aconteceu na demolição dos ídolos naquela cidade.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4768,7 +4768,7 @@
               },
               {
                 "id": "npnf203-3-19-139-162",
-                "titulo": "Chapter XXIII.—Of Flavianus bishop of Antioch and of the sedition which arose in the western Church on account of Paulinus.",
+                "titulo": "Capítulo XXIII. — De Flaviano, bispo de Antioquia, e da sedição que surgiu na Igreja ocidental por causa de Paulino.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4799,7 +4799,7 @@
               },
               {
                 "id": "npnf203-3-19-139-163",
-                "titulo": "Chapter XXIV.—Of the tyranny of Eugenius and the victory won through faith by the Emperor Theodosius.",
+                "titulo": "Capítulo XXIV. — Da tirania de Eugênio e da vitória conquistada pela fé pelo imperador Teodósio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4838,7 +4838,7 @@
               },
               {
                 "id": "npnf203-3-19-139-164",
-                "titulo": "Chapter XXV.—Of the death of the Emperor Theodosius.905",
+                "titulo": "Capítulo XXV.—Da morte do Imperador Teodósio.905",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4857,7 +4857,7 @@
               },
               {
                 "id": "npnf203-3-19-139-165",
-                "titulo": "Chapter XXVI.—Of Honorius the emperor and Telemachus the monk.",
+                "titulo": "Capítulo XXVI. — De Honório, o imperador, e Telêmaco, o monge.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4872,7 +4872,7 @@
               },
               {
                 "id": "npnf203-3-19-139-166",
-                "titulo": "Chapter XXVII.—Of the piety of the emperor Arcadius and the ordination of John Chrysostom.",
+                "titulo": "Capítulo XXVII. — Da piedade do imperador Arcádio e da ordenação de João Crisóstomo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4895,7 +4895,7 @@
               },
               {
                 "id": "npnf203-3-19-139-167",
-                "titulo": "Chapter XXVIII.—Of John’s boldness for God.",
+                "titulo": "Capítulo XXVIII. - Da ousadia de João para com Deus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4906,7 +4906,7 @@
               },
               {
                 "id": "npnf203-3-19-139-168",
-                "titulo": "Chapter XXIX.—Of the idol temples which were destroyed by John in Phoenicia.",
+                "titulo": "Capítulo XXIX. — Dos templos de ídolos que foram destruídos por João na Fenícia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4921,7 +4921,7 @@
               },
               {
                 "id": "npnf203-3-19-139-169",
-                "titulo": "Chapter XXX.—Of the church of the Goths.",
+                "titulo": "Capítulo XXX. — Da igreja dos godos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4932,7 +4932,7 @@
               },
               {
                 "id": "npnf203-3-19-139-170",
-                "titulo": "Chapter XXXI.—Of his care for the Scythians and his zeal against the Marcionists",
+                "titulo": "Capítulo XXXI. — De seu cuidado com os citas e seu zelo contra os marcionistas",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4951,7 +4951,7 @@
               },
               {
                 "id": "npnf203-3-19-139-171",
-                "titulo": "Chapter XXXII.—Of the demand made by Gainas and of John Chrysostom’s reply.",
+                "titulo": "Capítulo XXXII. — Da exigência de Gainas e da resposta de João Crisóstomo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4970,7 +4970,7 @@
               },
               {
                 "id": "npnf203-3-19-139-172",
-                "titulo": "Chapter XXXIII.—Of the ambassage of Chrysostom to Gainas.",
+                "titulo": "Capítulo XXXIII. — Da embaixada de Crisóstomo em Gainas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -4981,7 +4981,7 @@
               },
               {
                 "id": "npnf203-3-19-139-173",
-                "titulo": "Chapter XXXIV.—Of the events which happened on account of Chrysostom.",
+                "titulo": "Capítulo XXXIV. — Dos acontecimentos ocorridos por causa de Crisóstomo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5016,7 +5016,7 @@
               },
               {
                 "id": "npnf203-3-19-139-174",
-                "titulo": "Chapter XXXV.—Of Alexander, bishop of Antioch.",
+                "titulo": "Capítulo XXXV. — De Alexandre, bispo de Antioquia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5031,7 +5031,7 @@
               },
               {
                 "id": "npnf203-3-19-139-175",
-                "titulo": "Chapter XXXVI.—Of the removal of the remains of John and of the faith of Theodosius and his sisters.",
+                "titulo": "Capítulo XXXVI. — Da remoção dos restos mortais de João e da fé de Teodósio e suas irmãs.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5058,7 +5058,7 @@
               },
               {
                 "id": "npnf203-3-19-139-176",
-                "titulo": "Chapter XXXVII.—Of Theodotus bishop of Antioch.",
+                "titulo": "Capítulo XXXVII. — De Teódoto, bispo de Antioquia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5081,7 +5081,7 @@
               },
               {
                 "id": "npnf203-3-19-139-177",
-                "titulo": "Chapter XXXVIII.—Of the persecutions in Persia and of them that were martyred there.",
+                "titulo": "Capítulo XXXVIII. — Das perseguições na Pérsia e dos que ali foram martirizados.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5128,7 +5128,7 @@
               },
               {
                 "id": "npnf203-3-19-139-178",
-                "titulo": "Chapter XXXIX.—Of Theodorus, bishop of Mopsuestia.",
+                "titulo": "Capítulo XXXIX. — De Teodoro, bispo de Mopsuéstia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -5407,11 +5407,11 @@
       },
       {
         "id": "npnf203-3-179",
-        "titulo": "DIALOGUES. The “Eranistes”965 or “Polymorphus”966 of the Blessed Theodoretus, Bishop of Cyrus.",
+        "titulo": "DIÁLOGOS. O “Eranistes”965 ou “Polymorphus”966 do Beato Teodoro, Bispo de Ciro.",
         "children": [
           {
             "id": "npnf203-3-179-180",
-            "titulo": "Prologue.",
+            "titulo": "Prólogo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5458,7 +5458,7 @@
           },
           {
             "id": "npnf203-3-179-181",
-            "titulo": "Dialogue I.—The Immutable. Orthodoxos and Eranistes.",
+            "titulo": "Diálogo I. — O Imutável. Ortodoxos e Eranistes.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7045,7 +7045,7 @@
           },
           {
             "id": "npnf203-3-179-182",
-            "titulo": "Dialogue II.—The Unconfounded.",
+            "titulo": "Diálogo II. — O Inconfundível.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10052,7 +10052,7 @@
           },
           {
             "id": "npnf203-3-179-183",
-            "titulo": "Dialogue III.—The Impassible.",
+            "titulo": "Diálogo III.—O Impassível.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12653,11 +12653,11 @@
       },
       {
         "id": "npnf203-3-184",
-        "titulo": "Demonstrations by Syllogisms.",
+        "titulo": "Demonstrações por Silogismos.",
         "children": [
           {
             "id": "npnf203-3-184-185",
-            "titulo": "That God the Word is Immutable.",
+            "titulo": "Que Deus, a Palavra, é imutável.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12712,7 +12712,7 @@
           },
           {
             "id": "npnf203-3-184-186",
-            "titulo": "Proofs that the Union was without Confusion.",
+            "titulo": "Provas de que a União estava sem confusão.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12767,7 +12767,7 @@
           },
           {
             "id": "npnf203-3-184-187",
-            "titulo": "Proof that the Divinity of the Saviour is Impassible.",
+            "titulo": "Prova de que a Divindade do Salvador é Intransponível.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12840,11 +12840,11 @@
       },
       {
         "id": "npnf203-3-188",
-        "titulo": "Letters of the Blessed Theodoret, Bishop of Cyrus.",
+        "titulo": "Cartas do Beato Teodoreto, Bispo de Ciro.",
         "children": [
           {
             "id": "npnf203-3-188-189",
-            "titulo": "I. To an Unknown Correspondent.",
+            "titulo": "I. Para um correspondente desconhecido.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12855,7 +12855,7 @@
           },
           {
             "id": "npnf203-3-188-190",
-            "titulo": "II. To the Same.",
+            "titulo": "II. Para o mesmo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12866,7 +12866,7 @@
           },
           {
             "id": "npnf203-3-188-191",
-            "titulo": "III. To Bishop Irenæus.1610",
+            "titulo": "III. Ao Bispo Irineu.1610",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12889,7 +12889,7 @@
           },
           {
             "id": "npnf203-3-188-192",
-            "titulo": "IV. Festal.",
+            "titulo": "4. Festa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12911,7 +12911,7 @@
           },
           {
             "id": "npnf203-3-188-194",
-            "titulo": "VI. Festal.",
+            "titulo": "VI. Festa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12922,7 +12922,7 @@
           },
           {
             "id": "npnf203-3-188-195",
-            "titulo": "VII. To Theonilla.",
+            "titulo": "VII. Para Theonila.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12933,7 +12933,7 @@
           },
           {
             "id": "npnf203-3-188-196",
-            "titulo": "VIII. To Eugraphia.",
+            "titulo": "VIII. Para Eugrafia.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12944,7 +12944,7 @@
           },
           {
             "id": "npnf203-3-188-197",
-            "titulo": "IX. To an Anonymous Correspondent.",
+            "titulo": "IX. Para um correspondente anônimo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12955,7 +12955,7 @@
           },
           {
             "id": "npnf203-3-188-198",
-            "titulo": "X. To the Learned Elias.",
+            "titulo": "X. Ao sábio Elias.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12970,7 +12970,7 @@
           },
           {
             "id": "npnf203-3-188-199",
-            "titulo": "XI. To Flavianus Bishop of Constantinople.",
+            "titulo": "XI. A Flaviano Bispo de Constantinopla.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12985,7 +12985,7 @@
           },
           {
             "id": "npnf203-3-188-200",
-            "titulo": "XII. To the Bishop Irenæus.1626",
+            "titulo": "XII. Ao Bispo Irineu.1626",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12996,7 +12996,7 @@
           },
           {
             "id": "npnf203-3-188-201",
-            "titulo": "XIII. To Cyrus.",
+            "titulo": "XIII. Para Ciro.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13011,7 +13011,7 @@
           },
           {
             "id": "npnf203-3-188-202",
-            "titulo": "XIV. To Alexandra.",
+            "titulo": "XIV. Para Alexandra.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13041,7 +13041,7 @@
           },
           {
             "id": "npnf203-3-188-204",
-            "titulo": "XVI. To Bishop Irenæus.1640",
+            "titulo": "XVI. Ao Bispo Irineu.1640",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13060,7 +13060,7 @@
           },
           {
             "id": "npnf203-3-188-205",
-            "titulo": "XVII. To the Deaconess Casiana.",
+            "titulo": "XVII. À Diaconisa Casiana.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13075,7 +13075,7 @@
           },
           {
             "id": "npnf203-3-188-206",
-            "titulo": "XVIII. To Neoptolemus.",
+            "titulo": "XVIII. Para Neoptólemo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13086,7 +13086,7 @@
           },
           {
             "id": "npnf203-3-188-207",
-            "titulo": "XIX. To the Presbyter Basilius.",
+            "titulo": "XIX. Ao Presbítero Basílio.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13097,7 +13097,7 @@
           },
           {
             "id": "npnf203-3-188-208",
-            "titulo": "XX. To the Presbyter Martyrius.",
+            "titulo": "XX. Ao Presbítero Martírio.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13108,7 +13108,7 @@
           },
           {
             "id": "npnf203-3-188-209",
-            "titulo": "XXI. To the Learned Eusebius.",
+            "titulo": "XXI. Ao Erudito Eusébio.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13163,7 +13163,7 @@
           },
           {
             "id": "npnf203-3-188-210",
-            "titulo": "XXII. To Count Ulpianus.",
+            "titulo": "XXII. Para contar Ulpiano.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13174,7 +13174,7 @@
           },
           {
             "id": "npnf203-3-188-211",
-            "titulo": "XXIII. To the Patrician Areobindas.1661",
+            "titulo": "XXIII. Ao Patrício Areobindas.1661",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13185,7 +13185,7 @@
           },
           {
             "id": "npnf203-3-188-212",
-            "titulo": "XXIV. To Andreas Bishop of Samosata.",
+            "titulo": "XXIV. Para Andreas Bispo de Samósata.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13196,7 +13196,7 @@
           },
           {
             "id": "npnf203-3-188-213",
-            "titulo": "XXV. Festal.",
+            "titulo": "XXV. Festa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13207,7 +13207,7 @@
           },
           {
             "id": "npnf203-3-188-214",
-            "titulo": "XXVI. Festal.",
+            "titulo": "XXVI. Festa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13218,7 +13218,7 @@
           },
           {
             "id": "npnf203-3-188-215",
-            "titulo": "XXVII. To Aquilinus, Deacon and Archimandrite.",
+            "titulo": "XXVII. A Aquilino, Diácono e Arquimandrita.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13229,7 +13229,7 @@
           },
           {
             "id": "npnf203-3-188-216",
-            "titulo": "XXVIII. To Jacobus, Presbyter and Monk.",
+            "titulo": "XXVIII. Para Jacobus, Presbítero e Monge.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13240,7 +13240,7 @@
           },
           {
             "id": "npnf203-3-188-217",
-            "titulo": "XXIX. To Apellion.",
+            "titulo": "XXIX. Para Apellion.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13255,7 +13255,7 @@
           },
           {
             "id": "npnf203-3-188-218",
-            "titulo": "XXX. To Aerius the Sophist.1666",
+            "titulo": "XXX. Para Aerius, o Sofista.1666",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13270,7 +13270,7 @@
           },
           {
             "id": "npnf203-3-188-219",
-            "titulo": "XXXI. To Domnus Bishop of Antioch.1669",
+            "titulo": "XXXII. Para Domnus Bispo de Antioquia.1669",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13296,7 +13296,7 @@
           },
           {
             "id": "npnf203-3-188-221",
-            "titulo": "XXXIII. To Stasimus, Count and Primate.1673",
+            "titulo": "XXXIII. Para Stasimus, Conde e Primaz.1673",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13307,7 +13307,7 @@
           },
           {
             "id": "npnf203-3-188-222",
-            "titulo": "XXXIV. To the Count Patricius.",
+            "titulo": "XXXIV. Ao Conde Patrício.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13318,7 +13318,7 @@
           },
           {
             "id": "npnf203-3-188-223",
-            "titulo": "XXXV. To the Bishop Irenæus.1675",
+            "titulo": "XXXV. Ao Bispo Irineu.1675",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13329,7 +13329,7 @@
           },
           {
             "id": "npnf203-3-188-224",
-            "titulo": "XXXVI. To Pompianus, Bishop of Emesa.",
+            "titulo": "XXXVI. A Pompiano, bispo de Emesa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13340,7 +13340,7 @@
           },
           {
             "id": "npnf203-3-188-225",
-            "titulo": "XXXVII. To Salustius the Governor.1676",
+            "titulo": "XXXVII. Para Salustius, o Governador.1676",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13351,7 +13351,7 @@
           },
           {
             "id": "npnf203-3-188-226",
-            "titulo": "XXXVIII. Festal.",
+            "titulo": "XXXVIII. Festa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13362,7 +13362,7 @@
           },
           {
             "id": "npnf203-3-188-227",
-            "titulo": "XXXIX. Festal.",
+            "titulo": "XXXIX. Festa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13373,7 +13373,7 @@
           },
           {
             "id": "npnf203-3-188-228",
-            "titulo": "XL. To Theodorus the Vicar.1678",
+            "titulo": "XL. Para Teodoro, o Vigário.1678",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13384,7 +13384,7 @@
           },
           {
             "id": "npnf203-3-188-229",
-            "titulo": "XLI. To Claudianus.1679",
+            "titulo": "XLI. Para Claudianus.1679",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13399,7 +13399,7 @@
           },
           {
             "id": "npnf203-3-188-230",
-            "titulo": "XLII. To Constantius the Prefect.1681",
+            "titulo": "XLII. Para Constâncio, o Prefeito.1681",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13414,7 +13414,7 @@
           },
           {
             "id": "npnf203-3-188-231",
-            "titulo": "XLIII. To the Augusta Pulcheria.1685",
+            "titulo": "XLIII. À Augusta Pulquéria.1685",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13425,7 +13425,7 @@
           },
           {
             "id": "npnf203-3-188-232",
-            "titulo": "XLIV. To the Patrician1687Senator.",
+            "titulo": "XLIV. Ao Senador Patrício1687.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13436,7 +13436,7 @@
           },
           {
             "id": "npnf203-3-188-233",
-            "titulo": "XLV. To the Patrician Anatolius.1692",
+            "titulo": "XLV. Ao Patrício Anatólio.1692",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13447,7 +13447,7 @@
           },
           {
             "id": "npnf203-3-188-234",
-            "titulo": "XLVI. To the Learned Petrus.",
+            "titulo": "XLVI. Para o Erudito Petrus.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13458,7 +13458,7 @@
           },
           {
             "id": "npnf203-3-188-235",
-            "titulo": "XLVII. To Proclus,1693 Bishop of Constantinople.",
+            "titulo": "XLVII. Para Proclus, 1693 Bispo de Constantinopla.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13469,7 +13469,7 @@
           },
           {
             "id": "npnf203-3-188-236",
-            "titulo": "XLVIII. To Eustathius, Bishop of Berytus.1694",
+            "titulo": "XLVIII. Para Eustácio, Bispo de Berytus.1694",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13480,7 +13480,7 @@
           },
           {
             "id": "npnf203-3-188-237",
-            "titulo": "XLIX. To Damianus,1695Bishop of Sidon.",
+            "titulo": "XLIX. Para Damiano, 1695 Bispo de Sidon.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13491,7 +13491,7 @@
           },
           {
             "id": "npnf203-3-188-238",
-            "titulo": "L. To the Archimandrite Gerontius.1696",
+            "titulo": "L. Ao Arquimandrita Gerôncio.1696",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13513,7 +13513,7 @@
           },
           {
             "id": "npnf203-3-188-240",
-            "titulo": "LII. To Ibas, Bishop of Edessa.1698",
+            "titulo": "LII. Para Ibas, Bispo de Edessa.1698",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13528,7 +13528,7 @@
           },
           {
             "id": "npnf203-3-188-241",
-            "titulo": "LIII. To Sophronius, Bishop of Constantina.1701",
+            "titulo": "LIII. Para Sofrônio, Bispo de Constantina.1701",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13539,7 +13539,7 @@
           },
           {
             "id": "npnf203-3-188-242",
-            "titulo": "LIV. Festal.",
+            "titulo": "LIV. Festa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13550,7 +13550,7 @@
           },
           {
             "id": "npnf203-3-188-243",
-            "titulo": "LV. Festal.",
+            "titulo": "LV. Festa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13561,7 +13561,7 @@
           },
           {
             "id": "npnf203-3-188-244",
-            "titulo": "LVI. Festal.",
+            "titulo": "LVI. Festa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13572,7 +13572,7 @@
           },
           {
             "id": "npnf203-3-188-245",
-            "titulo": "LVII. To the Præfect Eutrechius.1702",
+            "titulo": "LVII. Ao Prefeito Eutréquio.1702",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13583,7 +13583,7 @@
           },
           {
             "id": "npnf203-3-188-246",
-            "titulo": "LVIII. To the Consul Nomus.1703",
+            "titulo": "LVIII. Ao Cônsul Nomus.1703",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13594,7 +13594,7 @@
           },
           {
             "id": "npnf203-3-188-247",
-            "titulo": "LIX. To Claudianus.1704",
+            "titulo": "LIX. Para Claudianus.1704",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13605,7 +13605,7 @@
           },
           {
             "id": "npnf203-3-188-248",
-            "titulo": "LX. To Dioscorus, Bishop of Alexandria.1705",
+            "titulo": "LX. Para Dióscoro, Bispo de Alexandria.1705",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13616,7 +13616,7 @@
           },
           {
             "id": "npnf203-3-188-249",
-            "titulo": "LXI. To the Presbyter Archibius.",
+            "titulo": "LXI. Ao Presbítero Archibius.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13627,7 +13627,7 @@
           },
           {
             "id": "npnf203-3-188-250",
-            "titulo": "LXII. To the Presbyter John.",
+            "titulo": "LXII. Ao Presbítero João.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13649,7 +13649,7 @@
           },
           {
             "id": "npnf203-3-188-252",
-            "titulo": "LXIV. Festal.",
+            "titulo": "LXIV. Festa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13660,7 +13660,7 @@
           },
           {
             "id": "npnf203-3-188-253",
-            "titulo": "LXV. To the General Zeno.1711",
+            "titulo": "LXV. Ao General Zenão.1711",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13671,7 +13671,7 @@
           },
           {
             "id": "npnf203-3-188-254",
-            "titulo": "LXVI. To Aerius the Sophist.1712",
+            "titulo": "LXVI. Para Aerius, o Sofista.1712",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13682,7 +13682,7 @@
           },
           {
             "id": "npnf203-3-188-255",
-            "titulo": "LXVII. To Maranas.",
+            "titulo": "LXVII. Para Maranas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13693,7 +13693,7 @@
           },
           {
             "id": "npnf203-3-188-256",
-            "titulo": "LXVIII. To Epiphanius.",
+            "titulo": "LXVIII. Para Epifânio.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13704,7 +13704,7 @@
           },
           {
             "id": "npnf203-3-188-257",
-            "titulo": "LXIX. To Eugraphia.1713",
+            "titulo": "LXIX. Para Eugrafia.1713",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13715,7 +13715,7 @@
           },
           {
             "id": "npnf203-3-188-258",
-            "titulo": "LXX. To Eustathius, Bishop of Ægæ.1715",
+            "titulo": "LXX. Para Eustáquio, Bispo de Ægæ.1715",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13726,7 +13726,7 @@
           },
           {
             "id": "npnf203-3-188-259",
-            "titulo": "LXXI. To Zeno,1716 General and Consul.",
+            "titulo": "LXXI. Para Zenão, 1716 Geral e Cônsul.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13737,7 +13737,7 @@
           },
           {
             "id": "npnf203-3-188-260",
-            "titulo": "LXXII. To Hermesigenes the Assessor.1717",
+            "titulo": "LXXII. Para Hermesígenes, o Assessor.1717",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13748,7 +13748,7 @@
           },
           {
             "id": "npnf203-3-188-261",
-            "titulo": "LXXIII. To Apollonius.1718",
+            "titulo": "LXXIII. Para Apolônio.1718",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13759,7 +13759,7 @@
           },
           {
             "id": "npnf203-3-188-262",
-            "titulo": "LXXIV. To Urbanus.",
+            "titulo": "LXXIV. Para Urbano.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13770,7 +13770,7 @@
           },
           {
             "id": "npnf203-3-188-263",
-            "titulo": "LXXV. To the Clergy of Beroea.",
+            "titulo": "LXXV. Ao Clero de Beréia.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13781,7 +13781,7 @@
           },
           {
             "id": "npnf203-3-188-264",
-            "titulo": "LXXVI. To Uranius, Governor of Cyprus.",
+            "titulo": "LXXVI. Para Urânio, Governador de Chipre.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13792,7 +13792,7 @@
           },
           {
             "id": "npnf203-3-188-265",
-            "titulo": "LXXVII. To Eulalius, Bishop of Persian Armenia.1725",
+            "titulo": "LXXVII. Para Eulálico, Bispo da Armênia Persa.1725",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13819,7 +13819,7 @@
           },
           {
             "id": "npnf203-3-188-266",
-            "titulo": "LXXVIII. To Eusebius, Bishop of Persian Armenia.",
+            "titulo": "LXXVIII. A Eusébio, Bispo da Armênia Persa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13838,7 +13838,7 @@
           },
           {
             "id": "npnf203-3-188-267",
-            "titulo": "LXXIX. To Anatolius the Patrician.1751",
+            "titulo": "LXXIX. Para Anatólio, o Patrício.1751",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13853,7 +13853,7 @@
           },
           {
             "id": "npnf203-3-188-268",
-            "titulo": "LXXX. To the Prefect Eutrechius.1756",
+            "titulo": "LXXX. Ao Prefeito Eutréquio.1756",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13864,7 +13864,7 @@
           },
           {
             "id": "npnf203-3-188-269",
-            "titulo": "LXXXI. To the Consul Nomus.1758",
+            "titulo": "LXXXII. Ao Cônsul Nomus.1758",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13879,7 +13879,7 @@
           },
           {
             "id": "npnf203-3-188-270",
-            "titulo": "LXXXII. To Eusebius, Bishop of Ancyra.1762",
+            "titulo": "LXXXII. Para Eusébio, Bispo de Ancira.1762",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13910,7 +13910,7 @@
           },
           {
             "id": "npnf203-3-188-271",
-            "titulo": "LXXXIII. Of Theodoretus, Bishop of Cyrus, to Dioscorus, Archbishop of Alexandria.",
+            "titulo": "LXXXIII. De Teodoro, Bispo de Ciro, a Dióscoro, Arcebispo de Alexandria.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13981,7 +13981,7 @@
           },
           {
             "id": "npnf203-3-188-272",
-            "titulo": "LXXXIV. To the Bishops of Cilicia.1779",
+            "titulo": "LXXXIV. Aos Bispos da Cilícia.1779",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13996,7 +13996,7 @@
           },
           {
             "id": "npnf203-3-188-273",
-            "titulo": "LXXXV. To the Bishop Basil.1784",
+            "titulo": "LXXXV. Ao Bispo Basílio.1784",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14015,7 +14015,7 @@
           },
           {
             "id": "npnf203-3-188-274",
-            "titulo": "LXXXVI.1788To Flavianus, Bishop of Constantinople.",
+            "titulo": "LXXXVI.1788A Flaviano, Bispo de Constantinopla.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14042,7 +14042,7 @@
           },
           {
             "id": "npnf203-3-188-275",
-            "titulo": "LXXXVII. To Domnus, Bishop of Apamea.1793",
+            "titulo": "LXXXVII. Para Domnus, Bispo de Apamea.1793",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14053,7 +14053,7 @@
           },
           {
             "id": "npnf203-3-188-276",
-            "titulo": "LXXXVIII. To Taurus the Patrician.1797",
+            "titulo": "LXXXVIII. Para Touro, o Patrício.1797",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14064,7 +14064,7 @@
           },
           {
             "id": "npnf203-3-188-277",
-            "titulo": "LXXXIX. To Florentius the Patrician.1798",
+            "titulo": "LXXXIX. Para Florêncio, o Patrício.1798",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14075,7 +14075,7 @@
           },
           {
             "id": "npnf203-3-188-278",
-            "titulo": "XC. To Lupicinus the Master.1799",
+            "titulo": "XC. Para Lupicinus, o Mestre.1799",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14086,7 +14086,7 @@
           },
           {
             "id": "npnf203-3-188-279",
-            "titulo": "XCI. To the Prefect Eutrechius.1801",
+            "titulo": "XCI. Ao Prefeito Eutréquio.1801",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14097,7 +14097,7 @@
           },
           {
             "id": "npnf203-3-188-280",
-            "titulo": "XCII. To Anatolius the Patrician.1804",
+            "titulo": "XII. Para Anatólio, o Patrício.1804",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14108,7 +14108,7 @@
           },
           {
             "id": "npnf203-3-188-281",
-            "titulo": "XCIII. To Senator1805 the Patrician.",
+            "titulo": "XIII. Ao Senador1805, o Patrício.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14119,7 +14119,7 @@
           },
           {
             "id": "npnf203-3-188-282",
-            "titulo": "XCIV. To Protogenes1807The Præfect.",
+            "titulo": "XCIV. Para Protogenes1807O Præfect.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14130,7 +14130,7 @@
           },
           {
             "id": "npnf203-3-188-283",
-            "titulo": "XCV. To the Præfect Antiochus.1808",
+            "titulo": "XCV. Ao Prefeito Antíoco.1808",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14141,7 +14141,7 @@
           },
           {
             "id": "npnf203-3-188-284",
-            "titulo": "XCVI. To Nomus the Patrician.1809",
+            "titulo": "XCVI. Para Nomus, o Patrício.1809",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14156,7 +14156,7 @@
           },
           {
             "id": "npnf203-3-188-285",
-            "titulo": "XCVII. To the Count Sporacius.1814",
+            "titulo": "XCVII. Ao Conde Esporácio.1814",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14167,7 +14167,7 @@
           },
           {
             "id": "npnf203-3-188-286",
-            "titulo": "XCVIII. To Pancharius.",
+            "titulo": "XCVIII. Para Pancharius.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14178,7 +14178,7 @@
           },
           {
             "id": "npnf203-3-188-287",
-            "titulo": "XCIX. To Claudianus the Antigrapharius.1818",
+            "titulo": "XIX. Para Claudianus, o Antigrapharius.1818",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14193,7 +14193,7 @@
           },
           {
             "id": "npnf203-3-188-288",
-            "titulo": "C. To Alexandra.1820",
+            "titulo": "C. Para Alexandra.1820",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14204,7 +14204,7 @@
           },
           {
             "id": "npnf203-3-188-289",
-            "titulo": "CI. To the Deaconess Celarina.",
+            "titulo": "IC. À Diaconisa Celarina.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14215,7 +14215,7 @@
           },
           {
             "id": "npnf203-3-188-290",
-            "titulo": "CII. To Bishop Basilius.1821",
+            "titulo": "CII. Ao Bispo Basílio.1821",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14226,7 +14226,7 @@
           },
           {
             "id": "npnf203-3-188-291",
-            "titulo": "CIII. To the Count Apollonius.1827",
+            "titulo": "CIII. Ao Conde Apolônio.1827",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14237,7 +14237,7 @@
           },
           {
             "id": "npnf203-3-188-292",
-            "titulo": "CIV. To Flavianus,1828Bishop of Constantinople.",
+            "titulo": "CIV. Para Flaviano, 1828 Bispo de Constantinopla.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14260,7 +14260,7 @@
           },
           {
             "id": "npnf203-3-188-293",
-            "titulo": "CV. To Eulogius the OEconomus.1841",
+            "titulo": "CV. Para Eulogius, o OEconomus.1841",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14271,7 +14271,7 @@
           },
           {
             "id": "npnf203-3-188-294",
-            "titulo": "CVI. To Abraham the OEconomus.",
+            "titulo": "IVC. Para Abraão, o OEconomus.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14282,7 +14282,7 @@
           },
           {
             "id": "npnf203-3-188-295",
-            "titulo": "CVII. To the Presbyter Theodotus.",
+            "titulo": "CV II. Ao Presbítero Teódoto.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14293,7 +14293,7 @@
           },
           {
             "id": "npnf203-3-188-296",
-            "titulo": "CVIII. To Acacius the Presbyter.",
+            "titulo": "CVIII. Para Acácio, o Presbítero.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14304,7 +14304,7 @@
           },
           {
             "id": "npnf203-3-188-297",
-            "titulo": "CIX. To Eusebius, Bishop of Ancyra.1845",
+            "titulo": "CIX. Para Eusébio, Bispo de Ancira.1845",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14315,7 +14315,7 @@
           },
           {
             "id": "npnf203-3-188-298",
-            "titulo": "CX. To Domnus, Bishop of Antioch.1857",
+            "titulo": "CX. Para Domnus, Bispo de Antioquia.1857",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14330,7 +14330,7 @@
           },
           {
             "id": "npnf203-3-188-299",
-            "titulo": "CXI. To Anatolius the Patrician.1864",
+            "titulo": "CXI. Para Anatólio, o Patrício.1864",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14345,7 +14345,7 @@
           },
           {
             "id": "npnf203-3-188-300",
-            "titulo": "CXII. To Domnus, Bishop of Antioch.1868",
+            "titulo": "CXII. Para Domnus, Bispo de Antioquia.1868",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14372,7 +14372,7 @@
           },
           {
             "id": "npnf203-3-188-301",
-            "titulo": "CXIII. To Leo, Bishop of Rome.1877",
+            "titulo": "CXIII. Para Leão, Bispo de Roma.1877",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14419,7 +14419,7 @@
           },
           {
             "id": "npnf203-3-188-302",
-            "titulo": "CXIII. (a).1891From Pope Leo to Theodoret.",
+            "titulo": "CXIII. (a).1891Do Papa Leão a Teodoreto.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14430,7 +14430,7 @@
           },
           {
             "id": "npnf203-3-188-303",
-            "titulo": "CXIV.1892 To Andiberis.",
+            "titulo": "CXIV.1892 Para Andiberis.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14441,7 +14441,7 @@
           },
           {
             "id": "npnf203-3-188-304",
-            "titulo": "CXV. To Apella.",
+            "titulo": "CXV. Para Apela.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14452,7 +14452,7 @@
           },
           {
             "id": "npnf203-3-188-305",
-            "titulo": "CXVI.1893To the Presbyter Renatus.",
+            "titulo": "CXVI.1893Ao Presbítero Renatus.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14467,7 +14467,7 @@
           },
           {
             "id": "npnf203-3-188-306",
-            "titulo": "CXVII. To the Bishop Florentius.1899",
+            "titulo": "CXVII. Ao Bispo Florentius.1899",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14482,7 +14482,7 @@
           },
           {
             "id": "npnf203-3-188-307",
-            "titulo": "CXVIII. To the Archdeacon of Rome.1902",
+            "titulo": "CXVIII. Ao Arquidiácono de Roma.1902",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14493,7 +14493,7 @@
           },
           {
             "id": "npnf203-3-188-308",
-            "titulo": "CXIX. To Anatolius the Patrician.1903",
+            "titulo": "CXIX. Para Anatólio, o Patrício.1903",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14516,7 +14516,7 @@
           },
           {
             "id": "npnf203-3-188-309",
-            "titulo": "CXX. To Lupicius.1907",
+            "titulo": "CXX. Para Lupício.1907",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14527,7 +14527,7 @@
           },
           {
             "id": "npnf203-3-188-310",
-            "titulo": "CXXI. To Anatolius the Patrician.1908",
+            "titulo": "CXXI. Para Anatólio, o Patrício.1908",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14538,7 +14538,7 @@
           },
           {
             "id": "npnf203-3-188-311",
-            "titulo": "CXXII.1909To Uranius1910Bishop of Emesa.",
+            "titulo": "CXXII.1909Para Urânio1910Bispo de Emesa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14553,7 +14553,7 @@
           },
           {
             "id": "npnf203-3-188-312",
-            "titulo": "CXXIII. To the Same.",
+            "titulo": "CXXIII. Para o mesmo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14568,7 +14568,7 @@
           },
           {
             "id": "npnf203-3-188-313",
-            "titulo": "CXXIV. To the Learned Maranas.1924",
+            "titulo": "CXXIV. Aos Cientistas Maranas.1924",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14583,7 +14583,7 @@
           },
           {
             "id": "npnf203-3-188-314",
-            "titulo": "CXXV. To Aphthonius, Theodoritus, Nonnus, Scylacius, Apthonius, Joannes, Magistrates of the Zeugmatensis.",
+            "titulo": "CXXV. Para Aftônio, Teodorito, Nonnus, Scylacius, Apthonius, Joannes, Magistrados do Zeugmatensis.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14598,7 +14598,7 @@
           },
           {
             "id": "npnf203-3-188-315",
-            "titulo": "CXXVI. To the Bishop Sabinianus.1929",
+            "titulo": "CXXVI. Ao Bispo Sabinianus.1929",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14617,7 +14617,7 @@
           },
           {
             "id": "npnf203-3-188-316",
-            "titulo": "CXXVII. To Jobius, Presbyter and Archimandrite.1930",
+            "titulo": "CXXVII. Para Jobius, Presbítero e Arquimandrita.1930",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14632,7 +14632,7 @@
           },
           {
             "id": "npnf203-3-188-317",
-            "titulo": "CXXVIII. To Candidus, Presbyter and Archimandrite.1934",
+            "titulo": "CXXVIII. Para Candidus, Presbítero e Arquimandrita.1934",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14647,7 +14647,7 @@
           },
           {
             "id": "npnf203-3-188-318",
-            "titulo": "CXXIX. To Magnus Antoninus the Presbyter.1935",
+            "titulo": "CXXIX. Para Magnus Antoninus, o Presbítero.1935",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14658,7 +14658,7 @@
           },
           {
             "id": "npnf203-3-188-319",
-            "titulo": "CXXX. To Bishop Timotheus.1939",
+            "titulo": "CXXX. Ao Bispo Timotheus.1939",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14689,7 +14689,7 @@
           },
           {
             "id": "npnf203-3-188-320",
-            "titulo": "CXXXI. To Longinus, Archimandrite of Doliche.1954",
+            "titulo": "CXXXII. Para Longinus, Arquimandrita de Doliche.1954",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14700,7 +14700,7 @@
           },
           {
             "id": "npnf203-3-188-321",
-            "titulo": "CXXXII. To Ibas, Bishop of Edessa.1960",
+            "titulo": "CXXXII. Para Ibas, Bispo de Edessa.1960",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14719,7 +14719,7 @@
           },
           {
             "id": "npnf203-3-188-322",
-            "titulo": "CXXXIII. To John, Bishop of Germanicia.1962",
+            "titulo": "CXXXIII. Para João, Bispo da Germânica.1962",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14734,7 +14734,7 @@
           },
           {
             "id": "npnf203-3-188-323",
-            "titulo": "CXXXIV. To Theoctistus, Bishop of Beroea.1965",
+            "titulo": "CXXXIV. Para Teocisto, Bispo de Beréia.1965",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14749,7 +14749,7 @@
           },
           {
             "id": "npnf203-3-188-324",
-            "titulo": "CXXXV. To Bishop Romulus.1972",
+            "titulo": "CXXXV. Ao Bispo Romulus.1972",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14760,7 +14760,7 @@
           },
           {
             "id": "npnf203-3-188-325",
-            "titulo": "CXXXVI. To Cyrus Magistrianus.1974",
+            "titulo": "CXXXVI. Para Cyrus Magistrianus.1974",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14779,7 +14779,7 @@
           },
           {
             "id": "npnf203-3-188-326",
-            "titulo": "CXXXVII. To the Archimandrite John.1978",
+            "titulo": "CXXXVII. Ao Arquimandrita João.1978",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14790,7 +14790,7 @@
           },
           {
             "id": "npnf203-3-188-327",
-            "titulo": "CXXXVIII. To Anatolius the Patrician.1980",
+            "titulo": "CXXXVIII. Para Anatólio, o Patrício.1980",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14809,7 +14809,7 @@
           },
           {
             "id": "npnf203-3-188-328",
-            "titulo": "CXXXIX. To Aspar, Consular and Patrician.1985",
+            "titulo": "CXXXIX. Para Aspar, Consular e Patrício.1985",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14820,7 +14820,7 @@
           },
           {
             "id": "npnf203-3-188-329",
-            "titulo": "CXL. To the Master Vincomalus.1986",
+            "titulo": "CXL. Ao Mestre Vincomalus.1986",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14839,7 +14839,7 @@
           },
           {
             "id": "npnf203-3-188-330",
-            "titulo": "CXLI. To Marcellus, Archimandrite of the Acoemetæ.1989",
+            "titulo": "CXLI. Para Marcellus, Arquimandrita dos Acoemetæ.1989",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14850,7 +14850,7 @@
           },
           {
             "id": "npnf203-3-188-331",
-            "titulo": "CXLII. To the Same.",
+            "titulo": "CXLII. Para o mesmo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14865,7 +14865,7 @@
           },
           {
             "id": "npnf203-3-188-332",
-            "titulo": "CXLIII. To Andrew, Monk of Constantinople.1994",
+            "titulo": "CXLIII. Para André, Monge de Constantinopla.1994",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14884,7 +14884,7 @@
           },
           {
             "id": "npnf203-3-188-333",
-            "titulo": "CXLIV. To the Soldiers.1996",
+            "titulo": "CXLIV. Para os soldados.1996",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14935,7 +14935,7 @@
           },
           {
             "id": "npnf203-3-188-334",
-            "titulo": "CXLV. To the Monks of Constantinople.2012",
+            "titulo": "CXLV. Aos Monges de Constantinopla.2012",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14978,7 +14978,7 @@
           },
           {
             "id": "npnf203-3-188-335",
-            "titulo": "CXLVI. To John the OEconomus.2046",
+            "titulo": "CXLVI. Para João, o OEconomus.2046",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15069,7 +15069,7 @@
           },
           {
             "id": "npnf203-3-188-336",
-            "titulo": "CXLVII.2143To John, Bishop of Germanicia.",
+            "titulo": "CXLVII.2143A João, Bispo da Germânica.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15099,7 +15099,7 @@
           },
           {
             "id": "npnf203-3-188-338",
-            "titulo": "CXLIX is “Copy of the Letter written by John, Bishop of Antioch, to Nestorius.”",
+            "titulo": "CXLIX é “Cópia da Carta escrita por João, Bispo de Antioquia, a Nestório”.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15110,7 +15110,7 @@
           },
           {
             "id": "npnf203-3-188-339",
-            "titulo": "CL. Letter of Theodoretus, Bishop of Cyrus, to Joannes, Bishop of Antioch.2152",
+            "titulo": "CL. Carta de Teodoroto, Bispo de Ciro, a Joannes, Bispo de Antioquia.2152",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15137,7 +15137,7 @@
           },
           {
             "id": "npnf203-3-188-340",
-            "titulo": "CLI. Letter or Address of Theodoret to the Monks of the Euphratensian, the Osrhoene, Syria, Phoenicia, and Cilicia.2156",
+            "titulo": "CLI. Carta ou Endereço de Teodoreto aos Monges do Eufratenso, Osroeno, Síria, Fenícia e Cilícia.2156",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15256,7 +15256,7 @@
           },
           {
             "id": "npnf203-3-188-341",
-            "titulo": "CLII. Report of the (Bishops) of the East to the Emperor, giving information of their proceedings, and explaining the cause of the delay in the arrival of the Bishop of Antioch.2255",
+            "titulo": "CLI. Report of the (Bishops) of the East to the Emperor, giving information of their proceedings, and explaining the cause of the delay in the arrival of the Bishop of Antioch.2255",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15275,7 +15275,7 @@
           },
           {
             "id": "npnf203-3-188-342",
-            "titulo": "CLIII. Report of the same to the Empresses Pulcheria and Eudoxia.",
+            "titulo": "CLIIII. Relatório do mesmo às Imperatrizes Pulquéria e Eudóxia.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15290,7 +15290,7 @@
           },
           {
             "id": "npnf203-3-188-346",
-            "titulo": "CLVII. Report of the Council of (the Bishops of) the East to the Victorious Emperor, announcing a second time the deposition of Cyril and of Memnon.2264",
+            "titulo": "CLVI. Relatório do Concílio (dos Bispos do) Oriente ao Imperador Vitorioso, anunciando pela segunda vez a deposição de Cirilo e de Memnon.2264",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15321,7 +15321,7 @@
           },
           {
             "id": "npnf203-3-188-347",
-            "titulo": "CLVIII. Report of (the Bishops of) the East to the Very Pious Emperor, which they delivered with the preceding Report to the Right Honourable Count Irenæus.",
+            "titulo": "CLVIII. Relatório (dos Bispos do) Oriente ao Piedíssimo Imperador, que eles entregaram com o Relatório anterior ao Honorável Conde Irineu.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15336,7 +15336,7 @@
           },
           {
             "id": "npnf203-3-188-351",
-            "titulo": "CLXII. Letter of Theodoretus to Andreas, Bishop of Samosata, written from Ephesus.2268",
+            "titulo": "CLXII. Carta de Teodoroto a Andreas, bispo de Samósata, escrita em Éfeso.2268",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15351,7 +15351,7 @@
           },
           {
             "id": "npnf203-3-188-352",
-            "titulo": "CLXIII. First Letter of the Commissioners of the East, sent to Chalcedon, among whom was Theodoretus.2270",
+            "titulo": "CLXIII. Primeira Carta dos Comissários do Oriente, enviada à Calcedônia, entre os quais Teodoroto.2270",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15366,7 +15366,7 @@
           },
           {
             "id": "npnf203-3-188-353",
-            "titulo": "CLXIV. Second Epistle of the same to the same, expressing premature triumph in Victory.2274",
+            "titulo": "CLXIV. Segunda Epístola do mesmo ao mesmo, expressando triunfo prematuro na Vitória.2274",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15381,7 +15381,7 @@
           },
           {
             "id": "npnf203-3-188-354",
-            "titulo": "CLXV. Letter of the same to the same.2276",
+            "titulo": "CLXV. Carta do mesmo para o mesmo.2276",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15392,7 +15392,7 @@
           },
           {
             "id": "npnf203-3-188-355",
-            "titulo": "CLXVI. First Petition of the Commissioners, addressed from Chalcedon, to the Emperor.",
+            "titulo": "CLXVI. Primeira Petição dos Comissários, dirigida da Calcedônia ao Imperador.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15427,7 +15427,7 @@
           },
           {
             "id": "npnf203-3-188-356",
-            "titulo": "CLXVII. Second Petition of the same, sent from Chalcedon to Theodosius Augustus.",
+            "titulo": "CLXVII. Segunda petição do mesmo, enviada da Calcedônia a Teodósio Augusto.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15486,7 +15486,7 @@
           },
           {
             "id": "npnf203-3-188-357",
-            "titulo": "CLXVIII. Third Demand of the same, addressed from Chalcedon to the Sovereigns.",
+            "titulo": "CLXVIII. Terceira Demanda do mesmo, dirigida desde Calcedônia aos Soberanos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15525,7 +15525,7 @@
           },
           {
             "id": "npnf203-3-188-358",
-            "titulo": "CLXIX. Letter written by Theodoretus, Bishop of Cyrus, from Chalcedon to Alexander of Hierapolis.2282",
+            "titulo": "CLXIX. Carta escrita por Teodoro, Bispo de Ciro, de Calcedônia a Alexandre de Hierápolis.2282",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15560,7 +15560,7 @@
           },
           {
             "id": "npnf203-3-188-359",
-            "titulo": "CLXX. Letter of certain Easterns, who had been sent to Constantinople, to Bishop Rufus.",
+            "titulo": "CLXX. Carta de alguns orientais, enviada a Constantinopla, ao bispo Rufo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15627,7 +15627,7 @@
           },
           {
             "id": "npnf203-3-188-360",
-            "titulo": "CLXXI. Letter of Theodoret to John, Bishop of Antioch, after the Reconciliation.2296",
+            "titulo": "CLXXI. Carta de Teodoreto a João, Bispo de Antioquia, após a Reconciliação.2296",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15638,7 +15638,7 @@
           },
           {
             "id": "npnf203-3-188-361",
-            "titulo": "CLXXII. Letter of Theodoretus to Nestorius.2300",
+            "titulo": "CLXXII. Carta de Teodoroto a Nestório.2300",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15653,7 +15653,7 @@
           },
           {
             "id": "npnf203-3-188-362",
-            "titulo": "CLXXIII. Letter to Andreas, Monk of Constantinople.2302",
+            "titulo": "CLXXIII. Carta para Andreas, Monge de Constantinopla.2302",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15664,7 +15664,7 @@
           },
           {
             "id": "npnf203-3-188-363",
-            "titulo": "CLXXIV. To Himerius, Bishop of Nicomedia.2305",
+            "titulo": "CLXXIV. A Himério, Bispo de Nicomédia.2305",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15675,7 +15675,7 @@
           },
           {
             "id": "npnf203-3-188-364",
-            "titulo": "CLXXV. To Alexander of Hierapolis.2306",
+            "titulo": "CLXXV. Para Alexandre de Hierápolis.2306",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15686,7 +15686,7 @@
           },
           {
             "id": "npnf203-3-188-365",
-            "titulo": "CLXXVI. Letter to the same Alexander after he had learnt that John, Bishop of Antioch, had Anathematized the Doctrine of Nestorius.2307",
+            "titulo": "CLXXVI. Carta ao mesmo Alexandre depois de saber que João, Bispo de Antioquia, havia anatematizado a Doutrina de Nestório.2307",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15697,7 +15697,7 @@
           },
           {
             "id": "npnf203-3-188-366",
-            "titulo": "CLXXVII. Letter to Andreas, Bishop of Samosata.2308",
+            "titulo": "CLXXVII. Carta a Andreas, Bispo de Samósata.2308",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15712,7 +15712,7 @@
           },
           {
             "id": "npnf203-3-188-367",
-            "titulo": "CLXXVIII. Letter to Alexander of Hierapolis.2309",
+            "titulo": "CLXXVIII. Carta a Alexandre de Hierápolis.2309",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15727,7 +15727,7 @@
           },
           {
             "id": "npnf203-3-188-369",
-            "titulo": "CLXXX. Letter of Theodoretus, as some suppose, to Domnus, Bishop of Antioch, written on the Death of Cyril, Bishop of Alexandria.2312",
+            "titulo": "CLXXX. Carta de Teodoroto, como alguns supõem, a Domnus, bispo de Antioquia, escrita sobre a morte de Cirilo, bispo de Alexandria.2312",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15758,7 +15758,7 @@
           },
           {
             "id": "npnf203-3-188-370",
-            "titulo": "CLXXXI. Letter to Abundius, Bishop of Como.2317",
+            "titulo": "CLXXXII. Carta a Abundius, Bispo de Como.2317",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15801,11 +15801,11 @@
     "children": [
       {
         "id": "npnf203-371-372",
-        "titulo": "Jerome and Gennadius. Lives of Illustrious Men.",
+        "titulo": "Jerônimo e Genádio. Vidas de Homens Ilustres.",
         "children": [
           {
             "id": "npnf203-371-372-373",
-            "titulo": "1. Time and Place of Composition, and Character.",
+            "titulo": "1. Tempo e local de composição e caráter.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15840,7 +15840,7 @@
           },
           {
             "id": "npnf203-371-372-374",
-            "titulo": "2. Literature.",
+            "titulo": "2. Literatura.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15859,7 +15859,7 @@
           },
           {
             "id": "npnf203-371-372-375",
-            "titulo": "3. Manuscripts.",
+            "titulo": "3. Manuscritos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15874,7 +15874,7 @@
           },
           {
             "id": "npnf203-371-372-376",
-            "titulo": "4. Editions.",
+            "titulo": "4. Edições.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15905,7 +15905,7 @@
           },
           {
             "id": "npnf203-371-372-377",
-            "titulo": "5. Translations.",
+            "titulo": "5. Traduções.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15916,7 +15916,7 @@
           },
           {
             "id": "npnf203-371-372-378",
-            "titulo": "6. The Present Translation.",
+            "titulo": "6. A presente tradução.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15969,15 +15969,15 @@
       },
       {
         "id": "npnf203-371-379",
-        "titulo": "II. JEROME. Lives of Illustrious Men.",
+        "titulo": "II. JERÔME. Vidas de Homens Ilustres.",
         "children": [
           {
             "id": "npnf203-371-379-380",
-            "titulo": "List of Writers.",
+            "titulo": "Lista de escritores.",
             "children": [
               {
                 "id": "npnf203-371-379-380-381",
-                "titulo": "Chapter I.",
+                "titulo": "Capítulo I.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -15992,7 +15992,7 @@
               },
               {
                 "id": "npnf203-371-379-380-382",
-                "titulo": "Chapter II.",
+                "titulo": "Capítulo II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16003,7 +16003,7 @@
               },
               {
                 "id": "npnf203-371-379-380-383",
-                "titulo": "Chapter III.",
+                "titulo": "Capítulo III.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16014,7 +16014,7 @@
               },
               {
                 "id": "npnf203-371-379-380-384",
-                "titulo": "Chapter IV.",
+                "titulo": "Capítulo IV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16025,7 +16025,7 @@
               },
               {
                 "id": "npnf203-371-379-380-385",
-                "titulo": "Chapter V.",
+                "titulo": "Capítulo V.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16036,7 +16036,7 @@
               },
               {
                 "id": "npnf203-371-379-380-386",
-                "titulo": "Chapter VI.",
+                "titulo": "Capítulo VI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16047,7 +16047,7 @@
               },
               {
                 "id": "npnf203-371-379-380-387",
-                "titulo": "Chapter VII.",
+                "titulo": "Capítulo VII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16058,7 +16058,7 @@
               },
               {
                 "id": "npnf203-371-379-380-388",
-                "titulo": "Chapter VIII.",
+                "titulo": "Capítulo VIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16069,7 +16069,7 @@
               },
               {
                 "id": "npnf203-371-379-380-389",
-                "titulo": "Chapter IX.",
+                "titulo": "Capítulo IX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16080,7 +16080,7 @@
               },
               {
                 "id": "npnf203-371-379-380-390",
-                "titulo": "Chapter X.",
+                "titulo": "Capítulo X.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16091,7 +16091,7 @@
               },
               {
                 "id": "npnf203-371-379-380-391",
-                "titulo": "Chapter XI.",
+                "titulo": "Capítulo XI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16102,7 +16102,7 @@
               },
               {
                 "id": "npnf203-371-379-380-392",
-                "titulo": "Chapter XII.",
+                "titulo": "Capítulo XII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16113,7 +16113,7 @@
               },
               {
                 "id": "npnf203-371-379-380-393",
-                "titulo": "Chapter XIII.",
+                "titulo": "Capítulo XIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16124,7 +16124,7 @@
               },
               {
                 "id": "npnf203-371-379-380-394",
-                "titulo": "Chapter XIV.",
+                "titulo": "Capítulo XIV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16135,7 +16135,7 @@
               },
               {
                 "id": "npnf203-371-379-380-395",
-                "titulo": "Chapter XV.",
+                "titulo": "Capítulo XV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16146,7 +16146,7 @@
               },
               {
                 "id": "npnf203-371-379-380-396",
-                "titulo": "Chapter XVI.",
+                "titulo": "Capítulo XVI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16161,7 +16161,7 @@
               },
               {
                 "id": "npnf203-371-379-380-397",
-                "titulo": "Chapter XVII.",
+                "titulo": "Capítulo XVII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16172,7 +16172,7 @@
               },
               {
                 "id": "npnf203-371-379-380-398",
-                "titulo": "Chapter XVIII.",
+                "titulo": "Capítulo XVIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16187,7 +16187,7 @@
               },
               {
                 "id": "npnf203-371-379-380-399",
-                "titulo": "Chapter XIX.",
+                "titulo": "Capítulo XIX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16198,7 +16198,7 @@
               },
               {
                 "id": "npnf203-371-379-380-400",
-                "titulo": "Chapter XX.",
+                "titulo": "Capítulo XX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16209,7 +16209,7 @@
               },
               {
                 "id": "npnf203-371-379-380-401",
-                "titulo": "Chapter XXI.",
+                "titulo": "Capítulo XXI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16220,7 +16220,7 @@
               },
               {
                 "id": "npnf203-371-379-380-402",
-                "titulo": "Chapter XXII.",
+                "titulo": "Capítulo XXII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16231,7 +16231,7 @@
               },
               {
                 "id": "npnf203-371-379-380-403",
-                "titulo": "Chapter XXIII.",
+                "titulo": "Capítulo XXIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16242,7 +16242,7 @@
               },
               {
                 "id": "npnf203-371-379-380-404",
-                "titulo": "Chapter XXIV.",
+                "titulo": "Capítulo XXIV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16253,7 +16253,7 @@
               },
               {
                 "id": "npnf203-371-379-380-405",
-                "titulo": "Chapter XXV.",
+                "titulo": "Capítulo XXV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16264,7 +16264,7 @@
               },
               {
                 "id": "npnf203-371-379-380-406",
-                "titulo": "Chapter XXVI.",
+                "titulo": "Capítulo XXVI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16275,7 +16275,7 @@
               },
               {
                 "id": "npnf203-371-379-380-407",
-                "titulo": "Chapter XXVII.",
+                "titulo": "Capítulo XXVII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16286,7 +16286,7 @@
               },
               {
                 "id": "npnf203-371-379-380-408",
-                "titulo": "Chapter XXVIII.",
+                "titulo": "Capítulo XXVIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16297,7 +16297,7 @@
               },
               {
                 "id": "npnf203-371-379-380-409",
-                "titulo": "Chapter XXIX.",
+                "titulo": "Capítulo XXIX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16308,7 +16308,7 @@
               },
               {
                 "id": "npnf203-371-379-380-410",
-                "titulo": "Chapter XXX.",
+                "titulo": "Capítulo XXX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16319,7 +16319,7 @@
               },
               {
                 "id": "npnf203-371-379-380-411",
-                "titulo": "Chapter XXXI.",
+                "titulo": "Capítulo XXXI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16330,7 +16330,7 @@
               },
               {
                 "id": "npnf203-371-379-380-412",
-                "titulo": "Chapter XXXII.",
+                "titulo": "Capítulo XXXII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16341,7 +16341,7 @@
               },
               {
                 "id": "npnf203-371-379-380-413",
-                "titulo": "Chapter XXXIII.",
+                "titulo": "Capítulo XXXIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16352,7 +16352,7 @@
               },
               {
                 "id": "npnf203-371-379-380-414",
-                "titulo": "Chapter XXXIV.",
+                "titulo": "Capítulo XXXIV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16363,7 +16363,7 @@
               },
               {
                 "id": "npnf203-371-379-380-415",
-                "titulo": "Chapter XXXV.",
+                "titulo": "Capítulo XXXV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16374,7 +16374,7 @@
               },
               {
                 "id": "npnf203-371-379-380-416",
-                "titulo": "Chapter XXXVI.",
+                "titulo": "Capítulo XXXVI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16385,7 +16385,7 @@
               },
               {
                 "id": "npnf203-371-379-380-417",
-                "titulo": "Chapter XXXVII.",
+                "titulo": "Capítulo XXXVII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16396,7 +16396,7 @@
               },
               {
                 "id": "npnf203-371-379-380-418",
-                "titulo": "Chapter XXXVIII.",
+                "titulo": "Capítulo XXXVIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16407,7 +16407,7 @@
               },
               {
                 "id": "npnf203-371-379-380-419",
-                "titulo": "Chapter XXXIX.",
+                "titulo": "Capítulo XXXIX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16418,7 +16418,7 @@
               },
               {
                 "id": "npnf203-371-379-380-420",
-                "titulo": "Chapter XL.",
+                "titulo": "Capítulo XL.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16429,7 +16429,7 @@
               },
               {
                 "id": "npnf203-371-379-380-421",
-                "titulo": "Chapter XLI.",
+                "titulo": "Capítulo XLI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16440,7 +16440,7 @@
               },
               {
                 "id": "npnf203-371-379-380-422",
-                "titulo": "Chapter XLII.",
+                "titulo": "Capítulo XLII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16451,7 +16451,7 @@
               },
               {
                 "id": "npnf203-371-379-380-423",
-                "titulo": "Chapter XLIII.",
+                "titulo": "Capítulo XLIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16462,7 +16462,7 @@
               },
               {
                 "id": "npnf203-371-379-380-424",
-                "titulo": "Chapter XLIV.",
+                "titulo": "Capítulo XLIV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16473,7 +16473,7 @@
               },
               {
                 "id": "npnf203-371-379-380-425",
-                "titulo": "Chapter XLV.",
+                "titulo": "Capítulo XLV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16484,7 +16484,7 @@
               },
               {
                 "id": "npnf203-371-379-380-426",
-                "titulo": "Chapter XLVI.",
+                "titulo": "Capítulo XLVI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16495,7 +16495,7 @@
               },
               {
                 "id": "npnf203-371-379-380-427",
-                "titulo": "Chapter XLVII.",
+                "titulo": "Capítulo XLVII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16506,7 +16506,7 @@
               },
               {
                 "id": "npnf203-371-379-380-428",
-                "titulo": "Chapter XLVIII.",
+                "titulo": "Capítulo XLVIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16517,7 +16517,7 @@
               },
               {
                 "id": "npnf203-371-379-380-429",
-                "titulo": "Chapter XLIX.",
+                "titulo": "Capítulo XLIX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16528,7 +16528,7 @@
               },
               {
                 "id": "npnf203-371-379-380-430",
-                "titulo": "Chapter L.",
+                "titulo": "Capítulo L.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16539,7 +16539,7 @@
               },
               {
                 "id": "npnf203-371-379-380-431",
-                "titulo": "Chapter LI.",
+                "titulo": "Capítulo LI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16550,7 +16550,7 @@
               },
               {
                 "id": "npnf203-371-379-380-432",
-                "titulo": "Chapter LII.",
+                "titulo": "Capítulo LII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16561,7 +16561,7 @@
               },
               {
                 "id": "npnf203-371-379-380-433",
-                "titulo": "Chapter LIII.",
+                "titulo": "Capítulo LIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16576,7 +16576,7 @@
               },
               {
                 "id": "npnf203-371-379-380-434",
-                "titulo": "Chapter LIV.",
+                "titulo": "Capítulo LIV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16595,7 +16595,7 @@
               },
               {
                 "id": "npnf203-371-379-380-435",
-                "titulo": "Chapter LV.",
+                "titulo": "Capítulo LV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16606,7 +16606,7 @@
               },
               {
                 "id": "npnf203-371-379-380-436",
-                "titulo": "Chapter LVI.",
+                "titulo": "Capítulo LVI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16617,7 +16617,7 @@
               },
               {
                 "id": "npnf203-371-379-380-437",
-                "titulo": "Chapter LVII.",
+                "titulo": "Capítulo LVII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16628,7 +16628,7 @@
               },
               {
                 "id": "npnf203-371-379-380-438",
-                "titulo": "Chapter LVIII.",
+                "titulo": "Capítulo LVIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16639,7 +16639,7 @@
               },
               {
                 "id": "npnf203-371-379-380-439",
-                "titulo": "Chapter LIX.",
+                "titulo": "Capítulo LIX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16650,7 +16650,7 @@
               },
               {
                 "id": "npnf203-371-379-380-440",
-                "titulo": "1Chapter LX.",
+                "titulo": "1Capítulo LX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16661,7 +16661,7 @@
               },
               {
                 "id": "npnf203-371-379-380-441",
-                "titulo": "Chapter LXI.",
+                "titulo": "Capítulo LXI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16672,7 +16672,7 @@
               },
               {
                 "id": "npnf203-371-379-380-442",
-                "titulo": "Chapter LXII.",
+                "titulo": "Capítulo LXII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16683,7 +16683,7 @@
               },
               {
                 "id": "npnf203-371-379-380-443",
-                "titulo": "Chapter LXIII.",
+                "titulo": "Capítulo LXIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16694,7 +16694,7 @@
               },
               {
                 "id": "npnf203-371-379-380-444",
-                "titulo": "Chapter LXIV.",
+                "titulo": "Capítulo LXIV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16705,7 +16705,7 @@
               },
               {
                 "id": "npnf203-371-379-380-445",
-                "titulo": "Chapter LXV.",
+                "titulo": "Capítulo LXV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16720,7 +16720,7 @@
               },
               {
                 "id": "npnf203-371-379-380-446",
-                "titulo": "Chapter LXVI.",
+                "titulo": "Capítulo LXVI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16731,7 +16731,7 @@
               },
               {
                 "id": "npnf203-371-379-380-447",
-                "titulo": "Chapter LXVII.",
+                "titulo": "Capítulo LXVII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16746,7 +16746,7 @@
               },
               {
                 "id": "npnf203-371-379-380-448",
-                "titulo": "Chapter LXVIII",
+                "titulo": "Capítulo LXVIII",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16757,7 +16757,7 @@
               },
               {
                 "id": "npnf203-371-379-380-449",
-                "titulo": "Chapter LXIX.",
+                "titulo": "Capítulo LXIX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16772,7 +16772,7 @@
               },
               {
                 "id": "npnf203-371-379-380-450",
-                "titulo": "Chapter LXX.",
+                "titulo": "Capítulo LXX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16783,7 +16783,7 @@
               },
               {
                 "id": "npnf203-371-379-380-451",
-                "titulo": "Chapter LXXI.",
+                "titulo": "Capítulo LXXI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16794,7 +16794,7 @@
               },
               {
                 "id": "npnf203-371-379-380-452",
-                "titulo": "Chapter LXXII.",
+                "titulo": "Capítulo LXXII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16809,7 +16809,7 @@
               },
               {
                 "id": "npnf203-371-379-380-453",
-                "titulo": "Chapter LXXIII.",
+                "titulo": "Capítulo LXXIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16820,7 +16820,7 @@
               },
               {
                 "id": "npnf203-371-379-380-454",
-                "titulo": "Chapter LXXIV.",
+                "titulo": "Capítulo LXXIV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16831,7 +16831,7 @@
               },
               {
                 "id": "npnf203-371-379-380-455",
-                "titulo": "Chapter LXXV.",
+                "titulo": "Capítulo LXXV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16842,7 +16842,7 @@
               },
               {
                 "id": "npnf203-371-379-380-456",
-                "titulo": "Chapter LXXVI.",
+                "titulo": "Capítulo LXXVI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16853,7 +16853,7 @@
               },
               {
                 "id": "npnf203-371-379-380-457",
-                "titulo": "Chapter LXXVII.",
+                "titulo": "Capítulo LXXVII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16864,7 +16864,7 @@
               },
               {
                 "id": "npnf203-371-379-380-458",
-                "titulo": "Chapter LXXVIII.",
+                "titulo": "Capítulo LXXVIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16875,7 +16875,7 @@
               },
               {
                 "id": "npnf203-371-379-380-459",
-                "titulo": "Chapter LXXIX.",
+                "titulo": "Capítulo LXXIX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16886,7 +16886,7 @@
               },
               {
                 "id": "npnf203-371-379-380-460",
-                "titulo": "Chapter LXXX.",
+                "titulo": "Capítulo LXXX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16897,7 +16897,7 @@
               },
               {
                 "id": "npnf203-371-379-380-461",
-                "titulo": "Chapter LXXXI.",
+                "titulo": "Capítulo LXXXI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16908,7 +16908,7 @@
               },
               {
                 "id": "npnf203-371-379-380-462",
-                "titulo": "Chapter LXXXII.",
+                "titulo": "Capítulo LXXXII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16919,7 +16919,7 @@
               },
               {
                 "id": "npnf203-371-379-380-463",
-                "titulo": "Chapter LXXXIII.",
+                "titulo": "Capítulo LXXXIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16930,7 +16930,7 @@
               },
               {
                 "id": "npnf203-371-379-380-464",
-                "titulo": "Chapter LXXXIV.",
+                "titulo": "Capítulo LXXXIV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16941,7 +16941,7 @@
               },
               {
                 "id": "npnf203-371-379-380-465",
-                "titulo": "Chapter LXXXV.",
+                "titulo": "Capítulo LXXXV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16952,7 +16952,7 @@
               },
               {
                 "id": "npnf203-371-379-380-466",
-                "titulo": "Chapter LXXXVI.",
+                "titulo": "Capítulo LXXXVI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16963,7 +16963,7 @@
               },
               {
                 "id": "npnf203-371-379-380-467",
-                "titulo": "Chapter LXXXVII.",
+                "titulo": "Capítulo LXXXVII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16974,7 +16974,7 @@
               },
               {
                 "id": "npnf203-371-379-380-468",
-                "titulo": "Chapter LXXXVIII.",
+                "titulo": "Capítulo LXXXVIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16985,7 +16985,7 @@
               },
               {
                 "id": "npnf203-371-379-380-469",
-                "titulo": "Chapter LXXXIX.",
+                "titulo": "Capítulo LXXXIX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -16996,7 +16996,7 @@
               },
               {
                 "id": "npnf203-371-379-380-470",
-                "titulo": "Chapter XC.",
+                "titulo": "Capítulo XC.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17007,7 +17007,7 @@
               },
               {
                 "id": "npnf203-371-379-380-471",
-                "titulo": "Chapter XCI.",
+                "titulo": "Capítulo XCI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17018,7 +17018,7 @@
               },
               {
                 "id": "npnf203-371-379-380-472",
-                "titulo": "Chapter XCII.",
+                "titulo": "Capítulo XII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17029,7 +17029,7 @@
               },
               {
                 "id": "npnf203-371-379-380-473",
-                "titulo": "Chapter XCIII.",
+                "titulo": "Capítulo XCIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17040,7 +17040,7 @@
               },
               {
                 "id": "npnf203-371-379-380-474",
-                "titulo": "Chapter XCIV.",
+                "titulo": "Capítulo XCIV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17051,7 +17051,7 @@
               },
               {
                 "id": "npnf203-371-379-380-475",
-                "titulo": "Chapter XCV.",
+                "titulo": "Capítulo XCV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17062,7 +17062,7 @@
               },
               {
                 "id": "npnf203-371-379-380-476",
-                "titulo": "Chapter XCVI.",
+                "titulo": "Capítulo XCVI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17073,7 +17073,7 @@
               },
               {
                 "id": "npnf203-371-379-380-477",
-                "titulo": "Chapter XCVII",
+                "titulo": "Capítulo XCVII",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17084,7 +17084,7 @@
               },
               {
                 "id": "npnf203-371-379-380-478",
-                "titulo": "Chapter XCVIII.",
+                "titulo": "Capítulo XCVIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17095,7 +17095,7 @@
               },
               {
                 "id": "npnf203-371-379-380-479",
-                "titulo": "Chapter XCIX.",
+                "titulo": "Capítulo XCIX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17106,7 +17106,7 @@
               },
               {
                 "id": "npnf203-371-379-380-480",
-                "titulo": "Chapter C.",
+                "titulo": "Capítulo C.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17117,7 +17117,7 @@
               },
               {
                 "id": "npnf203-371-379-380-481",
-                "titulo": "Chapter CI.",
+                "titulo": "Capítulo CI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17128,7 +17128,7 @@
               },
               {
                 "id": "npnf203-371-379-380-482",
-                "titulo": "Chapter CII.",
+                "titulo": "Capítulo CII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17139,7 +17139,7 @@
               },
               {
                 "id": "npnf203-371-379-380-483",
-                "titulo": "Chapter CIII.",
+                "titulo": "Capítulo CIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17150,7 +17150,7 @@
               },
               {
                 "id": "npnf203-371-379-380-484",
-                "titulo": "Chapter CIV.",
+                "titulo": "Capítulo CIV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17161,7 +17161,7 @@
               },
               {
                 "id": "npnf203-371-379-380-485",
-                "titulo": "Chapter CV.",
+                "titulo": "Capítulo CV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17172,7 +17172,7 @@
               },
               {
                 "id": "npnf203-371-379-380-486",
-                "titulo": "Chapter CVI.",
+                "titulo": "Capítulo CVI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17183,7 +17183,7 @@
               },
               {
                 "id": "npnf203-371-379-380-487",
-                "titulo": "Chapter CVII.",
+                "titulo": "Capítulo CVII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17194,7 +17194,7 @@
               },
               {
                 "id": "npnf203-371-379-380-488",
-                "titulo": "Chapter CVIII.",
+                "titulo": "Capítulo CVIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17205,7 +17205,7 @@
               },
               {
                 "id": "npnf203-371-379-380-489",
-                "titulo": "Chapter CIX.",
+                "titulo": "Capítulo CIX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17216,7 +17216,7 @@
               },
               {
                 "id": "npnf203-371-379-380-490",
-                "titulo": "Chapter CX.",
+                "titulo": "Capítulo CX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17227,7 +17227,7 @@
               },
               {
                 "id": "npnf203-371-379-380-491",
-                "titulo": "Chapter CXI.",
+                "titulo": "Capítulo CXI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17238,7 +17238,7 @@
               },
               {
                 "id": "npnf203-371-379-380-492",
-                "titulo": "Chapter CXII.",
+                "titulo": "Capítulo CXII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17249,7 +17249,7 @@
               },
               {
                 "id": "npnf203-371-379-380-493",
-                "titulo": "Chapter CXIII.",
+                "titulo": "Capítulo CXIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17260,7 +17260,7 @@
               },
               {
                 "id": "npnf203-371-379-380-494",
-                "titulo": "Chapter CXIV.",
+                "titulo": "Capítulo CXIV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17271,7 +17271,7 @@
               },
               {
                 "id": "npnf203-371-379-380-495",
-                "titulo": "Chapter CXV.",
+                "titulo": "Capítulo CXV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17286,7 +17286,7 @@
               },
               {
                 "id": "npnf203-371-379-380-496",
-                "titulo": "Chapter CXVI.",
+                "titulo": "Capítulo CXVI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17297,7 +17297,7 @@
               },
               {
                 "id": "npnf203-371-379-380-497",
-                "titulo": "Chapter CXVII.",
+                "titulo": "Capítulo CXVII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17308,7 +17308,7 @@
               },
               {
                 "id": "npnf203-371-379-380-498",
-                "titulo": "Chapter CXVIII.",
+                "titulo": "Capítulo CXVIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17319,7 +17319,7 @@
               },
               {
                 "id": "npnf203-371-379-380-499",
-                "titulo": "Chapter CXIX.",
+                "titulo": "Capítulo CXIX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17330,7 +17330,7 @@
               },
               {
                 "id": "npnf203-371-379-380-500",
-                "titulo": "Chapter CXX.",
+                "titulo": "Capítulo CXX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17341,7 +17341,7 @@
               },
               {
                 "id": "npnf203-371-379-380-501",
-                "titulo": "Chapter CXXI.",
+                "titulo": "Capítulo CXXI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17352,7 +17352,7 @@
               },
               {
                 "id": "npnf203-371-379-380-502",
-                "titulo": "Chapter CXXII.",
+                "titulo": "Capítulo CXXII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17363,7 +17363,7 @@
               },
               {
                 "id": "npnf203-371-379-380-503",
-                "titulo": "Chapter CXXIII.",
+                "titulo": "Capítulo CXXIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17374,7 +17374,7 @@
               },
               {
                 "id": "npnf203-371-379-380-504",
-                "titulo": "Chapter CXXIV.",
+                "titulo": "Capítulo CXXIV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17385,7 +17385,7 @@
               },
               {
                 "id": "npnf203-371-379-380-505",
-                "titulo": "Chapter CXXV.",
+                "titulo": "Capítulo CXXV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17396,7 +17396,7 @@
               },
               {
                 "id": "npnf203-371-379-380-506",
-                "titulo": "Chapter CXXVI.",
+                "titulo": "Capítulo CXXVI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17407,7 +17407,7 @@
               },
               {
                 "id": "npnf203-371-379-380-507",
-                "titulo": "Chapter CXXVII.",
+                "titulo": "Capítulo CXXVII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17418,7 +17418,7 @@
               },
               {
                 "id": "npnf203-371-379-380-508",
-                "titulo": "Chapter CXXVIII.",
+                "titulo": "Capítulo CXXVIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17429,7 +17429,7 @@
               },
               {
                 "id": "npnf203-371-379-380-509",
-                "titulo": "Chapter CXXIX.",
+                "titulo": "Capítulo CXXIX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17440,7 +17440,7 @@
               },
               {
                 "id": "npnf203-371-379-380-510",
-                "titulo": "Chapter CXXX.",
+                "titulo": "Capítulo CXXX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17451,7 +17451,7 @@
               },
               {
                 "id": "npnf203-371-379-380-511",
-                "titulo": "Chapter CXXXI.",
+                "titulo": "Capítulo CXXXI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17462,7 +17462,7 @@
               },
               {
                 "id": "npnf203-371-379-380-512",
-                "titulo": "Chapter CXXXII.",
+                "titulo": "Capítulo CXXXII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17473,7 +17473,7 @@
               },
               {
                 "id": "npnf203-371-379-380-513",
-                "titulo": "Chapter CXXXIII.",
+                "titulo": "Capítulo CXXXIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17484,7 +17484,7 @@
               },
               {
                 "id": "npnf203-371-379-380-514",
-                "titulo": "Chapter CXXXIV.",
+                "titulo": "Capítulo CXXXIV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17495,7 +17495,7 @@
               },
               {
                 "id": "npnf203-371-379-380-515",
-                "titulo": "Chapter CXXXV.",
+                "titulo": "Capítulo CXXXV.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -17510,11 +17510,11 @@
       },
       {
         "id": "npnf203-371-516",
-        "titulo": "III. GENNADIUS.",
+        "titulo": "III. GENÁDIO.",
         "children": [
           {
             "id": "npnf203-371-516-517",
-            "titulo": "Chapter I.",
+            "titulo": "Capítulo I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17525,7 +17525,7 @@
           },
           {
             "id": "npnf203-371-516-518",
-            "titulo": "Chapter II.",
+            "titulo": "Capítulo II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17536,7 +17536,7 @@
           },
           {
             "id": "npnf203-371-516-519",
-            "titulo": "Chapter III.",
+            "titulo": "Capítulo III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17547,7 +17547,7 @@
           },
           {
             "id": "npnf203-371-516-520",
-            "titulo": "Chapter IV.",
+            "titulo": "Capítulo IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17558,7 +17558,7 @@
           },
           {
             "id": "npnf203-371-516-521",
-            "titulo": "Chapter V.",
+            "titulo": "Capítulo V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17569,7 +17569,7 @@
           },
           {
             "id": "npnf203-371-516-522",
-            "titulo": "Chapter VI.",
+            "titulo": "Capítulo VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17580,7 +17580,7 @@
           },
           {
             "id": "npnf203-371-516-523",
-            "titulo": "Chapter VII.",
+            "titulo": "Capítulo VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17591,7 +17591,7 @@
           },
           {
             "id": "npnf203-371-516-524",
-            "titulo": "Chapter VIII.",
+            "titulo": "Capítulo VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17602,7 +17602,7 @@
           },
           {
             "id": "npnf203-371-516-525",
-            "titulo": "Chapter IX.",
+            "titulo": "Capítulo IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17613,7 +17613,7 @@
           },
           {
             "id": "npnf203-371-516-526",
-            "titulo": "Chapter X.",
+            "titulo": "Capítulo X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17624,7 +17624,7 @@
           },
           {
             "id": "npnf203-371-516-527",
-            "titulo": "Chapter XI.",
+            "titulo": "Capítulo XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17635,7 +17635,7 @@
           },
           {
             "id": "npnf203-371-516-528",
-            "titulo": "Chapter XII.",
+            "titulo": "Capítulo XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17646,7 +17646,7 @@
           },
           {
             "id": "npnf203-371-516-529",
-            "titulo": "Chapter XIII.",
+            "titulo": "Capítulo XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17657,7 +17657,7 @@
           },
           {
             "id": "npnf203-371-516-530",
-            "titulo": "Chapter XIV.",
+            "titulo": "Capítulo XIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17668,7 +17668,7 @@
           },
           {
             "id": "npnf203-371-516-531",
-            "titulo": "Chapter XV.",
+            "titulo": "Capítulo XV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17679,7 +17679,7 @@
           },
           {
             "id": "npnf203-371-516-532",
-            "titulo": "Chapter XVI.",
+            "titulo": "Capítulo XVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17690,7 +17690,7 @@
           },
           {
             "id": "npnf203-371-516-533",
-            "titulo": "Chapter XVII.",
+            "titulo": "Capítulo XVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17701,7 +17701,7 @@
           },
           {
             "id": "npnf203-371-516-534",
-            "titulo": "Chapter XVIII.",
+            "titulo": "Capítulo XVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17712,7 +17712,7 @@
           },
           {
             "id": "npnf203-371-516-535",
-            "titulo": "Chapter XIX.",
+            "titulo": "Capítulo XIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17723,7 +17723,7 @@
           },
           {
             "id": "npnf203-371-516-536",
-            "titulo": "Chapter XX.",
+            "titulo": "Capítulo XX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17734,7 +17734,7 @@
           },
           {
             "id": "npnf203-371-516-537",
-            "titulo": "Chapter XXI.",
+            "titulo": "Capítulo XXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17745,7 +17745,7 @@
           },
           {
             "id": "npnf203-371-516-538",
-            "titulo": "Chapter XXII.",
+            "titulo": "Capítulo XXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17756,7 +17756,7 @@
           },
           {
             "id": "npnf203-371-516-539",
-            "titulo": "Chapter XXIII.",
+            "titulo": "Capítulo XXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17767,7 +17767,7 @@
           },
           {
             "id": "npnf203-371-516-540",
-            "titulo": "Chapter XXIV.",
+            "titulo": "Capítulo XXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17778,7 +17778,7 @@
           },
           {
             "id": "npnf203-371-516-541",
-            "titulo": "Chapter XXV.",
+            "titulo": "Capítulo XXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17789,7 +17789,7 @@
           },
           {
             "id": "npnf203-371-516-542",
-            "titulo": "Chapter XXVI.",
+            "titulo": "Capítulo XXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17800,7 +17800,7 @@
           },
           {
             "id": "npnf203-371-516-543",
-            "titulo": "Chapter XXVII.",
+            "titulo": "Capítulo XXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17811,7 +17811,7 @@
           },
           {
             "id": "npnf203-371-516-544",
-            "titulo": "Chapter XXVIII.",
+            "titulo": "Capítulo XXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17822,7 +17822,7 @@
           },
           {
             "id": "npnf203-371-516-545",
-            "titulo": "Chapter XXIX.",
+            "titulo": "Capítulo XXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17833,7 +17833,7 @@
           },
           {
             "id": "npnf203-371-516-546",
-            "titulo": "Chapter XXX.",
+            "titulo": "Capítulo XXX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17844,7 +17844,7 @@
           },
           {
             "id": "npnf203-371-516-547",
-            "titulo": "Chapter XXXI.",
+            "titulo": "Capítulo XXXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17855,7 +17855,7 @@
           },
           {
             "id": "npnf203-371-516-548",
-            "titulo": "Chapter XXXII.",
+            "titulo": "Capítulo XXXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17866,7 +17866,7 @@
           },
           {
             "id": "npnf203-371-516-549",
-            "titulo": "Chapter XXXIII.",
+            "titulo": "Capítulo XXXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17877,7 +17877,7 @@
           },
           {
             "id": "npnf203-371-516-550",
-            "titulo": "Chapter XXXIV.",
+            "titulo": "Capítulo XXXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17888,7 +17888,7 @@
           },
           {
             "id": "npnf203-371-516-551",
-            "titulo": "Chapter XXXV.",
+            "titulo": "Capítulo XXXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17899,7 +17899,7 @@
           },
           {
             "id": "npnf203-371-516-552",
-            "titulo": "Chapter XXXVI.",
+            "titulo": "Capítulo XXXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17910,7 +17910,7 @@
           },
           {
             "id": "npnf203-371-516-553",
-            "titulo": "Chapter XXXVII.",
+            "titulo": "Capítulo XXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17921,7 +17921,7 @@
           },
           {
             "id": "npnf203-371-516-554",
-            "titulo": "Chapter XXXVIII.",
+            "titulo": "Capítulo XXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17932,7 +17932,7 @@
           },
           {
             "id": "npnf203-371-516-555",
-            "titulo": "Chapter XXXIX.",
+            "titulo": "Capítulo XXXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17943,7 +17943,7 @@
           },
           {
             "id": "npnf203-371-516-556",
-            "titulo": "Chapter XL.",
+            "titulo": "Capítulo XL.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17962,7 +17962,7 @@
           },
           {
             "id": "npnf203-371-516-557",
-            "titulo": "Chapter XLI.",
+            "titulo": "Capítulo XLI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17973,7 +17973,7 @@
           },
           {
             "id": "npnf203-371-516-558",
-            "titulo": "Chapter XLII.",
+            "titulo": "Capítulo XLII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17984,7 +17984,7 @@
           },
           {
             "id": "npnf203-371-516-559",
-            "titulo": "Chapter XLIII.",
+            "titulo": "Capítulo XLIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17995,7 +17995,7 @@
           },
           {
             "id": "npnf203-371-516-560",
-            "titulo": "Chapter XLIV.",
+            "titulo": "Capítulo XLIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18006,7 +18006,7 @@
           },
           {
             "id": "npnf203-371-516-561",
-            "titulo": "Chapter XLV.",
+            "titulo": "Capítulo XLV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18017,7 +18017,7 @@
           },
           {
             "id": "npnf203-371-516-562",
-            "titulo": "Chapter XLVI.",
+            "titulo": "Capítulo XLVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18032,7 +18032,7 @@
           },
           {
             "id": "npnf203-371-516-563",
-            "titulo": "Chapter XLVII.",
+            "titulo": "Capítulo XLVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18043,7 +18043,7 @@
           },
           {
             "id": "npnf203-371-516-564",
-            "titulo": "Chapter XLVIII.",
+            "titulo": "Capítulo XLVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18054,7 +18054,7 @@
           },
           {
             "id": "npnf203-371-516-565",
-            "titulo": "Chapter XLIX.",
+            "titulo": "Capítulo XLIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18073,7 +18073,7 @@
           },
           {
             "id": "npnf203-371-516-566",
-            "titulo": "Chapter L.",
+            "titulo": "Capítulo L.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18084,7 +18084,7 @@
           },
           {
             "id": "npnf203-371-516-567",
-            "titulo": "Chapter LI.",
+            "titulo": "Capítulo LI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18095,7 +18095,7 @@
           },
           {
             "id": "npnf203-371-516-568",
-            "titulo": "Chapter LII.",
+            "titulo": "Capítulo LII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18106,7 +18106,7 @@
           },
           {
             "id": "npnf203-371-516-569",
-            "titulo": "Chapter LIII.",
+            "titulo": "Capítulo LIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18117,7 +18117,7 @@
           },
           {
             "id": "npnf203-371-516-570",
-            "titulo": "Chapter LIV.",
+            "titulo": "Capítulo LIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18128,7 +18128,7 @@
           },
           {
             "id": "npnf203-371-516-571",
-            "titulo": "Chapter LV.",
+            "titulo": "Capítulo LV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18139,7 +18139,7 @@
           },
           {
             "id": "npnf203-371-516-572",
-            "titulo": "Chapter LVI.",
+            "titulo": "Capítulo LVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18150,7 +18150,7 @@
           },
           {
             "id": "npnf203-371-516-573",
-            "titulo": "Chapter LVII.",
+            "titulo": "Capítulo LVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18161,7 +18161,7 @@
           },
           {
             "id": "npnf203-371-516-574",
-            "titulo": "Chapter LVIII.",
+            "titulo": "Capítulo LVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18172,7 +18172,7 @@
           },
           {
             "id": "npnf203-371-516-575",
-            "titulo": "Chapter LIX.",
+            "titulo": "Capítulo LIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18183,7 +18183,7 @@
           },
           {
             "id": "npnf203-371-516-576",
-            "titulo": "Chapter LX.",
+            "titulo": "Capítulo LX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18194,7 +18194,7 @@
           },
           {
             "id": "npnf203-371-516-577",
-            "titulo": "Chapter LXI.",
+            "titulo": "Capítulo LXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18209,7 +18209,7 @@
           },
           {
             "id": "npnf203-371-516-578",
-            "titulo": "Chapter LXII.",
+            "titulo": "Capítulo LXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18220,7 +18220,7 @@
           },
           {
             "id": "npnf203-371-516-579",
-            "titulo": "Chapter LXIII.",
+            "titulo": "Capítulo LXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18231,7 +18231,7 @@
           },
           {
             "id": "npnf203-371-516-580",
-            "titulo": "Chapter LXIV.",
+            "titulo": "Capítulo LXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18242,7 +18242,7 @@
           },
           {
             "id": "npnf203-371-516-581",
-            "titulo": "Chapter LXV.",
+            "titulo": "Capítulo LXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18253,7 +18253,7 @@
           },
           {
             "id": "npnf203-371-516-582",
-            "titulo": "Chapter LXVI.",
+            "titulo": "Capítulo LXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18264,7 +18264,7 @@
           },
           {
             "id": "npnf203-371-516-583",
-            "titulo": "Chapter LXVII.",
+            "titulo": "Capítulo LXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18275,7 +18275,7 @@
           },
           {
             "id": "npnf203-371-516-584",
-            "titulo": "Chapter LXVIII.",
+            "titulo": "Capítulo LXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18286,7 +18286,7 @@
           },
           {
             "id": "npnf203-371-516-585",
-            "titulo": "Chapter LXIX.",
+            "titulo": "Capítulo LXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18297,7 +18297,7 @@
           },
           {
             "id": "npnf203-371-516-586",
-            "titulo": "Chapter LXX.",
+            "titulo": "Capítulo LXX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18308,7 +18308,7 @@
           },
           {
             "id": "npnf203-371-516-587",
-            "titulo": "Chapter LXXI.",
+            "titulo": "Capítulo LXXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18319,7 +18319,7 @@
           },
           {
             "id": "npnf203-371-516-588",
-            "titulo": "Chapter LXXII.",
+            "titulo": "Capítulo LXXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18330,7 +18330,7 @@
           },
           {
             "id": "npnf203-371-516-589",
-            "titulo": "Chapter LXXIII.",
+            "titulo": "Capítulo LXXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18341,7 +18341,7 @@
           },
           {
             "id": "npnf203-371-516-590",
-            "titulo": "Chapter LXXIV.",
+            "titulo": "Capítulo LXXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18352,7 +18352,7 @@
           },
           {
             "id": "npnf203-371-516-591",
-            "titulo": "Chapter LXXV.",
+            "titulo": "Capítulo LXXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18363,7 +18363,7 @@
           },
           {
             "id": "npnf203-371-516-592",
-            "titulo": "Chapter LXXVI.",
+            "titulo": "Capítulo LXXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18374,7 +18374,7 @@
           },
           {
             "id": "npnf203-371-516-593",
-            "titulo": "Chapter LXXVII.",
+            "titulo": "Capítulo LXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18385,7 +18385,7 @@
           },
           {
             "id": "npnf203-371-516-594",
-            "titulo": "Chapter LXXVIII.",
+            "titulo": "Capítulo LXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18396,7 +18396,7 @@
           },
           {
             "id": "npnf203-371-516-595",
-            "titulo": "Chapter LXXIX.",
+            "titulo": "Capítulo LXXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18407,7 +18407,7 @@
           },
           {
             "id": "npnf203-371-516-596",
-            "titulo": "Chapter LXXX.",
+            "titulo": "Capítulo LXXX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18418,7 +18418,7 @@
           },
           {
             "id": "npnf203-371-516-597",
-            "titulo": "Chapter LXXXI.",
+            "titulo": "Capítulo LXXXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18429,7 +18429,7 @@
           },
           {
             "id": "npnf203-371-516-598",
-            "titulo": "Chapter LXXXII.",
+            "titulo": "Capítulo LXXXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18440,7 +18440,7 @@
           },
           {
             "id": "npnf203-371-516-599",
-            "titulo": "Chapter LXXXIII.",
+            "titulo": "Capítulo LXXXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18451,7 +18451,7 @@
           },
           {
             "id": "npnf203-371-516-600",
-            "titulo": "Chapter LXXXIV.",
+            "titulo": "Capítulo LXXXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18466,7 +18466,7 @@
           },
           {
             "id": "npnf203-371-516-601",
-            "titulo": "Chapter LXXXV.",
+            "titulo": "Capítulo LXXXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18477,7 +18477,7 @@
           },
           {
             "id": "npnf203-371-516-602",
-            "titulo": "Chapter LXXXVI.",
+            "titulo": "Capítulo LXXXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18492,7 +18492,7 @@
           },
           {
             "id": "npnf203-371-516-603",
-            "titulo": "Chapter LXXXVII.",
+            "titulo": "Capítulo LXXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18503,7 +18503,7 @@
           },
           {
             "id": "npnf203-371-516-604",
-            "titulo": "Chapter LXXXVIII.",
+            "titulo": "Capítulo LXXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18514,7 +18514,7 @@
           },
           {
             "id": "npnf203-371-516-605",
-            "titulo": "Chapter LXXXIX.",
+            "titulo": "Capítulo LXXXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18525,7 +18525,7 @@
           },
           {
             "id": "npnf203-371-516-606",
-            "titulo": "Chapter XC.",
+            "titulo": "Capítulo XC.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18540,7 +18540,7 @@
           },
           {
             "id": "npnf203-371-516-607",
-            "titulo": "Chapter XCI.",
+            "titulo": "Capítulo XCI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18551,7 +18551,7 @@
           },
           {
             "id": "npnf203-371-516-608",
-            "titulo": "Chapter XCII.",
+            "titulo": "Capítulo XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18562,7 +18562,7 @@
           },
           {
             "id": "npnf203-371-516-609",
-            "titulo": "Chapter XCIII.",
+            "titulo": "Capítulo XCIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18577,7 +18577,7 @@
           },
           {
             "id": "npnf203-371-516-610",
-            "titulo": "Chapter XCIV.",
+            "titulo": "Capítulo XCIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18588,7 +18588,7 @@
           },
           {
             "id": "npnf203-371-516-611",
-            "titulo": "Chapter XCV.",
+            "titulo": "Capítulo XCV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18599,7 +18599,7 @@
           },
           {
             "id": "npnf203-371-516-612",
-            "titulo": "Chapter XCVI.",
+            "titulo": "Capítulo XCVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18610,7 +18610,7 @@
           },
           {
             "id": "npnf203-371-516-613",
-            "titulo": "Chapter XCVII.",
+            "titulo": "Capítulo XCVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18621,7 +18621,7 @@
           },
           {
             "id": "npnf203-371-516-614",
-            "titulo": "Chapter XCVIII.",
+            "titulo": "Capítulo XCVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18632,7 +18632,7 @@
           },
           {
             "id": "npnf203-371-516-615",
-            "titulo": "Chapter XCIX.",
+            "titulo": "Capítulo XCIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18651,15 +18651,15 @@
     "children": [
       {
         "id": "npnf203-616-617",
-        "titulo": "Prolegomena on the Life and Works of Rufinus.",
+        "titulo": "Prolegômenos sobre a Vida e Obra de Rufino.",
         "children": [
           {
             "id": "npnf203-616-617-618",
-            "titulo": "Works of Rufinus.",
+            "titulo": "Obras de Rufino.",
             "children": [
               {
                 "id": "npnf203-616-617-618-619",
-                "titulo": "I. Original Works which still Survive.",
+                "titulo": "I. Obras originais que ainda sobrevivem.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -18702,7 +18702,7 @@
               },
               {
                 "id": "npnf203-616-617-618-620",
-                "titulo": "II. Translations from Greek Writers.",
+                "titulo": "II. Traduções de escritores gregos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -18783,7 +18783,7 @@
           },
           {
             "id": "npnf203-616-617-621",
-            "titulo": "WRITINGS OF RUFINUS.",
+            "titulo": "ESCRITOS DE RUFINO.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18830,7 +18830,7 @@
           },
           {
             "id": "npnf203-616-617-622",
-            "titulo": "Translation of Pamphilus’ Defence of Origen.",
+            "titulo": "Tradução da Defesa de Orígenes de Pânfilo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18853,7 +18853,7 @@
           },
           {
             "id": "npnf203-616-617-623",
-            "titulo": "Rufinus’s Epilogue to Pamphilus the Martyr’s Apology for Origen otherwise The Book Concerning the Adulteration of the Works of Origen.",
+            "titulo": "O epílogo de Rufino a Pânfilo, o mártir, a desculpa de Orígenes, caso contrário, o livro sobre a adulteração das obras de Orígenes.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18928,7 +18928,7 @@
           },
           {
             "id": "npnf203-616-617-624",
-            "titulo": "Rufinus’ Apology in Defence of Himself.",
+            "titulo": "Desculpas de Rufino em defesa de si mesmo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18971,7 +18971,7 @@
           },
           {
             "id": "npnf203-616-617-625",
-            "titulo": "The Letter of Anastasius,",
+            "titulo": "A Carta de Anastácio,",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -19006,11 +19006,11 @@
           },
           {
             "id": "npnf203-616-617-626",
-            "titulo": "The Apology of Rufinus.",
+            "titulo": "A Apologia de Rufino.",
             "children": [
               {
                 "id": "npnf203-616-617-626-627",
-                "titulo": "In Two Books.",
+                "titulo": "Em dois livros.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -19033,7 +19033,7 @@
               },
               {
                 "id": "npnf203-616-617-626-628",
-                "titulo": "Book I.",
+                "titulo": "Livro I.",
                 "children": [
                   {
                     "id": "npnf203-616-617-626-628-629",
@@ -19724,7 +19724,7 @@
               },
               {
                 "id": "npnf203-616-617-626-672",
-                "titulo": "Book II.",
+                "titulo": "Livro II.",
                 "children": [
                   {
                     "id": "npnf203-616-617-626-672-673",
@@ -20409,7 +20409,7 @@
           },
           {
             "id": "npnf203-616-617-724",
-            "titulo": "Jerome’s Apology for Himself Against the Books of Rufinus.",
+            "titulo": "A desculpa de Jerônimo para si mesmo contra os livros de Rufino.",
             "children": [
               {
                 "id": "npnf203-616-617-724-725",
@@ -20903,7 +20903,7 @@
           },
           {
             "id": "npnf203-616-617-757",
-            "titulo": "Book II.",
+            "titulo": "Livro II.",
             "children": [
               {
                 "id": "npnf203-616-617-757-758",
@@ -21377,7 +21377,7 @@
           },
           {
             "id": "npnf203-616-617-786",
-            "titulo": "Book III.",
+            "titulo": "Livro III.",
             "children": [
               {
                 "id": "npnf203-616-617-786-787",
@@ -21927,7 +21927,7 @@
           },
           {
             "id": "npnf203-616-617-831",
-            "titulo": "A Commentary on the Apostles’ Creed.",
+            "titulo": "Um Comentário sobre o Credo dos Apóstolos.",
             "children": [
               {
                 "id": "npnf203-616-617-831-832",
@@ -22553,7 +22553,7 @@
           },
           {
             "id": "npnf203-616-617-880",
-            "titulo": "The Preface to the Books of Recognitions of St. Clement.",
+            "titulo": "O Prefácio aos Livros de Reconhecimentos de São Clemente.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -22580,7 +22580,7 @@
           },
           {
             "id": "npnf203-616-617-881",
-            "titulo": "Rufinus’ Preface to the Translation of Origen’s Commentary on Psalms 36, 37, and 38.",
+            "titulo": "Prefácio de Rufino à Tradução do Comentário de Orígenes sobre os Salmos 36, 37 e 38.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -22595,7 +22595,7 @@
           },
           {
             "id": "npnf203-616-617-882",
-            "titulo": "Rufinus’ Preface to the Translation of Origen’s Commentary on the Epistle to the Romans.",
+            "titulo": "Prefácio de Rufino à tradução do comentário de Orígenes sobre a Epístola aos Romanos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -22610,7 +22610,7 @@
           },
           {
             "id": "npnf203-616-617-883",
-            "titulo": "The Peroration of Rufinus Appended to His Translation of Origen’s Commentary on the Epistle to the Romans.",
+            "titulo": "A Peroração de Rufino anexada à sua tradução do Comentário de Orígenes sobre a Epístola aos Romanos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",

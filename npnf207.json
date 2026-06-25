@@ -20,7 +20,7 @@
       },
       {
         "id": "npnf207-3-6",
-        "titulo": "Chapter I.—Life of S. Cyril.",
+        "titulo": "Capítulo I.—Vida de S. Cirilo.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -203,7 +203,7 @@
       },
       {
         "id": "npnf207-3-7",
-        "titulo": "Chapter II.—Catechetical Instruction.",
+        "titulo": "Capítulo II. — Instrução Catequética.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -354,7 +354,7 @@
       },
       {
         "id": "npnf207-3-8",
-        "titulo": "Chapter III.—Special Preparation for Baptism.",
+        "titulo": "Capítulo III. — Preparação especial para o batismo.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -433,7 +433,7 @@
       },
       {
         "id": "npnf207-3-9",
-        "titulo": "Chapter IV.—Ceremonies of Baptism and Chrism.",
+        "titulo": "Capítulo IV. — Cerimônias de Batismo e Crisma.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -572,7 +572,7 @@
       },
       {
         "id": "npnf207-3-10",
-        "titulo": "Chapter V.—Eucharistic Rites. Liturgy.",
+        "titulo": "Capítulo V. — Ritos Eucarísticos. Liturgia.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -691,7 +691,7 @@
       },
       {
         "id": "npnf207-3-11",
-        "titulo": "Chapter VI.—Effects of Baptism and of Chrism.",
+        "titulo": "Capítulo VI. — Efeitos do Batismo e do Crisma.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -834,7 +834,7 @@
       },
       {
         "id": "npnf207-3-12",
-        "titulo": "Chapter VII.—Eucharistic Doctrine.",
+        "titulo": "Capítulo VII. — Doutrina Eucarística.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -957,7 +957,7 @@
       },
       {
         "id": "npnf207-3-13",
-        "titulo": "Chapter VIII.—Place of S. Cyril’s Lectures.",
+        "titulo": "Capítulo VIII.—Local das Palestras de S. Cirilo.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1012,7 +1012,7 @@
       },
       {
         "id": "npnf207-3-14",
-        "titulo": "Chapter IX.—The Time and Arrangement of S. Cyril’s Lectures.",
+        "titulo": "Capítulo IX.—O tempo e a organização das palestras de S. Cirilo.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1083,7 +1083,7 @@
       },
       {
         "id": "npnf207-3-15",
-        "titulo": "Chapter X.—The Creed of Jerusalem: Doctrine of the Holy Trinity.",
+        "titulo": "Capítulo X. — O Credo de Jerusalém: Doutrina da Santíssima Trindade.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1286,7 +1286,7 @@
       },
       {
         "id": "npnf207-3-16",
-        "titulo": "Chapter XI.—S. Cyril’s Writings.",
+        "titulo": "Capítulo XI.-S. Escritos de Cirilo.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1593,7 +1593,7 @@
       },
       {
         "id": "npnf207-3-17",
-        "titulo": "THE CATECHETICAL LECTURES OF S. CYRIL, ARCHBISHOP OF JERUSALEM.",
+        "titulo": "AS PALESTRAS CATEQUETICAS DE S. CIRIL, ARCEBISPO DE JERUSALÉM.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1688,11 +1688,11 @@
       },
       {
         "id": "npnf207-3-18",
-        "titulo": "FIRST CATECHETICAL LECTURE of Our Holy Father Cyril,",
+        "titulo": "PRIMEIRA PALESTRA CATEQUETICA do Nosso Santo Padre Cirilo,",
         "children": [
           {
             "id": "npnf207-3-18-19",
-            "titulo": "Lecture II.",
+            "titulo": "Aula II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1791,7 +1791,7 @@
           },
           {
             "id": "npnf207-3-18-20",
-            "titulo": "Lecture III.",
+            "titulo": "Palestra III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1878,7 +1878,7 @@
           },
           {
             "id": "npnf207-3-18-21",
-            "titulo": "Lecture IV.",
+            "titulo": "Aula IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2109,7 +2109,7 @@
           },
           {
             "id": "npnf207-3-18-22",
-            "titulo": "Lecture V.",
+            "titulo": "Palestra V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2188,7 +2188,7 @@
           },
           {
             "id": "npnf207-3-18-23",
-            "titulo": "Lecture VI.",
+            "titulo": "Aula VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2351,7 +2351,7 @@
           },
           {
             "id": "npnf207-3-18-24",
-            "titulo": "Lecture VII.",
+            "titulo": "Aula VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2434,7 +2434,7 @@
           },
           {
             "id": "npnf207-3-18-25",
-            "titulo": "Lecture VIII.",
+            "titulo": "Aula VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2481,7 +2481,7 @@
           },
           {
             "id": "npnf207-3-18-26",
-            "titulo": "Lecture IX.",
+            "titulo": "Aula IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2576,7 +2576,7 @@
           },
           {
             "id": "npnf207-3-18-27",
-            "titulo": "Appendix to Lecture IX.",
+            "titulo": "Apêndice da Aula IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2599,7 +2599,7 @@
           },
           {
             "id": "npnf207-3-18-28",
-            "titulo": "Lecture X.",
+            "titulo": "Palestra X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2694,7 +2694,7 @@
           },
           {
             "id": "npnf207-3-18-29",
-            "titulo": "Lecture XI.",
+            "titulo": "Palestra XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2809,7 +2809,7 @@
           },
           {
             "id": "npnf207-3-18-30",
-            "titulo": "Lecture XII.",
+            "titulo": "Aula XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2968,7 +2968,7 @@
           },
           {
             "id": "npnf207-3-18-31",
-            "titulo": "Lecture XIII.",
+            "titulo": "Palestra XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3147,7 +3147,7 @@
           },
           {
             "id": "npnf207-3-18-32",
-            "titulo": "Lecture XIV.",
+            "titulo": "Aula XIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3294,7 +3294,7 @@
           },
           {
             "id": "npnf207-3-18-33",
-            "titulo": "Lecture XV.",
+            "titulo": "Palestra XV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3441,7 +3441,7 @@
           },
           {
             "id": "npnf207-3-18-34",
-            "titulo": "Lecture XVI.",
+            "titulo": "Aula XVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3584,7 +3584,7 @@
           },
           {
             "id": "npnf207-3-18-35",
-            "titulo": "Lecture XVII.",
+            "titulo": "Palestra XVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3751,7 +3751,7 @@
           },
           {
             "id": "npnf207-3-18-36",
-            "titulo": "Lecture XVIII.",
+            "titulo": "Palestra XVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3908,11 +3908,11 @@
       },
       {
         "id": "npnf207-3-37",
-        "titulo": "FIVE CATECHETICAL LECTURES OF THE SAME AUTHOR, TO THE NEWLY BAPTIZED2357.",
+        "titulo": "CINCO PALESTRAS CATEQUETICAS DO MESMO AUTOR, AOS RECÉM-BAPTIZADOS2357.",
         "children": [
           {
             "id": "npnf207-3-37-38",
-            "titulo": "Lecture XIX.",
+            "titulo": "Palestra XIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3967,7 +3967,7 @@
           },
           {
             "id": "npnf207-3-37-39",
-            "titulo": "Lecture XX.",
+            "titulo": "Palestra XX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4014,7 +4014,7 @@
           },
           {
             "id": "npnf207-3-37-40",
-            "titulo": "Lecture XXI.",
+            "titulo": "Palestra XXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4057,7 +4057,7 @@
           },
           {
             "id": "npnf207-3-37-41",
-            "titulo": "Lecture XXII.",
+            "titulo": "Palestra XXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4108,7 +4108,7 @@
           },
           {
             "id": "npnf207-3-37-42",
-            "titulo": "Lecture XXIII.",
+            "titulo": "Palestra XXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4219,11 +4219,11 @@
   },
   {
     "id": "npnf207-44",
-    "titulo": "Prolegomena.",
+    "titulo": "Prolegômenos.",
     "children": [
       {
         "id": "npnf207-44-45",
-        "titulo": "Section I.—The Life.",
+        "titulo": "Seção I. — A Vida.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4344,11 +4344,11 @@
   },
   {
     "id": "npnf207-48",
-    "titulo": "GREGORY NAZIANZEN.",
+    "titulo": "GREGÓRIO NAZIANZEN.",
     "children": [
       {
         "id": "npnf207-48-49",
-        "titulo": "Oration I.",
+        "titulo": "Oração I.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4383,7 +4383,7 @@
       },
       {
         "id": "npnf207-48-50",
-        "titulo": "Introduction to Oration II.",
+        "titulo": "Introdução à Oração II.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4394,7 +4394,7 @@
       },
       {
         "id": "npnf207-48-51",
-        "titulo": "Oration II.",
+        "titulo": "Oração II.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4873,7 +4873,7 @@
       },
       {
         "id": "npnf207-48-52",
-        "titulo": "Oration III.",
+        "titulo": "Oração III.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4920,7 +4920,7 @@
       },
       {
         "id": "npnf207-48-53",
-        "titulo": "Oration VII.",
+        "titulo": "Oração VII.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5031,7 +5031,7 @@
       },
       {
         "id": "npnf207-48-54",
-        "titulo": "Oration VIII.",
+        "titulo": "Oração VIII.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5142,7 +5142,7 @@
       },
       {
         "id": "npnf207-48-55",
-        "titulo": "Oration XII.",
+        "titulo": "Oração XII.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5181,7 +5181,7 @@
       },
       {
         "id": "npnf207-48-56",
-        "titulo": "Oration XVI.",
+        "titulo": "Oração XVI.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5276,7 +5276,7 @@
       },
       {
         "id": "npnf207-48-57",
-        "titulo": "Oration XVIII.",
+        "titulo": "Oração XVIII.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5467,7 +5467,7 @@
       },
       {
         "id": "npnf207-48-58",
-        "titulo": "Oration XXI.",
+        "titulo": "Oração XXI.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5632,11 +5632,11 @@
   },
   {
     "id": "npnf207-59",
-    "titulo": "Introduction to the “Theological” Orations.",
+    "titulo": "Introdução às Orações “Teológicas”.",
     "children": [
       {
         "id": "npnf207-59-60",
-        "titulo": "Oration XXVII.",
+        "titulo": "Oração XXVII.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5695,7 +5695,7 @@
       },
       {
         "id": "npnf207-59-61",
-        "titulo": "Oration XXVIII.",
+        "titulo": "Oração XXVIII.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5854,7 +5854,7 @@
       },
       {
         "id": "npnf207-59-62",
-        "titulo": "Oration XXIX.",
+        "titulo": "Oração XXIX.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5973,7 +5973,7 @@
       },
       {
         "id": "npnf207-59-63",
-        "titulo": "Oration XXX.",
+        "titulo": "Oração XXX.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -6072,11 +6072,11 @@
       },
       {
         "id": "npnf207-59-64",
-        "titulo": "The Fifth Theological Oration.",
+        "titulo": "A Quinta Oração Teológica.",
         "children": [
           {
             "id": "npnf207-59-64-65",
-            "titulo": "Oration XXXIII.",
+            "titulo": "Oração XXXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6155,7 +6155,7 @@
           },
           {
             "id": "npnf207-59-64-66",
-            "titulo": "Oration XXXIV.",
+            "titulo": "Oração XXXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6230,7 +6230,7 @@
           },
           {
             "id": "npnf207-59-64-67",
-            "titulo": "Oration XXXVII.",
+            "titulo": "Oração XXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6337,7 +6337,7 @@
           },
           {
             "id": "npnf207-59-64-68",
-            "titulo": "Oration XXXVIII.",
+            "titulo": "Oração XXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6440,7 +6440,7 @@
           },
           {
             "id": "npnf207-59-64-69",
-            "titulo": "Oration XXXIX.",
+            "titulo": "Oração XXXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6563,7 +6563,7 @@
           },
           {
             "id": "npnf207-59-64-70",
-            "titulo": "Oration XL.",
+            "titulo": "Oração XL.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6762,7 +6762,7 @@
           },
           {
             "id": "npnf207-59-64-71",
-            "titulo": "Oration XLI.",
+            "titulo": "Oração XLI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6869,7 +6869,7 @@
           },
           {
             "id": "npnf207-59-64-72",
-            "titulo": "Oration XLII.",
+            "titulo": "Oração XLII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6992,7 +6992,7 @@
           },
           {
             "id": "npnf207-59-64-73",
-            "titulo": "Oration XLIII.",
+            "titulo": "Oração XLIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7339,7 +7339,7 @@
           },
           {
             "id": "npnf207-59-64-74",
-            "titulo": "Oration XLV.",
+            "titulo": "Oração XLV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7486,15 +7486,15 @@
     "children": [
       {
         "id": "npnf207-75-76",
-        "titulo": "A Selection from the Letters of Saint Gregory Nazianzen, Sometime Archbishop of Constantinople.",
+        "titulo": "Uma seleção das cartas de São Gregório Nazianzeno, ex-arcebispo de Constantinopla.",
         "children": [
           {
             "id": "npnf207-75-76-77",
-            "titulo": "Division I.",
+            "titulo": "Divisão I.",
             "children": [
               {
                 "id": "npnf207-75-76-77-78",
-                "titulo": "To Nectarius, Bishop of Constantinople. (Ep. CCII.)",
+                "titulo": "Para Nectário, Bispo de Constantinopla. (Ep. CCII.)",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7505,7 +7505,7 @@
               },
               {
                 "id": "npnf207-75-76-77-79",
-                "titulo": "To Cledonius the Priest Against Apollinarius. (Ep. CI.)",
+                "titulo": "A Cledônio, o sacerdote, contra Apolinário. (Ep. CI.)",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7564,7 +7564,7 @@
               },
               {
                 "id": "npnf207-75-76-77-80",
-                "titulo": "Against Apollinarius; The Second Letter to Cledonius. (Ep. CII.)",
+                "titulo": "Contra Apolinário; A Segunda Carta a Cledônio. (Ep. CII.)",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7599,7 +7599,7 @@
               },
               {
                 "id": "npnf207-75-76-77-81",
-                "titulo": "Ep. CXXV. To Olympius.",
+                "titulo": "Ep. CXXV. Para Olímpio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7612,11 +7612,11 @@
           },
           {
             "id": "npnf207-75-76-82",
-            "titulo": "Division II.",
+            "titulo": "Divisão II.",
             "children": [
               {
                 "id": "npnf207-75-76-82-83",
-                "titulo": "Ep. I. To Basil His Comrade.",
+                "titulo": "Ep. I. Para Basil, seu camarada.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7646,7 +7646,7 @@
               },
               {
                 "id": "npnf207-75-76-82-85",
-                "titulo": "Ep. IV.",
+                "titulo": "Ep. 4.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7745,7 +7745,7 @@
               },
               {
                 "id": "npnf207-75-76-82-90",
-                "titulo": "Ep. XVI. To Eusebius, Bishop of Cæsarea.",
+                "titulo": "Ep. XVI. A Eusébio, Bispo de Cesaréia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7756,7 +7756,7 @@
               },
               {
                 "id": "npnf207-75-76-82-91",
-                "titulo": "Ep. XVII. To Eusebius, Archbishop of Cæsarea.",
+                "titulo": "Ep. XVII. A Eusébio, Arcebispo de Cesaréia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7767,7 +7767,7 @@
               },
               {
                 "id": "npnf207-75-76-82-92",
-                "titulo": "Ep. XVIII. To Eusebius of Cæsarea.",
+                "titulo": "Ep. XVIII. Para Eusébio de Cesaréia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7778,7 +7778,7 @@
               },
               {
                 "id": "npnf207-75-76-82-93",
-                "titulo": "Ep. XL. To the Great Basil.",
+                "titulo": "Ep. XL. Ao Grande Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7793,7 +7793,7 @@
               },
               {
                 "id": "npnf207-75-76-82-94",
-                "titulo": "Ep. XLI. To the People of Cæsarea, in His Father’s Name.",
+                "titulo": "Ep. XLI. Ao povo de Cesaréia, em nome de Seu Pai.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7808,7 +7808,7 @@
               },
               {
                 "id": "npnf207-75-76-82-95",
-                "titulo": "Ep. XLIII. To the Bishops.",
+                "titulo": "Ep. XLIII. Aos Bispos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7823,7 +7823,7 @@
               },
               {
                 "id": "npnf207-75-76-82-96",
-                "titulo": "Ep. XLII. To Eusebius, Bishop of Samosata.",
+                "titulo": "Ep. XLII. A Eusébio, Bispo de Samósata.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7838,7 +7838,7 @@
               },
               {
                 "id": "npnf207-75-76-82-97",
-                "titulo": "Ep. XLV. To Basil.",
+                "titulo": "Ep. XLV. Para Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7853,7 +7853,7 @@
               },
               {
                 "id": "npnf207-75-76-82-98",
-                "titulo": "Ep. XLVI. To Basil.",
+                "titulo": "Ep. XLVI. Para Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7872,7 +7872,7 @@
               },
               {
                 "id": "npnf207-75-76-82-99",
-                "titulo": "Ep. XLVII. To Basil.",
+                "titulo": "Ep. XLVII. Para Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7887,7 +7887,7 @@
               },
               {
                 "id": "npnf207-75-76-82-100",
-                "titulo": "Ep. XLVIII. To Basil.",
+                "titulo": "Ep. XLVIII. Para Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7902,7 +7902,7 @@
               },
               {
                 "id": "npnf207-75-76-82-101",
-                "titulo": "Ep. XLIX. To Basil. (The Praises of Quiet.)",
+                "titulo": "Ep. XLIX. Para Basílio. (Os louvores do silêncio.)",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7913,7 +7913,7 @@
               },
               {
                 "id": "npnf207-75-76-82-102",
-                "titulo": "Ep. L. To Basil.",
+                "titulo": "Ep. L. Para Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7928,7 +7928,7 @@
               },
               {
                 "id": "npnf207-75-76-82-103",
-                "titulo": "Ep. LVIII. To Basil.",
+                "titulo": "Ep. LVIII. Para Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7959,7 +7959,7 @@
               },
               {
                 "id": "npnf207-75-76-82-104",
-                "titulo": "Ep. LIX. To Basil.",
+                "titulo": "Ep. LIX. Para Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7974,7 +7974,7 @@
               },
               {
                 "id": "npnf207-75-76-82-105",
-                "titulo": "Ep. LX. To Basil.",
+                "titulo": "Ep. LX. Para Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7991,11 +7991,11 @@
           },
           {
             "id": "npnf207-75-76-106",
-            "titulo": "Division III.",
+            "titulo": "Divisão III.",
             "children": [
               {
                 "id": "npnf207-75-76-106-107",
-                "titulo": "§1. Letters to His Brother Cæsarius.",
+                "titulo": "§1. Cartas para seu irmão César.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8010,7 +8010,7 @@
               },
               {
                 "id": "npnf207-75-76-106-108",
-                "titulo": "Ep. XIV. and XXIII.",
+                "titulo": "Ep. XIV. e XXIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8059,7 +8059,7 @@
               },
               {
                 "id": "npnf207-75-76-106-111",
-                "titulo": "Ep. I.",
+                "titulo": "Ep. eu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8118,7 +8118,7 @@
               },
               {
                 "id": "npnf207-75-76-106-116",
-                "titulo": "Ep. LXXXI.",
+                "titulo": "Ep. LXXXII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8144,7 +8144,7 @@
               },
               {
                 "id": "npnf207-75-76-106-118",
-                "titulo": "Ep. CXCVII. A Letter of Condolence on the Death of His Sister Theosebia.",
+                "titulo": "Ep. CXCVII. Uma carta de condolências pela morte de sua irmã Theosebia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8159,7 +8159,7 @@
               },
               {
                 "id": "npnf207-75-76-106-119",
-                "titulo": "§3. To Eusebius Bishop of Samosata.",
+                "titulo": "§3. Para Eusébio Bispo de Samósata.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8321,7 +8321,7 @@
               },
               {
                 "id": "npnf207-75-76-106-129",
-                "titulo": "Ep. XCIII.",
+                "titulo": "Ep. XIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8351,7 +8351,7 @@
               },
               {
                 "id": "npnf207-75-76-106-131",
-                "titulo": "§5. To Amphilochius the Younger.",
+                "titulo": "§5. Para Anfilóquio, o Jovem.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8452,7 +8452,7 @@
               },
               {
                 "id": "npnf207-75-76-106-138",
-                "titulo": "Ep. LXIII. To Amphilochius the Elder.",
+                "titulo": "Ep. LXIII. Para Anfilóquio, o Velho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8467,7 +8467,7 @@
               },
               {
                 "id": "npnf207-75-76-106-139",
-                "titulo": "Ep. CLXXI. To Amphilochius, Bishop of Iconium.",
+                "titulo": "Ep. CLXXI. Para Anfilóquio, Bispo de Icônio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8583,7 +8583,7 @@
               },
               {
                 "id": "npnf207-75-76-106-147",
-                "titulo": "§7. To Theodore, Bishop of Tyana.",
+                "titulo": "§7. Para Teodoro, Bispo de Tiana.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8692,7 +8692,7 @@
               },
               {
                 "id": "npnf207-75-76-106-154",
-                "titulo": "Ep. CLII.",
+                "titulo": "Ep. CLI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8707,7 +8707,7 @@
               },
               {
                 "id": "npnf207-75-76-106-155",
-                "titulo": "Ep. CLIII. To Bosporius, Bishop of Colonia.",
+                "titulo": "Ep. CLIIII. Ao Bósforo, Bispo de Colônia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8722,7 +8722,7 @@
               },
               {
                 "id": "npnf207-75-76-106-156",
-                "titulo": "Ep. CLVII. To Theodore, Archbishop of Tyana.",
+                "titulo": "Ep. CLVI. Para Teodoro, Arcebispo de Tyana.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8790,7 +8790,7 @@
               },
               {
                 "id": "npnf207-75-76-106-160",
-                "titulo": "Ep. XII. (About a.d. 365).",
+                "titulo": "Ep. XII. (Cerca de 365 d.C.).",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8898,7 +8898,7 @@
               },
               {
                 "id": "npnf207-75-76-106-168",
-                "titulo": "Ep. CVI.",
+                "titulo": "Ep. IVC.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8935,7 +8935,7 @@
               },
               {
                 "id": "npnf207-75-76-106-171",
-                "titulo": "Ep. CXXXI.",
+                "titulo": "Ep. CXXXII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9021,7 +9021,7 @@
               },
               {
                 "id": "npnf207-75-76-106-177",
-                "titulo": "Ep. CXLV. To Verianus.",
+                "titulo": "Ep. CXLV. Para Veriano.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9032,7 +9032,7 @@
               },
               {
                 "id": "npnf207-75-76-106-178",
-                "titulo": "To Olympius. Ep. CXLVI.",
+                "titulo": "Para Olímpio. Ep. CXLVI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",

@@ -1,11 +1,11 @@
 [
   {
     "id": "anf09-4",
-    "titulo": "THE GOSPEL OF PETER. by PROFESSOR J. ARMITAGE ROBINSON.",
+    "titulo": "O EVANGELHO DE PEDRO. pelo PROFESSOR J. ARMITAGE ROBINSON.",
     "children": [
       {
         "id": "anf09-4-5",
-        "titulo": "The Gospel of Peter.",
+        "titulo": "O Evangelho de Pedro.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -196,7 +196,7 @@
       },
       {
         "id": "anf09-4-6",
-        "titulo": "The Gospel According to Peter.2",
+        "titulo": "O Evangelho Segundo Pedro.2",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -259,7 +259,7 @@
       },
       {
         "id": "anf09-4-7",
-        "titulo": "SYNOPTICAL TABLE of the FOUR CANONICAL GOSPELS and THE GOSPEL ACCORDING TO PETER",
+        "titulo": "TABELA SINÓPTICA DOS QUATRO EVANGELHOS CANÔNICOS e DO EVANGELHO SEGUNDO PEDRO",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1420,11 +1420,11 @@
   },
   {
     "id": "anf09-8",
-    "titulo": "THE DIATESSARON OF TATIAN By REV. HOPE W. HOGG, B.D.",
+    "titulo": "O DIATESSARON DE TATIAN Por REV. ESPERANÇA W. HOGG, BD.",
     "children": [
       {
         "id": "anf09-8-9",
-        "titulo": "Introduction.",
+        "titulo": "Introdução.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -1531,11 +1531,11 @@
       },
       {
         "id": "anf09-8-10",
-        "titulo": "The Text of the Diatessaron.",
+        "titulo": "O Texto do Diatessaron.",
         "children": [
           {
             "id": "anf09-8-10-11",
-            "titulo": "Section I",
+            "titulo": "Seção I",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1742,7 +1742,7 @@
           },
           {
             "id": "anf09-8-10-12",
-            "titulo": "Section II.",
+            "titulo": "Seção II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1825,7 +1825,7 @@
           },
           {
             "id": "anf09-8-10-13",
-            "titulo": "Section III.",
+            "titulo": "Seção III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1928,7 +1928,7 @@
           },
           {
             "id": "anf09-8-10-14",
-            "titulo": "Section IV.",
+            "titulo": "Seção IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1975,7 +1975,7 @@
           },
           {
             "id": "anf09-8-10-15",
-            "titulo": "Section V.",
+            "titulo": "Seção V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2042,7 +2042,7 @@
           },
           {
             "id": "anf09-8-10-16",
-            "titulo": "Section VI.",
+            "titulo": "Seção VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2113,7 +2113,7 @@
           },
           {
             "id": "anf09-8-10-17",
-            "titulo": "Section VII.",
+            "titulo": "Seção VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2140,7 +2140,7 @@
           },
           {
             "id": "anf09-8-10-18",
-            "titulo": "Section VIII.",
+            "titulo": "Seção VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2271,7 +2271,7 @@
           },
           {
             "id": "anf09-8-10-19",
-            "titulo": "Section IX.",
+            "titulo": "Seção IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2306,7 +2306,7 @@
           },
           {
             "id": "anf09-8-10-20",
-            "titulo": "Section X.",
+            "titulo": "Seção X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2341,7 +2341,7 @@
           },
           {
             "id": "anf09-8-10-21",
-            "titulo": "Section XI.",
+            "titulo": "Seção XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2376,7 +2376,7 @@
           },
           {
             "id": "anf09-8-10-22",
-            "titulo": "Section XII.",
+            "titulo": "Seção XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2415,7 +2415,7 @@
           },
           {
             "id": "anf09-8-10-23",
-            "titulo": "Section XIII.",
+            "titulo": "Seção XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2458,7 +2458,7 @@
           },
           {
             "id": "anf09-8-10-24",
-            "titulo": "Section XIV.",
+            "titulo": "Seção XIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2489,7 +2489,7 @@
           },
           {
             "id": "anf09-8-10-25",
-            "titulo": "Section XV.",
+            "titulo": "Seção XV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2524,7 +2524,7 @@
           },
           {
             "id": "anf09-8-10-26",
-            "titulo": "Section XVI.",
+            "titulo": "Seção XVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2599,7 +2599,7 @@
           },
           {
             "id": "anf09-8-10-27",
-            "titulo": "Section XVII.",
+            "titulo": "Seção XVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2662,7 +2662,7 @@
           },
           {
             "id": "anf09-8-10-28",
-            "titulo": "Section XVIII.",
+            "titulo": "Seção XVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2685,7 +2685,7 @@
           },
           {
             "id": "anf09-8-10-29",
-            "titulo": "Section XIX.",
+            "titulo": "Seção XIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2712,7 +2712,7 @@
           },
           {
             "id": "anf09-8-10-30",
-            "titulo": "Section XX.",
+            "titulo": "Seção XX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2775,7 +2775,7 @@
           },
           {
             "id": "anf09-8-10-31",
-            "titulo": "Section XXI.",
+            "titulo": "Seção XXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2802,7 +2802,7 @@
           },
           {
             "id": "anf09-8-10-32",
-            "titulo": "Section XXII.",
+            "titulo": "Seção XXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2829,7 +2829,7 @@
           },
           {
             "id": "anf09-8-10-33",
-            "titulo": "Section XXIII.",
+            "titulo": "Seção XXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2864,7 +2864,7 @@
           },
           {
             "id": "anf09-8-10-34",
-            "titulo": "Section XXIV.",
+            "titulo": "Seção XXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2899,7 +2899,7 @@
           },
           {
             "id": "anf09-8-10-35",
-            "titulo": "Section XXV.",
+            "titulo": "Seção XXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2930,7 +2930,7 @@
           },
           {
             "id": "anf09-8-10-36",
-            "titulo": "Section XXVI.",
+            "titulo": "Seção XXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2953,7 +2953,7 @@
           },
           {
             "id": "anf09-8-10-37",
-            "titulo": "Section XXVII.",
+            "titulo": "Seção XXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2976,7 +2976,7 @@
           },
           {
             "id": "anf09-8-10-38",
-            "titulo": "Section XXVIII.1932",
+            "titulo": "Seção XXVIII.1932",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3007,7 +3007,7 @@
           },
           {
             "id": "anf09-8-10-39",
-            "titulo": "Section XXIX.",
+            "titulo": "Seção XXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3034,7 +3034,7 @@
           },
           {
             "id": "anf09-8-10-40",
-            "titulo": "Section XXX.",
+            "titulo": "Seção XXX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3065,7 +3065,7 @@
           },
           {
             "id": "anf09-8-10-41",
-            "titulo": "Section XXXI.",
+            "titulo": "Seção XXXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3088,7 +3088,7 @@
           },
           {
             "id": "anf09-8-10-42",
-            "titulo": "Section XXXII.",
+            "titulo": "Seção XXXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3115,7 +3115,7 @@
           },
           {
             "id": "anf09-8-10-43",
-            "titulo": "Section XXXIII.",
+            "titulo": "Seção XXXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3162,7 +3162,7 @@
           },
           {
             "id": "anf09-8-10-44",
-            "titulo": "Section XXXIV.",
+            "titulo": "Seção XXXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3189,7 +3189,7 @@
           },
           {
             "id": "anf09-8-10-45",
-            "titulo": "Section XXXV.",
+            "titulo": "Seção XXXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3232,7 +3232,7 @@
           },
           {
             "id": "anf09-8-10-46",
-            "titulo": "Section XXXVI.",
+            "titulo": "Seção XXXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3271,7 +3271,7 @@
           },
           {
             "id": "anf09-8-10-47",
-            "titulo": "Section XXXVII.",
+            "titulo": "Seção XXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3314,7 +3314,7 @@
           },
           {
             "id": "anf09-8-10-48",
-            "titulo": "Section XXXVIII.",
+            "titulo": "Seção XXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3361,7 +3361,7 @@
           },
           {
             "id": "anf09-8-10-49",
-            "titulo": "Section XXXIX.",
+            "titulo": "Seção XXXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3392,7 +3392,7 @@
           },
           {
             "id": "anf09-8-10-50",
-            "titulo": "Section XL.",
+            "titulo": "Seção XL.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3475,7 +3475,7 @@
           },
           {
             "id": "anf09-8-10-51",
-            "titulo": "Section XLI.",
+            "titulo": "Seção XLI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3526,7 +3526,7 @@
           },
           {
             "id": "anf09-8-10-52",
-            "titulo": "Section XLII.",
+            "titulo": "Seção XLII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3569,7 +3569,7 @@
           },
           {
             "id": "anf09-8-10-53",
-            "titulo": "Section XLIII.",
+            "titulo": "Seção XLIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3612,7 +3612,7 @@
           },
           {
             "id": "anf09-8-10-54",
-            "titulo": "Section XLIV.",
+            "titulo": "Seção XLIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3671,7 +3671,7 @@
           },
           {
             "id": "anf09-8-10-55",
-            "titulo": "Section XLV.",
+            "titulo": "Seção XLV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3706,7 +3706,7 @@
           },
           {
             "id": "anf09-8-10-56",
-            "titulo": "Section XLVI.",
+            "titulo": "Seção XLVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3741,7 +3741,7 @@
           },
           {
             "id": "anf09-8-10-57",
-            "titulo": "Section XLVII.",
+            "titulo": "Seção XLVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3772,7 +3772,7 @@
           },
           {
             "id": "anf09-8-10-58",
-            "titulo": "Section XLVIII.",
+            "titulo": "Seção XLVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3811,7 +3811,7 @@
           },
           {
             "id": "anf09-8-10-59",
-            "titulo": "Section XLIX.",
+            "titulo": "Seção XLIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3858,7 +3858,7 @@
           },
           {
             "id": "anf09-8-10-60",
-            "titulo": "Section L.",
+            "titulo": "Seção L.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3921,7 +3921,7 @@
           },
           {
             "id": "anf09-8-10-61",
-            "titulo": "Section LI.",
+            "titulo": "Seção LI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3976,7 +3976,7 @@
           },
           {
             "id": "anf09-8-10-62",
-            "titulo": "Section LII.",
+            "titulo": "Seção LII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4039,7 +4039,7 @@
           },
           {
             "id": "anf09-8-10-63",
-            "titulo": "Section LIII.3703",
+            "titulo": "Seção LIII.3703",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4094,7 +4094,7 @@
           },
           {
             "id": "anf09-8-10-64",
-            "titulo": "Section LIV.",
+            "titulo": "Seção LIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4137,7 +4137,7 @@
           },
           {
             "id": "anf09-8-10-65",
-            "titulo": "Section LV.",
+            "titulo": "Seção LV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4168,7 +4168,7 @@
           },
           {
             "id": "anf09-8-10-66",
-            "titulo": "Subscriptions.",
+            "titulo": "Assinaturas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4195,11 +4195,11 @@
   },
   {
     "id": "anf09-67",
-    "titulo": "THE APOCALYPSE OF PETER VISIO PAULI APOCALYPSE OF MARIA VIRGO APOCALYPSE SEDRACH",
+    "titulo": "O APOCALIPSE DE PETER VISIO PAULI APOCALIPSE DE MARIA VIRGEM APOCALIPSE SEDRACH",
     "children": [
       {
         "id": "anf09-67-68",
-        "titulo": "The Revelation of Peter.",
+        "titulo": "A Revelação de Pedro.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4282,7 +4282,7 @@
       },
       {
         "id": "anf09-67-69",
-        "titulo": "The Apocalypse of Peter.",
+        "titulo": "O Apocalipse de Pedro.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4365,7 +4365,7 @@
       },
       {
         "id": "anf09-67-70",
-        "titulo": "Fragments of the Apocalypse of Peter.",
+        "titulo": "Fragmentos do Apocalipse de Pedro.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4394,11 +4394,11 @@
   },
   {
     "id": "anf09-71",
-    "titulo": "The Vision of Paul.",
+    "titulo": "A Visão de Paulo.",
     "children": [
       {
         "id": "anf09-71-72",
-        "titulo": "Introduction.",
+        "titulo": "Introdução.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4437,7 +4437,7 @@
       },
       {
         "id": "anf09-71-73",
-        "titulo": "The Vision of Paul.",
+        "titulo": "A Visão de Paulo.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4726,7 +4726,7 @@
     "children": [
       {
         "id": "anf09-74-75",
-        "titulo": "Introduction.",
+        "titulo": "Introdução.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4737,7 +4737,7 @@
       },
       {
         "id": "anf09-74-76",
-        "titulo": "The Apocalypse of the Holy Mother of God Concerning the Chastisements.",
+        "titulo": "O Apocalipse da Santa Mãe de Deus sobre os castigos.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4870,7 +4870,7 @@
     "children": [
       {
         "id": "anf09-77-78",
-        "titulo": "Introduction.",
+        "titulo": "Introdução.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4970,7 +4970,7 @@
   },
   {
     "id": "anf09-80",
-    "titulo": "THE ACTS OF XANTHIPPE AND POLYXENA, THE NARRATIVE OF ZOSIMUS.",
+    "titulo": "OS ATOS DE XANTIPA E POLIXENA, A NARRATIVA DE ZÓSIMO.",
     "children": [
       {
         "id": "anf09-80-81",
@@ -5088,7 +5088,7 @@
       },
       {
         "id": "anf09-80-83",
-        "titulo": "Version II.",
+        "titulo": "Versão II.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5157,11 +5157,11 @@
   },
   {
     "id": "anf09-84",
-    "titulo": "The Acts of Xanthippe and Polyxena.",
+    "titulo": "Os Atos de Xantipa e Políxena.",
     "children": [
       {
         "id": "anf09-84-85",
-        "titulo": "Introduction.",
+        "titulo": "Introdução.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5184,7 +5184,7 @@
       },
       {
         "id": "anf09-84-86",
-        "titulo": "Life and Conduct of the Holy Women, Xanthippe, Polyxena, and Rebecca.",
+        "titulo": "Vida e Conduta das Santas Mulheres, Xanthippe, Polyxena e Rebecca.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5385,11 +5385,11 @@
   },
   {
     "id": "anf09-87",
-    "titulo": "The Narrative of Zosimus.",
+    "titulo": "A Narrativa de Zózimo.",
     "children": [
       {
         "id": "anf09-87-88",
-        "titulo": "Introduction.",
+        "titulo": "Introdução.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5416,7 +5416,7 @@
       },
       {
         "id": "anf09-87-89",
-        "titulo": "The Narrative of Zosimus Concerning the Life of the Blessed.",
+        "titulo": "A narrativa de Zózimo sobre a vida dos bem-aventurados.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5513,11 +5513,11 @@
   },
   {
     "id": "anf09-90",
-    "titulo": "THE EPISTLES OF CLEMENT.",
+    "titulo": "AS EPÍSTOLAS DE CLEMENTE.",
     "children": [
       {
         "id": "anf09-90-91",
-        "titulo": "Additional Introduction.",
+        "titulo": "Introdução Adicional.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5564,11 +5564,11 @@
       },
       {
         "id": "anf09-90-92",
-        "titulo": "The First Epistle of Clement to the Corinthians. 3998",
+        "titulo": "A Primeira Epístola de Clemente aos Coríntios. 3998",
         "children": [
           {
             "id": "anf09-90-92-93",
-            "titulo": "Chapter I.—The Salutation. Praise of the Corinthians Before the Breaking Forth of Schism Among Them.",
+            "titulo": "Capítulo I. — A Saudação. Louvor dos Coríntios antes do surgimento do cisma entre eles.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5583,7 +5583,7 @@
           },
           {
             "id": "anf09-90-92-94",
-            "titulo": "Chapter II.—Praise of the Corinthians Continued.",
+            "titulo": "Capítulo II. — Continuação do louvor aos coríntios.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5594,7 +5594,7 @@
           },
           {
             "id": "anf09-90-92-95",
-            "titulo": "Chapter III.—The Sad State of the Corinthian Church After Sedition Arose in It from Envy and Emulation.",
+            "titulo": "Capítulo III. - O triste estado da Igreja de Corinto depois que a sedição surgiu dela por inveja e emulação.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5605,7 +5605,7 @@
           },
           {
             "id": "anf09-90-92-96",
-            "titulo": "Chapter IV.—Many Evils Have Already Flowed from This Source in Ancient Times.",
+            "titulo": "Capítulo IV. — Muitos males já fluíram desta fonte nos tempos antigos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5616,7 +5616,7 @@
           },
           {
             "id": "anf09-90-92-97",
-            "titulo": "Chapter V.—No Less Evils Have Arisen from the Same Source in the Most Recent Times. The Martyrdom of Peter and Paul.",
+            "titulo": "Capítulo V. — Não menos males surgiram da mesma fonte nos tempos mais recentes. O Martírio de Pedro e Paulo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5627,7 +5627,7 @@
           },
           {
             "id": "anf09-90-92-98",
-            "titulo": "Chapter VI.—Continuation. Several Other Martyrs.",
+            "titulo": "Capítulo VI.—Continuação. Vários outros mártires.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5638,7 +5638,7 @@
           },
           {
             "id": "anf09-90-92-99",
-            "titulo": "Chapter VII.—An Exhortation to Repentance.",
+            "titulo": "Capítulo VII. — Uma exortação ao arrependimento.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5649,7 +5649,7 @@
           },
           {
             "id": "anf09-90-92-100",
-            "titulo": "Chapter VIII.—Continuation Respecting Repentance.",
+            "titulo": "Capítulo VIII.—Continuação a respeito do arrependimento.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5660,7 +5660,7 @@
           },
           {
             "id": "anf09-90-92-101",
-            "titulo": "Chapter IX.—Examples of the Saints.",
+            "titulo": "Capítulo IX. — Exemplos dos Santos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5671,7 +5671,7 @@
           },
           {
             "id": "anf09-90-92-102",
-            "titulo": "Chapter X.—Continuation of the Above.",
+            "titulo": "Capítulo X.—Continuação do acima.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5682,7 +5682,7 @@
           },
           {
             "id": "anf09-90-92-103",
-            "titulo": "Chapter XI.—Continuation. Lot.",
+            "titulo": "Capítulo XI.—Continuação. Muito.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5693,7 +5693,7 @@
           },
           {
             "id": "anf09-90-92-104",
-            "titulo": "Chapter XII.—The Rewards of Faith and Hospitality. Rahab.",
+            "titulo": "Capítulo XII. — As recompensas da fé e da hospitalidade. Raabe.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5704,7 +5704,7 @@
           },
           {
             "id": "anf09-90-92-105",
-            "titulo": "Chapter XIII.—An Exhortation to Humility.",
+            "titulo": "Capítulo XIII. — Uma Exortação à Humildade.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5715,7 +5715,7 @@
           },
           {
             "id": "anf09-90-92-106",
-            "titulo": "Chapter XIV.—We Should Obey God Rather Than the Authors of Sedition.",
+            "titulo": "Capítulo XIV. - Devemos obedecer a Deus em vez dos autores da sedição.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5726,7 +5726,7 @@
           },
           {
             "id": "anf09-90-92-107",
-            "titulo": "Chapter XV.—We Must Adhere to Those Who Cultivate Peace, Not to Those Who Merely Pretend to Do So.",
+            "titulo": "Capítulo XV. — Devemos aderir àqueles que cultivam a paz, não àqueles que apenas fingem fazê-lo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5737,7 +5737,7 @@
           },
           {
             "id": "anf09-90-92-108",
-            "titulo": "Chapter XVI.—Christ as an Example of Humility.",
+            "titulo": "Capítulo XVI. - Cristo como exemplo de humildade.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5748,7 +5748,7 @@
           },
           {
             "id": "anf09-90-92-109",
-            "titulo": "Chapter XVII.—The Saints as Examples of Humility.",
+            "titulo": "Capítulo XVII. — Os santos como exemplos de humildade.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5759,7 +5759,7 @@
           },
           {
             "id": "anf09-90-92-110",
-            "titulo": "Chapter XVIII.—David as an Example of Humility.",
+            "titulo": "Capítulo XVIII. — David como exemplo de humildade.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5770,7 +5770,7 @@
           },
           {
             "id": "anf09-90-92-111",
-            "titulo": "Chapter XIX.—Imitating These Examples, Let Us Seek After Peace.",
+            "titulo": "Capítulo XIX. — Imitando esses exemplos, busquemos a paz.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5781,7 +5781,7 @@
           },
           {
             "id": "anf09-90-92-112",
-            "titulo": "Chapter XX.—The Peace and Harmony of the Universe.",
+            "titulo": "Capítulo XX. — A Paz e a Harmonia do Universo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5792,7 +5792,7 @@
           },
           {
             "id": "anf09-90-92-113",
-            "titulo": "Chapter XXI.—Let Us Obey God, and Not the Authors of Sedition.",
+            "titulo": "Capítulo XXI. — Obedeçamos a Deus, e não aos autores da sedição.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5803,7 +5803,7 @@
           },
           {
             "id": "anf09-90-92-114",
-            "titulo": "Chapter XXII.—These Exhortations are Confirmed by the Christian Faith, Which Proclaims the Misery of Sinful Conduct.",
+            "titulo": "Capítulo XXII. - Essas exortações são confirmadas pela fé cristã, que proclama a miséria da conduta pecaminosa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5814,7 +5814,7 @@
           },
           {
             "id": "anf09-90-92-115",
-            "titulo": "Chapter XXIII.—Be Humble, and Believe that Christ Will Come Again.",
+            "titulo": "Capítulo XXIII. — Seja humilde e acredite que Cristo voltará.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5825,7 +5825,7 @@
           },
           {
             "id": "anf09-90-92-116",
-            "titulo": "Chapter XXIV.—God Continually Shows Us in Nature that There Will Be a Resurrection.",
+            "titulo": "Capítulo XXIV. - Deus nos mostra continuamente na natureza que haverá uma ressurreição.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5836,7 +5836,7 @@
           },
           {
             "id": "anf09-90-92-117",
-            "titulo": "Chapter XXV.—The Phoenix an Emblem of Our Resurrection.",
+            "titulo": "Capítulo XXV. — A Fênix, um Emblema de Nossa Ressurreição.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5847,7 +5847,7 @@
           },
           {
             "id": "anf09-90-92-118",
-            "titulo": "Chapter XXVI.—We Shall Rise Again, Then, as the Scripture Also Testifies.",
+            "titulo": "Capítulo XXVI. - Ressuscitaremos, então, como também testificam as Escrituras.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5858,7 +5858,7 @@
           },
           {
             "id": "anf09-90-92-119",
-            "titulo": "Chapter XXVII.—In the Hope of the Resurrection, Let Us Cleave to the Omnipotent and Omniscient God.",
+            "titulo": "Capítulo XXVII. — Na esperança da ressurreição, apeguemo-nos ao Deus Onipotente e Onisciente.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5869,7 +5869,7 @@
           },
           {
             "id": "anf09-90-92-120",
-            "titulo": "Chapter XXVIII.—God Sees All Things: Therefore Let Us Avoid Transgression.",
+            "titulo": "Capítulo XXVIII. — Deus vê todas as coisas: portanto evitemos a transgressão.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5880,7 +5880,7 @@
           },
           {
             "id": "anf09-90-92-121",
-            "titulo": "Chapter XXIX.—Let Us Also Draw Near to God in Purity of Heart.",
+            "titulo": "Capítulo XXIX. — Aproximemo-nos também de Deus com pureza de coração.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5891,7 +5891,7 @@
           },
           {
             "id": "anf09-90-92-122",
-            "titulo": "Chapter XXX.—Let Us Do Those Things that Please God, and Flee from Those He Hates, that We May Be Blessed.",
+            "titulo": "Capítulo XXX. — Façamos as coisas que agradam a Deus e fujamos daqueles que ele odeia, para que possamos ser abençoados.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5902,7 +5902,7 @@
           },
           {
             "id": "anf09-90-92-123",
-            "titulo": "Chapter XXXI.—Let Us See by What Means We May Obtain the Divine Blessing.",
+            "titulo": "Capítulo XXXI. — Vejamos por que meios podemos obter a bênção divina.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5913,7 +5913,7 @@
           },
           {
             "id": "anf09-90-92-124",
-            "titulo": "Chapter XXXII.—We are Justified Not by Our Own Works, But by Faith.",
+            "titulo": "Capítulo XXXII. — Não somos justificados pelas nossas próprias obras, mas pela fé.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5924,7 +5924,7 @@
           },
           {
             "id": "anf09-90-92-125",
-            "titulo": "Chapter XXXIII.—But Let Us Not Give Up the Practice of Good Works and Love.",
+            "titulo": "Capítulo XXXIII. — Mas não abandonemos a prática das boas obras e do amor.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5935,7 +5935,7 @@
           },
           {
             "id": "anf09-90-92-126",
-            "titulo": "Chapter XXXIV.—Great is the Reward of Good Works with God. Joined Together in Harmony, Let Us Implore that Reward from Him.",
+            "titulo": "Capítulo XXXIV. — Grande é a recompensa das boas obras de Deus. Unidos em Harmonia, Imploremos Dele essa Recompensa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5946,7 +5946,7 @@
           },
           {
             "id": "anf09-90-92-127",
-            "titulo": "Chapter XXXV.—Immense is This Reward. How Shall We Obtain It?",
+            "titulo": "Capítulo XXXV. — Imensa é esta recompensa. Como devemos obtê-lo?",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5957,7 +5957,7 @@
           },
           {
             "id": "anf09-90-92-128",
-            "titulo": "Chapter XXXVI.—All Blessings are Given to Us Through Christ.",
+            "titulo": "Capítulo XXXVI. — Todas as bênçãos nos são dadas por meio de Cristo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5968,7 +5968,7 @@
           },
           {
             "id": "anf09-90-92-129",
-            "titulo": "Chapter XXXVII.—Christ is Our Leader, and We His Soldiers.",
+            "titulo": "Capítulo XXXVII. - Cristo é nosso líder e nós, seus soldados.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5979,7 +5979,7 @@
           },
           {
             "id": "anf09-90-92-130",
-            "titulo": "Chapter XXXVIII.—Let the Members of the Church Submit Themselves, and No One Exalt Himself Above Another.",
+            "titulo": "Capítulo XXXVIII. — Que os membros da Igreja se submetam e ninguém se exalte acima dos outros.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5990,7 +5990,7 @@
           },
           {
             "id": "anf09-90-92-131",
-            "titulo": "Chapter XXXIX.—There is No Reason for Self-Conceit.",
+            "titulo": "Capítulo XXXIX. - Não há razão para presunção.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6001,7 +6001,7 @@
           },
           {
             "id": "anf09-90-92-132",
-            "titulo": "Chapter XL.—Let Us Preserve in the Church the Order Appointed by God.",
+            "titulo": "Capítulo XL. — Preservamos na Igreja a ordem designada por Deus.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6012,7 +6012,7 @@
           },
           {
             "id": "anf09-90-92-133",
-            "titulo": "Chapter XLI.—Continuation of the Same Subject.",
+            "titulo": "Capítulo XLI.—Continuação do mesmo assunto.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6023,7 +6023,7 @@
           },
           {
             "id": "anf09-90-92-134",
-            "titulo": "Chapter XLII.—The Order of Ministers in the Church.",
+            "titulo": "Capítulo XLII. — A Ordem dos Ministros na Igreja.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6034,7 +6034,7 @@
           },
           {
             "id": "anf09-90-92-135",
-            "titulo": "Chapter XLIII.—Moses of Old Stilled the Contention Which Arose Concerning the Priestly Dignity.",
+            "titulo": "Capítulo XLIII. - Moisés da antiguidade acalmou a disputa que surgiu a respeito da dignidade sacerdotal.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6045,7 +6045,7 @@
           },
           {
             "id": "anf09-90-92-136",
-            "titulo": "Chapter XLIV.—The Ordinances of the Apostles, that There Might Be No Contention Respecting the Priestly Office.",
+            "titulo": "Capítulo XLIV. - As ordenanças dos apóstolos, para que não haja discórdia a respeito do ofício sacerdotal.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6056,7 +6056,7 @@
           },
           {
             "id": "anf09-90-92-137",
-            "titulo": "Chapter XLV.—It is the Part of the Wicked to Vex the Righteous.",
+            "titulo": "Capítulo XLV. - Cabe aos ímpios irritar os justos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6067,7 +6067,7 @@
           },
           {
             "id": "anf09-90-92-138",
-            "titulo": "Chapter XLVI.—Let Us Cleave to the Righteous: Your Strife is Pernicious.",
+            "titulo": "Capítulo XLVI. - Apeguemo-nos aos justos: sua luta é perniciosa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6078,7 +6078,7 @@
           },
           {
             "id": "anf09-90-92-139",
-            "titulo": "Chapter XLVII.—Your Recent Discord is Worse Than the Former Which Took Place in the Times of Paul.",
+            "titulo": "Capítulo XLVII. - Sua discórdia recente é pior do que a anterior que ocorreu nos tempos de Paulo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6089,7 +6089,7 @@
           },
           {
             "id": "anf09-90-92-140",
-            "titulo": "Chapter XLVIII.—Let Us Return to the Practice of Brotherly Love.",
+            "titulo": "Capítulo XLVIII. — Voltemos à prática do amor fraternal.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6100,7 +6100,7 @@
           },
           {
             "id": "anf09-90-92-141",
-            "titulo": "Chapter XLIX—The Praise of Love.",
+            "titulo": "Capítulo XLIX — O Louvor do Amor.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6111,7 +6111,7 @@
           },
           {
             "id": "anf09-90-92-142",
-            "titulo": "Chapter L.—Let Us Pray to Be Thought Worthy of Love.",
+            "titulo": "Capítulo L. — Oremos para sermos considerados dignos de amor.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6122,7 +6122,7 @@
           },
           {
             "id": "anf09-90-92-143",
-            "titulo": "Chapter LI.—Let the Partakers in Strife Acknowledge Their Sins.",
+            "titulo": "Capítulo LI. - Que os participantes da luta reconheçam seus pecados.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6133,7 +6133,7 @@
           },
           {
             "id": "anf09-90-92-144",
-            "titulo": "Chapter LII.—Such a Confession is Pleasing to God.",
+            "titulo": "Capítulo LII. - Tal confissão agrada a Deus.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6144,7 +6144,7 @@
           },
           {
             "id": "anf09-90-92-145",
-            "titulo": "Chapter LIII.—The Love of Moses Towards His People.",
+            "titulo": "Capítulo LIII. - O amor de Moisés por seu povo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6155,7 +6155,7 @@
           },
           {
             "id": "anf09-90-92-146",
-            "titulo": "Chapter LIV.—He Who is Full of Love Will Incur Every Loss, that Peace May Be Restored to the Church.",
+            "titulo": "Capítulo LIV. - Aquele que é cheio de amor sofrerá todas as perdas, para que a paz possa ser restaurada à Igreja.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6166,7 +6166,7 @@
           },
           {
             "id": "anf09-90-92-147",
-            "titulo": "Chapter LV.—Examples of Such Love.",
+            "titulo": "Capítulo LV. — Exemplos desse amor.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6177,7 +6177,7 @@
           },
           {
             "id": "anf09-90-92-148",
-            "titulo": "Chapter LVI.—Let Us Admonish and Correct One Another.",
+            "titulo": "Capítulo LVI. - Admoestemos e corrijamos uns aos outros.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6188,7 +6188,7 @@
           },
           {
             "id": "anf09-90-92-149",
-            "titulo": "Chapter LVII.—Let the Authors of Sedition Submit Themselves.",
+            "titulo": "Capítulo LVII.—Que os autores da sedição se submetam.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6199,7 +6199,7 @@
           },
           {
             "id": "anf09-90-92-150",
-            "titulo": "Chapter LVIII.—Submission the Precursor of Salvation.",
+            "titulo": "Capítulo LVIII. — A Submissão, Precursora da Salvação.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6210,7 +6210,7 @@
           },
           {
             "id": "anf09-90-92-151",
-            "titulo": "Chapter LIX.—Warning Against Disobedience. Prayer.",
+            "titulo": "Capítulo LIX. — Advertência contra a desobediência. Oração.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6221,7 +6221,7 @@
           },
           {
             "id": "anf09-90-92-152",
-            "titulo": "Chapter LX.—Prayer Continued.",
+            "titulo": "Capítulo LX. - Continuação da oração.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6232,7 +6232,7 @@
           },
           {
             "id": "anf09-90-92-153",
-            "titulo": "Chapter LXI.—Prayer Continued—For Rulers and Governors. Conclusion.",
+            "titulo": "Capítulo LXI. — Continuação da oração — Para governantes e governadores. Conclusão.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6243,7 +6243,7 @@
           },
           {
             "id": "anf09-90-92-154",
-            "titulo": "Chapter LXII.—Summary and Conclusory—Concerning Godliness.",
+            "titulo": "Capítulo LXII. — Resumo e conclusão — A respeito da piedade.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6254,7 +6254,7 @@
           },
           {
             "id": "anf09-90-92-155",
-            "titulo": "Chapter LXIII.—Hortatory, Letter Sent by Special Messengers.",
+            "titulo": "Capítulo LXIII.—Exortatório, Carta Enviada por Mensageiros Especiais.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6265,7 +6265,7 @@
           },
           {
             "id": "anf09-90-92-156",
-            "titulo": "Chapter LXIV.—Blessings Sought for All that Call Upon God.",
+            "titulo": "Capítulo LXIV. — Bênçãos buscadas por todos que invocam a Deus.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6276,7 +6276,7 @@
           },
           {
             "id": "anf09-90-92-157",
-            "titulo": "Chapter LXV.—The Corinthians are Exhorted Speedily to Send Back Word that Peace Has Been Restored. The Benediction.",
+            "titulo": "Capítulo LXV. - Os coríntios são exortados a enviar rapidamente a notícia de que a paz foi restaurada. A Bênção.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6289,11 +6289,11 @@
       },
       {
         "id": "anf09-90-158",
-        "titulo": "The Second Epistle of Clement. 4328",
+        "titulo": "A Segunda Epístola de Clemente. 4328",
         "children": [
           {
             "id": "anf09-90-158-159",
-            "titulo": "Chapter I.—We Ought to Think Highly of Christ.",
+            "titulo": "Capítulo I. - Devemos pensar bem em Cristo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6304,7 +6304,7 @@
           },
           {
             "id": "anf09-90-158-160",
-            "titulo": "Chapter II.—The Church, Formerly Barren, is Now Fruitful.",
+            "titulo": "Capítulo II. - A Igreja, Anteriormente Estéril, Agora é Frutífera.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6315,7 +6315,7 @@
           },
           {
             "id": "anf09-90-158-161",
-            "titulo": "III.—The Duty of Confessing Christ.",
+            "titulo": "III.—O dever de confessar a Cristo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6326,7 +6326,7 @@
           },
           {
             "id": "anf09-90-158-162",
-            "titulo": "Chapter IV.—True Confession of Christ.",
+            "titulo": "Capítulo IV. - Verdadeira Confissão de Cristo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6337,7 +6337,7 @@
           },
           {
             "id": "anf09-90-158-163",
-            "titulo": "Chapter V.—This World Should Be Despised.",
+            "titulo": "Capítulo V. — Este mundo deve ser desprezado.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6348,7 +6348,7 @@
           },
           {
             "id": "anf09-90-158-164",
-            "titulo": "Chapter VI.—The Present and Future Worlds are Enemies to Each Other.",
+            "titulo": "Capítulo VI.—Os mundos presente e futuro são inimigos um do outro.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6359,7 +6359,7 @@
           },
           {
             "id": "anf09-90-158-165",
-            "titulo": "Chapter VII.—We Must Strive in Order to Be Crowned.",
+            "titulo": "Capítulo VII. — Devemos nos esforçar para sermos coroados.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6370,7 +6370,7 @@
           },
           {
             "id": "anf09-90-158-166",
-            "titulo": "Chapter VIII.—The Necessity of Repentance While We are on Earth.",
+            "titulo": "Capítulo VIII. — A necessidade de arrependimento enquanto estamos na Terra.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6381,7 +6381,7 @@
           },
           {
             "id": "anf09-90-158-167",
-            "titulo": "Chapter IX.—We Shall Be Judged in the Flesh.",
+            "titulo": "Capítulo IX. — Seremos julgados na carne.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6392,7 +6392,7 @@
           },
           {
             "id": "anf09-90-158-168",
-            "titulo": "Chapter X.—Vice is to Be Forsaken, and Virtue Followed.",
+            "titulo": "Capítulo X. — O vício deve ser abandonado e a virtude seguida.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6403,7 +6403,7 @@
           },
           {
             "id": "anf09-90-158-169",
-            "titulo": "Chapter XI.—We Ought to Serve God, Trusting in His Promises.",
+            "titulo": "Capítulo XI. — Devemos servir a Deus, confiando em Suas promessas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6414,7 +6414,7 @@
           },
           {
             "id": "anf09-90-158-170",
-            "titulo": "Chapter XII.—We are Constantly to Look for the Kingdom of God.",
+            "titulo": "Capítulo XII. — Devemos buscar constantemente o Reino de Deus.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6425,7 +6425,7 @@
           },
           {
             "id": "anf09-90-158-171",
-            "titulo": "Chapter XIII.—God’s Name Not to Be Blasphemed.",
+            "titulo": "Capítulo XIII. — O nome de Deus não deve ser blasfemado.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6436,7 +6436,7 @@
           },
           {
             "id": "anf09-90-158-172",
-            "titulo": "Chapter XIV.—The Church Spiritual.",
+            "titulo": "Capítulo XIV. — A Igreja Espiritual.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6447,7 +6447,7 @@
           },
           {
             "id": "anf09-90-158-173",
-            "titulo": "Chapter XV.—He Who Saves and He Who is Saved.",
+            "titulo": "Capítulo XV. — Aquele que salva e aquele que é salvo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6458,7 +6458,7 @@
           },
           {
             "id": "anf09-90-158-174",
-            "titulo": "Chapter XVI.—Preparation for the Day of Judgment.",
+            "titulo": "Capítulo XVI.—Preparação para o Dia do Juízo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6469,7 +6469,7 @@
           },
           {
             "id": "anf09-90-158-175",
-            "titulo": "Chapter XVII.—Same Subject Continued.",
+            "titulo": "Capítulo XVII. — Continuação do mesmo assunto.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6480,7 +6480,7 @@
           },
           {
             "id": "anf09-90-158-176",
-            "titulo": "Chapter XVIII.—The Author Sinful, Yet Pursuing.",
+            "titulo": "Capítulo XVIII. - O autor pecador, mas perseguidor.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6491,7 +6491,7 @@
           },
           {
             "id": "anf09-90-158-177",
-            "titulo": "Chapter XIX.—Reward of the Righteous, Although They May Suffer.",
+            "titulo": "Capítulo XIX. — Recompensa dos justos, embora possam sofrer.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6502,7 +6502,7 @@
           },
           {
             "id": "anf09-90-158-178",
-            "titulo": "Chapter XX.—Godliness, Not Gain, the True Riches.",
+            "titulo": "Capítulo XX. — Piedade, não ganho, as verdadeiras riquezas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6521,11 +6521,11 @@
   },
   {
     "id": "anf09-179",
-    "titulo": "THE APOLOGY of ARISTIDES THE PHILOSOPHER",
+    "titulo": "A DESCULPA DE ARISTIDES, O FILÓSOFO",
     "children": [
       {
         "id": "anf09-179-180",
-        "titulo": "The Apology of Aristides.",
+        "titulo": "A Apologia de Aristides.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -6604,7 +6604,7 @@
       },
       {
         "id": "anf09-179-181",
-        "titulo": "The Apology of Aristides as it is preserved in the history of Barlaam and Josaphat. Translated from the Greek.",
+        "titulo": "A Apologia de Aristides tal como está preservada na história de Barlaão e Josafá. Traduzido do grego.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -6843,7 +6843,7 @@
       },
       {
         "id": "anf09-179-182",
-        "titulo": "The Apology of Aristides the Philosopher.",
+        "titulo": "A Apologia de Aristides, o Filósofo.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -7076,11 +7076,11 @@
   },
   {
     "id": "anf09-183",
-    "titulo": "THE PASSION OF THE SCILLITAN MARTYRS. by ANDREW RUTHERFORD, B.D.",
+    "titulo": "A PAIXÃO DOS MÁRTIRES SCILITANOS. por ANDREW RUTHERFORD, B.D.",
     "children": [
       {
         "id": "anf09-183-184",
-        "titulo": "The Passion of the Scillitan Martyrs.",
+        "titulo": "A Paixão dos Mártires Scillitanos.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -7095,7 +7095,7 @@
       },
       {
         "id": "anf09-183-185",
-        "titulo": "The Passion of the Scillitan Martyrs.",
+        "titulo": "A Paixão dos Mártires Scillitanos.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -7216,11 +7216,11 @@
   },
   {
     "id": "anf09-186",
-    "titulo": "EPISTLE TO GREGORY AND ORIGEN’S COMMENTARY ON THE GOSPEL OF JOHN.",
+    "titulo": "EPÍSTOLA A GREGÓRIO E COMENTÁRIO DE ORIGENES SOBRE O EVANGELHO DE JOÃO.",
     "children": [
       {
         "id": "anf09-186-187",
-        "titulo": "Commentaries of Origen.",
+        "titulo": "Comentários de Orígenes.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -7279,7 +7279,7 @@
       },
       {
         "id": "anf09-186-188",
-        "titulo": "Letter of Origen to Gregory.",
+        "titulo": "Carta de Orígenes a Gregório.",
         "children": [
           {
             "id": "anf09-186-188-189",
@@ -7298,7 +7298,7 @@
           },
           {
             "id": "anf09-186-188-190",
-            "titulo": "2. This Procedure is Typified by the Story of the Spoiling of the Egyptians.",
+            "titulo": "2. Este procedimento é tipificado pela história da destruição dos egípcios.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7309,7 +7309,7 @@
           },
           {
             "id": "anf09-186-188-191",
-            "titulo": "3. Personal Appeal.",
+            "titulo": "3. Apelo Pessoal.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7322,15 +7322,15 @@
       },
       {
         "id": "anf09-186-192",
-        "titulo": "Origen’s Commentary on the Gospel of John.",
+        "titulo": "Comentário de Orígenes ao Evangelho de João.",
         "children": [
           {
             "id": "anf09-186-192-193",
-            "titulo": "Book I.",
+            "titulo": "Livro I.",
             "children": [
               {
                 "id": "anf09-186-192-193-194",
-                "titulo": "1. How Christians are the Spiritual Israel.",
+                "titulo": "1. Como os cristãos são o Israel Espiritual.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7341,7 +7341,7 @@
               },
               {
                 "id": "anf09-186-192-193-195",
-                "titulo": "2. The 144,000 Sealed in the Apocalypse are Converts to Christ from the Gentile World.",
+                "titulo": "2. Os 144.000 selados no Apocalipse são convertidos a Cristo vindos do mundo gentio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7352,7 +7352,7 @@
               },
               {
                 "id": "anf09-186-192-193-196",
-                "titulo": "3. In the Spiritual Israel the High-Priests are Those Who Devote Themselves to the Study of Scripture.",
+                "titulo": "3. No Israel Espiritual, os sumos sacerdotes são aqueles que se dedicam ao estudo das Escrituras.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7363,7 +7363,7 @@
               },
               {
                 "id": "anf09-186-192-193-197",
-                "titulo": "4. The Study of the Gospels is the First Fruits Offered by These Priests of Christianity.",
+                "titulo": "4. O estudo dos Evangelhos são as primícias oferecidas por estes sacerdotes do cristianismo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7374,7 +7374,7 @@
               },
               {
                 "id": "anf09-186-192-193-198",
-                "titulo": "5. All Scripture is Gospel; But the Gospels are Distinguished Above Other Scriptures.",
+                "titulo": "5. Toda Escritura é Evangelho; Mas os Evangelhos são Distinguidos Acima de Outras Escrituras.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7385,7 +7385,7 @@
               },
               {
                 "id": "anf09-186-192-193-199",
-                "titulo": "6. The Fourfold Gospel. John’s the First Fruits of the Four. Qualifications Necessary for Interpreting It.",
+                "titulo": "6. O Quádruplo Evangelho. João são as primícias dos quatro. Qualificações necessárias para interpretá-lo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7396,7 +7396,7 @@
               },
               {
                 "id": "anf09-186-192-193-200",
-                "titulo": "7. What Good Things are Announced in the Gospels.",
+                "titulo": "7. Que coisas boas são anunciadas nos Evangelhos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7407,7 +7407,7 @@
               },
               {
                 "id": "anf09-186-192-193-201",
-                "titulo": "8. How the Gospels Cause the Other Books of Scripture Also to Be Gospel.",
+                "titulo": "8. Como os Evangelhos fazem com que os outros livros das Escrituras também sejam evangelhos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7418,7 +7418,7 @@
               },
               {
                 "id": "anf09-186-192-193-202",
-                "titulo": "9. The Somatic and the Spiritual Gospel.",
+                "titulo": "9. O Evangelho Somático e o Evangelho Espiritual.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7429,7 +7429,7 @@
               },
               {
                 "id": "anf09-186-192-193-203",
-                "titulo": "10. How Jesus Himself is the Gospel.",
+                "titulo": "10. Como o próprio Jesus é o Evangelho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7444,7 +7444,7 @@
               },
               {
                 "id": "anf09-186-192-193-204",
-                "titulo": "11. Jesus is All Good Things; Hence the Gospel is Manifold.",
+                "titulo": "11. Jesus é todas as coisas boas; Portanto, o Evangelho é múltiplo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7455,7 +7455,7 @@
               },
               {
                 "id": "anf09-186-192-193-205",
-                "titulo": "12. The Gospel Contains the Ill Deeds Also Which Were Done to Jesus.",
+                "titulo": "12. O Evangelho também contém as más ações que foram cometidas contra Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7466,7 +7466,7 @@
               },
               {
                 "id": "anf09-186-192-193-206",
-                "titulo": "13. The Angels Also are Evangelists.",
+                "titulo": "13. Os anjos também são evangelistas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7477,7 +7477,7 @@
               },
               {
                 "id": "anf09-186-192-193-207",
-                "titulo": "14. The Old Testament, Typified by John, is the Beginning of the Gospel.",
+                "titulo": "14. O Antigo Testamento, tipificado por João, é o início do Evangelho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7488,7 +7488,7 @@
               },
               {
                 "id": "anf09-186-192-193-208",
-                "titulo": "15. The Gospel is in the Old Testament, and Indeed in the Whole Universe. Prayer for Aid to Understand the Mystical Sense of the Work in Hand.",
+                "titulo": "15. O Evangelho está no Antigo Testamento e, na verdade, em todo o Universo. Oração por ajuda para compreender o sentido místico do trabalho em questão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7499,7 +7499,7 @@
               },
               {
                 "id": "anf09-186-192-193-209",
-                "titulo": "16. Meaning of “Beginning.” (1) in Space.",
+                "titulo": "16. Significado de “Início”. (1) no Espaço.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7510,7 +7510,7 @@
               },
               {
                 "id": "anf09-186-192-193-210",
-                "titulo": "17. (2) in Time. The Beginning of Creation.",
+                "titulo": "17. (2) no Tempo. O Começo da Criação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7521,7 +7521,7 @@
               },
               {
                 "id": "anf09-186-192-193-211",
-                "titulo": "18. (3) of Substance.",
+                "titulo": "18. (3) da Substância.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7532,7 +7532,7 @@
               },
               {
                 "id": "anf09-186-192-193-212",
-                "titulo": "19. (4) of Type and Copy.",
+                "titulo": "19. (4) de Tipo e Cópia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7543,7 +7543,7 @@
               },
               {
                 "id": "anf09-186-192-193-213",
-                "titulo": "20. (5) of Elements and What is Formed from Them.",
+                "titulo": "20. (5) dos elementos e o que é formado a partir deles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7554,7 +7554,7 @@
               },
               {
                 "id": "anf09-186-192-193-214",
-                "titulo": "21. (6) of Design and Execution.",
+                "titulo": "21. (6) de Projeto e Execução.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7565,7 +7565,7 @@
               },
               {
                 "id": "anf09-186-192-193-215",
-                "titulo": "22. The Word Was in the Beginning, I.e., in Wisdom, Which Contained All Things in Idea, Before They Existed. Christ’s Character as Wisdom is Prior to His Other Characters.",
+                "titulo": "22. A Palavra estava no princípio, isto é, na sabedoria, que continha todas as coisas em ideia, antes de existirem. O caráter de Cristo como sabedoria é anterior a seus outros personagens.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7576,7 +7576,7 @@
               },
               {
                 "id": "anf09-186-192-193-216",
-                "titulo": "23. The Title “Word” Is to Be Interpreted by the Same Method as the Other Titles of Christ. The Word of God is Not a Mere Attribute of God, But a Separate Person. What is Meant When He is Called the Word.",
+                "titulo": "23. O título “Palavra” deve ser interpretado pelo mesmo método que os outros títulos de Cristo. A Palavra de Deus não é um mero atributo de Deus, mas uma pessoa separada. O que significa quando Ele é chamado de Palavra.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7587,7 +7587,7 @@
               },
               {
                 "id": "anf09-186-192-193-217",
-                "titulo": "24. Christ as Light; How He, and How His Disciples are the Light of the World.",
+                "titulo": "24. Cristo como Luz; Como Ele e como Seus Discípulos são a Luz do Mundo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7598,7 +7598,7 @@
               },
               {
                 "id": "anf09-186-192-193-218",
-                "titulo": "25. Christ as the Resurrection.",
+                "titulo": "25. Cristo como a Ressurreição.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7609,7 +7609,7 @@
               },
               {
                 "id": "anf09-186-192-193-219",
-                "titulo": "26. Christ as the Way.",
+                "titulo": "26. Cristo como Caminho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7620,7 +7620,7 @@
               },
               {
                 "id": "anf09-186-192-193-220",
-                "titulo": "27. Christ as the Truth.",
+                "titulo": "27. Cristo como a Verdade.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7631,7 +7631,7 @@
               },
               {
                 "id": "anf09-186-192-193-221",
-                "titulo": "28. Christ as Life.",
+                "titulo": "28. Cristo como Vida.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7642,7 +7642,7 @@
               },
               {
                 "id": "anf09-186-192-193-222",
-                "titulo": "29. Christ as the Door and as the Shepherd.",
+                "titulo": "29. Cristo como Porta e como Pastor.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7653,7 +7653,7 @@
               },
               {
                 "id": "anf09-186-192-193-223",
-                "titulo": "30. Christ as Anointed (Christ) and as King.",
+                "titulo": "30. Cristo como Ungido (Cristo) e como Rei.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7664,7 +7664,7 @@
               },
               {
                 "id": "anf09-186-192-193-224",
-                "titulo": "31. Christ as Teacher and Master.",
+                "titulo": "31. Cristo como Mestre e Mestre.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7675,7 +7675,7 @@
               },
               {
                 "id": "anf09-186-192-193-225",
-                "titulo": "32. Christ as Son.",
+                "titulo": "32. Cristo como Filho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7686,7 +7686,7 @@
               },
               {
                 "id": "anf09-186-192-193-226",
-                "titulo": "33. Christ the True Vine, and as Bread.",
+                "titulo": "33. Cristo, a Videira Verdadeira, e como Pão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7697,7 +7697,7 @@
               },
               {
                 "id": "anf09-186-192-193-227",
-                "titulo": "34. Christ as the First and the Last; He is Also What Lies Between These.",
+                "titulo": "34. Cristo como o Primeiro e o Último; Ele também é o que está entre eles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7708,7 +7708,7 @@
               },
               {
                 "id": "anf09-186-192-193-228",
-                "titulo": "35. Christ as the Living and the Dead.",
+                "titulo": "35. Cristo como o Vivo e o Morto.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7719,7 +7719,7 @@
               },
               {
                 "id": "anf09-186-192-193-229",
-                "titulo": "36. Christ as a Sword.",
+                "titulo": "36. Cristo como espada.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7730,7 +7730,7 @@
               },
               {
                 "id": "anf09-186-192-193-230",
-                "titulo": "37. Christ as a Servant, as the Lamb of God, and as the Man Whom John Did Not Know.",
+                "titulo": "37. Cristo como Servo, como Cordeiro de Deus e como o Homem que João Não Conheceu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7741,7 +7741,7 @@
               },
               {
                 "id": "anf09-186-192-193-231",
-                "titulo": "38. Christ as Paraclete, as Propitiation, and as the Power of God.",
+                "titulo": "38. Cristo como Paráclito, como Propiciação e como Poder de Deus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7752,7 +7752,7 @@
               },
               {
                 "id": "anf09-186-192-193-232",
-                "titulo": "39. Christ as Wisdom and Sanctification and Redemption.",
+                "titulo": "39. Cristo como Sabedoria, Santificação e Redenção.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7763,7 +7763,7 @@
               },
               {
                 "id": "anf09-186-192-193-233",
-                "titulo": "40. Christ as Righteousness; As the Demiurge, the Agent of the Good God, and as High-Priest.",
+                "titulo": "40. Cristo como Justiça; Como Demiurgo, Agente do Bom Deus e como Sumo Sacerdote.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7778,7 +7778,7 @@
               },
               {
                 "id": "anf09-186-192-193-234",
-                "titulo": "41. Christ as the Rod, the Flower, the Stone.",
+                "titulo": "41. Cristo como a Vara, a Flor, a Pedra.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7789,7 +7789,7 @@
               },
               {
                 "id": "anf09-186-192-193-235",
-                "titulo": "42. Of the Various Ways in Which Christ is the Logos.",
+                "titulo": "42. Das várias maneiras pelas quais Cristo é o Logos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7806,11 +7806,11 @@
           },
           {
             "id": "anf09-186-192-236",
-            "titulo": "Book II.",
+            "titulo": "Livro II.",
             "children": [
               {
                 "id": "anf09-186-192-236-237",
-                "titulo": "1. “And the Word was with God, and the Word was God.”",
+                "titulo": "1. “E o Verbo estava com Deus, e o Verbo era Deus.”",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7821,7 +7821,7 @@
               },
               {
                 "id": "anf09-186-192-236-238",
-                "titulo": "2. In What Way the Logos is God. Errors to Be Avoided on This Question.",
+                "titulo": "2. De que maneira o Logos é Deus. Erros a serem evitados nesta questão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7832,7 +7832,7 @@
               },
               {
                 "id": "anf09-186-192-236-239",
-                "titulo": "3. Various Relations of the Logos to Men.",
+                "titulo": "3. Várias Relações do Logos com os Homens.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7858,7 +7858,7 @@
               },
               {
                 "id": "anf09-186-192-236-241",
-                "titulo": "5. He (This One) Was in the Beginning with God.",
+                "titulo": "5. Ele (este) estava no princípio com Deus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7873,7 +7873,7 @@
               },
               {
                 "id": "anf09-186-192-236-242",
-                "titulo": "6. How the Word is the Maker of All Things, and Even the Holy Spirit Was Made Through Him.",
+                "titulo": "6. Como a Palavra é o Criador de todas as coisas, e até mesmo o Espírito Santo foi feito através dele.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7888,7 +7888,7 @@
               },
               {
                 "id": "anf09-186-192-236-243",
-                "titulo": "7. Of Things Not Made Through the Logos.",
+                "titulo": "7. Das Coisas Não Feitas Através do Logos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7899,7 +7899,7 @@
               },
               {
                 "id": "anf09-186-192-236-244",
-                "titulo": "8. Heracleon’s View that the Logos is Not the Agent of Creation.",
+                "titulo": "8. A visão de Herácleo de que o Logos não é o agente da criação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7910,7 +7910,7 @@
               },
               {
                 "id": "anf09-186-192-236-245",
-                "titulo": "9. That the Logos Present in Us is Not Responsible for Our Sins.",
+                "titulo": "9. Que o Logos Presente em Nós Não é Responsável pelos Nossos Pecados.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7921,7 +7921,7 @@
               },
               {
                 "id": "anf09-186-192-236-246",
-                "titulo": "10. “That Which Was Made Was Life in Him, and the Life Was the Light of Men.” This Involves the Paradox that What Does Not Derive Life from the Logos Does Not Live at All.",
+                "titulo": "10. “Aquilo que foi feito era vida nele, e a vida era a luz dos homens.” Isto envolve o paradoxo de que aquilo que não deriva vida do Logos não vive de forma alguma.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7932,7 +7932,7 @@
               },
               {
                 "id": "anf09-186-192-236-247",
-                "titulo": "11. How No One is Righteous or Can Truly Be Said to Live in Comparison with God.",
+                "titulo": "11. Como ninguém é justo ou pode realmente ser dito que vive em comparação com Deus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7943,7 +7943,7 @@
               },
               {
                 "id": "anf09-186-192-236-248",
-                "titulo": "12. Is the Saviour All that He Is, to All?",
+                "titulo": "12. O Salvador é tudo o que é para todos?",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7954,7 +7954,7 @@
               },
               {
                 "id": "anf09-186-192-236-249",
-                "titulo": "13. How the Life in the Logos Comes After the Beginning.",
+                "titulo": "13. Como a vida no Logos surge depois do princípio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7965,7 +7965,7 @@
               },
               {
                 "id": "anf09-186-192-236-250",
-                "titulo": "14. How the Natures of Men are Not So Fixed from the First, But that They May Pass from Darkness to Light.",
+                "titulo": "14. Como as naturezas dos homens não são tão fixas desde o início, mas podem passar das trevas para a luz.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7976,7 +7976,7 @@
               },
               {
                 "id": "anf09-186-192-236-251",
-                "titulo": "15. Heracleon’s View that the Lord Brought Life Only to the Spiritual. Refutation of This.",
+                "titulo": "15. A visão de Herácleo de que o Senhor trouxe vida apenas ao espiritual. Refutação disto.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7987,7 +7987,7 @@
               },
               {
                 "id": "anf09-186-192-236-252",
-                "titulo": "16. The Life May Be the Light of Others Besides.",
+                "titulo": "16. A vida também pode ser a luz dos outros.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7998,7 +7998,7 @@
               },
               {
                 "id": "anf09-186-192-236-253",
-                "titulo": "17. The Higher Powers are Men; And Christ is Their Light Also.",
+                "titulo": "17. Os Poderes Superiores são os Homens; E Cristo também é a luz deles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8009,7 +8009,7 @@
               },
               {
                 "id": "anf09-186-192-236-254",
-                "titulo": "18. How God Also is Light, But in a Different Way; And How Life Came Before Light.",
+                "titulo": "18. Como Deus também é luz, mas de uma maneira diferente; E como a vida surgiu antes da luz.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8020,7 +8020,7 @@
               },
               {
                 "id": "anf09-186-192-236-255",
-                "titulo": "19. The Life Here Spoken of is the Higher Life, that of Reason.",
+                "titulo": "19. A Vida aqui mencionada é a Vida Superior, a da Razão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8031,7 +8031,7 @@
               },
               {
                 "id": "anf09-186-192-236-256",
-                "titulo": "20. Different Kinds of Light; And of Darkness.",
+                "titulo": "20. Diferentes tipos de luz; E das Trevas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8042,7 +8042,7 @@
               },
               {
                 "id": "anf09-186-192-236-257",
-                "titulo": "21. Christ is Not, Like God, Quite Free from Darkness: Since He Bore Our Sins.",
+                "titulo": "21. Cristo não está, como Deus, totalmente livre das trevas: já que Ele levou nossos pecados.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8053,7 +8053,7 @@
               },
               {
                 "id": "anf09-186-192-236-258",
-                "titulo": "22. How the Darkness Failed to Overtake the Light.",
+                "titulo": "22. Como as trevas não conseguiram superar a luz.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8064,7 +8064,7 @@
               },
               {
                 "id": "anf09-186-192-236-259",
-                "titulo": "23. There is a Divine Darkness Which is Not Evil, and Which Ultimately Becomes Light.",
+                "titulo": "23. Existe uma escuridão divina que não é má e que finalmente se torna luz.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8075,7 +8075,7 @@
               },
               {
                 "id": "anf09-186-192-236-260",
-                "titulo": "24. John the Baptist Was Sent. From Where? His Soul Was Sent from a Higher Region.",
+                "titulo": "24. João Batista foi enviado. De onde? Sua alma foi enviada de uma região superior.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8086,7 +8086,7 @@
               },
               {
                 "id": "anf09-186-192-236-261",
-                "titulo": "25. Argument from the Prayer of Joseph, to Show that the Baptist May Have Been an Angel Who Became a Man.",
+                "titulo": "25. Argumento da oração de José, para mostrar que o batista pode ter sido um anjo que se tornou homem.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8097,7 +8097,7 @@
               },
               {
                 "id": "anf09-186-192-236-262",
-                "titulo": "26. John is Voice, Jesus is Speech. Relation of These Two to Each Other.",
+                "titulo": "26. João é Voz, Jesus é Fala. Relação destes dois entre si.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8108,7 +8108,7 @@
               },
               {
                 "id": "anf09-186-192-236-263",
-                "titulo": "27. Significance of the Names of John and of His Parents.",
+                "titulo": "27. Significado dos nomes de João e de seus pais.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8119,7 +8119,7 @@
               },
               {
                 "id": "anf09-186-192-236-264",
-                "titulo": "28. The Prophets Bore Witness to Christ and Foretold Many Things Concerning Him.",
+                "titulo": "28. Os profetas deram testemunho de Cristo e predisseram muitas coisas a respeito dele.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8130,7 +8130,7 @@
               },
               {
                 "id": "anf09-186-192-236-265",
-                "titulo": "29. The Six Testimonies of the Baptist Enumerated. Jesus’ “Come and See.” Significance of the Tenth Hour.",
+                "titulo": "29. Os Seis Testemunhos do Batista Enumerados. “Venha e veja” de Jesus. Significado da Décima Hora.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8141,7 +8141,7 @@
               },
               {
                 "id": "anf09-186-192-236-266",
-                "titulo": "30. How John Was a Witness of Christ, and Specially of “The Light.”",
+                "titulo": "30. Como João foi testemunha de Cristo e especialmente da “Luz”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8154,7 +8154,7 @@
           },
           {
             "id": "anf09-186-192-267",
-            "titulo": "Fragments of the Fourth Book. 4776",
+            "titulo": "Fragmentos do Quarto Livro. 4776",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8173,11 +8173,11 @@
           },
           {
             "id": "anf09-186-192-268",
-            "titulo": "From the Fifth Book.",
+            "titulo": "Do Quinto Livro.",
             "children": [
               {
                 "id": "anf09-186-192-268-269",
-                "titulo": "From the Preface.4782",
+                "titulo": "Do Prefácio.4782",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8192,7 +8192,7 @@
               },
               {
                 "id": "anf09-186-192-268-270",
-                "titulo": "2. How Scripture Warns Us Against Making Many Books.",
+                "titulo": "2. Como as Escrituras nos advertem contra a produção de muitos livros.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8203,7 +8203,7 @@
               },
               {
                 "id": "anf09-186-192-268-271",
-                "titulo": "3. The Apostles Wrote Little.4785",
+                "titulo": "3. Os Apóstolos Escreveram Pouco.4785",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8231,11 +8231,11 @@
           },
           {
             "id": "anf09-186-192-273",
-            "titulo": "Sixth Book.",
+            "titulo": "Sexto livro.",
             "children": [
               {
                 "id": "anf09-186-192-273-274",
-                "titulo": "1. The Work is Taken Up After a Violent Interruption, Which Has Driven the Writer from Alexandria. He Addresses Himself to It Again, with Thanks for His Deliverance, and Prayer for Guidance.",
+                "titulo": "1. A obra é retomada após uma interrupção violenta que expulsou o escritor de Alexandria. Ele se dirige a isso novamente, agradecendo por sua libertação e orando por orientação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8246,7 +8246,7 @@
               },
               {
                 "id": "anf09-186-192-273-275",
-                "titulo": "2. How the Prophets and Holy Men of the Old Testament Knew the Things of Christ.",
+                "titulo": "2. Como os Profetas e Homens Santos do Antigo Testamento Conheceram as Coisas de Cristo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8257,7 +8257,7 @@
               },
               {
                 "id": "anf09-186-192-273-276",
-                "titulo": "3. “Grace and Truth Came Through Jesus Christ.” These Words Belong to the Baptist, Not the Evangelist. What the Baptist Testifies by Them.",
+                "titulo": "3. “A graça e a verdade vieram por meio de Jesus Cristo”. Estas palavras pertencem ao batista, não ao evangelista. O que o Batista testifica por meio deles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8268,7 +8268,7 @@
               },
               {
                 "id": "anf09-186-192-273-277",
-                "titulo": "4. John Denies that He is Elijah or “The” Prophet. Yet He Was “A” Prophet.",
+                "titulo": "4. João nega ser Elias ou “O” Profeta. No entanto, ele era “um” profeta.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8279,7 +8279,7 @@
               },
               {
                 "id": "anf09-186-192-273-278",
-                "titulo": "5. There Were Two Embassies to John the Baptist; The Different Characters of These.",
+                "titulo": "5. Havia duas embaixadas de João Batista; Os diferentes personagens destes.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8290,7 +8290,7 @@
               },
               {
                 "id": "anf09-186-192-273-279",
-                "titulo": "6. Messianic Discussion with John the Baptist.",
+                "titulo": "6. Discussão Messiânica com João Batista.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8301,7 +8301,7 @@
               },
               {
                 "id": "anf09-186-192-273-280",
-                "titulo": "7. Of the Birth of John, and of His Alleged Identity with Elijah. Of the Doctrine of Transcorporation.",
+                "titulo": "7. Do nascimento de João e de sua suposta identidade com Elias. Da Doutrina da Transcorporação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8323,7 +8323,7 @@
               },
               {
                 "id": "anf09-186-192-273-282",
-                "titulo": "9. John I. 22.",
+                "titulo": "9. João I. 22.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8334,7 +8334,7 @@
               },
               {
                 "id": "anf09-186-192-273-283",
-                "titulo": "10. Of the Voice John the Baptist is.",
+                "titulo": "10. Da Voz João Batista é.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8345,7 +8345,7 @@
               },
               {
                 "id": "anf09-186-192-273-284",
-                "titulo": "11. Of the Way of the Lord, How It is Narrow, and How Jesus is the Way.",
+                "titulo": "11. Do Caminho do Senhor, como é estreito e como Jesus é o Caminho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8356,7 +8356,7 @@
               },
               {
                 "id": "anf09-186-192-273-285",
-                "titulo": "12. Heracleon’s View of the Voice, and of John the Baptist.",
+                "titulo": "12. A Visão da Voz de Heracleão e de João Batista.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8367,7 +8367,7 @@
               },
               {
                 "id": "anf09-186-192-273-286",
-                "titulo": "13. John I. 24, 25. Of the Baptism of John, that of Elijah, and that of Christ.",
+                "titulo": "13. João I. 24, 25. Do Batismo de João, do Batismo de Elias e do Batismo de Cristo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8378,7 +8378,7 @@
               },
               {
                 "id": "anf09-186-192-273-287",
-                "titulo": "14. Comparison of the Statements of the Four Evangelists Respecting John the Baptist, the Prophecies Regarding Him, His Addresses to the Multitude and to the Pharisees, Etc.",
+                "titulo": "14. Comparação das declarações dos quatro evangelistas a respeito de João Batista, as profecias a respeito dele, seus discursos à multidão e aos fariseus, etc.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8389,7 +8389,7 @@
               },
               {
                 "id": "anf09-186-192-273-288",
-                "titulo": "15. How the Baptist Answers the Question of the Pharisees and Exalts the Nature of Christ. Of the Shoe-Latchet Which He is Unable to Untie.",
+                "titulo": "15. Como o Batista responde à pergunta dos fariseus e exalta a natureza de Cristo. Da trava do sapato que ele não consegue desamarrar.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8400,7 +8400,7 @@
               },
               {
                 "id": "anf09-186-192-273-289",
-                "titulo": "16. Comparison of John’s Testimony to Jesus in the Different Gospels.",
+                "titulo": "16. Comparação do testemunho de João sobre Jesus nos diferentes evangelhos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8411,7 +8411,7 @@
               },
               {
                 "id": "anf09-186-192-273-290",
-                "titulo": "17. Of the Testimony of John to Jesus in Matthew’s Gospel,",
+                "titulo": "17. Do testemunho de João a Jesus no Evangelho de Mateus,",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8422,7 +8422,7 @@
               },
               {
                 "id": "anf09-186-192-273-291",
-                "titulo": "18. Of the Testimony in Mark. What is Meant by the Saviour’s Shoes and by Untying His Shoe-Latchets.",
+                "titulo": "18. Do Testemunho em Marcos. O que significa os sapatos do Salvador e desamarrar as travas dos sapatos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8433,7 +8433,7 @@
               },
               {
                 "id": "anf09-186-192-273-292",
-                "titulo": "19. Luke and John Suggest that One May Loose the Shoe-Latchets of the Logos Without Stooping Down.",
+                "titulo": "19. Lucas e João sugerem que se pode afrouxar as travas dos sapatos do Logos sem se abaixar.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8444,7 +8444,7 @@
               },
               {
                 "id": "anf09-186-192-273-293",
-                "titulo": "20. The Difference Between Not Being “Sufficient” And Not Being “Worthy.”",
+                "titulo": "20. A diferença entre não ser “suficiente” e não ser “digno”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8455,7 +8455,7 @@
               },
               {
                 "id": "anf09-186-192-273-294",
-                "titulo": "21. The Fourth Gospel Speaks of Only One Shoe, the Others of Both. The Significance of This.",
+                "titulo": "21. O Quarto Evangelho fala de apenas um sapato, os outros de ambos. O significado disso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8466,7 +8466,7 @@
               },
               {
                 "id": "anf09-186-192-273-295",
-                "titulo": "22. How the Word Stands in the Midst of Men Without Being Known of Them.",
+                "titulo": "22. Como a Palavra permanece no meio dos homens sem ser conhecida por eles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8477,7 +8477,7 @@
               },
               {
                 "id": "anf09-186-192-273-296",
-                "titulo": "23. Heracleon’s View of This Utterance of John the Baptist, and Interpretation of the Shoe of Jesus.",
+                "titulo": "23. A visão de Heracleão sobre esta declaração de João Batista e a interpretação do sapato de Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8488,7 +8488,7 @@
               },
               {
                 "id": "anf09-186-192-273-297",
-                "titulo": "24. The Name of the Place Where John Baptized is Not Bethany, as in Most Copies, But Bethabara. Proof of This. Similarly “Gergesa” Should Be Read for “Gerasa,” In the Story of the Swine. Attention is to Be Paid to the Proper Names in Scripture, Which are Often Written Inaccurately, and are of Importance for Interpretation.",
+                "titulo": "24. O nome do lugar onde João batizou não é Betânia, como na maioria das cópias, mas Betabara. Prova disso. Da mesma forma, “Gergesa” deve ser lido como “Gerasa”, na história dos porcos. Deve-se prestar atenção aos nomes próprios nas Escrituras, que muitas vezes são escritos de maneira imprecisa e são de importância para a interpretação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8499,7 +8499,7 @@
               },
               {
                 "id": "anf09-186-192-273-298",
-                "titulo": "25. Jordan Means “Their Going Down.” Spiritual Meanings and Application of This.",
+                "titulo": "25. Jordan significa “sua queda”. Significados espirituais e aplicação disso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8510,7 +8510,7 @@
               },
               {
                 "id": "anf09-186-192-273-299",
-                "titulo": "26. The Story of Israel Crossing Jordan Under Joshua is Typical of Christian Things, and is Written for Our Instruction.",
+                "titulo": "26. A história de Israel cruzando o Jordão sob Josué é típica das coisas cristãs e foi escrita para nossa instrução.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8521,7 +8521,7 @@
               },
               {
                 "id": "anf09-186-192-273-300",
-                "titulo": "27. Of Elijah and Elisha Crossing the Jordan.",
+                "titulo": "27. De Elias e Eliseu atravessando o Jordão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8532,7 +8532,7 @@
               },
               {
                 "id": "anf09-186-192-273-301",
-                "titulo": "28. Naaman the Syrian and the Jordan. No Other Stream Has the Same Healing Power.",
+                "titulo": "28. Naamã, o Sírio, e o Jordão. Nenhum outro fluxo tem o mesmo poder de cura.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8543,7 +8543,7 @@
               },
               {
                 "id": "anf09-186-192-273-302",
-                "titulo": "29. The River of Egypt and Its Dragon, Contrasted with the Jordan.",
+                "titulo": "29. O rio do Egito e seu dragão, em contraste com o Jordão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8554,7 +8554,7 @@
               },
               {
                 "id": "anf09-186-192-273-303",
-                "titulo": "30. Of What John Learned from Jesus When Mary Visited Elisabeth in the Hill Country.",
+                "titulo": "30. Do que João aprendeu com Jesus quando Maria visitou Isabel na região montanhosa.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8565,7 +8565,7 @@
               },
               {
                 "id": "anf09-186-192-273-304",
-                "titulo": "31. Of the Conversation Between John and Jesus at the Baptism, Recorded by Matthew Only.",
+                "titulo": "31. Da conversa entre João e Jesus no batismo, registrada apenas por Mateus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8576,7 +8576,7 @@
               },
               {
                 "id": "anf09-186-192-273-305",
-                "titulo": "32. John Calls Jesus a “Lamb.” Why Does He Name This Animal Specially? Of the Typology of the Sacrifices, Generally.",
+                "titulo": "32. João chama Jesus de “Cordeiro”. Por que ele dá um nome especial a este animal? Da Tipologia dos Sacrifícios, Geralmente.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8587,7 +8587,7 @@
               },
               {
                 "id": "anf09-186-192-273-306",
-                "titulo": "33. A Lamb Was Offered at the Morning and Evening Sacrifice. Significance of This.",
+                "titulo": "33. Um Cordeiro Foi Oferecido no Sacrifício da Manhã e da Tarde. Significado disso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8598,7 +8598,7 @@
               },
               {
                 "id": "anf09-186-192-273-307",
-                "titulo": "34. The Morning and Evening Sacrifices of the Saint in His Life of Thought.",
+                "titulo": "34. Os sacrifícios matinais e noturnos do santo em sua vida de pensamento.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8609,7 +8609,7 @@
               },
               {
                 "id": "anf09-186-192-273-308",
-                "titulo": "35. Jesus is a Lamb in Respect of His Human Nature.",
+                "titulo": "35. Jesus é um Cordeiro no que diz respeito à sua natureza humana.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8620,7 +8620,7 @@
               },
               {
                 "id": "anf09-186-192-273-309",
-                "titulo": "36. Of the Death of the Martyrs Considered as a Sacrifice, and in What Way It Operates to the Benefit of Others.",
+                "titulo": "36. Da morte dos mártires considerada um sacrifício e de que forma ela funciona em benefício de outros.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8631,7 +8631,7 @@
               },
               {
                 "id": "anf09-186-192-273-310",
-                "titulo": "37. Of the Effects of the Death of Christ, of His Triumph After It, and of the Removal by His Death of the Sins of Men.",
+                "titulo": "37. Dos efeitos da morte de Cristo, de seu triunfo depois dela e da remoção dos pecados dos homens por sua morte.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8642,7 +8642,7 @@
               },
               {
                 "id": "anf09-186-192-273-311",
-                "titulo": "38. The World, of Which the Sin is Taken Away, is Said to Be the Church. Reasons for Not Agreeing with This Opinion.",
+                "titulo": "38. Diz-se que o mundo, do qual o pecado foi removido, é a Igreja. Razões para não concordar com esta opinião.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8655,11 +8655,11 @@
           },
           {
             "id": "anf09-186-192-312",
-            "titulo": "Tenth Book.",
+            "titulo": "Décimo Livro.",
             "children": [
               {
                 "id": "anf09-186-192-312-313",
-                "titulo": "1. Jesus Comes to Capernaum. Statements of the Four Evangelists Regarding This.",
+                "titulo": "1. Jesus vem a Cafarnaum. Declarações dos Quatro Evangelistas a respeito disso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8674,7 +8674,7 @@
               },
               {
                 "id": "anf09-186-192-312-314",
-                "titulo": "2. The Discrepancy Between John and the First Three Gospels at This Part of the Narrative, Literally Read, the Narratives Cannot Be Harmonized: They Must Be Interpreted Spiritually.",
+                "titulo": "2. A discrepância entre João e os três primeiros evangelhos Nesta parte da narrativa, lida literalmente, as narrativas não podem ser harmonizadas: elas devem ser interpretadas espiritualmente.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8685,7 +8685,7 @@
               },
               {
                 "id": "anf09-186-192-312-315",
-                "titulo": "3. What We are to Think of the Discrepancies Between the Different Gospels.",
+                "titulo": "3. O que devemos pensar das discrepâncias entre os diferentes evangelhos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8696,7 +8696,7 @@
               },
               {
                 "id": "anf09-186-192-312-316",
-                "titulo": "4. Scripture Contains Many Contradictions, and Many Statements Which are Not Literally True, But Must Be Read Spiritually and Mystically.",
+                "titulo": "4. As Escrituras contêm muitas contradições e muitas declarações que não são literalmente verdadeiras, mas devem ser lidas espiritual e misticamente.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8707,7 +8707,7 @@
               },
               {
                 "id": "anf09-186-192-312-317",
-                "titulo": "5. Paul Also Makes Contradictory Statements About Himself, and Acts in Opposite Ways at Different Times.",
+                "titulo": "5. Paulo também faz declarações contraditórias sobre si mesmo e age de maneiras opostas em momentos diferentes.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8718,7 +8718,7 @@
               },
               {
                 "id": "anf09-186-192-312-318",
-                "titulo": "6. Different Accounts of the Call of Peter, and of the Imprisonment of the Baptist. The Meaning of “Capernaum.”",
+                "titulo": "6. Diferentes relatos do chamado de Pedro e da prisão do Batista. O significado de “Cafarnaum”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8729,7 +8729,7 @@
               },
               {
                 "id": "anf09-186-192-312-319",
-                "titulo": "7. Why His Brothers are Not Called to the Wedding; And Why He Abides at Capernaum Not Many Days.",
+                "titulo": "7. Por que seus irmãos não são chamados para o casamento; E por que ele não permanece em Cafarnaum por muitos dias.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8740,7 +8740,7 @@
               },
               {
                 "id": "anf09-186-192-312-320",
-                "titulo": "8. How Christ Abides with Believers to the End of the Age, and Whether He Abides with Them After that Consummation.",
+                "titulo": "8. Como Cristo permanece com os crentes até o fim dos tempos, e se ele permanece com eles após essa consumação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8751,7 +8751,7 @@
               },
               {
                 "id": "anf09-186-192-312-321",
-                "titulo": "9. Heracleon Says that Jesus is Not Stated to Have Done Anything at Capernaum. But in the Other Gospels He Does Many Things There.",
+                "titulo": "9. Heracleão diz que não se afirma que Jesus tenha feito nada em Cafarnaum. Mas nos outros evangelhos ele faz muitas coisas ali.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8762,7 +8762,7 @@
               },
               {
                 "id": "anf09-186-192-312-322",
-                "titulo": "10. Significance of Capernaum.",
+                "titulo": "10. Significado de Cafarnaum.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8773,7 +8773,7 @@
               },
               {
                 "id": "anf09-186-192-312-323",
-                "titulo": "11. Why the Passover is Said to Be that of the “Jews.” Its Institution: and the Distinction Between “Feasts of the Lord” And Feasts Not So Spoken of.",
+                "titulo": "11. Por que se diz que a Páscoa é a dos “judeus”. Sua instituição: e a distinção entre “festas do Senhor” e festas não tão faladas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8784,7 +8784,7 @@
               },
               {
                 "id": "anf09-186-192-312-324",
-                "titulo": "12. Of the Heavenly Festivals, of Which Those on Earth are Typical.",
+                "titulo": "12. Dos Festivais Celestiais, dos quais os da Terra são típicos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8795,7 +8795,7 @@
               },
               {
                 "id": "anf09-186-192-312-325",
-                "titulo": "13. Spiritual Meaning of the Passover.",
+                "titulo": "13. Significado Espiritual da Páscoa.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8806,7 +8806,7 @@
               },
               {
                 "id": "anf09-186-192-312-326",
-                "titulo": "14. In the First Three Gospels the Passover is Spoken of Only at the Close of the Ministry; In John at the Beginning. Remarks on This. Heracleon on the Passover.",
+                "titulo": "14. Nos Três Primeiros Evangelhos, a Páscoa é mencionada apenas no encerramento do ministério; Em João no início. Observações sobre isso. Heracleon na Páscoa.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8817,7 +8817,7 @@
               },
               {
                 "id": "anf09-186-192-312-327",
-                "titulo": "15. Discrepancy of the Gospel Narratives Connected with the Cleansing of the Temple.",
+                "titulo": "15. Discrepância das narrativas do Evangelho relacionadas com a purificação do templo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8828,7 +8828,7 @@
               },
               {
                 "id": "anf09-186-192-312-328",
-                "titulo": "16. The Story of the Purging of the Temple Spiritualized. Taken Literally, It Presents Some Very Difficult and Unlikely Features.",
+                "titulo": "16. A História da Purificação do Templo Espiritualizada. Tomado literalmente, apresenta algumas características muito difíceis e improváveis.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8839,7 +8839,7 @@
               },
               {
                 "id": "anf09-186-192-312-329",
-                "titulo": "17. Matthew’s Story of the Entry into Jerusalem. Difficulties Involved in It for Those Who Take It Literally.",
+                "titulo": "17. A história da entrada em Jerusalém de Mateus. Dificuldades envolvidas nisso para quem o interpreta literalmente.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8850,7 +8850,7 @@
               },
               {
                 "id": "anf09-186-192-312-330",
-                "titulo": "18. The Ass and the Colt are the Old and the New Testament. Spiritual Meaning of the Various Features of the Story. Differences Between John’s Narrative and that of the Other Evangelists.",
+                "titulo": "18. O Jumento e o Colt são o Antigo e o Novo Testamento. Significado espiritual das várias características da história. Diferenças entre a narrativa de João e a dos outros evangelistas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8861,7 +8861,7 @@
               },
               {
                 "id": "anf09-186-192-312-331",
-                "titulo": "19. Various Views of Heracleon on Purging of the Temple.",
+                "titulo": "19. Várias Opiniões de Heracleon sobre a Purificação do Templo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8872,7 +8872,7 @@
               },
               {
                 "id": "anf09-186-192-312-332",
-                "titulo": "20. The Temple Which Christ Says He Will Raise Up is the Church. How the Dry Bones Will Be Made to Live Again.",
+                "titulo": "20. O templo que Cristo diz que levantará é a Igreja. Como os ossos secos serão feitos para viver novamente.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8883,7 +8883,7 @@
               },
               {
                 "id": "anf09-186-192-312-333",
-                "titulo": "21. That the Son Was Raised Up by the Father. The Charge Brought Against Jesus at His Trial Was Based on the Incident Now Before Us.",
+                "titulo": "21. Que o Filho foi ressuscitado pelo Pai. A acusação apresentada contra Jesus em seu julgamento baseou-se no incidente que agora temos diante de nós.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8894,7 +8894,7 @@
               },
               {
                 "id": "anf09-186-192-312-334",
-                "titulo": "22. The Temple of Solomon Did Not Take Forty-Six Years to Build. With Regard to that of Ezra We Cannot Tell How Long It Took. Significance of the Number Forty-Six.",
+                "titulo": "22. O Templo de Salomão não demorou quarenta e seis anos para ser construído. Com respeito ao de Esdras, não podemos dizer quanto tempo demorou. Significado do Número Quarenta e Seis.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8905,7 +8905,7 @@
               },
               {
                 "id": "anf09-186-192-312-335",
-                "titulo": "23. The Temple Spoken of by Christ is the Church. Application to the Church of the Statements Regarding the Building of Solomon’s Temple, and the Numbers Stated in that Narrative.",
+                "titulo": "23. O Templo de que fala Cristo é a Igreja. Aplicação à Igreja das Declarações Relativas à Construção do Templo de Salomão e dos Números Declarados nessa Narrativa.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8916,7 +8916,7 @@
               },
               {
                 "id": "anf09-186-192-312-336",
-                "titulo": "24. The Account of the Building of Solomon’s Temple Contains Serious Difficulties and is to Be Interpreted Spiritually.",
+                "titulo": "24. O relato da construção do Templo de Salomão contém sérias dificuldades e deve ser interpretado espiritualmente.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8927,7 +8927,7 @@
               },
               {
                 "id": "anf09-186-192-312-337",
-                "titulo": "25. Further Spiritualizing of Solomon’s Temple-Building.",
+                "titulo": "25. Maior espiritualização da construção do templo de Salomão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8938,7 +8938,7 @@
               },
               {
                 "id": "anf09-186-192-312-338",
-                "titulo": "26. The Promises Addressed to Jerusalem in the Prophets Refer to the Church, and are Still to Be Fulfilled.",
+                "titulo": "26. As promessas dirigidas a Jerusalém nos profetas referem-se à Igreja e ainda devem ser cumpridas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8949,7 +8949,7 @@
               },
               {
                 "id": "anf09-186-192-312-339",
-                "titulo": "27. Of the Belief the Disciples Afterwards Attained in the Words of Jesus.",
+                "titulo": "27. Da crença que os discípulos alcançaram posteriormente nas palavras de Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8960,7 +8960,7 @@
               },
               {
                 "id": "anf09-186-192-312-340",
-                "titulo": "28. The Difference Between Believing in the Name of Jesus and Believing in Jesus Himself.",
+                "titulo": "28. A diferença entre acreditar no nome de Jesus e acreditar no próprio Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8971,7 +8971,7 @@
               },
               {
                 "id": "anf09-186-192-312-341",
-                "titulo": "29. About What Beings Jesus Needed Testimony.",
+                "titulo": "29. Sobre quais seres Jesus precisava de testemunho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8982,7 +8982,7 @@
               },
               {
                 "id": "anf09-186-192-312-342",
-                "titulo": "30. How Jesus Knew the Powers, Better or Worse, Which Reside in Man.",
+                "titulo": "30. Como Jesus conheceu os poderes, melhores ou piores, que residem no homem.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8999,11 +8999,11 @@
   },
   {
     "id": "anf09-343",
-    "titulo": "ORIGEN’S COMMENTARY ON THE GOSPEL OF MATTHEW. by JOHN PATRICK, D.D.",
+    "titulo": "COMENTÁRIO DE ORIGENS SOBRE O EVANGELHO DE MATEUS. por JOHN PATRICK, D.D.",
     "children": [
       {
         "id": "anf09-343-344",
-        "titulo": "Commentary on Matthew.",
+        "titulo": "Comentário sobre Mateus.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -9018,7 +9018,7 @@
       },
       {
         "id": "anf09-343-345",
-        "titulo": "From the First Book of the Commentary on Matthew.5150",
+        "titulo": "Do Primeiro Livro do Comentário sobre Mateus.5150",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -9029,11 +9029,11 @@
       },
       {
         "id": "anf09-343-346",
-        "titulo": "From the Second Book of the Commentary on the Gospel According to Matthew.",
+        "titulo": "Do Segundo Livro do Comentário ao Evangelho Segundo Mateus.",
         "children": [
           {
             "id": "anf09-343-346-347",
-            "titulo": "Book II. 5153",
+            "titulo": "Livro II. 5153",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9048,11 +9048,11 @@
           },
           {
             "id": "anf09-343-346-348",
-            "titulo": "Book X.",
+            "titulo": "Livro X.",
             "children": [
               {
                 "id": "anf09-343-346-348-349",
-                "titulo": "1. The Parable of the Tares: the House of Jesus.",
+                "titulo": "1. A Parábola do Joio: a Casa de Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9063,7 +9063,7 @@
               },
               {
                 "id": "anf09-343-346-348-350",
-                "titulo": "2. Exposition of the Parable.",
+                "titulo": "2. Exposição da Parábola.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9074,7 +9074,7 @@
               },
               {
                 "id": "anf09-343-346-348-351",
-                "titulo": "3. The Shining of the Righteous. Its Interpretation.",
+                "titulo": "3. O brilho dos justos. Sua Interpretação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9085,7 +9085,7 @@
               },
               {
                 "id": "anf09-343-346-348-352",
-                "titulo": "4. Concerning the Parable of the Treasure Hidden in the Field. The Parable Distinguished from the Similitude.",
+                "titulo": "4. A respeito da parábola do tesouro escondido no campo. A parábola distingue-se da semelhança.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9096,7 +9096,7 @@
               },
               {
                 "id": "anf09-343-346-348-353",
-                "titulo": "5. The Field and the Treasure Interpreted.",
+                "titulo": "5. O Campo e o Tesouro Interpretados.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9107,7 +9107,7 @@
               },
               {
                 "id": "anf09-343-346-348-354",
-                "titulo": "6. The Exposition Continued.",
+                "titulo": "6. A exposição continua.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9118,7 +9118,7 @@
               },
               {
                 "id": "anf09-343-346-348-355",
-                "titulo": "7. The Parable of the Pearl of Great Price. The Formation and Difference of Pearls.",
+                "titulo": "7. A Parábola da Pérola de Grande Valor. A Formação e Diferença das Pérolas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9129,7 +9129,7 @@
               },
               {
                 "id": "anf09-343-346-348-356",
-                "titulo": "8. The Parable Interpreted is the Light of These Views.",
+                "titulo": "8. A parábola interpretada é a luz dessas visões.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9140,7 +9140,7 @@
               },
               {
                 "id": "anf09-343-346-348-357",
-                "titulo": "9. Christ the Pearl of Great Price.",
+                "titulo": "9. Cristo, a Pérola de Grande Valor.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9151,7 +9151,7 @@
               },
               {
                 "id": "anf09-343-346-348-358",
-                "titulo": "10. The Pearl of the Gospel in Relation to the Old Testament.",
+                "titulo": "10. A Pérola do Evangelho em Relação ao Antigo Testamento.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9162,7 +9162,7 @@
               },
               {
                 "id": "anf09-343-346-348-359",
-                "titulo": "11. The Parable of the Drag-Net.",
+                "titulo": "11. A parábola da rede de arrasto.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9173,7 +9173,7 @@
               },
               {
                 "id": "anf09-343-346-348-360",
-                "titulo": "12. The Divine Scriptures Compared to a Net.",
+                "titulo": "12. As Escrituras Divinas Comparadas a uma Rede.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9184,7 +9184,7 @@
               },
               {
                 "id": "anf09-343-346-348-361",
-                "titulo": "13. Relation of Men to Angels.",
+                "titulo": "13. Relação dos Homens com os Anjos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9195,7 +9195,7 @@
               },
               {
                 "id": "anf09-343-346-348-362",
-                "titulo": "14. The Disciples as Scribes.",
+                "titulo": "14. Os Discípulos como Escribas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9206,7 +9206,7 @@
               },
               {
                 "id": "anf09-343-346-348-363",
-                "titulo": "15. The Householder and His Treasury.",
+                "titulo": "15. O chefe de família e seu tesouro.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9217,7 +9217,7 @@
               },
               {
                 "id": "anf09-343-346-348-364",
-                "titulo": "16. Parables in Relation to Similitudes. Jesus in His Own Country.",
+                "titulo": "16. Parábolas em relação às semelhanças. Jesus em seu próprio país.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9239,7 +9239,7 @@
               },
               {
                 "id": "anf09-343-346-348-366",
-                "titulo": "18. Prophets in Their Country.",
+                "titulo": "18. Profetas em seu país.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9250,7 +9250,7 @@
               },
               {
                 "id": "anf09-343-346-348-367",
-                "titulo": "19. Relation of Faith and Unbelief to the Supernatural Powers of Jesus.",
+                "titulo": "19. Relação de Fé e Incredulidade com os Poderes Sobrenaturais de Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9261,7 +9261,7 @@
               },
               {
                 "id": "anf09-343-346-348-368",
-                "titulo": "20. Different Conceptions of John the Baptist.",
+                "titulo": "20. Diferentes Concepções de João Batista.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9272,7 +9272,7 @@
               },
               {
                 "id": "anf09-343-346-348-369",
-                "titulo": "21. Herod and the Baptist.",
+                "titulo": "21. Herodes e o Batista.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9283,7 +9283,7 @@
               },
               {
                 "id": "anf09-343-346-348-370",
-                "titulo": "22. The Dancing of Herodias. The Keeping of Oaths.",
+                "titulo": "22. A Dança de Herodíades. A manutenção de juramentos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9294,7 +9294,7 @@
               },
               {
                 "id": "anf09-343-346-348-371",
-                "titulo": "23. The Withdrawal of Jesus.",
+                "titulo": "23. A Retirada de Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9305,7 +9305,7 @@
               },
               {
                 "id": "anf09-343-346-348-372",
-                "titulo": "24. The Diverse Forms of Spiritual Sickness.",
+                "titulo": "24. As diversas formas de doença espiritual.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9316,7 +9316,7 @@
               },
               {
                 "id": "anf09-343-346-348-373",
-                "titulo": "25. Healing Precedes Participation in the Loaves of Jesus.",
+                "titulo": "25. A cura precede a participação nos pães de Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9329,11 +9329,11 @@
           },
           {
             "id": "anf09-343-346-374",
-            "titulo": "Book XI.",
+            "titulo": "Livro XI.",
             "children": [
               {
                 "id": "anf09-343-346-374-375",
-                "titulo": "1. Introduction to the Feeding of the Five Thousand.",
+                "titulo": "1. Introdução à Alimentação dos Cinco Mil.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9344,7 +9344,7 @@
               },
               {
                 "id": "anf09-343-346-374-376",
-                "titulo": "2. Exposition of the Details of the Miracle.",
+                "titulo": "2. Exposição dos Detalhes do Milagre.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9355,7 +9355,7 @@
               },
               {
                 "id": "anf09-343-346-374-377",
-                "titulo": "3. The Exposition of Details Continued. The Sitting Down on the Grass. The Division into Companies.",
+                "titulo": "3. The Exposition of Details Continued. O sentar na grama. A Divisão em Empresas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9366,7 +9366,7 @@
               },
               {
                 "id": "anf09-343-346-374-378",
-                "titulo": "4. The Multitudes and the Disciples Contrasted.",
+                "titulo": "4. As multidões e os discípulos contrastados.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9377,7 +9377,7 @@
               },
               {
                 "id": "anf09-343-346-374-379",
-                "titulo": "5. The Disciples in Conflict. Jesus Walks Upon the Waters.",
+                "titulo": "5. Os Discípulos em Conflito. Jesus caminha sobre as águas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9388,7 +9388,7 @@
               },
               {
                 "id": "anf09-343-346-374-380",
-                "titulo": "6. Interpretation of the Details in the Narrative.Application Thereof to All Disciples.",
+                "titulo": "6. Interpretação dos Detalhes da Narrativa. Sua Aplicação a Todos os Discípulos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9399,7 +9399,7 @@
               },
               {
                 "id": "anf09-343-346-374-381",
-                "titulo": "7. The Healing of the Sick on the Other Side. The Method of Healing.",
+                "titulo": "7. A cura dos enfermos do outro lado. O método de cura.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9410,7 +9410,7 @@
               },
               {
                 "id": "anf09-343-346-374-382",
-                "titulo": "8. Concerning the Pharisees and Scribes Who Came and Inquired, Why Do Thy Disciples Transgress the Tradition of the Elders?",
+                "titulo": "8. Quanto aos fariseus e escribas que vieram e perguntaram, por que os teus discípulos transgridem a tradição dos anciãos?",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9421,7 +9421,7 @@
               },
               {
                 "id": "anf09-343-346-374-383",
-                "titulo": "9. Explanation of “Corban.”",
+                "titulo": "9. Explicação de “Corban”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9432,7 +9432,7 @@
               },
               {
                 "id": "anf09-343-346-374-384",
-                "titulo": "10. The Traditions of the Elders in Collision with Divine Law.",
+                "titulo": "10. As Tradições dos Anciãos em Colisão com a Lei Divina.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9443,7 +9443,7 @@
               },
               {
                 "id": "anf09-343-346-374-385",
-                "titulo": "11. Exposition of the Prophecy of Isaiah Quoted by Jesus.",
+                "titulo": "11. Exposição da Profecia de Isaías Citada por Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9454,7 +9454,7 @@
               },
               {
                 "id": "anf09-343-346-374-386",
-                "titulo": "12. Things Clean and Unclean According to the Law and the Gospel.",
+                "titulo": "12. Coisas Limpas e Impuras Segundo a Lei e o Evangelho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9465,7 +9465,7 @@
               },
               {
                 "id": "anf09-343-346-374-387",
-                "titulo": "13. The Offence of the Pharisees.",
+                "titulo": "13. A Ofensa dos Fariseus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9476,7 +9476,7 @@
               },
               {
                 "id": "anf09-343-346-374-388",
-                "titulo": "14. Why the Pharisees Were Not a Plant of God. Teaching of Origen on the “Bread of the Lord.”",
+                "titulo": "14. Por que os fariseus não eram uma planta de Deus. Ensinamento de Orígenes sobre o “Pão do Senhor”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9487,7 +9487,7 @@
               },
               {
                 "id": "anf09-343-346-374-389",
-                "titulo": "15. Eating with Unwashed Heart Defiles the Man.",
+                "titulo": "15. Comer com o coração sujo contamina o homem.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9498,7 +9498,7 @@
               },
               {
                 "id": "anf09-343-346-374-390",
-                "titulo": "16. Concerning the Canaanitish Woman. Meaning of the “Borders of Tyre and Sidon.”",
+                "titulo": "16. A respeito da mulher cananéia. Significado das “Fronteiras de Tiro e Sidom”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9509,7 +9509,7 @@
               },
               {
                 "id": "anf09-343-346-374-391",
-                "titulo": "17. Exposition of the Details in the Narrative.",
+                "titulo": "17. Exposição dos Detalhes da Narrativa.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9520,7 +9520,7 @@
               },
               {
                 "id": "anf09-343-346-374-392",
-                "titulo": "18. Concerning the Multitudes Who Were Healed. Comparison of the Mountain Where Jesus Sat to the Church.",
+                "titulo": "18. A respeito das multidões que foram curadas. Comparação da montanha onde Jesus se sentou com a igreja.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9531,7 +9531,7 @@
               },
               {
                 "id": "anf09-343-346-374-393",
-                "titulo": "19. Concerning the Seven Loaves. The Narrative of the Feeding of the Four Thousand Compared with that of the Five Thousand.",
+                "titulo": "19. A respeito dos Sete Pães. A narrativa da alimentação dos quatro mil comparada com a dos cinco mil.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9544,11 +9544,11 @@
           },
           {
             "id": "anf09-343-346-394",
-            "titulo": "Book XII.",
+            "titulo": "Livro XII.",
             "children": [
               {
                 "id": "anf09-343-346-394-395",
-                "titulo": "1. Concerning Those Who Asked Him to Show Them a Sign from Heaven.",
+                "titulo": "1. A respeito daqueles que lhe pediram para lhes mostrar um sinal do céu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9559,7 +9559,7 @@
               },
               {
                 "id": "anf09-343-346-394-396",
-                "titulo": "2. Why the Pharisees Asked a Sign from Heaven.",
+                "titulo": "2. Por que os fariseus pediram um sinal do céu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9570,7 +9570,7 @@
               },
               {
                 "id": "anf09-343-346-394-397",
-                "titulo": "3. The Answer of Jesus to Their Request.",
+                "titulo": "3. A resposta de Jesus ao seu pedido.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9581,7 +9581,7 @@
               },
               {
                 "id": "anf09-343-346-394-398",
-                "titulo": "4. Why Jesus Called Them an Adulterous Generation. The Law as Husband.",
+                "titulo": "4. Por que Jesus os chamou de geração adúltera. A Lei como Marido.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9592,7 +9592,7 @@
               },
               {
                 "id": "anf09-343-346-394-399",
-                "titulo": "5. Concerning the Leaven of the Pharisees.",
+                "titulo": "5. A respeito do fermento dos fariseus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9603,7 +9603,7 @@
               },
               {
                 "id": "anf09-343-346-394-400",
-                "titulo": "6. The Meaning of Leaven. Jesus’ Knowledge of the Heart.",
+                "titulo": "6. O Significado do Fermento. O Conhecimento do Coração de Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9614,7 +9614,7 @@
               },
               {
                 "id": "anf09-343-346-394-401",
-                "titulo": "7. Relative Magnitude of Sins of the Heart and Actual Sins.",
+                "titulo": "7. Magnitude Relativa dos Pecados do Coração e Pecados Reais.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9625,7 +9625,7 @@
               },
               {
                 "id": "anf09-343-346-394-402",
-                "titulo": "8. The Leaven Figurative Like the Water Spoken of by Jesus to the Woman of Samaria.",
+                "titulo": "8. O fermento figurativo como a água de que Jesus falou à mulher samaritana.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9636,7 +9636,7 @@
               },
               {
                 "id": "anf09-343-346-394-403",
-                "titulo": "9. Concerning the Question of Jesus in Cæsarea, Who Do Men Say that I Am? Different Conceptions of Jesus.",
+                "titulo": "9. Quanto à pergunta de Jesus em Cesaréia, quem dizem os homens que eu sou? Diferentes Concepções de Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9647,7 +9647,7 @@
               },
               {
                 "id": "anf09-343-346-394-404",
-                "titulo": "10. The Answer of Peter.",
+                "titulo": "10. A resposta de Pedro.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9658,7 +9658,7 @@
               },
               {
                 "id": "anf09-343-346-394-405",
-                "titulo": "11. The Promise Given to Peter Not Restricted to Him, But Applicable to All Disciples Like Him.",
+                "titulo": "11. A promessa feita a Pedro não se restringe a ele, mas se aplica a todos os discípulos como ele.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9669,7 +9669,7 @@
               },
               {
                 "id": "anf09-343-346-394-406",
-                "titulo": "12. Every Sin—Every False Doctrine is a “Gate of Hades.”",
+                "titulo": "12. Todo Pecado – Toda Falsa Doutrina é uma “Porta do Hades”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9680,7 +9680,7 @@
               },
               {
                 "id": "anf09-343-346-394-407",
-                "titulo": "13. The “Gates of Hades” And the “Gates of Zion” Contrasted.",
+                "titulo": "13. As “Portas do Hades” e as “Portas de Sião” contrastadas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9691,7 +9691,7 @@
               },
               {
                 "id": "anf09-343-346-394-408",
-                "titulo": "14. In What Sense the “Keys” Are Given to Peter, and Every Peter. Limitations of This Power.",
+                "titulo": "14. Em que sentido as “chaves” são dadas a Pedro e a cada Pedro. Limitações deste poder.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9702,7 +9702,7 @@
               },
               {
                 "id": "anf09-343-346-394-409",
-                "titulo": "15. Relation of the Former Commission Given by Jesus to the Disciples, to His Present Injunction of Silence. Belief and Knowledge Contrasted.",
+                "titulo": "15. Relação da antiga comissão dada por Jesus aos discípulos com sua atual ordem de silêncio. Crença e conhecimento contrastados.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9713,7 +9713,7 @@
               },
               {
                 "id": "anf09-343-346-394-410",
-                "titulo": "16. Gradual Growth in Knowledge of the Disciples.",
+                "titulo": "16. Crescimento gradual no conhecimento dos discípulos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9735,7 +9735,7 @@
               },
               {
                 "id": "anf09-343-346-394-412",
-                "titulo": "18. Jesus Was at First Proclaimed by the Twelve as a Worker and a Teacher Only.",
+                "titulo": "18. Jesus foi inicialmente proclamado pelos Doze apenas como obreiro e mestre.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9746,7 +9746,7 @@
               },
               {
                 "id": "anf09-343-346-394-413",
-                "titulo": "19. Importance of the Proclamation of Jesus as the Crucified.​",
+                "titulo": "19. Importância da Proclamação de Jesus como o Crucificado.​",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9757,7 +9757,7 @@
               },
               {
                 "id": "anf09-343-346-394-414",
-                "titulo": "20. Why Jesus Had to Go to Jerusalem.",
+                "titulo": "20. Por que Jesus teve que ir para Jerusalém.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9768,7 +9768,7 @@
               },
               {
                 "id": "anf09-343-346-394-415",
-                "titulo": "21. The Rebuke of Peter and the Answer of Jesus.",
+                "titulo": "21. A Repreensão de Pedro e a Resposta de Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9779,7 +9779,7 @@
               },
               {
                 "id": "anf09-343-346-394-416",
-                "titulo": "22. Importance of the Expressions “Behind” And “Turned.”",
+                "titulo": "22. Importância das expressões “atrás” e “virado”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9790,7 +9790,7 @@
               },
               {
                 "id": "anf09-343-346-394-417",
-                "titulo": "23. Peter as a Stumbling-Block to Jesus.",
+                "titulo": "23. Pedro como pedra de tropeço para Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9801,7 +9801,7 @@
               },
               {
                 "id": "anf09-343-346-394-418",
-                "titulo": "24. Self-Denial and Cross-Bearing.",
+                "titulo": "24. Abnegação e suporte cruzado.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9812,7 +9812,7 @@
               },
               {
                 "id": "anf09-343-346-394-419",
-                "titulo": "25. Reference to the Saying of Paul About Crucifixion with Christ.",
+                "titulo": "25. Referência ao dito de Paulo sobre a crucificação com Cristo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9823,7 +9823,7 @@
               },
               {
                 "id": "anf09-343-346-394-420",
-                "titulo": "26. The Less of Life; And the Saving of It.",
+                "titulo": "26. O Menor da Vida; E a salvação disso.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9834,7 +9834,7 @@
               },
               {
                 "id": "anf09-343-346-394-421",
-                "titulo": "27. Life Lost to the World is Saved.",
+                "titulo": "27. A vida perdida para o mundo é salva.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9845,7 +9845,7 @@
               },
               {
                 "id": "anf09-343-346-394-422",
-                "titulo": "28. The Exchange for One’s Life.",
+                "titulo": "28. A troca pela vida.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9856,7 +9856,7 @@
               },
               {
                 "id": "anf09-343-346-394-423",
-                "titulo": "29. The Coming of the Son of Man in Glory.",
+                "titulo": "29. A Vinda do Filho do Homem em Glória.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9867,7 +9867,7 @@
               },
               {
                 "id": "anf09-343-346-394-424",
-                "titulo": "30. The Word Appears in Different Forms; The Time of His Coming in Glory.",
+                "titulo": "30. A Palavra Aparece em Diferentes Formas; A hora de sua vinda em glória.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9878,7 +9878,7 @@
               },
               {
                 "id": "anf09-343-346-394-425",
-                "titulo": "31. The Simpler Interpretation of the Promise About Not Tasting of Death.",
+                "titulo": "31. A interpretação mais simples da promessa de não provar a morte.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9889,7 +9889,7 @@
               },
               {
                 "id": "anf09-343-346-394-426",
-                "titulo": "32. Standing by the Saviour.",
+                "titulo": "32. Ao lado do Salvador.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9900,7 +9900,7 @@
               },
               {
                 "id": "anf09-343-346-394-427",
-                "titulo": "33. Interpretation of “Tasting of Death.”",
+                "titulo": "33. Interpretação de “Sabor da Morte”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9911,7 +9911,7 @@
               },
               {
                 "id": "anf09-343-346-394-428",
-                "titulo": "34. Meaning of “Until.” No Limitation of Promise.",
+                "titulo": "34. Significado de “Até”. Sem limitação de promessa.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9922,7 +9922,7 @@
               },
               {
                 "id": "anf09-343-346-394-429",
-                "titulo": "35. Scriptural References to Death.",
+                "titulo": "35. Referências Bíblicas à Morte.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9933,7 +9933,7 @@
               },
               {
                 "id": "anf09-343-346-394-430",
-                "titulo": "36. Concerning the Transfiguration of the Saviour.",
+                "titulo": "36. A respeito da Transfiguração do Salvador.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9944,7 +9944,7 @@
               },
               {
                 "id": "anf09-343-346-394-431",
-                "titulo": "37. Force of the Words “Before Them.”",
+                "titulo": "37. Força das palavras “diante deles”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9955,7 +9955,7 @@
               },
               {
                 "id": "anf09-343-346-394-432",
-                "titulo": "38. The Garments White as the Light.",
+                "titulo": "38. As vestes brancas como a luz.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9966,7 +9966,7 @@
               },
               {
                 "id": "anf09-343-346-394-433",
-                "titulo": "39. Jesus Was Transfigured—“As He Was Praying.”",
+                "titulo": "39. Jesus foi transfigurado – “enquanto orava”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9977,7 +9977,7 @@
               },
               {
                 "id": "anf09-343-346-394-434",
-                "titulo": "40. Discussion of the Saying of Peter.",
+                "titulo": "40. Discussão do Dito de Pedro.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9988,7 +9988,7 @@
               },
               {
                 "id": "anf09-343-346-394-435",
-                "titulo": "41. Figurative Interpretation of the Same.",
+                "titulo": "41. Interpretação Figurativa do Mesmo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9999,7 +9999,7 @@
               },
               {
                 "id": "anf09-343-346-394-436",
-                "titulo": "42. The Meaning of the “Bright Cloud.”",
+                "titulo": "42. O Significado da “Nuvem Brilhante”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10010,7 +10010,7 @@
               },
               {
                 "id": "anf09-343-346-394-437",
-                "titulo": "43. Relation of Moses and Elijah to Jesus. The Injunction of Silence.",
+                "titulo": "43. Relation of Moses and Elijah to Jesus. A Injunção do Silêncio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10023,11 +10023,11 @@
           },
           {
             "id": "anf09-343-346-438",
-            "titulo": "Book XIII.",
+            "titulo": "Livro XIII.",
             "children": [
               {
                 "id": "anf09-343-346-438-439",
-                "titulo": "1. Relation of the Baptist to Elijah. The Theory of Transmigration Considered.",
+                "titulo": "1. Relação do Batista com Elias. A teoria da transmigração considerada.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10038,7 +10038,7 @@
               },
               {
                 "id": "anf09-343-346-438-440",
-                "titulo": "2. “The Spirit and Power of Elijah”—Not the Soul—Were in the Baptist.",
+                "titulo": "2. “O Espírito e o Poder de Elias” – Não a Alma – Estavam no Batista.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10049,7 +10049,7 @@
               },
               {
                 "id": "anf09-343-346-438-441",
-                "titulo": "3. Concerning the Epileptic.",
+                "titulo": "3. A respeito do epiléptico.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10060,7 +10060,7 @@
               },
               {
                 "id": "anf09-343-346-438-442",
-                "titulo": "4. Spiritual Epileptics.",
+                "titulo": "4. Epilépticos Espirituais.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10071,7 +10071,7 @@
               },
               {
                 "id": "anf09-343-346-438-443",
-                "titulo": "5. The Deaf and Dumb Spirit.",
+                "titulo": "5. O Espírito Surdo e Mudo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10082,7 +10082,7 @@
               },
               {
                 "id": "anf09-343-346-438-444",
-                "titulo": "6. Influence of the Moon and Stars on Men.",
+                "titulo": "6. Influência da Lua e das Estrelas nos Homens.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10093,7 +10093,7 @@
               },
               {
                 "id": "anf09-343-346-438-445",
-                "titulo": "7. The Power of Faith.",
+                "titulo": "7. O Poder da Fé.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10104,7 +10104,7 @@
               },
               {
                 "id": "anf09-343-346-438-446",
-                "titulo": "8. Jesus’ Prediction of His “Delivery” Into the Hands of Men.",
+                "titulo": "8. A previsão de Jesus sobre sua “entrega” nas mãos dos homens.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10115,7 +10115,7 @@
               },
               {
                 "id": "anf09-343-346-438-447",
-                "titulo": "9. Satan and the “Delivery” Of Jesus.",
+                "titulo": "9. Satanás e a “Libertação” de Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10126,7 +10126,7 @@
               },
               {
                 "id": "anf09-343-346-438-448",
-                "titulo": "10. Concerning Those Who Demanded the Half-Shekel.",
+                "titulo": "10. A respeito daqueles que exigiram o meio shekel.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10137,7 +10137,7 @@
               },
               {
                 "id": "anf09-343-346-438-449",
-                "titulo": "11. The Freedom of Sons.",
+                "titulo": "11. A Liberdade dos Filhos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10159,7 +10159,7 @@
               },
               {
                 "id": "anf09-343-346-438-451",
-                "titulo": "13. The Sacred Half-Shekel.",
+                "titulo": "13. O Meio-Shekel Sagrado.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10170,7 +10170,7 @@
               },
               {
                 "id": "anf09-343-346-438-452",
-                "titulo": "14. Concerning Those Who Said, Who is the Greatest? and Concerning the Child that Was Called by Jesus.",
+                "titulo": "14. A respeito daqueles que disseram: quem é o maior? e A respeito da criança que foi chamada por Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10181,7 +10181,7 @@
               },
               {
                 "id": "anf09-343-346-438-453",
-                "titulo": "15. Greatness Varies in Degree.",
+                "titulo": "15. A grandeza varia em grau.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10192,7 +10192,7 @@
               },
               {
                 "id": "anf09-343-346-438-454",
-                "titulo": "16. Why the Great are Compared to Little Children.",
+                "titulo": "16. Por que os grandes são comparados às crianças.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10203,7 +10203,7 @@
               },
               {
                 "id": "anf09-343-346-438-455",
-                "titulo": "17. The Little Ones and Their Stumbling-Blocks.",
+                "titulo": "17. Os pequeninos e seus obstáculos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10214,7 +10214,7 @@
               },
               {
                 "id": "anf09-343-346-438-456",
-                "titulo": "18. Who Was the Little Child Called by Jesus.",
+                "titulo": "18. Quem foi a criança chamada por Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10225,7 +10225,7 @@
               },
               {
                 "id": "anf09-343-346-438-457",
-                "titulo": "19. The Parallel Passages in Mark and Luke.",
+                "titulo": "19. As passagens paralelas em Marcos e Lucas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10236,7 +10236,7 @@
               },
               {
                 "id": "anf09-343-346-438-458",
-                "titulo": "20. The World and Offences. Various Meanings of World.",
+                "titulo": "20. O Mundo e as Ofensas. Vários significados do mundo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10247,7 +10247,7 @@
               },
               {
                 "id": "anf09-343-346-438-459",
-                "titulo": "21. The “Woe” Does Not Apply to the Disciples of Jesus.",
+                "titulo": "21. O “Ai” não se aplica aos discípulos de Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10258,7 +10258,7 @@
               },
               {
                 "id": "anf09-343-346-438-460",
-                "titulo": "22. What the “Occasions of Stumbling” Are.",
+                "titulo": "22. Quais são as “ocasiões de tropeço”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10269,7 +10269,7 @@
               },
               {
                 "id": "anf09-343-346-438-461",
-                "titulo": "23. In What Sense “Necessary.”",
+                "titulo": "23. Em que sentido “necessário”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10280,7 +10280,7 @@
               },
               {
                 "id": "anf09-343-346-438-462",
-                "titulo": "24. The Offending Hand, or Foot, or Eye.",
+                "titulo": "24. A mão, pé ou olho agressor.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10291,7 +10291,7 @@
               },
               {
                 "id": "anf09-343-346-438-463",
-                "titulo": "25. The Eye or Hand Allegorized.",
+                "titulo": "25. O Olho ou Mão Alegorizada.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10302,7 +10302,7 @@
               },
               {
                 "id": "anf09-343-346-438-464",
-                "titulo": "26. The Little Ones and Their Angels.",
+                "titulo": "26. Os pequeninos e seus anjos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10313,7 +10313,7 @@
               },
               {
                 "id": "anf09-343-346-438-465",
-                "titulo": "27. When the Little Ones are Assigned to Angels.",
+                "titulo": "27. Quando os pequeninos são designados aos anjos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10324,7 +10324,7 @@
               },
               {
                 "id": "anf09-343-346-438-466",
-                "titulo": "28. Close Relationship of Angels to Their “Little Ones.”",
+                "titulo": "28. Relacionamento próximo dos anjos com seus “pequeninos”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10335,7 +10335,7 @@
               },
               {
                 "id": "anf09-343-346-438-467",
-                "titulo": "29. The Little Ones and the Perfect.",
+                "titulo": "29. Os Pequenos e os Perfeitos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10350,7 +10350,7 @@
               },
               {
                 "id": "anf09-343-346-438-468",
-                "titulo": "30. The Sinning Brother.",
+                "titulo": "30. O irmão pecador.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10361,7 +10361,7 @@
               },
               {
                 "id": "anf09-343-346-438-469",
-                "titulo": "31. The Power to Bind on Earth and in Heaven.",
+                "titulo": "31. O Poder de Ligar na Terra e no Céu.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10374,11 +10374,11 @@
           },
           {
             "id": "anf09-343-346-470",
-            "titulo": "Book XIV.",
+            "titulo": "Livro XIV.",
             "children": [
               {
                 "id": "anf09-343-346-470-471",
-                "titulo": "1. The Power of Harmony in Relation to Prayer.",
+                "titulo": "1. O Poder da Harmonia em Relação à Oração.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10389,7 +10389,7 @@
               },
               {
                 "id": "anf09-343-346-470-472",
-                "titulo": "2. The Harmony of Husband and Wife.",
+                "titulo": "2. A Harmonia entre Marido e Mulher.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10400,7 +10400,7 @@
               },
               {
                 "id": "anf09-343-346-470-473",
-                "titulo": "3. The Harmony of Body, Soul, and Spirit.",
+                "titulo": "3. A Harmonia do Corpo, Alma e Espírito.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10411,7 +10411,7 @@
               },
               {
                 "id": "anf09-343-346-470-474",
-                "titulo": "4. Harmony of the Old and New Covenants.",
+                "titulo": "4. Harmonia da Antiga e da Nova Aliança.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10422,7 +10422,7 @@
               },
               {
                 "id": "anf09-343-346-470-475",
-                "titulo": "5. The Limit of Forgiveness.",
+                "titulo": "5. O Limite do Perdão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10433,7 +10433,7 @@
               },
               {
                 "id": "anf09-343-346-470-476",
-                "titulo": "6. Concerning the King Who Made a Reckoning with His Own Servants, to Whom Was Brought a Man Who Owed Ten Thousand Talents.",
+                "titulo": "6. A respeito do rei que fez contas com seus próprios servos, a quem foi trazido um homem que devia dez mil talentos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10444,7 +10444,7 @@
               },
               {
                 "id": "anf09-343-346-470-477",
-                "titulo": "7. Exposition Continued: the King and the Servants.",
+                "titulo": "7. Continuação da Exposição: o Rei e os Servos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10455,7 +10455,7 @@
               },
               {
                 "id": "anf09-343-346-470-478",
-                "titulo": "8. The Principle of the Reckoning.",
+                "titulo": "8. O Princípio do Acerto de Contas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10466,7 +10466,7 @@
               },
               {
                 "id": "anf09-343-346-470-479",
-                "titulo": "9. The Time Occupied by the Reckoning.",
+                "titulo": "9. O tempo ocupado pelo acerto de contas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10477,7 +10477,7 @@
               },
               {
                 "id": "anf09-343-346-470-480",
-                "titulo": "10. The Man Who Owed Many Talents.",
+                "titulo": "10. O homem que devia muitos talentos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10488,7 +10488,7 @@
               },
               {
                 "id": "anf09-343-346-470-481",
-                "titulo": "11. The Servant Who Owed a Hundred Pence.",
+                "titulo": "11. O servo que devia cem centavos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10499,7 +10499,7 @@
               },
               {
                 "id": "anf09-343-346-470-482",
-                "titulo": "12. The Time of the Reckoning.",
+                "titulo": "12. A hora do acerto de contas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10510,7 +10510,7 @@
               },
               {
                 "id": "anf09-343-346-470-483",
-                "titulo": "13. No Forgiveness to the Unforgiving.",
+                "titulo": "13. Nenhum perdão aos implacáveis.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10521,7 +10521,7 @@
               },
               {
                 "id": "anf09-343-346-470-484",
-                "titulo": "14. How Jesus Finished His Words.",
+                "titulo": "14. Como Jesus terminou suas palavras.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10532,7 +10532,7 @@
               },
               {
                 "id": "anf09-343-346-470-485",
-                "titulo": "15. How Men Followed Jesus.",
+                "titulo": "15. Como os homens seguiram Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10543,7 +10543,7 @@
               },
               {
                 "id": "anf09-343-346-470-486",
-                "titulo": "16. Concerning the Pharisees and Scribes Tempting Jesus (by Asking) Whether Was Lawful for a Man to Put Away His Wife for Every Cause.",
+                "titulo": "16. A respeito dos fariseus e escribas que tentaram Jesus (perguntando) se era lícito para um homem repudiar sua esposa por qualquer motivo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10554,7 +10554,7 @@
               },
               {
                 "id": "anf09-343-346-470-487",
-                "titulo": "17. Union of Christ and the Church.",
+                "titulo": "17. União de Cristo e da Igreja.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10565,7 +10565,7 @@
               },
               {
                 "id": "anf09-343-346-470-488",
-                "titulo": "18. The Bill of Divorcement.",
+                "titulo": "18. A Declaração de Divórcio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10576,7 +10576,7 @@
               },
               {
                 "id": "anf09-343-346-470-489",
-                "titulo": "19. The Divorce of Israel.",
+                "titulo": "19. O divórcio de Israel.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10587,7 +10587,7 @@
               },
               {
                 "id": "anf09-343-346-470-490",
-                "titulo": "20. Christ and the Gentiles.",
+                "titulo": "20. Cristo e os gentios.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10598,7 +10598,7 @@
               },
               {
                 "id": "anf09-343-346-470-491",
-                "titulo": "21. Union of Angels and the Souls of Men.",
+                "titulo": "21. União dos Anjos e das Almas dos Homens.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10609,7 +10609,7 @@
               },
               {
                 "id": "anf09-343-346-470-492",
-                "titulo": "22. The Marriage of Church Dignitaries.",
+                "titulo": "22. O Casamento dos Dignitários da Igreja.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10620,7 +10620,7 @@
               },
               {
                 "id": "anf09-343-346-470-493",
-                "titulo": "23. Some Laws Given by Concession to Human Weakness.",
+                "titulo": "23. Algumas leis dadas por concessão à fraqueza humana.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10631,7 +10631,7 @@
               },
               {
                 "id": "anf09-343-346-470-494",
-                "titulo": "24. Jewish Criticism of the Law of Christ.",
+                "titulo": "24. Crítica Judaica à Lei de Cristo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10642,7 +10642,7 @@
               },
               {
                 "id": "anf09-343-346-470-495",
-                "titulo": "25. Chastity and Prayer.",
+                "titulo": "25. Castidade e Oração.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
