@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "leo-xiii",
+    "rotulo": "Leão XIII",
+    "subtitulo": "1878–1903 · 15 documentos",
+    "n": 15
+  },
+  {
+    "slug": "pius-x",
+    "rotulo": "Pio X",
+    "subtitulo": "1903–1914 · 2 documentos",
+    "n": 2
+  },
+  {
+    "slug": "benedict-xv",
+    "rotulo": "Bento XV",
+    "subtitulo": "1914–1922 · 1 documentos",
+    "n": 1
+  },
+  {
+    "slug": "pius-xi",
+    "rotulo": "Pio XI",
+    "subtitulo": "1922–1939 · 5 documentos",
+    "n": 5
+  },
+  {
+    "slug": "pius-xii",
+    "rotulo": "Pio XII",
+    "subtitulo": "1939–1958 · 38 documentos",
+    "n": 38
+  },
+  {
+    "slug": "john-xxiii",
+    "rotulo": "João XXIII",
+    "subtitulo": "1958–1963 · 12 documentos",
+    "n": 12
+  },
+  {
+    "slug": "paul-vi",
+    "rotulo": "Paulo VI",
+    "subtitulo": "1963–1978 · 23 documentos",
+    "n": 23
+  },
+  {
+    "slug": "john-paul-ii",
+    "rotulo": "João Paulo II",
+    "subtitulo": "1978–2005 · 52 documentos",
+    "n": 52
+  },
+  {
+    "slug": "benedict-xvi",
+    "rotulo": "Bento XVI",
+    "subtitulo": "2005–2013 · 33 documentos",
+    "n": 33
+  },
+  {
+    "slug": "francesco",
+    "rotulo": "Francisco",
+    "subtitulo": "2013– · 66 documentos",
+    "n": 66
+  }
+]
