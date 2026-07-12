@@ -1,7 +1,7 @@
 [
   {
     "id": "npnf210-3",
-    "titulo": "—",
+    "titulo": "PREFÁCIO DO TRADUTOR.",
     "children": [
       {
         "id": "npnf210-3-4",
@@ -43,7 +43,7 @@
         "children": [
           {
             "id": "npnf210-3-6-7",
-            "titulo": "I.—LITERATURA.",
+            "titulo": "I.-LITERATURA.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6917,7 +6917,7 @@
   },
   {
     "id": "npnf210-177",
-    "titulo": "OS DOIS LIVROS DE ST. AMBROSE, BISPO DE MILÃO, SOBRE O MORTE DE SEU IRMÃO SÁTIRO.",
+    "titulo": "OS DOIS LIVROS DE ST. AMBROSE, BISPO DE MILÃO, SOBRE A MORTE DE SEU IRMÃO SÁTIRO.",
     "children": [
       {
         "id": "npnf210-177-178",
@@ -6948,7 +6948,7 @@
       },
       {
         "id": "npnf210-177-179",
-        "titulo": "OS DOIS LIVROS DE ST. AMBROSE, BISPO DE MILÃO, SOBRE O MORTE DE SEU IRMÃO SÁTIRO.",
+        "titulo": "OS DOIS LIVROS DE ST. AMBROSE, BISPO DE MILÃO, SOBRE A MORTE DE SEU IRMÃO SÁTIRO.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -7836,6 +7836,25 @@
     "children": [
       {
         "id": "npnf210-181-182",
+        "titulo": "PREFACE.",
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "On the eve of setting out for the East, to aid his uncle Valens in repelling a Gothic invasion, Gratian, the Emperor of the West, requested St. Ambrose to write him a treatise in proof of the Divinity of Jesus Christ. Gratian’s object in making this request was to secure some sort of preservative against the corrupting influence of Arianism, which at that time (a.d. 378) had gained the upper hand of Orthodoxy in the Eastern provinces of the Empire, owing to its establishment at the Imperial Court. In compliance with Gratian’s wish, the Bishop of Milan composed a treatise, which now forms the first two Books of the De Fide. With this work the Emperor was so much pleased that on his return from the East, after the death of Valens at Hadrianople, he wrote to St. Ambrose, begging for a fresh copy of the treatise, and further, for its enlargement by the addition of a discourse on the Divinity of the Holy Spirit. The original treatise was, indeed, enlarged by St. Ambrose in 379, but the additional Books dealt, not with the Divinity of the Holy Spirit, but rather with new objections raised by the Arian teachers, and points which had either been passed over or not fully discussed already. In this way St. Ambrose’s Exposition was brought into its present form."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The object of the Exposition is, as has already been indicated, to prove the Divinity of Jesus Christ, and His co-eternity, co-equality, and consubstantiality, as God the Son, with God the Father. This the author does by constant appeal to the Scriptures, both of the Old and of the New Testament, which the Arians had in many cases forced into the mould of false interpretation to make them fit their doctrine."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Besides the title of De Fide, that of De Trinitate was one by which this treatise was largely known in after ages; it is certain, though, that the former was that assigned by St. Ambrose himself."
+          }
+        ],
+        "idioma": "en"
+      },
+      {
+        "id": "npnf210-181-183",
         "titulo": "NOTA PREFATÓRIA.",
         "conteudo": [
           {
@@ -7854,11 +7873,11 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-181-183",
+        "id": "npnf210-181-184",
         "titulo": "ST. A EXPOSIÇÃO DA FÉ CRISTÃ DE AMBROSE",
         "children": [
           {
-            "id": "npnf210-181-183-184",
+            "id": "npnf210-181-184-185",
             "titulo": "PRÓLOGO.",
             "conteudo": [
               {
@@ -7889,7 +7908,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-185",
+            "id": "npnf210-181-184-186",
             "titulo": "CAPÍTULO I.",
             "conteudo": [
               {
@@ -7924,7 +7943,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-186",
+            "id": "npnf210-181-184-187",
             "titulo": "CAPÍTULO II.",
             "conteudo": [
               {
@@ -7967,7 +7986,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-187",
+            "id": "npnf210-181-184-188",
             "titulo": "CAPÍTULO III.",
             "conteudo": [
               {
@@ -8022,7 +8041,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-188",
+            "id": "npnf210-181-184-189",
             "titulo": "CAPÍTULO IV.",
             "conteudo": [
               {
@@ -8045,7 +8064,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-189",
+            "id": "npnf210-181-184-190",
             "titulo": "CAPÍTULO V.",
             "conteudo": [
               {
@@ -8092,7 +8111,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-190",
+            "id": "npnf210-181-184-191",
             "titulo": "CAPÍTULO VI.",
             "conteudo": [
               {
@@ -8123,7 +8142,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-191",
+            "id": "npnf210-181-184-192",
             "titulo": "CAPÍTULO VII.",
             "conteudo": [
               {
@@ -8158,7 +8177,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-192",
+            "id": "npnf210-181-184-193",
             "titulo": "CAPÍTULO VIII.",
             "conteudo": [
               {
@@ -8185,7 +8204,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-193",
+            "id": "npnf210-181-184-194",
             "titulo": "CAPÍTULO IX.",
             "conteudo": [
               {
@@ -8212,7 +8231,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-194",
+            "id": "npnf210-181-184-195",
             "titulo": "CAPÍTULO X.",
             "conteudo": [
               {
@@ -8247,7 +8266,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-195",
+            "id": "npnf210-181-184-196",
             "titulo": "CAPÍTULO XI.",
             "conteudo": [
               {
@@ -8282,7 +8301,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-196",
+            "id": "npnf210-181-184-197",
             "titulo": "CAPÍTULO XII.",
             "conteudo": [
               {
@@ -8313,7 +8332,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-197",
+            "id": "npnf210-181-184-198",
             "titulo": "CAPÍTULO XIII.",
             "conteudo": [
               {
@@ -8352,7 +8371,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-198",
+            "id": "npnf210-181-184-199",
             "titulo": "CAPÍTULO XIV.",
             "conteudo": [
               {
@@ -8399,7 +8418,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-199",
+            "id": "npnf210-181-184-200",
             "titulo": "CAPÍTULO XV.",
             "conteudo": [
               {
@@ -8430,7 +8449,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-200",
+            "id": "npnf210-181-184-201",
             "titulo": "CAPÍTULO XVI.",
             "conteudo": [
               {
@@ -8473,7 +8492,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-201",
+            "id": "npnf210-181-184-202",
             "titulo": "CAPÍTULO XVII.",
             "conteudo": [
               {
@@ -8524,7 +8543,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-202",
+            "id": "npnf210-181-184-203",
             "titulo": "CAPÍTULO XVIII.",
             "conteudo": [
               {
@@ -8555,7 +8574,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-203",
+            "id": "npnf210-181-184-204",
             "titulo": "CAPÍTULO XIX.",
             "conteudo": [
               {
@@ -8602,7 +8621,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-183-204",
+            "id": "npnf210-181-184-205",
             "titulo": "CAPÍTULO XX.",
             "conteudo": [
               {
@@ -8639,11 +8658,11 @@
         ]
       },
       {
-        "id": "npnf210-181-205",
+        "id": "npnf210-181-206",
         "titulo": "LIVRO II.",
         "children": [
           {
-            "id": "npnf210-181-205-206",
+            "id": "npnf210-181-206-207",
             "titulo": "INTRODUÇÃO.",
             "conteudo": [
               {
@@ -8710,7 +8729,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-207",
+            "id": "npnf210-181-206-208",
             "titulo": "CAPÍTULO I.",
             "conteudo": [
               {
@@ -8741,7 +8760,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-208",
+            "id": "npnf210-181-206-209",
             "titulo": "CAPÍTULO II.",
             "conteudo": [
               {
@@ -8804,7 +8823,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-209",
+            "id": "npnf210-181-206-210",
             "titulo": "CAPÍTULO III.",
             "conteudo": [
               {
@@ -8819,7 +8838,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-210",
+            "id": "npnf210-181-206-211",
             "titulo": "CAPÍTULO IV.",
             "conteudo": [
               {
@@ -8850,7 +8869,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-211",
+            "id": "npnf210-181-206-212",
             "titulo": "CAPÍTULO V.",
             "conteudo": [
               {
@@ -8893,7 +8912,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-212",
+            "id": "npnf210-181-206-213",
             "titulo": "CAPÍTULO VI.",
             "conteudo": [
               {
@@ -8924,7 +8943,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-213",
+            "id": "npnf210-181-206-214",
             "titulo": "CAPÍTULO VII.",
             "conteudo": [
               {
@@ -8963,7 +8982,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-214",
+            "id": "npnf210-181-206-215",
             "titulo": "CAPÍTULO VIII.",
             "conteudo": [
               {
@@ -9034,7 +9053,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-215",
+            "id": "npnf210-181-206-216",
             "titulo": "CAPÍTULO IX.",
             "conteudo": [
               {
@@ -9085,7 +9104,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-216",
+            "id": "npnf210-181-206-217",
             "titulo": "CAPÍTULO X.",
             "conteudo": [
               {
@@ -9116,7 +9135,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-217",
+            "id": "npnf210-181-206-218",
             "titulo": "CAPÍTULO XI.",
             "conteudo": [
               {
@@ -9171,7 +9190,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-218",
+            "id": "npnf210-181-206-219",
             "titulo": "CAPÍTULO XII.",
             "conteudo": [
               {
@@ -9214,7 +9233,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-219",
+            "id": "npnf210-181-206-220",
             "titulo": "CAPÍTULO XIII.",
             "conteudo": [
               {
@@ -9285,7 +9304,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-220",
+            "id": "npnf210-181-206-221",
             "titulo": "CAPÍTULO XIV.",
             "conteudo": [
               {
@@ -9320,7 +9339,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-221",
+            "id": "npnf210-181-206-222",
             "titulo": "CAPÍTULO XV.",
             "conteudo": [
               {
@@ -9359,7 +9378,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-205-222",
+            "id": "npnf210-181-206-223",
             "titulo": "CAPÍTULO XVI.",
             "conteudo": [
               {
@@ -9408,11 +9427,11 @@
         ]
       },
       {
-        "id": "npnf210-181-223",
+        "id": "npnf210-181-224",
         "titulo": "LIVRO III.",
         "children": [
           {
-            "id": "npnf210-181-223-224",
+            "id": "npnf210-181-224-225",
             "titulo": "CAPÍTULO I.",
             "conteudo": [
               {
@@ -9447,7 +9466,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-225",
+            "id": "npnf210-181-224-226",
             "titulo": "CAPÍTULO II.",
             "conteudo": [
               {
@@ -9490,7 +9509,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-226",
+            "id": "npnf210-181-224-227",
             "titulo": "CAPÍTULO III.",
             "conteudo": [
               {
@@ -9545,7 +9564,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-227",
+            "id": "npnf210-181-224-228",
             "titulo": "CAPÍTULO IV.",
             "conteudo": [
               {
@@ -9592,7 +9611,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-228",
+            "id": "npnf210-181-224-229",
             "titulo": "CAPÍTULO V.",
             "conteudo": [
               {
@@ -9627,7 +9646,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-229",
+            "id": "npnf210-181-224-230",
             "titulo": "CAPÍTULO VI.",
             "conteudo": [
               {
@@ -9658,7 +9677,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-230",
+            "id": "npnf210-181-224-231",
             "titulo": "CAPÍTULO VII.",
             "conteudo": [
               {
@@ -9701,7 +9720,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-231",
+            "id": "npnf210-181-224-232",
             "titulo": "CAPÍTULO VIII.",
             "conteudo": [
               {
@@ -9732,7 +9751,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-232",
+            "id": "npnf210-181-224-233",
             "titulo": "CAPÍTULO IX.",
             "conteudo": [
               {
@@ -9759,7 +9778,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-233",
+            "id": "npnf210-181-224-234",
             "titulo": "CAPÍTULO X.",
             "conteudo": [
               {
@@ -9822,7 +9841,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-234",
+            "id": "npnf210-181-224-235",
             "titulo": "CAPÍTULO XI.",
             "conteudo": [
               {
@@ -9897,7 +9916,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-235",
+            "id": "npnf210-181-224-236",
             "titulo": "CAPÍTULO XII.",
             "conteudo": [
               {
@@ -9952,7 +9971,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-236",
+            "id": "npnf210-181-224-237",
             "titulo": "CAPÍTULO XIII.",
             "conteudo": [
               {
@@ -9979,7 +9998,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-237",
+            "id": "npnf210-181-224-238",
             "titulo": "CAPÍTULO XIV.",
             "conteudo": [
               {
@@ -10050,7 +10069,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-238",
+            "id": "npnf210-181-224-239",
             "titulo": "CAPÍTULO XV.",
             "conteudo": [
               {
@@ -10085,7 +10104,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-239",
+            "id": "npnf210-181-224-240",
             "titulo": "CAPÍTULO XVI.",
             "conteudo": [
               {
@@ -10128,7 +10147,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-223-240",
+            "id": "npnf210-181-224-241",
             "titulo": "CAPÍTULO XVII.",
             "conteudo": [
               {
@@ -10165,11 +10184,11 @@
         ]
       },
       {
-        "id": "npnf210-181-241",
+        "id": "npnf210-181-242",
         "titulo": "LIVRO IV.",
         "children": [
           {
-            "id": "npnf210-181-241-242",
+            "id": "npnf210-181-242-243",
             "titulo": "CAPÍTULO I.",
             "conteudo": [
               {
@@ -10236,7 +10255,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-241-243",
+            "id": "npnf210-181-242-244",
             "titulo": "CAPÍTULO II.",
             "conteudo": [
               {
@@ -10299,7 +10318,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-241-244",
+            "id": "npnf210-181-242-245",
             "titulo": "CAPÍTULO III.",
             "conteudo": [
               {
@@ -10354,7 +10373,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-241-245",
+            "id": "npnf210-181-242-246",
             "titulo": "CAPÍTULO IV.",
             "conteudo": [
               {
@@ -10405,7 +10424,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-241-246",
+            "id": "npnf210-181-242-247",
             "titulo": "CAPÍTULO V.",
             "conteudo": [
               {
@@ -10476,7 +10495,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-241-247",
+            "id": "npnf210-181-242-248",
             "titulo": "CAPÍTULO VI.",
             "conteudo": [
               {
@@ -10523,7 +10542,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-241-248",
+            "id": "npnf210-181-242-249",
             "titulo": "CAPÍTULO VII.",
             "conteudo": [
               {
@@ -10554,7 +10573,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-241-249",
+            "id": "npnf210-181-242-250",
             "titulo": "CAPÍTULO VIII.",
             "conteudo": [
               {
@@ -10641,7 +10660,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-241-250",
+            "id": "npnf210-181-242-251",
             "titulo": "CAPÍTULO IX.",
             "conteudo": [
               {
@@ -10732,7 +10751,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-241-251",
+            "id": "npnf210-181-242-252",
             "titulo": "CAPÍTULO X.",
             "conteudo": [
               {
@@ -10827,7 +10846,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-241-252",
+            "id": "npnf210-181-242-253",
             "titulo": "CAPÍTULO XI.",
             "conteudo": [
               {
@@ -10914,7 +10933,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-241-253",
+            "id": "npnf210-181-242-254",
             "titulo": "CAPÍTULO XII.",
             "conteudo": [
               {
@@ -10975,11 +10994,11 @@
         ]
       },
       {
-        "id": "npnf210-181-254",
+        "id": "npnf210-181-255",
         "titulo": "LIVRO V.",
         "children": [
           {
-            "id": "npnf210-181-254-255",
+            "id": "npnf210-181-255-256",
             "titulo": "PRÓLOGO.",
             "conteudo": [
               {
@@ -11050,7 +11069,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-256",
+            "id": "npnf210-181-255-257",
             "titulo": "CAPÍTULO I.",
             "conteudo": [
               {
@@ -11105,7 +11124,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-257",
+            "id": "npnf210-181-255-258",
             "titulo": "CAPÍTULO II.",
             "conteudo": [
               {
@@ -11164,7 +11183,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-258",
+            "id": "npnf210-181-255-259",
             "titulo": "CAPÍTULO III.",
             "conteudo": [
               {
@@ -11211,7 +11230,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-259",
+            "id": "npnf210-181-255-260",
             "titulo": "CAPÍTULO IV.",
             "conteudo": [
               {
@@ -11246,7 +11265,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-260",
+            "id": "npnf210-181-255-261",
             "titulo": "CAPÍTULO V.",
             "conteudo": [
               {
@@ -11309,7 +11328,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-261",
+            "id": "npnf210-181-255-262",
             "titulo": "CAPÍTULO VI.",
             "conteudo": [
               {
@@ -11404,7 +11423,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-262",
+            "id": "npnf210-181-255-263",
             "titulo": "CAPÍTULO VII.",
             "conteudo": [
               {
@@ -11459,7 +11478,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-263",
+            "id": "npnf210-181-255-264",
             "titulo": "CAPÍTULO VIII.",
             "conteudo": [
               {
@@ -11534,7 +11553,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-264",
+            "id": "npnf210-181-255-265",
             "titulo": "CAPÍTULO IX.",
             "conteudo": [
               {
@@ -11557,7 +11576,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-265",
+            "id": "npnf210-181-255-266",
             "titulo": "CAPÍTULO X.",
             "conteudo": [
               {
@@ -11628,7 +11647,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-266",
+            "id": "npnf210-181-255-267",
             "titulo": "CAPÍTULO XI.",
             "conteudo": [
               {
@@ -11691,7 +11710,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-267",
+            "id": "npnf210-181-255-268",
             "titulo": "CAPÍTULO XII.",
             "conteudo": [
               {
@@ -11734,7 +11753,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-268",
+            "id": "npnf210-181-255-269",
             "titulo": "CAPÍTULO XIII.",
             "conteudo": [
               {
@@ -11813,7 +11832,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-269",
+            "id": "npnf210-181-255-270",
             "titulo": "CAPÍTULO XIV.",
             "conteudo": [
               {
@@ -11872,7 +11891,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-270",
+            "id": "npnf210-181-255-271",
             "titulo": "CAPÍTULO XV.",
             "conteudo": [
               {
@@ -11907,7 +11926,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-271",
+            "id": "npnf210-181-255-272",
             "titulo": "CAPÍTULO XVI.",
             "conteudo": [
               {
@@ -11998,7 +12017,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-272",
+            "id": "npnf210-181-255-273",
             "titulo": "CAPÍTULO XVII.",
             "conteudo": [
               {
@@ -12053,7 +12072,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-273",
+            "id": "npnf210-181-255-274",
             "titulo": "CAPÍTULO XVIII.",
             "conteudo": [
               {
@@ -12096,7 +12115,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-181-254-274",
+            "id": "npnf210-181-255-275",
             "titulo": "CAPÍTULO XIX.",
             "conteudo": [
               {
@@ -12159,11 +12178,11 @@
     ]
   },
   {
-    "id": "npnf210-275",
+    "id": "npnf210-276",
     "titulo": "SOBRE OS MISTÉRIOS.",
     "children": [
       {
-        "id": "npnf210-275-276",
+        "id": "npnf210-276-277",
         "titulo": "INTRODUÇÃO.",
         "conteudo": [
           {
@@ -12186,7 +12205,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-275-277",
+        "id": "npnf210-276-278",
         "titulo": "O LIVRO SOBRE OS MISTÉRIOS.2049",
         "conteudo": [
           {
@@ -12213,7 +12232,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-275-278",
+        "id": "npnf210-276-279",
         "titulo": "CAPÍTULO II.",
         "conteudo": [
           {
@@ -12236,7 +12255,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-275-279",
+        "id": "npnf210-276-280",
         "titulo": "CAPÍTULO III.",
         "conteudo": [
           {
@@ -12291,7 +12310,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-275-280",
+        "id": "npnf210-276-281",
         "titulo": "CAPÍTULO IV.",
         "conteudo": [
           {
@@ -12330,7 +12349,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-275-281",
+        "id": "npnf210-276-282",
         "titulo": "CAPÍTULO V.",
         "conteudo": [
           {
@@ -12353,7 +12372,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-275-282",
+        "id": "npnf210-276-283",
         "titulo": "CAPÍTULO VI.",
         "conteudo": [
           {
@@ -12384,7 +12403,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-275-283",
+        "id": "npnf210-276-284",
         "titulo": "CAPÍTULO VII.",
         "conteudo": [
           {
@@ -12431,7 +12450,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-275-284",
+        "id": "npnf210-276-285",
         "titulo": "CAPÍTULO VIII.",
         "conteudo": [
           {
@@ -12470,7 +12489,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-275-285",
+        "id": "npnf210-276-286",
         "titulo": "CAPÍTULO IX.",
         "conteudo": [
           {
@@ -12523,11 +12542,11 @@
     ]
   },
   {
-    "id": "npnf210-286",
+    "id": "npnf210-287",
     "titulo": "DOIS LIVROS SOBRE O ARREPENDIMENTO.",
     "children": [
       {
-        "id": "npnf210-286-287",
+        "id": "npnf210-287-288",
         "titulo": "INTRODUÇÃO.",
         "conteudo": [
           {
@@ -12554,11 +12573,11 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-286-288",
+        "id": "npnf210-287-289",
         "titulo": "DOIS LIVROS SOBRE O ARREPENDIMENTO. LIVRO I.",
         "children": [
           {
-            "id": "npnf210-286-288-289",
+            "id": "npnf210-287-289-290",
             "titulo": "CAPÍTULO I.",
             "conteudo": [
               {
@@ -12585,7 +12604,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-290",
+            "id": "npnf210-287-289-291",
             "titulo": "CAPÍTULO II.",
             "conteudo": [
               {
@@ -12616,7 +12635,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-291",
+            "id": "npnf210-287-289-292",
             "titulo": "CAPÍTULO III.",
             "conteudo": [
               {
@@ -12647,7 +12666,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-292",
+            "id": "npnf210-287-289-293",
             "titulo": "CAPÍTULO IV.",
             "conteudo": [
               {
@@ -12682,7 +12701,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-293",
+            "id": "npnf210-287-289-294",
             "titulo": "CAPÍTULO V.",
             "conteudo": [
               {
@@ -12717,7 +12736,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-294",
+            "id": "npnf210-287-289-295",
             "titulo": "CAPÍTULO VI.",
             "conteudo": [
               {
@@ -12740,7 +12759,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-295",
+            "id": "npnf210-287-289-296",
             "titulo": "CAPÍTULO VII.",
             "conteudo": [
               {
@@ -12767,7 +12786,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-296",
+            "id": "npnf210-287-289-297",
             "titulo": "CAPÍTULO VIII.",
             "conteudo": [
               {
@@ -12802,7 +12821,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-297",
+            "id": "npnf210-287-289-298",
             "titulo": "CAPÍTULO IX.",
             "conteudo": [
               {
@@ -12829,7 +12848,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-298",
+            "id": "npnf210-287-289-299",
             "titulo": "CAPÍTULO X.",
             "conteudo": [
               {
@@ -12856,7 +12875,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-299",
+            "id": "npnf210-287-289-300",
             "titulo": "CAPÍTULO XI.",
             "conteudo": [
               {
@@ -12887,7 +12906,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-300",
+            "id": "npnf210-287-289-301",
             "titulo": "CAPÍTULO XII.",
             "conteudo": [
               {
@@ -12918,7 +12937,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-301",
+            "id": "npnf210-287-289-302",
             "titulo": "CAPÍTULO XIII.",
             "conteudo": [
               {
@@ -12965,7 +12984,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-302",
+            "id": "npnf210-287-289-303",
             "titulo": "CAPÍTULO XIV.",
             "conteudo": [
               {
@@ -13016,7 +13035,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-303",
+            "id": "npnf210-287-289-304",
             "titulo": "CAPÍTULO XV.",
             "conteudo": [
               {
@@ -13063,7 +13082,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-304",
+            "id": "npnf210-287-289-305",
             "titulo": "CAPÍTULO XVI.",
             "conteudo": [
               {
@@ -13094,7 +13113,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-288-305",
+            "id": "npnf210-287-289-306",
             "titulo": "CAPÍTULO XVII.",
             "conteudo": [
               {
@@ -13127,11 +13146,11 @@
         ]
       },
       {
-        "id": "npnf210-286-306",
+        "id": "npnf210-287-307",
         "titulo": "LIVRO II.",
         "children": [
           {
-            "id": "npnf210-286-306-307",
+            "id": "npnf210-287-307-308",
             "titulo": "CAPÍTULO I.",
             "conteudo": [
               {
@@ -13162,7 +13181,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-306-308",
+            "id": "npnf210-287-307-309",
             "titulo": "CAPÍTULO II.",
             "conteudo": [
               {
@@ -13197,7 +13216,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-306-309",
+            "id": "npnf210-287-307-310",
             "titulo": "CAPÍTULO III.",
             "conteudo": [
               {
@@ -13236,7 +13255,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-306-310",
+            "id": "npnf210-287-307-311",
             "titulo": "CAPÍTULO IV.",
             "conteudo": [
               {
@@ -13283,7 +13302,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-306-311",
+            "id": "npnf210-287-307-312",
             "titulo": "CAPÍTULO V.",
             "conteudo": [
               {
@@ -13354,7 +13373,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-306-312",
+            "id": "npnf210-287-307-313",
             "titulo": "CAPÍTULO VI.",
             "conteudo": [
               {
@@ -13413,7 +13432,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-306-313",
+            "id": "npnf210-287-307-314",
             "titulo": "CAPÍTULO VII.",
             "conteudo": [
               {
@@ -13480,7 +13499,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-306-314",
+            "id": "npnf210-287-307-315",
             "titulo": "CAPÍTULO VIII.",
             "conteudo": [
               {
@@ -13547,7 +13566,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-306-315",
+            "id": "npnf210-287-307-316",
             "titulo": "CAPÍTULO IX.",
             "conteudo": [
               {
@@ -13602,7 +13621,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-306-316",
+            "id": "npnf210-287-307-317",
             "titulo": "CAPÍTULO X.",
             "conteudo": [
               {
@@ -13641,7 +13660,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-286-306-317",
+            "id": "npnf210-287-307-318",
             "titulo": "CAPÍTULO XI.",
             "conteudo": [
               {
@@ -13736,11 +13755,11 @@
     ]
   },
   {
-    "id": "npnf210-318",
-    "titulo": "SOBRE VIRGENS.",
+    "id": "npnf210-319",
+    "titulo": "VIRGENS SOBRES.",
     "children": [
       {
-        "id": "npnf210-318-319",
+        "id": "npnf210-319-320",
         "titulo": "INTRODUÇÃO.",
         "conteudo": [
           {
@@ -13779,11 +13798,11 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-318-320",
+        "id": "npnf210-319-321",
         "titulo": "TRÊS LIVROS SOBRE VIRGENS Para Marcellina, sua irmã.",
         "children": [
           {
-            "id": "npnf210-318-320-321",
+            "id": "npnf210-319-321-322",
             "titulo": "CAPÍTULO I.",
             "conteudo": [
               {
@@ -13810,7 +13829,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-320-322",
+            "id": "npnf210-319-321-323",
             "titulo": "CAPÍTULO II.",
             "conteudo": [
               {
@@ -13841,7 +13860,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-320-323",
+            "id": "npnf210-319-321-324",
             "titulo": "CAPÍTULO III.",
             "conteudo": [
               {
@@ -13868,7 +13887,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-320-324",
+            "id": "npnf210-319-321-325",
             "titulo": "CAPÍTULO IV.",
             "conteudo": [
               {
@@ -13903,7 +13922,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-320-325",
+            "id": "npnf210-319-321-326",
             "titulo": "CAPÍTULO V.",
             "conteudo": [
               {
@@ -13930,7 +13949,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-320-326",
+            "id": "npnf210-319-321-327",
             "titulo": "CAPÍTULO VI.",
             "conteudo": [
               {
@@ -13973,7 +13992,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-320-327",
+            "id": "npnf210-319-321-328",
             "titulo": "CAPÍTULO VII.",
             "conteudo": [
               {
@@ -14016,7 +14035,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-320-328",
+            "id": "npnf210-319-321-329",
             "titulo": "CAPÍTULO VIII.",
             "conteudo": [
               {
@@ -14043,7 +14062,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-320-329",
+            "id": "npnf210-319-321-330",
             "titulo": "CAPÍTULO IX.",
             "conteudo": [
               {
@@ -14094,7 +14113,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-320-330",
+            "id": "npnf210-319-321-331",
             "titulo": "CAPÍTULO X.",
             "conteudo": [
               {
@@ -14121,7 +14140,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-320-331",
+            "id": "npnf210-319-321-332",
             "titulo": "CAPÍTULO XI.",
             "conteudo": [
               {
@@ -14152,7 +14171,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-320-332",
+            "id": "npnf210-319-321-333",
             "titulo": "CAPÍTULO XII.",
             "conteudo": [
               {
@@ -14185,11 +14204,11 @@
         ]
       },
       {
-        "id": "npnf210-318-333",
+        "id": "npnf210-319-334",
         "titulo": "LIVRO II.",
         "children": [
           {
-            "id": "npnf210-318-333-334",
+            "id": "npnf210-319-334-335",
             "titulo": "CAPÍTULO I.",
             "conteudo": [
               {
@@ -14220,7 +14239,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-333-335",
+            "id": "npnf210-319-334-336",
             "titulo": "CAPÍTULO II.",
             "conteudo": [
               {
@@ -14283,7 +14302,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-333-336",
+            "id": "npnf210-319-334-337",
             "titulo": "CAPÍTULO III.",
             "conteudo": [
               {
@@ -14306,7 +14325,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-333-337",
+            "id": "npnf210-319-334-338",
             "titulo": "CAPÍTULO IV.",
             "conteudo": [
               {
@@ -14365,7 +14384,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-333-338",
+            "id": "npnf210-319-334-339",
             "titulo": "CAPÍTULO V.",
             "conteudo": [
               {
@@ -14396,7 +14415,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-333-339",
+            "id": "npnf210-319-334-340",
             "titulo": "CAPÍTULO VI.",
             "conteudo": [
               {
@@ -14429,11 +14448,11 @@
         ]
       },
       {
-        "id": "npnf210-318-340",
+        "id": "npnf210-319-341",
         "titulo": "LIVRO III.",
         "children": [
           {
-            "id": "npnf210-318-340-341",
+            "id": "npnf210-319-341-342",
             "titulo": "CAPÍTULO I.",
             "conteudo": [
               {
@@ -14460,7 +14479,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-340-342",
+            "id": "npnf210-319-341-343",
             "titulo": "CAPÍTULO II.",
             "conteudo": [
               {
@@ -14487,7 +14506,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-340-343",
+            "id": "npnf210-319-341-344",
             "titulo": "CAPÍTULO III.",
             "conteudo": [
               {
@@ -14522,7 +14541,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-340-344",
+            "id": "npnf210-319-341-345",
             "titulo": "CAPÍTULO IV.",
             "conteudo": [
               {
@@ -14557,7 +14576,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-340-345",
+            "id": "npnf210-319-341-346",
             "titulo": "CAPÍTULO V.",
             "conteudo": [
               {
@@ -14588,7 +14607,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-340-346",
+            "id": "npnf210-319-341-347",
             "titulo": "CAPÍTULO VI.",
             "conteudo": [
               {
@@ -14623,7 +14642,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf210-318-340-347",
+            "id": "npnf210-319-341-348",
             "titulo": "CAPÍTULO VII.",
             "conteudo": [
               {
@@ -14666,11 +14685,11 @@
     ]
   },
   {
-    "id": "npnf210-348",
+    "id": "npnf210-349",
     "titulo": "SOBRE VIÚVAS.",
     "children": [
       {
-        "id": "npnf210-348-349",
+        "id": "npnf210-349-350",
         "titulo": "INTRODUÇÃO.",
         "conteudo": [
           {
@@ -14689,8 +14708,8 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-348-350",
-        "titulo": "THE TREATISE CONCERNING WIDOWS.",
+        "id": "npnf210-349-351",
+        "titulo": "O TRATADO SOBRE AS VIÚVAS.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -14724,7 +14743,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-348-351",
+        "id": "npnf210-349-352",
         "titulo": "CAPÍTULO II.",
         "conteudo": [
           {
@@ -14763,7 +14782,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-348-352",
+        "id": "npnf210-349-353",
         "titulo": "CAPÍTULO III.",
         "conteudo": [
           {
@@ -14798,7 +14817,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-348-353",
+        "id": "npnf210-349-354",
         "titulo": "CAPÍTULO IV.",
         "conteudo": [
           {
@@ -14833,7 +14852,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-348-354",
+        "id": "npnf210-349-355",
         "titulo": "CAPÍTULO V.",
         "conteudo": [
           {
@@ -14864,7 +14883,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-348-355",
+        "id": "npnf210-349-356",
         "titulo": "CAPÍTULO VI.",
         "conteudo": [
           {
@@ -14891,7 +14910,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-348-356",
+        "id": "npnf210-349-357",
         "titulo": "CAPÍTULO VII.",
         "conteudo": [
           {
@@ -14926,7 +14945,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-348-357",
+        "id": "npnf210-349-358",
         "titulo": "CAPÍTULO VIII.",
         "conteudo": [
           {
@@ -14969,7 +14988,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-348-358",
+        "id": "npnf210-349-359",
         "titulo": "CAPÍTULO IX.",
         "conteudo": [
           {
@@ -15008,7 +15027,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-348-359",
+        "id": "npnf210-349-360",
         "titulo": "CAPÍTULO X.",
         "conteudo": [
           {
@@ -15047,7 +15066,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-348-360",
+        "id": "npnf210-349-361",
         "titulo": "CAPÍTULO XI.",
         "conteudo": [
           {
@@ -15078,7 +15097,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-348-361",
+        "id": "npnf210-349-362",
         "titulo": "CAPÍTULO XII.",
         "conteudo": [
           {
@@ -15101,7 +15120,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-348-362",
+        "id": "npnf210-349-363",
         "titulo": "CAPÍTULO XIII.",
         "conteudo": [
           {
@@ -15140,7 +15159,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-348-363",
+        "id": "npnf210-349-364",
         "titulo": "CAPÍTULO XIV.",
         "conteudo": [
           {
@@ -15167,7 +15186,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-348-364",
+        "id": "npnf210-349-365",
         "titulo": "CAPÍTULO XV.",
         "conteudo": [
           {
@@ -15200,11 +15219,11 @@
     ]
   },
   {
-    "id": "npnf210-365",
+    "id": "npnf210-366",
     "titulo": "NOTA SOBRE AS LETRAS DE ST. AMBRÓS.",
     "children": [
       {
-        "id": "npnf210-365-366",
+        "id": "npnf210-366-367",
         "titulo": "SELEÇÕES DAS LETRAS DE ST. AMBRÓS.",
         "conteudo": [
           {
@@ -15231,7 +15250,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-365-367",
+        "id": "npnf210-366-368",
         "titulo": "EPÍSTOLA XVII.",
         "conteudo": [
           {
@@ -15322,7 +15341,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-365-368",
+        "id": "npnf210-366-369",
         "titulo": "O MEMORIAL DE SYMMACHUS, PREFEITO DA CIDADE.",
         "conteudo": [
           {
@@ -15405,7 +15424,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-365-369",
+        "id": "npnf210-366-370",
         "titulo": "EPÍSTOLA XVIII.",
         "conteudo": [
           {
@@ -15576,7 +15595,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-365-370",
+        "id": "npnf210-366-371",
         "titulo": "EPÍSTOLA XX.",
         "conteudo": [
           {
@@ -15699,7 +15718,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-365-371",
+        "id": "npnf210-366-372",
         "titulo": "CARTA XXI.",
         "conteudo": [
           {
@@ -15794,7 +15813,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-365-372",
+        "id": "npnf210-366-373",
         "titulo": "SERMÃO CONTRA AUXENTIUS SOBRE A DESISTÊNCIA DAS BASÍLICAS.",
         "conteudo": [
           {
@@ -15953,7 +15972,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-365-373",
+        "id": "npnf210-366-374",
         "titulo": "CARTA XXII.",
         "conteudo": [
           {
@@ -16056,7 +16075,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-365-374",
+        "id": "npnf210-366-375",
         "titulo": "CARTA XL.",
         "conteudo": [
           {
@@ -16203,7 +16222,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-365-375",
+        "id": "npnf210-366-376",
         "titulo": "CARTA XLI.",
         "conteudo": [
           {
@@ -16322,7 +16341,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-365-376",
+        "id": "npnf210-366-377",
         "titulo": "CARTA LI.",
         "conteudo": [
           {
@@ -16401,7 +16420,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-365-377",
+        "id": "npnf210-366-378",
         "titulo": "CARTA LVII.",
         "conteudo": [
           {
@@ -16464,7 +16483,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-365-378",
+        "id": "npnf210-366-379",
         "titulo": "CARTA LXI.",
         "conteudo": [
           {
@@ -16507,7 +16526,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-365-379",
+        "id": "npnf210-366-380",
         "titulo": "CARTA LXII.",
         "conteudo": [
           {
@@ -16538,7 +16557,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf210-365-380",
+        "id": "npnf210-366-381",
         "titulo": "EPÍSTOLA LXIII.",
         "conteudo": [
           {

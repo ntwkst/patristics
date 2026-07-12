@@ -1,10 +1,10 @@
 [
   {
-    "id": "anf09-4",
+    "id": "anf09-5",
     "titulo": "O EVANGELHO DE PEDRO. pelo PROFESSOR J. ARMITAGE ROBINSON.",
     "children": [
       {
-        "id": "anf09-4-5",
+        "id": "anf09-5-6",
         "titulo": "O Evangelho de Pedro.",
         "conteudo": [
           {
@@ -195,7 +195,7 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-4-6",
+        "id": "anf09-5-7",
         "titulo": "O Evangelho Segundo Pedro.2",
         "conteudo": [
           {
@@ -258,7 +258,7 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-4-7",
+        "id": "anf09-5-8",
         "titulo": "TABELA SINÓPTICA DOS QUATRO EVANGELHOS CANÔNICOS e DO EVANGELHO SEGUNDO PEDRO",
         "conteudo": [
           {
@@ -1419,11 +1419,11 @@
     ]
   },
   {
-    "id": "anf09-8",
+    "id": "anf09-9",
     "titulo": "O DIATESSARON DE TATIAN Por REV. ESPERANÇA W. HOGG, BD.",
     "children": [
       {
-        "id": "anf09-8-9",
+        "id": "anf09-9-10",
         "titulo": "Introdução.",
         "conteudo": [
           {
@@ -1530,11 +1530,34 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-8-10",
+        "id": "anf09-9-11",
+        "titulo": "Introductory Notes.",
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "1. In the Borgian Ms."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "In the name of the one God, the Father, and the Son, and the Holy Spirit, to him be the glory forever. We shall begin, with the help of God most high, the writing of the pure gospel, the blooming garden, called Diatessaron (a word meaning “fourfold”), the work compiled by Titianus the Greek out of the four evangelists—Matthew the elect, whose symbol is M, Mark the chosen, whose symbol is R, Luke the approved, whose symbol is K, and John the beloved, whose symbol is H. The work was translated from Syriac into Arabic by the excellent and learned priest Abu’l Faraj ‘Abdulla ibn-at-Tayyib,70 may God grant him his favour. He began with the first of71 And he said: The Beginning72 of the Gospel of Jesus the Son of the living God. John:73 In the beginning, etc."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "2. In the Vatican ms."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "In the name of the Father, and the Son, and the Holy Spirit, giver of life, the God that is one in substance in his essence, and three in persons in his attributes. The first of his Gospel is He began the first of his Gospel with Mark. And he said: The Beginning74 of the Gospel of Jesus the Son of the living God. John: In the beginning, etc."
+          }
+        ],
+        "idioma": "en"
+      },
+      {
+        "id": "anf09-9-12",
         "titulo": "O Texto do Diatessaron.",
         "children": [
           {
-            "id": "anf09-8-10-11",
+            "id": "anf09-9-12-13",
             "titulo": "Seção I",
             "conteudo": [
               {
@@ -1741,7 +1764,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-12",
+            "id": "anf09-9-12-14",
             "titulo": "Seção II.",
             "conteudo": [
               {
@@ -1824,7 +1847,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-13",
+            "id": "anf09-9-12-15",
             "titulo": "Seção III.",
             "conteudo": [
               {
@@ -1927,7 +1950,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-14",
+            "id": "anf09-9-12-16",
             "titulo": "Seção IV.",
             "conteudo": [
               {
@@ -1974,7 +1997,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-15",
+            "id": "anf09-9-12-17",
             "titulo": "Seção V.",
             "conteudo": [
               {
@@ -2041,7 +2064,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-16",
+            "id": "anf09-9-12-18",
             "titulo": "Seção VI.",
             "conteudo": [
               {
@@ -2112,7 +2135,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-17",
+            "id": "anf09-9-12-19",
             "titulo": "Seção VII.",
             "conteudo": [
               {
@@ -2139,7 +2162,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-18",
+            "id": "anf09-9-12-20",
             "titulo": "Seção VIII.",
             "conteudo": [
               {
@@ -2270,7 +2293,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-19",
+            "id": "anf09-9-12-21",
             "titulo": "Seção IX.",
             "conteudo": [
               {
@@ -2305,7 +2328,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-20",
+            "id": "anf09-9-12-22",
             "titulo": "Seção X.",
             "conteudo": [
               {
@@ -2340,7 +2363,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-21",
+            "id": "anf09-9-12-23",
             "titulo": "Seção XI.",
             "conteudo": [
               {
@@ -2375,7 +2398,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-22",
+            "id": "anf09-9-12-24",
             "titulo": "Seção XII.",
             "conteudo": [
               {
@@ -2414,7 +2437,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-23",
+            "id": "anf09-9-12-25",
             "titulo": "Seção XIII.",
             "conteudo": [
               {
@@ -2457,7 +2480,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-24",
+            "id": "anf09-9-12-26",
             "titulo": "Seção XIV.",
             "conteudo": [
               {
@@ -2488,7 +2511,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-25",
+            "id": "anf09-9-12-27",
             "titulo": "Seção XV.",
             "conteudo": [
               {
@@ -2523,7 +2546,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-26",
+            "id": "anf09-9-12-28",
             "titulo": "Seção XVI.",
             "conteudo": [
               {
@@ -2598,7 +2621,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-27",
+            "id": "anf09-9-12-29",
             "titulo": "Seção XVII.",
             "conteudo": [
               {
@@ -2661,7 +2684,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-28",
+            "id": "anf09-9-12-30",
             "titulo": "Seção XVIII.",
             "conteudo": [
               {
@@ -2684,7 +2707,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-29",
+            "id": "anf09-9-12-31",
             "titulo": "Seção XIX.",
             "conteudo": [
               {
@@ -2711,7 +2734,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-30",
+            "id": "anf09-9-12-32",
             "titulo": "Seção XX.",
             "conteudo": [
               {
@@ -2774,7 +2797,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-31",
+            "id": "anf09-9-12-33",
             "titulo": "Seção XXI.",
             "conteudo": [
               {
@@ -2801,7 +2824,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-32",
+            "id": "anf09-9-12-34",
             "titulo": "Seção XXII.",
             "conteudo": [
               {
@@ -2828,7 +2851,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-33",
+            "id": "anf09-9-12-35",
             "titulo": "Seção XXIII.",
             "conteudo": [
               {
@@ -2863,7 +2886,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-34",
+            "id": "anf09-9-12-36",
             "titulo": "Seção XXIV.",
             "conteudo": [
               {
@@ -2898,7 +2921,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-35",
+            "id": "anf09-9-12-37",
             "titulo": "Seção XXV.",
             "conteudo": [
               {
@@ -2929,7 +2952,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-36",
+            "id": "anf09-9-12-38",
             "titulo": "Seção XXVI.",
             "conteudo": [
               {
@@ -2952,7 +2975,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-37",
+            "id": "anf09-9-12-39",
             "titulo": "Seção XXVII.",
             "conteudo": [
               {
@@ -2975,7 +2998,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-38",
+            "id": "anf09-9-12-40",
             "titulo": "Seção XXVIII.1932",
             "conteudo": [
               {
@@ -3006,7 +3029,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-39",
+            "id": "anf09-9-12-41",
             "titulo": "Seção XXIX.",
             "conteudo": [
               {
@@ -3033,7 +3056,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-40",
+            "id": "anf09-9-12-42",
             "titulo": "Seção XXX.",
             "conteudo": [
               {
@@ -3064,7 +3087,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-41",
+            "id": "anf09-9-12-43",
             "titulo": "Seção XXXI.",
             "conteudo": [
               {
@@ -3087,7 +3110,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-42",
+            "id": "anf09-9-12-44",
             "titulo": "Seção XXXII.",
             "conteudo": [
               {
@@ -3114,7 +3137,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-43",
+            "id": "anf09-9-12-45",
             "titulo": "Seção XXXIII.",
             "conteudo": [
               {
@@ -3161,7 +3184,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-44",
+            "id": "anf09-9-12-46",
             "titulo": "Seção XXXIV.",
             "conteudo": [
               {
@@ -3188,7 +3211,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-45",
+            "id": "anf09-9-12-47",
             "titulo": "Seção XXXV.",
             "conteudo": [
               {
@@ -3231,7 +3254,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-46",
+            "id": "anf09-9-12-48",
             "titulo": "Seção XXXVI.",
             "conteudo": [
               {
@@ -3270,7 +3293,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-47",
+            "id": "anf09-9-12-49",
             "titulo": "Seção XXXVII.",
             "conteudo": [
               {
@@ -3313,7 +3336,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-48",
+            "id": "anf09-9-12-50",
             "titulo": "Seção XXXVIII.",
             "conteudo": [
               {
@@ -3360,7 +3383,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-49",
+            "id": "anf09-9-12-51",
             "titulo": "Seção XXXIX.",
             "conteudo": [
               {
@@ -3391,7 +3414,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-50",
+            "id": "anf09-9-12-52",
             "titulo": "Seção XL.",
             "conteudo": [
               {
@@ -3474,7 +3497,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-51",
+            "id": "anf09-9-12-53",
             "titulo": "Seção XLI.",
             "conteudo": [
               {
@@ -3525,7 +3548,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-52",
+            "id": "anf09-9-12-54",
             "titulo": "Seção XLII.",
             "conteudo": [
               {
@@ -3568,7 +3591,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-53",
+            "id": "anf09-9-12-55",
             "titulo": "Seção XLIII.",
             "conteudo": [
               {
@@ -3611,7 +3634,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-54",
+            "id": "anf09-9-12-56",
             "titulo": "Seção XLIV.",
             "conteudo": [
               {
@@ -3670,7 +3693,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-55",
+            "id": "anf09-9-12-57",
             "titulo": "Seção XLV.",
             "conteudo": [
               {
@@ -3705,7 +3728,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-56",
+            "id": "anf09-9-12-58",
             "titulo": "Seção XLVI.",
             "conteudo": [
               {
@@ -3740,7 +3763,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-57",
+            "id": "anf09-9-12-59",
             "titulo": "Seção XLVII.",
             "conteudo": [
               {
@@ -3771,7 +3794,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-58",
+            "id": "anf09-9-12-60",
             "titulo": "Seção XLVIII.",
             "conteudo": [
               {
@@ -3810,7 +3833,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-59",
+            "id": "anf09-9-12-61",
             "titulo": "Seção XLIX.",
             "conteudo": [
               {
@@ -3857,7 +3880,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-60",
+            "id": "anf09-9-12-62",
             "titulo": "Seção L.",
             "conteudo": [
               {
@@ -3920,7 +3943,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-61",
+            "id": "anf09-9-12-63",
             "titulo": "Seção LI.",
             "conteudo": [
               {
@@ -3975,7 +3998,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-62",
+            "id": "anf09-9-12-64",
             "titulo": "Seção LII.",
             "conteudo": [
               {
@@ -4038,7 +4061,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-63",
+            "id": "anf09-9-12-65",
             "titulo": "Seção LIII.3703",
             "conteudo": [
               {
@@ -4093,7 +4116,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-64",
+            "id": "anf09-9-12-66",
             "titulo": "Seção LIV.",
             "conteudo": [
               {
@@ -4136,7 +4159,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-65",
+            "id": "anf09-9-12-67",
             "titulo": "Seção LV.",
             "conteudo": [
               {
@@ -4167,7 +4190,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-8-10-66",
+            "id": "anf09-9-12-68",
             "titulo": "Assinaturas.",
             "conteudo": [
               {
@@ -4194,11 +4217,11 @@
     ]
   },
   {
-    "id": "anf09-67",
+    "id": "anf09-69",
     "titulo": "O APOCALIPSE DE PETER VISIO PAULI APOCALIPSE DE MARIA VIRGEM APOCALIPSE SEDRACH",
     "children": [
       {
-        "id": "anf09-67-68",
+        "id": "anf09-69-70",
         "titulo": "A Revelação de Pedro.",
         "conteudo": [
           {
@@ -4281,7 +4304,7 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-67-69",
+        "id": "anf09-69-71",
         "titulo": "O Apocalipse de Pedro.",
         "conteudo": [
           {
@@ -4364,7 +4387,7 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-67-70",
+        "id": "anf09-69-72",
         "titulo": "Fragmentos do Apocalipse de Pedro.",
         "conteudo": [
           {
@@ -4393,11 +4416,11 @@
     ]
   },
   {
-    "id": "anf09-71",
+    "id": "anf09-73",
     "titulo": "A Visão de Paulo.",
     "children": [
       {
-        "id": "anf09-71-72",
+        "id": "anf09-73-74",
         "titulo": "Introdução.",
         "conteudo": [
           {
@@ -4436,7 +4459,7 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-71-73",
+        "id": "anf09-73-75",
         "titulo": "A Visão de Paulo.",
         "conteudo": [
           {
@@ -4721,11 +4744,11 @@
     ]
   },
   {
-    "id": "anf09-74",
-    "titulo": "The Apocalypse of the Virgin.",
+    "id": "anf09-76",
+    "titulo": "O Apocalipse da Virgem.",
     "children": [
       {
-        "id": "anf09-74-75",
+        "id": "anf09-76-77",
         "titulo": "Introdução.",
         "conteudo": [
           {
@@ -4736,7 +4759,7 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-74-76",
+        "id": "anf09-76-78",
         "titulo": "O Apocalipse da Santa Mãe de Deus sobre os castigos.",
         "conteudo": [
           {
@@ -4865,11 +4888,11 @@
     ]
   },
   {
-    "id": "anf09-77",
-    "titulo": "The Apocalypse of Sedrach.",
+    "id": "anf09-79",
+    "titulo": "O Apocalipse de Sedrach.",
     "children": [
       {
-        "id": "anf09-77-78",
+        "id": "anf09-79-80",
         "titulo": "Introdução.",
         "conteudo": [
           {
@@ -4888,8 +4911,8 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-77-79",
-        "titulo": "The Apocalypse of Sedrach.",
+        "id": "anf09-79-81",
+        "titulo": "O Apocalipse de Sedrach.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -4969,11 +4992,11 @@
     ]
   },
   {
-    "id": "anf09-80",
+    "id": "anf09-82",
     "titulo": "OS ATOS DE XANTIPA E POLIXENA, A NARRATIVA DE ZÓSIMO.",
     "children": [
       {
-        "id": "anf09-80-81",
+        "id": "anf09-82-83",
         "titulo": "The Testament of Abraham.",
         "conteudo": [
           {
@@ -5000,7 +5023,7 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-80-82",
+        "id": "anf09-82-84",
         "titulo": "The Testament of Abraham.",
         "conteudo": [
           {
@@ -5087,7 +5110,7 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-80-83",
+        "id": "anf09-82-85",
         "titulo": "Versão II.",
         "conteudo": [
           {
@@ -5156,11 +5179,11 @@
     ]
   },
   {
-    "id": "anf09-84",
+    "id": "anf09-86",
     "titulo": "Os Atos de Xantipa e Políxena.",
     "children": [
       {
-        "id": "anf09-84-85",
+        "id": "anf09-86-87",
         "titulo": "Introdução.",
         "conteudo": [
           {
@@ -5183,7 +5206,7 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-84-86",
+        "id": "anf09-86-88",
         "titulo": "Vida e Conduta das Santas Mulheres, Xanthippe, Polyxena e Rebecca.",
         "conteudo": [
           {
@@ -5384,11 +5407,11 @@
     ]
   },
   {
-    "id": "anf09-87",
+    "id": "anf09-89",
     "titulo": "A Narrativa de Zózimo.",
     "children": [
       {
-        "id": "anf09-87-88",
+        "id": "anf09-89-90",
         "titulo": "Introdução.",
         "conteudo": [
           {
@@ -5415,8 +5438,8 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-87-89",
-        "titulo": "A narrativa de Zózimo sobre a vida dos bem-aventurados.",
+        "id": "anf09-89-91",
+        "titulo": "Uma narrativa de Zózimo sobre a vida dos bem-aventurados.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5512,11 +5535,38 @@
     ]
   },
   {
-    "id": "anf09-90",
+    "id": "anf09-92",
     "titulo": "AS EPÍSTOLAS DE CLEMENTE.",
     "children": [
       {
-        "id": "anf09-90-91",
+        "id": "anf09-92-93",
+        "titulo": "Aviso introdutório ao 1º Clemente.",
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "From Vol. I. of the Ante-Nicene Fathers."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The first Epistle, bearing the name of Clement, has been preserved to us in a single manuscript only. Though very frequently referred to by ancient Christian writers, it remained unknown to the scholars of Western Europe until happily discovered in the Alexandrian manuscript. This ms. of the sacred Scriptures (known and generally referred to as Codex A) was presented in 1628 by Cyril, Patriarch of Constantinople, to Charles I., and is now preserved in the British Museum. Subjoined to the books of the New Testament contained in it, there are two writings described as the Epistles of one Clement. Of these, that now before us is the first. It is tolerably perfect, but there are many slight lacunæ, or gaps, in the ms., and one whole leaf is supposed to have been lost towards the close. These lacunæ, however, so numerous in some chapters, do not generally extend beyond a word or syllable, and can for the most part be easily supplied."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Who the Clement was to whom these writings are ascribed, cannot with absolute certainty be determined. The general opinion is, that he is the same as the person of that name referred to by St. Paul (Phil. iv. 3). The writings themselves contain no statement as to their author. The first, and by far the longer of them, simply purports to have been written in the name of the church at Rome to the church at Corinth. But in the catalogue of contents prefixed to the ms. they are both plainly attributed to one Clement; and the judgment of most scholars is, that, in regard to the first epistle at least, this statement is correct, and that it is to be regarded as an authentic production of the friend and fellow worker of St. Paul. This belief may be traced to an early period in the history of the church. It is found in the writings of Eusebius (Hist. Eccl., iii. 15), of Origen (Comm. in Joan., i. 29), and others. The internal evidence also tends to support this opinion. The doctrine, style, and manner of thought are all in accordance with it; so that, although, as has been said, positive certainty cannot be reached on the subject, we may with great probability conclude that we have in this epistle a composition of that Clement who is known to us from Scripture as having been an associate of the great apostle."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The date of this epistle has been the subject of considerable controversy. It is clear from the writing itself that it was composed soon after some persecution (chap. i.) which the Roman church had endured; and the only question is, whether we are to fix upon the persecution under Nero or Domitian. If the former, the date will be about the year 68; if the latter, we must place it towards the close of the first century or the beginning of the second. We possess no external aid to the settlement of this question. The lists of early Roman bishops are in hopeless confusion, some making Clement the immediate successor of St. Peter, others placing Linus, and others still Linus and Anacletus, between him and the apostle. The internal evidence, again, leaves the matter doubtful, though it has been strongly pressed on both sides. The probability seems, on the whole, to be in favour of the Domitian period, so that the epistle may be dated about a.d. 97."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "This epistle was held in very great esteem by the early church. The account given of it by Eusebius (Hist. Eccl., iii. 16) is as follows: “There is one acknowledged epistle of this Clement (whom he has just identified with the friend of St. Paul), great and admirable, which he wrote in the name of the church of Rome to the church at Corinth, sedition having then arisen in the latter church. We are aware that this epistle has been publicly read in very many churches, both in old times and also in our own day.” The epistle before us thus appears to have been read in numerous churches, as being almost on a level with the canonical writings. And its place in the Alexandrian ms., immediately after the inspired books, is in harmony with the position thus assigned it in the primitive church. There does indeed appear a great difference between it and the inspired writings in many respects, such as the fanciful use sometimes made of Old Testament statements, the fabulous stories which are accepted by its author, and the general diffuseness and feebleness of style by which it is distinguished. But the high tone of evangelical truth which pervades it, the simple and earnest appeals which it makes to the heart and conscience, and the anxiety which its writer so constantly shows to promote the best interests of the church of Christ, still impart an undying charm to this precious relic of later apostolic times."
+          }
+        ],
+        "idioma": "en"
+      },
+      {
+        "id": "anf09-92-94",
         "titulo": "Introdução Adicional.",
         "conteudo": [
           {
@@ -5563,11 +5613,11 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-90-92",
+        "id": "anf09-92-95",
         "titulo": "A Primeira Epístola de Clemente aos Coríntios. 3998",
         "children": [
           {
-            "id": "anf09-90-92-93",
+            "id": "anf09-92-95-96",
             "titulo": "Capítulo I. — A Saudação. Louvor dos Coríntios antes do surgimento do cisma entre eles.",
             "conteudo": [
               {
@@ -5582,7 +5632,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-94",
+            "id": "anf09-92-95-97",
             "titulo": "Capítulo II. — Continuação do louvor aos coríntios.",
             "conteudo": [
               {
@@ -5593,7 +5643,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-95",
+            "id": "anf09-92-95-98",
             "titulo": "Capítulo III. - O triste estado da Igreja de Corinto depois que a sedição surgiu dela por inveja e emulação.",
             "conteudo": [
               {
@@ -5604,8 +5654,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-96",
-            "titulo": "Capítulo IV. — Muitos males já fluíram desta fonte nos tempos antigos.",
+            "id": "anf09-92-95-99",
+            "titulo": "Capítulo IV. — Muitos homens já fluíram desta fonte nos tempos antigos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5615,7 +5665,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-97",
+            "id": "anf09-92-95-100",
             "titulo": "Capítulo V. — Não menos males surgiram da mesma fonte nos tempos mais recentes. O Martírio de Pedro e Paulo.",
             "conteudo": [
               {
@@ -5626,8 +5676,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-98",
-            "titulo": "Capítulo VI.—Continuação. Vários outros mártires.",
+            "id": "anf09-92-95-101",
+            "titulo": "Capítulo VI.—Continuação. outros mártires.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5637,7 +5687,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-99",
+            "id": "anf09-92-95-102",
             "titulo": "Capítulo VII. — Uma exortação ao arrependimento.",
             "conteudo": [
               {
@@ -5648,7 +5698,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-100",
+            "id": "anf09-92-95-103",
             "titulo": "Capítulo VIII.—Continuação a respeito do arrependimento.",
             "conteudo": [
               {
@@ -5659,8 +5709,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-101",
-            "titulo": "Capítulo IX. — Exemplos dos Santos.",
+            "id": "anf09-92-95-104",
+            "titulo": "Capítulo IX. —Exemplos dos Santos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5670,7 +5720,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-102",
+            "id": "anf09-92-95-105",
             "titulo": "Capítulo X.—Continuação do acima.",
             "conteudo": [
               {
@@ -5681,7 +5731,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-103",
+            "id": "anf09-92-95-106",
             "titulo": "Capítulo XI.—Continuação. Muito.",
             "conteudo": [
               {
@@ -5692,7 +5742,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-104",
+            "id": "anf09-92-95-107",
             "titulo": "Capítulo XII. — As recompensas da fé e da hospitalidade. Raabe.",
             "conteudo": [
               {
@@ -5703,7 +5753,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-105",
+            "id": "anf09-92-95-108",
             "titulo": "Capítulo XIII. — Uma Exortação à Humildade.",
             "conteudo": [
               {
@@ -5714,8 +5764,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-106",
-            "titulo": "Capítulo XIV. - Devemos obedecer a Deus em vez dos autores da sedição.",
+            "id": "anf09-92-95-109",
+            "titulo": "Capítulo XIV. - devemos obedecer a Deus em vez dos autores da sedição.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5725,8 +5775,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-107",
-            "titulo": "Capítulo XV. — Devemos aderir àqueles que cultivam a paz, não àqueles que apenas fingem fazê-lo.",
+            "id": "anf09-92-95-110",
+            "titulo": "Capítulo XV. — desenvolvemos projetos que cultivam a paz, não planejamos que apenas fingem fazê-lo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5736,7 +5786,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-108",
+            "id": "anf09-92-95-111",
             "titulo": "Capítulo XVI. - Cristo como exemplo de humildade.",
             "conteudo": [
               {
@@ -5747,7 +5797,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-109",
+            "id": "anf09-92-95-112",
             "titulo": "Capítulo XVII. — Os santos como exemplos de humildade.",
             "conteudo": [
               {
@@ -5758,7 +5808,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-110",
+            "id": "anf09-92-95-113",
             "titulo": "Capítulo XVIII. — David como exemplo de humildade.",
             "conteudo": [
               {
@@ -5769,8 +5819,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-111",
-            "titulo": "Capítulo XIX. — Imitando esses exemplos, busquemos a paz.",
+            "id": "anf09-92-95-114",
+            "titulo": "Capítulo XIX. — Imitando esses exemplos, procuramos a paz.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5780,7 +5830,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-112",
+            "id": "anf09-92-95-115",
             "titulo": "Capítulo XX. — A Paz e a Harmonia do Universo.",
             "conteudo": [
               {
@@ -5791,7 +5841,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-113",
+            "id": "anf09-92-95-116",
             "titulo": "Capítulo XXI. — Obedeçamos a Deus, e não aos autores da sedição.",
             "conteudo": [
               {
@@ -5802,8 +5852,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-114",
-            "titulo": "Capítulo XXII. - Essas exortações são confirmadas pela fé cristã, que proclama a miséria da conduta pecaminosa.",
+            "id": "anf09-92-95-117",
+            "titulo": "Capítulo XXII. - Essas exortações são confirmadas pela fé cristã, que proclamam a miséria da conduta pecaminosa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5813,7 +5863,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-115",
+            "id": "anf09-92-95-118",
             "titulo": "Capítulo XXIII. — Seja humilde e acredite que Cristo voltará.",
             "conteudo": [
               {
@@ -5824,8 +5874,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-116",
-            "titulo": "Capítulo XXIV. - Deus nos mostra continuamente na natureza que haverá uma ressurreição.",
+            "id": "anf09-92-95-119",
+            "titulo": "Capítulo XXIV. - Deus nos mostra continuamente na natureza que há uma ressurreição.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5835,7 +5885,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-117",
+            "id": "anf09-92-95-120",
             "titulo": "Capítulo XXV. — A Fênix, um Emblema de Nossa Ressurreição.",
             "conteudo": [
               {
@@ -5846,8 +5896,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-118",
-            "titulo": "Capítulo XXVI. - Ressuscitaremos, então, como também testificam as Escrituras.",
+            "id": "anf09-92-95-121",
+            "titulo": "Capítulo XXVI. - Ressuscitaremos, então, como também testificamos as Escrituras.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5857,7 +5907,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-119",
+            "id": "anf09-92-95-122",
             "titulo": "Capítulo XXVII. — Na esperança da ressurreição, apeguemo-nos ao Deus Onipotente e Onisciente.",
             "conteudo": [
               {
@@ -5868,7 +5918,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-120",
+            "id": "anf09-92-95-123",
             "titulo": "Capítulo XXVIII. — Deus vê todas as coisas: portanto evitemos a transgressão.",
             "conteudo": [
               {
@@ -5879,7 +5929,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-121",
+            "id": "anf09-92-95-124",
             "titulo": "Capítulo XXIX. — Aproximemo-nos também de Deus com pureza de coração.",
             "conteudo": [
               {
@@ -5890,7 +5940,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-122",
+            "id": "anf09-92-95-125",
             "titulo": "Capítulo XXX. — Façamos as coisas que agradam a Deus e fujamos daqueles que ele odeia, para que possamos ser abençoados.",
             "conteudo": [
               {
@@ -5901,8 +5951,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-123",
-            "titulo": "Capítulo XXXI. — Vejamos por que meios podemos obter a bênção divina.",
+            "id": "anf09-92-95-126",
+            "titulo": "Capítulo XXXI. — Vejamos por que meios podemos obter a vitória divina.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5912,7 +5962,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-124",
+            "id": "anf09-92-95-127",
             "titulo": "Capítulo XXXII. — Não somos justificados pelas nossas próprias obras, mas pela fé.",
             "conteudo": [
               {
@@ -5923,7 +5973,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-125",
+            "id": "anf09-92-95-128",
             "titulo": "Capítulo XXXIII. — Mas não abandonemos a prática das boas obras e do amor.",
             "conteudo": [
               {
@@ -5934,8 +5984,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-126",
-            "titulo": "Capítulo XXXIV. — Grande é a recompensa das boas obras de Deus. Unidos em Harmonia, Imploremos Dele essa Recompensa.",
+            "id": "anf09-92-95-129",
+            "titulo": "Capítulo XXXIV. — Grande é a recompensa das boas obras de Deus. Unidos em Harmonia, Imploraremos Dele essa Recompensa.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5945,7 +5995,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-127",
+            "id": "anf09-92-95-130",
             "titulo": "Capítulo XXXV. — Imensa é esta recompensa. Como devemos obtê-lo?",
             "conteudo": [
               {
@@ -5956,8 +6006,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-128",
-            "titulo": "Capítulo XXXVI. — Todas as bênçãos nos são dadas por meio de Cristo.",
+            "id": "anf09-92-95-131",
+            "titulo": "Capítulo XXXVI. — Todas as vitórias nos são dadas por meio de Cristo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5967,7 +6017,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-129",
+            "id": "anf09-92-95-132",
             "titulo": "Capítulo XXXVII. - Cristo é nosso líder e nós, seus soldados.",
             "conteudo": [
               {
@@ -5978,7 +6028,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-130",
+            "id": "anf09-92-95-133",
             "titulo": "Capítulo XXXVIII. — Que os membros da Igreja se submetam e ninguém se exalte acima dos outros.",
             "conteudo": [
               {
@@ -5989,7 +6039,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-131",
+            "id": "anf09-92-95-134",
             "titulo": "Capítulo XXXIX. - Não há razão para presunção.",
             "conteudo": [
               {
@@ -6000,7 +6050,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-132",
+            "id": "anf09-92-95-135",
             "titulo": "Capítulo XL. — Preservamos na Igreja a ordem designada por Deus.",
             "conteudo": [
               {
@@ -6011,7 +6061,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-133",
+            "id": "anf09-92-95-136",
             "titulo": "Capítulo XLI.—Continuação do mesmo assunto.",
             "conteudo": [
               {
@@ -6022,7 +6072,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-134",
+            "id": "anf09-92-95-137",
             "titulo": "Capítulo XLII. — A Ordem dos Ministros na Igreja.",
             "conteudo": [
               {
@@ -6033,7 +6083,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-135",
+            "id": "anf09-92-95-138",
             "titulo": "Capítulo XLIII. - Moisés da antiguidade acalmou a disputa que surgiu a respeito da dignidade sacerdotal.",
             "conteudo": [
               {
@@ -6044,7 +6094,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-136",
+            "id": "anf09-92-95-139",
             "titulo": "Capítulo XLIV. - As ordenanças dos apóstolos, para que não haja discórdia a respeito do ofício sacerdotal.",
             "conteudo": [
               {
@@ -6055,7 +6105,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-137",
+            "id": "anf09-92-95-140",
             "titulo": "Capítulo XLV. - Cabe aos ímpios irritar os justos.",
             "conteudo": [
               {
@@ -6066,7 +6116,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-138",
+            "id": "anf09-92-95-141",
             "titulo": "Capítulo XLVI. - Apeguemo-nos aos justos: sua luta é perniciosa.",
             "conteudo": [
               {
@@ -6077,7 +6127,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-139",
+            "id": "anf09-92-95-142",
             "titulo": "Capítulo XLVII. - Sua discórdia recente é pior do que a anterior que ocorreu nos tempos de Paulo.",
             "conteudo": [
               {
@@ -6088,8 +6138,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-140",
-            "titulo": "Capítulo XLVIII. — Voltemos à prática do amor fraternal.",
+            "id": "anf09-92-95-143",
+            "titulo": "Capítulo XLVIII. — Voltemos à prática do amor fraterno.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6099,7 +6149,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-141",
+            "id": "anf09-92-95-144",
             "titulo": "Capítulo XLIX — O Louvor do Amor.",
             "conteudo": [
               {
@@ -6110,7 +6160,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-142",
+            "id": "anf09-92-95-145",
             "titulo": "Capítulo L. — Oremos para sermos considerados dignos de amor.",
             "conteudo": [
               {
@@ -6121,7 +6171,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-143",
+            "id": "anf09-92-95-146",
             "titulo": "Capítulo LI. - Que os participantes da luta reconheçam seus pecados.",
             "conteudo": [
               {
@@ -6132,7 +6182,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-144",
+            "id": "anf09-92-95-147",
             "titulo": "Capítulo LII. - Tal confissão agrada a Deus.",
             "conteudo": [
               {
@@ -6143,7 +6193,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-145",
+            "id": "anf09-92-95-148",
             "titulo": "Capítulo LIII. - O amor de Moisés por seu povo.",
             "conteudo": [
               {
@@ -6154,8 +6204,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-146",
-            "titulo": "Capítulo LIV. - Aquele que é cheio de amor sofrerá todas as perdas, para que a paz possa ser restaurada à Igreja.",
+            "id": "anf09-92-95-149",
+            "titulo": "Capítulo LIV. - Aquele que está cheio de amor sofrerá todas as perdas, para que a paz possa ser restaurada na Igreja.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6165,7 +6215,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-147",
+            "id": "anf09-92-95-150",
             "titulo": "Capítulo LV. — Exemplos desse amor.",
             "conteudo": [
               {
@@ -6176,7 +6226,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-148",
+            "id": "anf09-92-95-151",
             "titulo": "Capítulo LVI. - Admoestemos e corrijamos uns aos outros.",
             "conteudo": [
               {
@@ -6187,7 +6237,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-149",
+            "id": "anf09-92-95-152",
             "titulo": "Capítulo LVII.—Que os autores da sedição se submetam.",
             "conteudo": [
               {
@@ -6198,7 +6248,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-150",
+            "id": "anf09-92-95-153",
             "titulo": "Capítulo LVIII. — A Submissão, Precursora da Salvação.",
             "conteudo": [
               {
@@ -6209,7 +6259,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-151",
+            "id": "anf09-92-95-154",
             "titulo": "Capítulo LIX. — Advertência contra a desobediência. Oração.",
             "conteudo": [
               {
@@ -6220,7 +6270,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-152",
+            "id": "anf09-92-95-155",
             "titulo": "Capítulo LX. - Continuação da oração.",
             "conteudo": [
               {
@@ -6231,7 +6281,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-153",
+            "id": "anf09-92-95-156",
             "titulo": "Capítulo LXI. — Continuação da oração — Para governantes e governadores. Conclusão.",
             "conteudo": [
               {
@@ -6242,7 +6292,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-154",
+            "id": "anf09-92-95-157",
             "titulo": "Capítulo LXII. — Resumo e conclusão — A respeito da piedade.",
             "conteudo": [
               {
@@ -6253,7 +6303,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-155",
+            "id": "anf09-92-95-158",
             "titulo": "Capítulo LXIII.—Exortatório, Carta Enviada por Mensageiros Especiais.",
             "conteudo": [
               {
@@ -6264,8 +6314,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-156",
-            "titulo": "Capítulo LXIV. — Bênçãos buscadas por todos que invocam a Deus.",
+            "id": "anf09-92-95-159",
+            "titulo": "Capítulo LXIV. — Bênções buscadas por todos que invocam a Deus.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6275,7 +6325,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-92-157",
+            "id": "anf09-92-95-160",
             "titulo": "Capítulo LXV. - Os coríntios são exortados a enviar rapidamente a notícia de que a paz foi restaurada. A Bênção.",
             "conteudo": [
               {
@@ -6288,12 +6338,35 @@
         ]
       },
       {
-        "id": "anf09-90-158",
+        "id": "anf09-92-161",
+        "titulo": "Introductory Notice.",
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "From Vol. VII., p. 515 of the Ante-Nicene Fathers."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The first certain reference which is made by any early writer to this so-called Epistle of Clement is found in these words of Eusebius (Hist. Eccl., iii. 38): “We must know that there is also a second Epistle of Clement. But we do not regard it as being equally notable with the former, since we know of none of the ancients that have made use of it.” Several critics in modern times have endeavoured to vindicate the authenticity of this epistle. But it is now generally regarded. as one of the many writings which have been falsely ascribed to Clement. Besides the want of external evidence, indicated even by Eusebius in the above extract, the diversity of style clearly points to a different writer from that of the first epistle. A commonly accepted opinion among critics at the present day is, that this is not an epistle at all, but a fragment of one of the many homilies falsely ascribed to Clement. There can be no doubt, however, that in the catalogue of writings contained in the Alexandrian ms. it is both styled an epistle, and, as well as the other which accompanies it, is attributed to Clement. As the ms. is certainly not later than the fifth century, the opinion referred to must by that time have taken firm root in the Church; but in the face of internal evidence, and in want of all earlier testimony, such a fact goes but a small way to establish its authenticity."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The second epistle differs from the first in several respects. The range of Scriptural quotation is wider, the quotations of the first epistle being taken mainly from the Septuagint version of the Old Testament. The attitude of the writer is in accordance with this fact; it is distinctively Gentile. For example, Chapter XII. contains a report of words purporting to have been spoken by the Lord; these, Clemens Alexandrinus states, are taken from the Apocryphal Gospel according to the Egyptians, not now extant. The reference in Chapter XIV. to the spiritual church, recalling Eph. i. 3–5, is parallel to the Pastor of Hermas, Vision II. 4. These passages help to determine the date; for the quotation from the Apocryphal Gospel would not have been made after the four gospels of the New Testament obtained exclusive authority—toward the close of the second century; while similarity of idea and exposition would seem to make the second epistle and the Pastor of Hermas somewhat contemporaneous."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The conclusion of the second epistle, as in the recently discovered ms., goes to establish the speculation made before this ms. was discovered, that it is a homily to be read in churches."
+          }
+        ],
+        "idioma": "en"
+      },
+      {
+        "id": "anf09-92-162",
         "titulo": "A Segunda Epístola de Clemente. 4328",
         "children": [
           {
-            "id": "anf09-90-158-159",
-            "titulo": "Capítulo I. - Devemos pensar bem em Cristo.",
+            "id": "anf09-92-162-163",
+            "titulo": "Capítulo I. - devemos pensar bem em Cristo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6303,7 +6376,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-160",
+            "id": "anf09-92-162-164",
             "titulo": "Capítulo II. - A Igreja, Anteriormente Estéril, Agora é Frutífera.",
             "conteudo": [
               {
@@ -6314,7 +6387,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-161",
+            "id": "anf09-92-162-165",
             "titulo": "III.—O dever de confessar a Cristo.",
             "conteudo": [
               {
@@ -6325,7 +6398,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-162",
+            "id": "anf09-92-162-166",
             "titulo": "Capítulo IV. - Verdadeira Confissão de Cristo.",
             "conteudo": [
               {
@@ -6336,7 +6409,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-163",
+            "id": "anf09-92-162-167",
             "titulo": "Capítulo V. — Este mundo deve ser desprezado.",
             "conteudo": [
               {
@@ -6347,8 +6420,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-164",
-            "titulo": "Capítulo VI.—Os mundos presente e futuro são inimigos um do outro.",
+            "id": "anf09-92-162-168",
+            "titulo": "Capítulo VI.—Os mundos presentes e futuros são inimigos do outro.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6358,8 +6431,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-165",
-            "titulo": "Capítulo VII. — Devemos nos esforçar para sermos coroados.",
+            "id": "anf09-92-162-169",
+            "titulo": "Capítulo VII. — nos esforçamos para sermos coroados.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6369,7 +6442,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-166",
+            "id": "anf09-92-162-170",
             "titulo": "Capítulo VIII. — A necessidade de arrependimento enquanto estamos na Terra.",
             "conteudo": [
               {
@@ -6380,7 +6453,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-167",
+            "id": "anf09-92-162-171",
             "titulo": "Capítulo IX. — Seremos julgados na carne.",
             "conteudo": [
               {
@@ -6391,8 +6464,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-168",
-            "titulo": "Capítulo X. — O vício deve ser abandonado e a virtude seguida.",
+            "id": "anf09-92-162-172",
+            "titulo": "Capítulo X. — O vínculo deve ser abandonado e a virtude seguida.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6402,7 +6475,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-169",
+            "id": "anf09-92-162-173",
             "titulo": "Capítulo XI. — Devemos servir a Deus, confiando em Suas promessas.",
             "conteudo": [
               {
@@ -6413,8 +6486,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-170",
-            "titulo": "Capítulo XII. — Devemos buscar constantemente o Reino de Deus.",
+            "id": "anf09-92-162-174",
+            "titulo": "Capítulo XII. — devemos buscar constantemente o Reino de Deus.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6424,7 +6497,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-171",
+            "id": "anf09-92-162-175",
             "titulo": "Capítulo XIII. — O nome de Deus não deve ser blasfemado.",
             "conteudo": [
               {
@@ -6435,8 +6508,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-172",
-            "titulo": "Capítulo XIV. — A Igreja Espiritual.",
+            "id": "anf09-92-162-176",
+            "titulo": "Capítulo XIV. — Uma Igreja Espiritual.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6446,7 +6519,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-173",
+            "id": "anf09-92-162-177",
             "titulo": "Capítulo XV. — Aquele que salva e aquele que é salvo.",
             "conteudo": [
               {
@@ -6457,7 +6530,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-174",
+            "id": "anf09-92-162-178",
             "titulo": "Capítulo XVI.—Preparação para o Dia do Juízo.",
             "conteudo": [
               {
@@ -6468,7 +6541,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-175",
+            "id": "anf09-92-162-179",
             "titulo": "Capítulo XVII. — Continuação do mesmo assunto.",
             "conteudo": [
               {
@@ -6479,8 +6552,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-176",
-            "titulo": "Capítulo XVIII. - O autor pecador, mas perseguidor.",
+            "id": "anf09-92-162-180",
+            "titulo": "Capítulo XVIII. - Ó autor pecador, mas perseguidor.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6490,8 +6563,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-177",
-            "titulo": "Capítulo XIX. — Recompensa dos justos, embora possam sofrer.",
+            "id": "anf09-92-162-181",
+            "titulo": "Capítulo XIX. — Recompensa dos justos, embora possa sofrer.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6501,8 +6574,8 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-90-158-178",
-            "titulo": "Capítulo XX. — Piedade, não ganho, as verdadeiras riquezas.",
+            "id": "anf09-92-162-182",
+            "titulo": "Capítulo XX. — Piedade, não ganho, como verdadeiras riquezas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6520,12 +6593,12 @@
     ]
   },
   {
-    "id": "anf09-179",
+    "id": "anf09-183",
     "titulo": "A DESCULPA DE ARISTIDES, O FILÓSOFO",
     "children": [
       {
-        "id": "anf09-179-180",
-        "titulo": "A Apologia de Aristides.",
+        "id": "anf09-183-184",
+        "titulo": "Apologia de Aristides.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -6603,7 +6676,7 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-179-181",
+        "id": "anf09-183-185",
         "titulo": "A Apologia de Aristides tal como está preservada na história de Barlaão e Josafá. Traduzido do grego.",
         "conteudo": [
           {
@@ -6842,7 +6915,7 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-179-182",
+        "id": "anf09-183-186",
         "titulo": "A Apologia de Aristides, o Filósofo.",
         "conteudo": [
           {
@@ -7075,11 +7148,11 @@
     ]
   },
   {
-    "id": "anf09-183",
+    "id": "anf09-187",
     "titulo": "A PAIXÃO DOS MÁRTIRES SCILITANOS. por ANDREW RUTHERFORD, B.D.",
     "children": [
       {
-        "id": "anf09-183-184",
+        "id": "anf09-187-188",
         "titulo": "A Paixão dos Mártires Scillitanos.",
         "conteudo": [
           {
@@ -7094,7 +7167,7 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-183-185",
+        "id": "anf09-187-189",
         "titulo": "A Paixão dos Mártires Scillitanos.",
         "conteudo": [
           {
@@ -7215,11 +7288,11 @@
     ]
   },
   {
-    "id": "anf09-186",
+    "id": "anf09-190",
     "titulo": "EPÍSTOLA A GREGÓRIO E COMENTÁRIO DE ORIGENES SOBRE O EVANGELHO DE JOÃO.",
     "children": [
       {
-        "id": "anf09-186-187",
+        "id": "anf09-190-191",
         "titulo": "Comentários de Orígenes.",
         "conteudo": [
           {
@@ -7278,11 +7351,11 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-186-188",
+        "id": "anf09-190-192",
         "titulo": "Carta de Orígenes a Gregório.",
         "children": [
           {
-            "id": "anf09-186-188-189",
+            "id": "anf09-190-192-193",
             "titulo": "—",
             "conteudo": [
               {
@@ -7297,7 +7370,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-186-188-190",
+            "id": "anf09-190-192-194",
             "titulo": "2. Este procedimento é tipificado pela história da destruição dos egípcios.",
             "conteudo": [
               {
@@ -7308,7 +7381,7 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-186-188-191",
+            "id": "anf09-190-192-195",
             "titulo": "3. Apelo Pessoal.",
             "conteudo": [
               {
@@ -7321,15 +7394,15 @@
         ]
       },
       {
-        "id": "anf09-186-192",
+        "id": "anf09-190-196",
         "titulo": "Comentário de Orígenes ao Evangelho de João.",
         "children": [
           {
-            "id": "anf09-186-192-193",
+            "id": "anf09-190-196-197",
             "titulo": "Livro I.",
             "children": [
               {
-                "id": "anf09-186-192-193-194",
+                "id": "anf09-190-196-197-198",
                 "titulo": "1. Como os cristãos são o Israel Espiritual.",
                 "conteudo": [
                   {
@@ -7340,8 +7413,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-195",
-                "titulo": "2. Os 144.000 selados no Apocalipse são convertidos a Cristo vindos do mundo gentio.",
+                "id": "anf09-190-196-197-199",
+                "titulo": "2. Os 144.000 selados no Apocalipse são convertidos em Cristo vindos do mundo gentio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7351,7 +7424,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-196",
+                "id": "anf09-190-196-197-200",
                 "titulo": "3. No Israel Espiritual, os sumos sacerdotes são aqueles que se dedicam ao estudo das Escrituras.",
                 "conteudo": [
                   {
@@ -7362,7 +7435,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-197",
+                "id": "anf09-190-196-197-201",
                 "titulo": "4. O estudo dos Evangelhos são as primícias oferecidas por estes sacerdotes do cristianismo.",
                 "conteudo": [
                   {
@@ -7373,7 +7446,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-198",
+                "id": "anf09-190-196-197-202",
                 "titulo": "5. Toda Escritura é Evangelho; Mas os Evangelhos são Distinguidos Acima de Outras Escrituras.",
                 "conteudo": [
                   {
@@ -7384,8 +7457,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-199",
-                "titulo": "6. O Quádruplo Evangelho. João são as primícias dos quatro. Qualificações necessárias para interpretá-lo.",
+                "id": "anf09-190-196-197-203",
+                "titulo": "6. O Quádruplo Evangelho. João são as primícias dos quatro. Qualificações permitidas para interpretá-lo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7395,7 +7468,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-200",
+                "id": "anf09-190-196-197-204",
                 "titulo": "7. Que coisas boas são anunciadas nos Evangelhos.",
                 "conteudo": [
                   {
@@ -7406,7 +7479,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-201",
+                "id": "anf09-190-196-197-205",
                 "titulo": "8. Como os Evangelhos fazem com que os outros livros das Escrituras também sejam evangelhos.",
                 "conteudo": [
                   {
@@ -7417,7 +7490,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-202",
+                "id": "anf09-190-196-197-206",
                 "titulo": "9. O Evangelho Somático e o Evangelho Espiritual.",
                 "conteudo": [
                   {
@@ -7428,7 +7501,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-203",
+                "id": "anf09-190-196-197-207",
                 "titulo": "10. Como o próprio Jesus é o Evangelho.",
                 "conteudo": [
                   {
@@ -7443,7 +7516,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-204",
+                "id": "anf09-190-196-197-208",
                 "titulo": "11. Jesus é todas as coisas boas; Portanto, o Evangelho é múltiplo.",
                 "conteudo": [
                   {
@@ -7454,8 +7527,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-205",
-                "titulo": "12. O Evangelho também contém as más ações que foram cometidas contra Jesus.",
+                "id": "anf09-190-196-197-209",
+                "titulo": "12. O Evangelho também contém as mais ações que foram cometidas contra Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7465,7 +7538,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-206",
+                "id": "anf09-190-196-197-210",
                 "titulo": "13. Os anjos também são evangelistas.",
                 "conteudo": [
                   {
@@ -7476,7 +7549,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-207",
+                "id": "anf09-190-196-197-211",
                 "titulo": "14. O Antigo Testamento, tipificado por João, é o início do Evangelho.",
                 "conteudo": [
                   {
@@ -7487,8 +7560,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-208",
-                "titulo": "15. O Evangelho está no Antigo Testamento e, na verdade, em todo o Universo. Oração por ajuda para compreender o sentido místico do trabalho em questão.",
+                "id": "anf09-190-196-197-212",
+                "titulo": "15. O Evangelho está no Antigo Testamento e, na verdade, em todo o Universo. Oração de ajuda para compreender o sentido místico do trabalho em questão.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7498,8 +7571,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-209",
-                "titulo": "16. Significado de “Início”. (1) no Espaço.",
+                "id": "anf09-190-196-197-213",
+                "titulo": "16. Significado de “Início”. (1) sem Espaço.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7509,8 +7582,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-210",
-                "titulo": "17. (2) no Tempo. O Começo da Criação.",
+                "id": "anf09-190-196-197-214",
+                "titulo": "17. (2) sem Tempo. O Começo da Criação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7520,7 +7593,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-211",
+                "id": "anf09-190-196-197-215",
                 "titulo": "18. (3) da Substância.",
                 "conteudo": [
                   {
@@ -7531,7 +7604,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-212",
+                "id": "anf09-190-196-197-216",
                 "titulo": "19. (4) de Tipo e Cópia.",
                 "conteudo": [
                   {
@@ -7542,7 +7615,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-213",
+                "id": "anf09-190-196-197-217",
                 "titulo": "20. (5) dos elementos e o que é formado a partir deles.",
                 "conteudo": [
                   {
@@ -7553,7 +7626,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-214",
+                "id": "anf09-190-196-197-218",
                 "titulo": "21. (6) de Projeto e Execução.",
                 "conteudo": [
                   {
@@ -7564,7 +7637,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-215",
+                "id": "anf09-190-196-197-219",
                 "titulo": "22. A Palavra estava no princípio, isto é, na sabedoria, que continha todas as coisas em ideia, antes de existirem. O caráter de Cristo como sabedoria é anterior a seus outros personagens.",
                 "conteudo": [
                   {
@@ -7575,7 +7648,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-216",
+                "id": "anf09-190-196-197-220",
                 "titulo": "23. O título “Palavra” deve ser interpretado pelo mesmo método que os outros títulos de Cristo. A Palavra de Deus não é um mero atributo de Deus, mas uma pessoa separada. O que significa quando Ele é chamado de Palavra.",
                 "conteudo": [
                   {
@@ -7586,7 +7659,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-217",
+                "id": "anf09-190-196-197-221",
                 "titulo": "24. Cristo como Luz; Como Ele e como Seus Discípulos são a Luz do Mundo.",
                 "conteudo": [
                   {
@@ -7597,7 +7670,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-218",
+                "id": "anf09-190-196-197-222",
                 "titulo": "25. Cristo como a Ressurreição.",
                 "conteudo": [
                   {
@@ -7608,7 +7681,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-219",
+                "id": "anf09-190-196-197-223",
                 "titulo": "26. Cristo como Caminho.",
                 "conteudo": [
                   {
@@ -7619,7 +7692,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-220",
+                "id": "anf09-190-196-197-224",
                 "titulo": "27. Cristo como a Verdade.",
                 "conteudo": [
                   {
@@ -7630,7 +7703,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-221",
+                "id": "anf09-190-196-197-225",
                 "titulo": "28. Cristo como Vida.",
                 "conteudo": [
                   {
@@ -7641,7 +7714,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-222",
+                "id": "anf09-190-196-197-226",
                 "titulo": "29. Cristo como Porta e como Pastor.",
                 "conteudo": [
                   {
@@ -7652,7 +7725,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-223",
+                "id": "anf09-190-196-197-227",
                 "titulo": "30. Cristo como Ungido (Cristo) e como Rei.",
                 "conteudo": [
                   {
@@ -7663,7 +7736,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-224",
+                "id": "anf09-190-196-197-228",
                 "titulo": "31. Cristo como Mestre e Mestre.",
                 "conteudo": [
                   {
@@ -7674,7 +7747,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-225",
+                "id": "anf09-190-196-197-229",
                 "titulo": "32. Cristo como Filho.",
                 "conteudo": [
                   {
@@ -7685,7 +7758,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-226",
+                "id": "anf09-190-196-197-230",
                 "titulo": "33. Cristo, a Videira Verdadeira, e como Pão.",
                 "conteudo": [
                   {
@@ -7696,7 +7769,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-227",
+                "id": "anf09-190-196-197-231",
                 "titulo": "34. Cristo como o Primeiro e o Último; Ele também é o que está entre eles.",
                 "conteudo": [
                   {
@@ -7707,7 +7780,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-228",
+                "id": "anf09-190-196-197-232",
                 "titulo": "35. Cristo como o Vivo e o Morto.",
                 "conteudo": [
                   {
@@ -7718,7 +7791,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-229",
+                "id": "anf09-190-196-197-233",
                 "titulo": "36. Cristo como espada.",
                 "conteudo": [
                   {
@@ -7729,7 +7802,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-230",
+                "id": "anf09-190-196-197-234",
                 "titulo": "37. Cristo como Servo, como Cordeiro de Deus e como o Homem que João Não Conheceu.",
                 "conteudo": [
                   {
@@ -7740,7 +7813,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-231",
+                "id": "anf09-190-196-197-235",
                 "titulo": "38. Cristo como Paráclito, como Propiciação e como Poder de Deus.",
                 "conteudo": [
                   {
@@ -7751,7 +7824,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-232",
+                "id": "anf09-190-196-197-236",
                 "titulo": "39. Cristo como Sabedoria, Santificação e Redenção.",
                 "conteudo": [
                   {
@@ -7762,7 +7835,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-233",
+                "id": "anf09-190-196-197-237",
                 "titulo": "40. Cristo como Justiça; Como Demiurgo, Agente do Bom Deus e como Sumo Sacerdote.",
                 "conteudo": [
                   {
@@ -7777,7 +7850,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-234",
+                "id": "anf09-190-196-197-238",
                 "titulo": "41. Cristo como a Vara, a Flor, a Pedra.",
                 "conteudo": [
                   {
@@ -7788,7 +7861,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-193-235",
+                "id": "anf09-190-196-197-239",
                 "titulo": "42. Das várias maneiras pelas quais Cristo é o Logos.",
                 "conteudo": [
                   {
@@ -7805,11 +7878,11 @@
             ]
           },
           {
-            "id": "anf09-186-192-236",
+            "id": "anf09-190-196-240",
             "titulo": "Livro II.",
             "children": [
               {
-                "id": "anf09-186-192-236-237",
+                "id": "anf09-190-196-240-241",
                 "titulo": "1. “E o Verbo estava com Deus, e o Verbo era Deus.”",
                 "conteudo": [
                   {
@@ -7820,7 +7893,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-238",
+                "id": "anf09-190-196-240-242",
                 "titulo": "2. De que maneira o Logos é Deus. Erros a serem evitados nesta questão.",
                 "conteudo": [
                   {
@@ -7831,7 +7904,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-239",
+                "id": "anf09-190-196-240-243",
                 "titulo": "3. Várias Relações do Logos com os Homens.",
                 "conteudo": [
                   {
@@ -7842,7 +7915,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-240",
+                "id": "anf09-190-196-240-244",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -7857,7 +7930,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-241",
+                "id": "anf09-190-196-240-245",
                 "titulo": "5. Ele (este) estava no princípio com Deus.",
                 "conteudo": [
                   {
@@ -7872,7 +7945,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-242",
+                "id": "anf09-190-196-240-246",
                 "titulo": "6. Como a Palavra é o Criador de todas as coisas, e até mesmo o Espírito Santo foi feito através dele.",
                 "conteudo": [
                   {
@@ -7887,7 +7960,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-243",
+                "id": "anf09-190-196-240-247",
                 "titulo": "7. Das Coisas Não Feitas Através do Logos.",
                 "conteudo": [
                   {
@@ -7898,7 +7971,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-244",
+                "id": "anf09-190-196-240-248",
                 "titulo": "8. A visão de Herácleo de que o Logos não é o agente da criação.",
                 "conteudo": [
                   {
@@ -7909,7 +7982,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-245",
+                "id": "anf09-190-196-240-249",
                 "titulo": "9. Que o Logos Presente em Nós Não é Responsável pelos Nossos Pecados.",
                 "conteudo": [
                   {
@@ -7920,7 +7993,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-246",
+                "id": "anf09-190-196-240-250",
                 "titulo": "10. “Aquilo que foi feito era vida nele, e a vida era a luz dos homens.” Isto envolve o paradoxo de que aquilo que não deriva vida do Logos não vive de forma alguma.",
                 "conteudo": [
                   {
@@ -7931,7 +8004,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-247",
+                "id": "anf09-190-196-240-251",
                 "titulo": "11. Como ninguém é justo ou pode realmente ser dito que vive em comparação com Deus.",
                 "conteudo": [
                   {
@@ -7942,7 +8015,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-248",
+                "id": "anf09-190-196-240-252",
                 "titulo": "12. O Salvador é tudo o que é para todos?",
                 "conteudo": [
                   {
@@ -7953,7 +8026,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-249",
+                "id": "anf09-190-196-240-253",
                 "titulo": "13. Como a vida no Logos surge depois do princípio.",
                 "conteudo": [
                   {
@@ -7964,7 +8037,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-250",
+                "id": "anf09-190-196-240-254",
                 "titulo": "14. Como as naturezas dos homens não são tão fixas desde o início, mas podem passar das trevas para a luz.",
                 "conteudo": [
                   {
@@ -7975,7 +8048,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-251",
+                "id": "anf09-190-196-240-255",
                 "titulo": "15. A visão de Herácleo de que o Senhor trouxe vida apenas ao espiritual. Refutação disto.",
                 "conteudo": [
                   {
@@ -7986,7 +8059,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-252",
+                "id": "anf09-190-196-240-256",
                 "titulo": "16. A vida também pode ser a luz dos outros.",
                 "conteudo": [
                   {
@@ -7997,7 +8070,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-253",
+                "id": "anf09-190-196-240-257",
                 "titulo": "17. Os Poderes Superiores são os Homens; E Cristo também é a luz deles.",
                 "conteudo": [
                   {
@@ -8008,8 +8081,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-254",
-                "titulo": "18. Como Deus também é luz, mas de uma maneira diferente; E como a vida surgiu antes da luz.",
+                "id": "anf09-190-196-240-258",
+                "titulo": "18. Como Deus também é luz, mas de uma maneira diferente; É como a vida surgiu antes da luz.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8019,7 +8092,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-255",
+                "id": "anf09-190-196-240-259",
                 "titulo": "19. A Vida aqui mencionada é a Vida Superior, a da Razão.",
                 "conteudo": [
                   {
@@ -8030,8 +8103,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-256",
-                "titulo": "20. Diferentes tipos de luz; E das Trevas.",
+                "id": "anf09-190-196-240-260",
+                "titulo": "20. Diferentes tipos de luz; É das Trevas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8041,7 +8114,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-257",
+                "id": "anf09-190-196-240-261",
                 "titulo": "21. Cristo não está, como Deus, totalmente livre das trevas: já que Ele levou nossos pecados.",
                 "conteudo": [
                   {
@@ -8052,8 +8125,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-258",
-                "titulo": "22. Como as trevas não conseguiram superar a luz.",
+                "id": "anf09-190-196-240-262",
+                "titulo": "22. Como as trevas não conseguem superar a luz.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8063,7 +8136,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-259",
+                "id": "anf09-190-196-240-263",
                 "titulo": "23. Existe uma escuridão divina que não é má e que finalmente se torna luz.",
                 "conteudo": [
                   {
@@ -8074,7 +8147,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-260",
+                "id": "anf09-190-196-240-264",
                 "titulo": "24. João Batista foi enviado. De onde? Sua alma foi enviada de uma região superior.",
                 "conteudo": [
                   {
@@ -8085,7 +8158,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-261",
+                "id": "anf09-190-196-240-265",
                 "titulo": "25. Argumento da oração de José, para mostrar que o batista pode ter sido um anjo que se tornou homem.",
                 "conteudo": [
                   {
@@ -8096,7 +8169,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-262",
+                "id": "anf09-190-196-240-266",
                 "titulo": "26. João é Voz, Jesus é Fala. Relação destes dois entre si.",
                 "conteudo": [
                   {
@@ -8107,7 +8180,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-263",
+                "id": "anf09-190-196-240-267",
                 "titulo": "27. Significado dos nomes de João e de seus pais.",
                 "conteudo": [
                   {
@@ -8118,7 +8191,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-264",
+                "id": "anf09-190-196-240-268",
                 "titulo": "28. Os profetas deram testemunho de Cristo e predisseram muitas coisas a respeito dele.",
                 "conteudo": [
                   {
@@ -8129,7 +8202,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-265",
+                "id": "anf09-190-196-240-269",
                 "titulo": "29. Os Seis Testemunhos do Batista Enumerados. “Venha e veja” de Jesus. Significado da Décima Hora.",
                 "conteudo": [
                   {
@@ -8140,7 +8213,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-236-266",
+                "id": "anf09-190-196-240-270",
                 "titulo": "30. Como João foi testemunha de Cristo e especialmente da “Luz”.",
                 "conteudo": [
                   {
@@ -8153,7 +8226,7 @@
             ]
           },
           {
-            "id": "anf09-186-192-267",
+            "id": "anf09-190-196-271",
             "titulo": "Fragmentos do Quarto Livro. 4776",
             "conteudo": [
               {
@@ -8172,11 +8245,11 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-186-192-268",
+            "id": "anf09-190-196-272",
             "titulo": "Do Quinto Livro.",
             "children": [
               {
-                "id": "anf09-186-192-268-269",
+                "id": "anf09-190-196-272-273",
                 "titulo": "Do Prefácio.4782",
                 "conteudo": [
                   {
@@ -8191,8 +8264,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-268-270",
-                "titulo": "2. Como as Escrituras nos advertem contra a produção de muitos livros.",
+                "id": "anf09-190-196-272-274",
+                "titulo": "2. Como as Escrituras nos alertam contra a produção de muitos livros.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8202,7 +8275,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-268-271",
+                "id": "anf09-190-196-272-275",
                 "titulo": "3. Os Apóstolos Escreveram Pouco.4785",
                 "conteudo": [
                   {
@@ -8217,7 +8290,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-268-272",
+                "id": "anf09-190-196-272-276",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -8230,12 +8303,12 @@
             ]
           },
           {
-            "id": "anf09-186-192-273",
+            "id": "anf09-190-196-277",
             "titulo": "Sexto livro.",
             "children": [
               {
-                "id": "anf09-186-192-273-274",
-                "titulo": "1. A obra é retomada após uma interrupção violenta que expulsou o escritor de Alexandria. Ele se dirige a isso novamente, agradecendo por sua libertação e orando por orientação.",
+                "id": "anf09-190-196-277-278",
+                "titulo": "1. A obra é retomada após uma interrupção violenta que expulsou o escritor de Alexandria. Ele se dirige a isso novamente, agradecendo por sua liberação e orando por orientação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8245,7 +8318,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-275",
+                "id": "anf09-190-196-277-279",
                 "titulo": "2. Como os Profetas e Homens Santos do Antigo Testamento Conheceram as Coisas de Cristo.",
                 "conteudo": [
                   {
@@ -8256,8 +8329,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-276",
-                "titulo": "3. “A graça e a verdade vieram por meio de Jesus Cristo”. Estas palavras pertencem ao batista, não ao evangelista. O que o Batista testifica por meio deles.",
+                "id": "anf09-190-196-277-280",
+                "titulo": "3. “A graça e a verdade vieram por meio de Jesus Cristo”. Estas palavras pertencem ao batista, não ao evangelista. O que o Batista testemunha por meio deles.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8267,7 +8340,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-277",
+                "id": "anf09-190-196-277-281",
                 "titulo": "4. João nega ser Elias ou “O” Profeta. No entanto, ele era “um” profeta.",
                 "conteudo": [
                   {
@@ -8278,7 +8351,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-278",
+                "id": "anf09-190-196-277-282",
                 "titulo": "5. Havia duas embaixadas de João Batista; Os diferentes personagens destes.",
                 "conteudo": [
                   {
@@ -8289,7 +8362,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-279",
+                "id": "anf09-190-196-277-283",
                 "titulo": "6. Discussão Messiânica com João Batista.",
                 "conteudo": [
                   {
@@ -8300,7 +8373,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-280",
+                "id": "anf09-190-196-277-284",
                 "titulo": "7. Do nascimento de João e de sua suposta identidade com Elias. Da Doutrina da Transcorporação.",
                 "conteudo": [
                   {
@@ -8311,8 +8384,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-281",
-                "titulo": "8. John is a Prophet, But Not the Prophet.",
+                "id": "anf09-190-196-277-285",
+                "titulo": "8. João é um profeta, mas não o profeta.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8322,7 +8395,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-282",
+                "id": "anf09-190-196-277-286",
                 "titulo": "9. João I. 22.",
                 "conteudo": [
                   {
@@ -8333,7 +8406,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-283",
+                "id": "anf09-190-196-277-287",
                 "titulo": "10. Da Voz João Batista é.",
                 "conteudo": [
                   {
@@ -8344,7 +8417,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-284",
+                "id": "anf09-190-196-277-288",
                 "titulo": "11. Do Caminho do Senhor, como é estreito e como Jesus é o Caminho.",
                 "conteudo": [
                   {
@@ -8355,7 +8428,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-285",
+                "id": "anf09-190-196-277-289",
                 "titulo": "12. A Visão da Voz de Heracleão e de João Batista.",
                 "conteudo": [
                   {
@@ -8366,7 +8439,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-286",
+                "id": "anf09-190-196-277-290",
                 "titulo": "13. João I. 24, 25. Do Batismo de João, do Batismo de Elias e do Batismo de Cristo.",
                 "conteudo": [
                   {
@@ -8377,7 +8450,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-287",
+                "id": "anf09-190-196-277-291",
                 "titulo": "14. Comparação das declarações dos quatro evangelistas a respeito de João Batista, as profecias a respeito dele, seus discursos à multidão e aos fariseus, etc.",
                 "conteudo": [
                   {
@@ -8388,7 +8461,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-288",
+                "id": "anf09-190-196-277-292",
                 "titulo": "15. Como o Batista responde à pergunta dos fariseus e exalta a natureza de Cristo. Da trava do sapato que ele não consegue desamarrar.",
                 "conteudo": [
                   {
@@ -8399,7 +8472,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-289",
+                "id": "anf09-190-196-277-293",
                 "titulo": "16. Comparação do testemunho de João sobre Jesus nos diferentes evangelhos.",
                 "conteudo": [
                   {
@@ -8410,7 +8483,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-290",
+                "id": "anf09-190-196-277-294",
                 "titulo": "17. Do testemunho de João a Jesus no Evangelho de Mateus,",
                 "conteudo": [
                   {
@@ -8421,8 +8494,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-291",
-                "titulo": "18. Do Testemunho em Marcos. O que significa os sapatos do Salvador e desamarrar as travas dos sapatos.",
+                "id": "anf09-190-196-277-295",
+                "titulo": "18. Do Testemunho em Marcos. O que significa os sapatos de Salvador e desamarrar as travas dos sapatos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8432,7 +8505,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-292",
+                "id": "anf09-190-196-277-296",
                 "titulo": "19. Lucas e João sugerem que se pode afrouxar as travas dos sapatos do Logos sem se abaixar.",
                 "conteudo": [
                   {
@@ -8443,7 +8516,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-293",
+                "id": "anf09-190-196-277-297",
                 "titulo": "20. A diferença entre não ser “suficiente” e não ser “digno”.",
                 "conteudo": [
                   {
@@ -8454,7 +8527,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-294",
+                "id": "anf09-190-196-277-298",
                 "titulo": "21. O Quarto Evangelho fala de apenas um sapato, os outros de ambos. O significado disso.",
                 "conteudo": [
                   {
@@ -8465,7 +8538,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-295",
+                "id": "anf09-190-196-277-299",
                 "titulo": "22. Como a Palavra permanece no meio dos homens sem ser conhecida por eles.",
                 "conteudo": [
                   {
@@ -8476,7 +8549,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-296",
+                "id": "anf09-190-196-277-300",
                 "titulo": "23. A visão de Heracleão sobre esta declaração de João Batista e a interpretação do sapato de Jesus.",
                 "conteudo": [
                   {
@@ -8487,8 +8560,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-297",
-                "titulo": "24. O nome do lugar onde João batizou não é Betânia, como na maioria das cópias, mas Betabara. Prova disso. Da mesma forma, “Gergesa” deve ser lido como “Gerasa”, na história dos porcos. Deve-se prestar atenção aos nomes próprios nas Escrituras, que muitas vezes são escritos de maneira imprecisa e são de importância para a interpretação.",
+                "id": "anf09-190-196-277-301",
+                "titulo": "24. O nome do lugar onde João batizou não é Betânia, como na maioria das cópias, mas Betabara. Prova disso. Da mesma forma, “Gergesa” deve ser lida como “Gerasa”, na história dos porcos. Deve-se prestar atenção aos nomes próprios nas Escrituras, que muitas vezes são escritos de maneira imprecisa e são de importância para a interpretação.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8498,7 +8571,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-298",
+                "id": "anf09-190-196-277-302",
                 "titulo": "25. Jordan significa “sua queda”. Significados espirituais e aplicação disso.",
                 "conteudo": [
                   {
@@ -8509,7 +8582,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-299",
+                "id": "anf09-190-196-277-303",
                 "titulo": "26. A história de Israel cruzando o Jordão sob Josué é típica das coisas cristãs e foi escrita para nossa instrução.",
                 "conteudo": [
                   {
@@ -8520,7 +8593,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-300",
+                "id": "anf09-190-196-277-304",
                 "titulo": "27. De Elias e Eliseu atravessando o Jordão.",
                 "conteudo": [
                   {
@@ -8531,7 +8604,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-301",
+                "id": "anf09-190-196-277-305",
                 "titulo": "28. Naamã, o Sírio, e o Jordão. Nenhum outro fluxo tem o mesmo poder de cura.",
                 "conteudo": [
                   {
@@ -8542,7 +8615,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-302",
+                "id": "anf09-190-196-277-306",
                 "titulo": "29. O rio do Egito e seu dragão, em contraste com o Jordão.",
                 "conteudo": [
                   {
@@ -8553,7 +8626,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-303",
+                "id": "anf09-190-196-277-307",
                 "titulo": "30. Do que João aprendeu com Jesus quando Maria visitou Isabel na região montanhosa.",
                 "conteudo": [
                   {
@@ -8564,7 +8637,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-304",
+                "id": "anf09-190-196-277-308",
                 "titulo": "31. Da conversa entre João e Jesus no batismo, registrada apenas por Mateus.",
                 "conteudo": [
                   {
@@ -8575,7 +8648,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-305",
+                "id": "anf09-190-196-277-309",
                 "titulo": "32. João chama Jesus de “Cordeiro”. Por que ele dá um nome especial a este animal? Da Tipologia dos Sacrifícios, Geralmente.",
                 "conteudo": [
                   {
@@ -8586,7 +8659,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-306",
+                "id": "anf09-190-196-277-310",
                 "titulo": "33. Um Cordeiro Foi Oferecido no Sacrifício da Manhã e da Tarde. Significado disso.",
                 "conteudo": [
                   {
@@ -8597,7 +8670,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-307",
+                "id": "anf09-190-196-277-311",
                 "titulo": "34. Os sacrifícios matinais e noturnos do santo em sua vida de pensamento.",
                 "conteudo": [
                   {
@@ -8608,8 +8681,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-308",
-                "titulo": "35. Jesus é um Cordeiro no que diz respeito à sua natureza humana.",
+                "id": "anf09-190-196-277-312",
+                "titulo": "35. Jesus é um Cordeiro que não diz respeito à sua natureza humana.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8619,7 +8692,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-309",
+                "id": "anf09-190-196-277-313",
                 "titulo": "36. Da morte dos mártires considerada um sacrifício e de que forma ela funciona em benefício de outros.",
                 "conteudo": [
                   {
@@ -8630,7 +8703,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-310",
+                "id": "anf09-190-196-277-314",
                 "titulo": "37. Dos efeitos da morte de Cristo, de seu triunfo depois dela e da remoção dos pecados dos homens por sua morte.",
                 "conteudo": [
                   {
@@ -8641,7 +8714,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-273-311",
+                "id": "anf09-190-196-277-315",
                 "titulo": "38. Diz-se que o mundo, do qual o pecado foi removido, é a Igreja. Razões para não concordar com esta opinião.",
                 "conteudo": [
                   {
@@ -8654,11 +8727,11 @@
             ]
           },
           {
-            "id": "anf09-186-192-312",
+            "id": "anf09-190-196-316",
             "titulo": "Décimo Livro.",
             "children": [
               {
-                "id": "anf09-186-192-312-313",
+                "id": "anf09-190-196-316-317",
                 "titulo": "1. Jesus vem a Cafarnaum. Declarações dos Quatro Evangelistas a respeito disso.",
                 "conteudo": [
                   {
@@ -8673,7 +8746,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-314",
+                "id": "anf09-190-196-316-318",
                 "titulo": "2. A discrepância entre João e os três primeiros evangelhos Nesta parte da narrativa, lida literalmente, as narrativas não podem ser harmonizadas: elas devem ser interpretadas espiritualmente.",
                 "conteudo": [
                   {
@@ -8684,7 +8757,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-315",
+                "id": "anf09-190-196-316-319",
                 "titulo": "3. O que devemos pensar das discrepâncias entre os diferentes evangelhos.",
                 "conteudo": [
                   {
@@ -8695,8 +8768,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-316",
-                "titulo": "4. As Escrituras contêm muitas contradições e muitas declarações que não são literalmente verdadeiras, mas devem ser lidas espiritual e misticamente.",
+                "id": "anf09-190-196-316-320",
+                "titulo": "4. As Escrituras contêm muitas contradições e muitas declarações que não são literalmente verdadeiras, mas devem ser lidas espiritualmente e misticamente.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8706,8 +8779,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-317",
-                "titulo": "5. Paulo também faz declarações contraditórias sobre si mesmo e age de maneiras opostas em momentos diferentes.",
+                "id": "anf09-190-196-316-321",
+                "titulo": "5. Paulo também faz declarações contraditórias sobre si mesmo e idade de maneiras opostas em momentos diferentes.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8717,7 +8790,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-318",
+                "id": "anf09-190-196-316-322",
                 "titulo": "6. Diferentes relatos do chamado de Pedro e da prisão do Batista. O significado de “Cafarnaum”.",
                 "conteudo": [
                   {
@@ -8728,7 +8801,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-319",
+                "id": "anf09-190-196-316-323",
                 "titulo": "7. Por que seus irmãos não são chamados para o casamento; E por que ele não permanece em Cafarnaum por muitos dias.",
                 "conteudo": [
                   {
@@ -8739,7 +8812,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-320",
+                "id": "anf09-190-196-316-324",
                 "titulo": "8. Como Cristo permanece com os crentes até o fim dos tempos, e se ele permanece com eles após essa consumação.",
                 "conteudo": [
                   {
@@ -8750,8 +8823,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-321",
-                "titulo": "9. Heracleão diz que não se afirma que Jesus tenha feito nada em Cafarnaum. Mas nos outros evangelhos ele faz muitas coisas ali.",
+                "id": "anf09-190-196-316-325",
+                "titulo": "9. Heracleão diz que não se afirma que Jesus não fez nada em Cafarnaum. Mas nos outros evangelhos ele faz muitas coisas ali.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8761,7 +8834,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-322",
+                "id": "anf09-190-196-316-326",
                 "titulo": "10. Significado de Cafarnaum.",
                 "conteudo": [
                   {
@@ -8772,7 +8845,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-323",
+                "id": "anf09-190-196-316-327",
                 "titulo": "11. Por que se diz que a Páscoa é a dos “judeus”. Sua instituição: e a distinção entre “festas do Senhor” e festas não tão faladas.",
                 "conteudo": [
                   {
@@ -8783,7 +8856,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-324",
+                "id": "anf09-190-196-316-328",
                 "titulo": "12. Dos Festivais Celestiais, dos quais os da Terra são típicos.",
                 "conteudo": [
                   {
@@ -8794,7 +8867,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-325",
+                "id": "anf09-190-196-316-329",
                 "titulo": "13. Significado Espiritual da Páscoa.",
                 "conteudo": [
                   {
@@ -8805,8 +8878,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-326",
-                "titulo": "14. Nos Três Primeiros Evangelhos, a Páscoa é mencionada apenas no encerramento do ministério; Em João no início. Observações sobre isso. Heracleon na Páscoa.",
+                "id": "anf09-190-196-316-330",
+                "titulo": "14. Nos Três Primeiros Evangelhos, a Páscoa é mencionado apenas no encerramento do ministério; Em João no início. Observações sobre isso. Herácleo na Páscoa.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8816,7 +8889,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-327",
+                "id": "anf09-190-196-316-331",
                 "titulo": "15. Discrepância das narrativas do Evangelho relacionadas com a purificação do templo.",
                 "conteudo": [
                   {
@@ -8827,7 +8900,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-328",
+                "id": "anf09-190-196-316-332",
                 "titulo": "16. A História da Purificação do Templo Espiritualizada. Tomado literalmente, apresenta algumas características muito difíceis e improváveis.",
                 "conteudo": [
                   {
@@ -8838,7 +8911,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-329",
+                "id": "anf09-190-196-316-333",
                 "titulo": "17. A história da entrada em Jerusalém de Mateus. Dificuldades envolvidas nisso para quem o interpreta literalmente.",
                 "conteudo": [
                   {
@@ -8849,7 +8922,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-330",
+                "id": "anf09-190-196-316-334",
                 "titulo": "18. O Jumento e o Colt são o Antigo e o Novo Testamento. Significado espiritual das várias características da história. Diferenças entre a narrativa de João e a dos outros evangelistas.",
                 "conteudo": [
                   {
@@ -8860,7 +8933,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-331",
+                "id": "anf09-190-196-316-335",
                 "titulo": "19. Várias Opiniões de Heracleon sobre a Purificação do Templo.",
                 "conteudo": [
                   {
@@ -8871,7 +8944,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-332",
+                "id": "anf09-190-196-316-336",
                 "titulo": "20. O templo que Cristo diz que levantará é a Igreja. Como os ossos secos serão feitos para viver novamente.",
                 "conteudo": [
                   {
@@ -8882,7 +8955,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-333",
+                "id": "anf09-190-196-316-337",
                 "titulo": "21. Que o Filho foi ressuscitado pelo Pai. A acusação apresentada contra Jesus em seu julgamento baseou-se no incidente que agora temos diante de nós.",
                 "conteudo": [
                   {
@@ -8893,7 +8966,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-334",
+                "id": "anf09-190-196-316-338",
                 "titulo": "22. O Templo de Salomão não demorou quarenta e seis anos para ser construído. Com respeito ao de Esdras, não podemos dizer quanto tempo demorou. Significado do Número Quarenta e Seis.",
                 "conteudo": [
                   {
@@ -8904,7 +8977,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-335",
+                "id": "anf09-190-196-316-339",
                 "titulo": "23. O Templo de que fala Cristo é a Igreja. Aplicação à Igreja das Declarações Relativas à Construção do Templo de Salomão e dos Números Declarados nessa Narrativa.",
                 "conteudo": [
                   {
@@ -8915,7 +8988,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-336",
+                "id": "anf09-190-196-316-340",
                 "titulo": "24. O relato da construção do Templo de Salomão contém sérias dificuldades e deve ser interpretado espiritualmente.",
                 "conteudo": [
                   {
@@ -8926,7 +8999,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-337",
+                "id": "anf09-190-196-316-341",
                 "titulo": "25. Maior espiritualização da construção do templo de Salomão.",
                 "conteudo": [
                   {
@@ -8937,7 +9010,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-338",
+                "id": "anf09-190-196-316-342",
                 "titulo": "26. As promessas dirigidas a Jerusalém nos profetas referem-se à Igreja e ainda devem ser cumpridas.",
                 "conteudo": [
                   {
@@ -8948,8 +9021,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-339",
-                "titulo": "27. Da crença que os discípulos alcançaram posteriormente nas palavras de Jesus.",
+                "id": "anf09-190-196-316-343",
+                "titulo": "27. Das crenças que os discípulos alcançaram posteriormente nas palavras de Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8959,7 +9032,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-340",
+                "id": "anf09-190-196-316-344",
                 "titulo": "28. A diferença entre acreditar no nome de Jesus e acreditar no próprio Jesus.",
                 "conteudo": [
                   {
@@ -8970,8 +9043,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-341",
-                "titulo": "29. Sobre quais seres Jesus precisava de testemunho.",
+                "id": "anf09-190-196-316-345",
+                "titulo": "29. Sobre quais seres Jesus priorizou de testemunho.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8981,7 +9054,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-186-192-312-342",
+                "id": "anf09-190-196-316-346",
                 "titulo": "30. Como Jesus conheceu os poderes, melhores ou piores, que residem no homem.",
                 "conteudo": [
                   {
@@ -8998,11 +9071,11 @@
     ]
   },
   {
-    "id": "anf09-343",
+    "id": "anf09-347",
     "titulo": "COMENTÁRIO DE ORIGENS SOBRE O EVANGELHO DE MATEUS. por JOHN PATRICK, D.D.",
     "children": [
       {
-        "id": "anf09-343-344",
+        "id": "anf09-347-348",
         "titulo": "Comentário sobre Mateus.",
         "conteudo": [
           {
@@ -9017,7 +9090,7 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-343-345",
+        "id": "anf09-347-349",
         "titulo": "Do Primeiro Livro do Comentário sobre Mateus.5150",
         "conteudo": [
           {
@@ -9028,11 +9101,11 @@
         "idioma": "en"
       },
       {
-        "id": "anf09-343-346",
+        "id": "anf09-347-350",
         "titulo": "Do Segundo Livro do Comentário ao Evangelho Segundo Mateus.",
         "children": [
           {
-            "id": "anf09-343-346-347",
+            "id": "anf09-347-350-351",
             "titulo": "Livro II. 5153",
             "conteudo": [
               {
@@ -9047,11 +9120,11 @@
             "idioma": "en"
           },
           {
-            "id": "anf09-343-346-348",
+            "id": "anf09-347-350-352",
             "titulo": "Livro X.",
             "children": [
               {
-                "id": "anf09-343-346-348-349",
+                "id": "anf09-347-350-352-353",
                 "titulo": "1. A Parábola do Joio: a Casa de Jesus.",
                 "conteudo": [
                   {
@@ -9062,7 +9135,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-350",
+                "id": "anf09-347-350-352-354",
                 "titulo": "2. Exposição da Parábola.",
                 "conteudo": [
                   {
@@ -9073,7 +9146,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-351",
+                "id": "anf09-347-350-352-355",
                 "titulo": "3. O brilho dos justos. Sua Interpretação.",
                 "conteudo": [
                   {
@@ -9084,7 +9157,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-352",
+                "id": "anf09-347-350-352-356",
                 "titulo": "4. A respeito da parábola do tesouro escondido no campo. A parábola distingue-se da semelhança.",
                 "conteudo": [
                   {
@@ -9095,7 +9168,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-353",
+                "id": "anf09-347-350-352-357",
                 "titulo": "5. O Campo e o Tesouro Interpretados.",
                 "conteudo": [
                   {
@@ -9106,7 +9179,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-354",
+                "id": "anf09-347-350-352-358",
                 "titulo": "6. A exposição continua.",
                 "conteudo": [
                   {
@@ -9117,7 +9190,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-355",
+                "id": "anf09-347-350-352-359",
                 "titulo": "7. A Parábola da Pérola de Grande Valor. A Formação e Diferença das Pérolas.",
                 "conteudo": [
                   {
@@ -9128,7 +9201,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-356",
+                "id": "anf09-347-350-352-360",
                 "titulo": "8. A parábola interpretada é a luz dessas visões.",
                 "conteudo": [
                   {
@@ -9139,7 +9212,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-357",
+                "id": "anf09-347-350-352-361",
                 "titulo": "9. Cristo, a Pérola de Grande Valor.",
                 "conteudo": [
                   {
@@ -9150,7 +9223,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-358",
+                "id": "anf09-347-350-352-362",
                 "titulo": "10. A Pérola do Evangelho em Relação ao Antigo Testamento.",
                 "conteudo": [
                   {
@@ -9161,7 +9234,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-359",
+                "id": "anf09-347-350-352-363",
                 "titulo": "11. A parábola da rede de arrasto.",
                 "conteudo": [
                   {
@@ -9172,7 +9245,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-360",
+                "id": "anf09-347-350-352-364",
                 "titulo": "12. As Escrituras Divinas Comparadas a uma Rede.",
                 "conteudo": [
                   {
@@ -9183,7 +9256,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-361",
+                "id": "anf09-347-350-352-365",
                 "titulo": "13. Relação dos Homens com os Anjos.",
                 "conteudo": [
                   {
@@ -9194,7 +9267,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-362",
+                "id": "anf09-347-350-352-366",
                 "titulo": "14. Os Discípulos como Escribas.",
                 "conteudo": [
                   {
@@ -9205,7 +9278,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-363",
+                "id": "anf09-347-350-352-367",
                 "titulo": "15. O chefe de família e seu tesouro.",
                 "conteudo": [
                   {
@@ -9216,7 +9289,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-364",
+                "id": "anf09-347-350-352-368",
                 "titulo": "16. Parábolas em relação às semelhanças. Jesus em seu próprio país.",
                 "conteudo": [
                   {
@@ -9227,8 +9300,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-365",
-                "titulo": "17. The Brethren of Jesus.",
+                "id": "anf09-347-350-352-369",
+                "titulo": "17. Os irmãos de Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9238,7 +9311,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-366",
+                "id": "anf09-347-350-352-370",
                 "titulo": "18. Profetas em seu país.",
                 "conteudo": [
                   {
@@ -9249,7 +9322,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-367",
+                "id": "anf09-347-350-352-371",
                 "titulo": "19. Relação de Fé e Incredulidade com os Poderes Sobrenaturais de Jesus.",
                 "conteudo": [
                   {
@@ -9260,7 +9333,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-368",
+                "id": "anf09-347-350-352-372",
                 "titulo": "20. Diferentes Concepções de João Batista.",
                 "conteudo": [
                   {
@@ -9271,7 +9344,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-369",
+                "id": "anf09-347-350-352-373",
                 "titulo": "21. Herodes e o Batista.",
                 "conteudo": [
                   {
@@ -9282,7 +9355,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-370",
+                "id": "anf09-347-350-352-374",
                 "titulo": "22. A Dança de Herodíades. A manutenção de juramentos.",
                 "conteudo": [
                   {
@@ -9293,7 +9366,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-371",
+                "id": "anf09-347-350-352-375",
                 "titulo": "23. A Retirada de Jesus.",
                 "conteudo": [
                   {
@@ -9304,7 +9377,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-372",
+                "id": "anf09-347-350-352-376",
                 "titulo": "24. As diversas formas de doença espiritual.",
                 "conteudo": [
                   {
@@ -9315,7 +9388,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-348-373",
+                "id": "anf09-347-350-352-377",
                 "titulo": "25. A cura precede a participação nos pães de Jesus.",
                 "conteudo": [
                   {
@@ -9328,11 +9401,11 @@
             ]
           },
           {
-            "id": "anf09-343-346-374",
+            "id": "anf09-347-350-378",
             "titulo": "Livro XI.",
             "children": [
               {
-                "id": "anf09-343-346-374-375",
+                "id": "anf09-347-350-378-379",
                 "titulo": "1. Introdução à Alimentação dos Cinco Mil.",
                 "conteudo": [
                   {
@@ -9343,7 +9416,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-376",
+                "id": "anf09-347-350-378-380",
                 "titulo": "2. Exposição dos Detalhes do Milagre.",
                 "conteudo": [
                   {
@@ -9354,8 +9427,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-377",
-                "titulo": "3. The Exposition of Details Continued. O sentar na grama. A Divisão em Empresas.",
+                "id": "anf09-347-350-378-381",
+                "titulo": "3. Continuação da exposição de detalhes. O sentar na grama. A Divisão em Empresas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9365,7 +9438,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-378",
+                "id": "anf09-347-350-378-382",
                 "titulo": "4. As multidões e os discípulos contrastados.",
                 "conteudo": [
                   {
@@ -9376,7 +9449,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-379",
+                "id": "anf09-347-350-378-383",
                 "titulo": "5. Os Discípulos em Conflito. Jesus caminha sobre as águas.",
                 "conteudo": [
                   {
@@ -9387,7 +9460,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-380",
+                "id": "anf09-347-350-378-384",
                 "titulo": "6. Interpretação dos Detalhes da Narrativa. Sua Aplicação a Todos os Discípulos.",
                 "conteudo": [
                   {
@@ -9398,7 +9471,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-381",
+                "id": "anf09-347-350-378-385",
                 "titulo": "7. A cura dos enfermos do outro lado. O método de cura.",
                 "conteudo": [
                   {
@@ -9409,7 +9482,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-382",
+                "id": "anf09-347-350-378-386",
                 "titulo": "8. Quanto aos fariseus e escribas que vieram e perguntaram, por que os teus discípulos transgridem a tradição dos anciãos?",
                 "conteudo": [
                   {
@@ -9420,7 +9493,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-383",
+                "id": "anf09-347-350-378-387",
                 "titulo": "9. Explicação de “Corban”.",
                 "conteudo": [
                   {
@@ -9431,8 +9504,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-384",
-                "titulo": "10. As Tradições dos Anciãos em Colisão com a Lei Divina.",
+                "id": "anf09-347-350-378-388",
+                "titulo": "10. As Tradições dos Anciões em Colisão com a Lei Divina.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9442,7 +9515,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-385",
+                "id": "anf09-347-350-378-389",
                 "titulo": "11. Exposição da Profecia de Isaías Citada por Jesus.",
                 "conteudo": [
                   {
@@ -9453,7 +9526,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-386",
+                "id": "anf09-347-350-378-390",
                 "titulo": "12. Coisas Limpas e Impuras Segundo a Lei e o Evangelho.",
                 "conteudo": [
                   {
@@ -9464,7 +9537,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-387",
+                "id": "anf09-347-350-378-391",
                 "titulo": "13. A Ofensa dos Fariseus.",
                 "conteudo": [
                   {
@@ -9475,7 +9548,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-388",
+                "id": "anf09-347-350-378-392",
                 "titulo": "14. Por que os fariseus não eram uma planta de Deus. Ensinamento de Orígenes sobre o “Pão do Senhor”.",
                 "conteudo": [
                   {
@@ -9486,7 +9559,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-389",
+                "id": "anf09-347-350-378-393",
                 "titulo": "15. Comer com o coração sujo contamina o homem.",
                 "conteudo": [
                   {
@@ -9497,8 +9570,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-390",
-                "titulo": "16. A respeito da mulher cananéia. Significado das “Fronteiras de Tiro e Sidom”.",
+                "id": "anf09-347-350-378-394",
+                "titulo": "16. O respeito da mulher cananéia. Significado das “Fronteiras de Tiro e Sidom”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9508,7 +9581,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-391",
+                "id": "anf09-347-350-378-395",
                 "titulo": "17. Exposição dos Detalhes da Narrativa.",
                 "conteudo": [
                   {
@@ -9519,8 +9592,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-392",
-                "titulo": "18. A respeito das multidões que foram curadas. Comparação da montanha onde Jesus se sentou com a igreja.",
+                "id": "anf09-347-350-378-396",
+                "titulo": "18. A respeito dos multidões que foram curados. Comparação da montanha onde Jesus se sentou com a igreja.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9530,7 +9603,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-374-393",
+                "id": "anf09-347-350-378-397",
                 "titulo": "19. A respeito dos Sete Pães. A narrativa da alimentação dos quatro mil comparada com a dos cinco mil.",
                 "conteudo": [
                   {
@@ -9543,11 +9616,11 @@
             ]
           },
           {
-            "id": "anf09-343-346-394",
+            "id": "anf09-347-350-398",
             "titulo": "Livro XII.",
             "children": [
               {
-                "id": "anf09-343-346-394-395",
+                "id": "anf09-347-350-398-399",
                 "titulo": "1. A respeito daqueles que lhe pediram para lhes mostrar um sinal do céu.",
                 "conteudo": [
                   {
@@ -9558,7 +9631,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-396",
+                "id": "anf09-347-350-398-400",
                 "titulo": "2. Por que os fariseus pediram um sinal do céu.",
                 "conteudo": [
                   {
@@ -9569,7 +9642,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-397",
+                "id": "anf09-347-350-398-401",
                 "titulo": "3. A resposta de Jesus ao seu pedido.",
                 "conteudo": [
                   {
@@ -9580,7 +9653,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-398",
+                "id": "anf09-347-350-398-402",
                 "titulo": "4. Por que Jesus os chamou de geração adúltera. A Lei como Marido.",
                 "conteudo": [
                   {
@@ -9591,7 +9664,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-399",
+                "id": "anf09-347-350-398-403",
                 "titulo": "5. A respeito do fermento dos fariseus.",
                 "conteudo": [
                   {
@@ -9602,7 +9675,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-400",
+                "id": "anf09-347-350-398-404",
                 "titulo": "6. O Significado do Fermento. O Conhecimento do Coração de Jesus.",
                 "conteudo": [
                   {
@@ -9613,7 +9686,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-401",
+                "id": "anf09-347-350-398-405",
                 "titulo": "7. Magnitude Relativa dos Pecados do Coração e Pecados Reais.",
                 "conteudo": [
                   {
@@ -9624,7 +9697,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-402",
+                "id": "anf09-347-350-398-406",
                 "titulo": "8. O fermento figurativo como a água de que Jesus falou à mulher samaritana.",
                 "conteudo": [
                   {
@@ -9635,7 +9708,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-403",
+                "id": "anf09-347-350-398-407",
                 "titulo": "9. Quanto à pergunta de Jesus em Cesaréia, quem dizem os homens que eu sou? Diferentes Concepções de Jesus.",
                 "conteudo": [
                   {
@@ -9646,7 +9719,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-404",
+                "id": "anf09-347-350-398-408",
                 "titulo": "10. A resposta de Pedro.",
                 "conteudo": [
                   {
@@ -9657,7 +9730,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-405",
+                "id": "anf09-347-350-398-409",
                 "titulo": "11. A promessa feita a Pedro não se restringe a ele, mas se aplica a todos os discípulos como ele.",
                 "conteudo": [
                   {
@@ -9668,7 +9741,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-406",
+                "id": "anf09-347-350-398-410",
                 "titulo": "12. Todo Pecado – Toda Falsa Doutrina é uma “Porta do Hades”.",
                 "conteudo": [
                   {
@@ -9679,7 +9752,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-407",
+                "id": "anf09-347-350-398-411",
                 "titulo": "13. As “Portas do Hades” e as “Portas de Sião” contrastadas.",
                 "conteudo": [
                   {
@@ -9690,7 +9763,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-408",
+                "id": "anf09-347-350-398-412",
                 "titulo": "14. Em que sentido as “chaves” são dadas a Pedro e a cada Pedro. Limitações deste poder.",
                 "conteudo": [
                   {
@@ -9701,7 +9774,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-409",
+                "id": "anf09-347-350-398-413",
                 "titulo": "15. Relação da antiga comissão dada por Jesus aos discípulos com sua atual ordem de silêncio. Crença e conhecimento contrastados.",
                 "conteudo": [
                   {
@@ -9712,7 +9785,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-410",
+                "id": "anf09-347-350-398-414",
                 "titulo": "16. Crescimento gradual no conhecimento dos discípulos.",
                 "conteudo": [
                   {
@@ -9723,8 +9796,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-411",
-                "titulo": "17. Reasons for that Gradual Knowledge.",
+                "id": "anf09-347-350-398-415",
+                "titulo": "17. Razões para esse Conhecimento Gradual.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9734,7 +9807,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-412",
+                "id": "anf09-347-350-398-416",
                 "titulo": "18. Jesus foi inicialmente proclamado pelos Doze apenas como obreiro e mestre.",
                 "conteudo": [
                   {
@@ -9745,7 +9818,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-413",
+                "id": "anf09-347-350-398-417",
                 "titulo": "19. Importância da Proclamação de Jesus como o Crucificado.​",
                 "conteudo": [
                   {
@@ -9756,7 +9829,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-414",
+                "id": "anf09-347-350-398-418",
                 "titulo": "20. Por que Jesus teve que ir para Jerusalém.",
                 "conteudo": [
                   {
@@ -9767,7 +9840,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-415",
+                "id": "anf09-347-350-398-419",
                 "titulo": "21. A Repreensão de Pedro e a Resposta de Jesus.",
                 "conteudo": [
                   {
@@ -9778,7 +9851,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-416",
+                "id": "anf09-347-350-398-420",
                 "titulo": "22. Importância das expressões “atrás” e “virado”.",
                 "conteudo": [
                   {
@@ -9789,7 +9862,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-417",
+                "id": "anf09-347-350-398-421",
                 "titulo": "23. Pedro como pedra de tropeço para Jesus.",
                 "conteudo": [
                   {
@@ -9800,7 +9873,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-418",
+                "id": "anf09-347-350-398-422",
                 "titulo": "24. Abnegação e suporte cruzado.",
                 "conteudo": [
                   {
@@ -9811,7 +9884,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-419",
+                "id": "anf09-347-350-398-423",
                 "titulo": "25. Referência ao dito de Paulo sobre a crucificação com Cristo.",
                 "conteudo": [
                   {
@@ -9822,7 +9895,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-420",
+                "id": "anf09-347-350-398-424",
                 "titulo": "26. O Menor da Vida; E a salvação disso.",
                 "conteudo": [
                   {
@@ -9833,7 +9906,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-421",
+                "id": "anf09-347-350-398-425",
                 "titulo": "27. A vida perdida para o mundo é salva.",
                 "conteudo": [
                   {
@@ -9844,7 +9917,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-422",
+                "id": "anf09-347-350-398-426",
                 "titulo": "28. A troca pela vida.",
                 "conteudo": [
                   {
@@ -9855,7 +9928,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-423",
+                "id": "anf09-347-350-398-427",
                 "titulo": "29. A Vinda do Filho do Homem em Glória.",
                 "conteudo": [
                   {
@@ -9866,7 +9939,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-424",
+                "id": "anf09-347-350-398-428",
                 "titulo": "30. A Palavra Aparece em Diferentes Formas; A hora de sua vinda em glória.",
                 "conteudo": [
                   {
@@ -9877,7 +9950,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-425",
+                "id": "anf09-347-350-398-429",
                 "titulo": "31. A interpretação mais simples da promessa de não provar a morte.",
                 "conteudo": [
                   {
@@ -9888,8 +9961,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-426",
-                "titulo": "32. Ao lado do Salvador.",
+                "id": "anf09-347-350-398-430",
+                "titulo": "32. Ao lado de Salvador.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9899,7 +9972,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-427",
+                "id": "anf09-347-350-398-431",
                 "titulo": "33. Interpretação de “Sabor da Morte”.",
                 "conteudo": [
                   {
@@ -9910,8 +9983,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-428",
-                "titulo": "34. Significado de “Até”. Sem limitação de promessa.",
+                "id": "anf09-347-350-398-432",
+                "titulo": "34. Significado de “Até”. Sem limitações de promessa.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9921,7 +9994,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-429",
+                "id": "anf09-347-350-398-433",
                 "titulo": "35. Referências Bíblicas à Morte.",
                 "conteudo": [
                   {
@@ -9932,7 +10005,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-430",
+                "id": "anf09-347-350-398-434",
                 "titulo": "36. A respeito da Transfiguração do Salvador.",
                 "conteudo": [
                   {
@@ -9943,7 +10016,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-431",
+                "id": "anf09-347-350-398-435",
                 "titulo": "37. Força das palavras “diante deles”.",
                 "conteudo": [
                   {
@@ -9954,7 +10027,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-432",
+                "id": "anf09-347-350-398-436",
                 "titulo": "38. As vestes brancas como a luz.",
                 "conteudo": [
                   {
@@ -9965,7 +10038,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-433",
+                "id": "anf09-347-350-398-437",
                 "titulo": "39. Jesus foi transfigurado – “enquanto orava”.",
                 "conteudo": [
                   {
@@ -9976,7 +10049,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-434",
+                "id": "anf09-347-350-398-438",
                 "titulo": "40. Discussão do Dito de Pedro.",
                 "conteudo": [
                   {
@@ -9987,7 +10060,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-435",
+                "id": "anf09-347-350-398-439",
                 "titulo": "41. Interpretação Figurativa do Mesmo.",
                 "conteudo": [
                   {
@@ -9998,8 +10071,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-436",
-                "titulo": "42. O Significado da “Nuvem Brilhante”.",
+                "id": "anf09-347-350-398-440",
+                "titulo": "42. O Significado da “Nova Brilhante”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10009,8 +10082,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-394-437",
-                "titulo": "43. Relation of Moses and Elijah to Jesus. A Injunção do Silêncio.",
+                "id": "anf09-347-350-398-441",
+                "titulo": "43. Relação de Moisés e Elias com Jesus. A Injunção do Silêncio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10022,11 +10095,11 @@
             ]
           },
           {
-            "id": "anf09-343-346-438",
+            "id": "anf09-347-350-442",
             "titulo": "Livro XIII.",
             "children": [
               {
-                "id": "anf09-343-346-438-439",
+                "id": "anf09-347-350-442-443",
                 "titulo": "1. Relação do Batista com Elias. A teoria da transmigração considerada.",
                 "conteudo": [
                   {
@@ -10037,7 +10110,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-440",
+                "id": "anf09-347-350-442-444",
                 "titulo": "2. “O Espírito e o Poder de Elias” – Não a Alma – Estavam no Batista.",
                 "conteudo": [
                   {
@@ -10048,7 +10121,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-441",
+                "id": "anf09-347-350-442-445",
                 "titulo": "3. A respeito do epiléptico.",
                 "conteudo": [
                   {
@@ -10059,7 +10132,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-442",
+                "id": "anf09-347-350-442-446",
                 "titulo": "4. Epilépticos Espirituais.",
                 "conteudo": [
                   {
@@ -10070,7 +10143,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-443",
+                "id": "anf09-347-350-442-447",
                 "titulo": "5. O Espírito Surdo e Mudo.",
                 "conteudo": [
                   {
@@ -10081,7 +10154,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-444",
+                "id": "anf09-347-350-442-448",
                 "titulo": "6. Influência da Lua e das Estrelas nos Homens.",
                 "conteudo": [
                   {
@@ -10092,7 +10165,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-445",
+                "id": "anf09-347-350-442-449",
                 "titulo": "7. O Poder da Fé.",
                 "conteudo": [
                   {
@@ -10103,7 +10176,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-446",
+                "id": "anf09-347-350-442-450",
                 "titulo": "8. A previsão de Jesus sobre sua “entrega” nas mãos dos homens.",
                 "conteudo": [
                   {
@@ -10114,7 +10187,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-447",
+                "id": "anf09-347-350-442-451",
                 "titulo": "9. Satanás e a “Libertação” de Jesus.",
                 "conteudo": [
                   {
@@ -10125,7 +10198,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-448",
+                "id": "anf09-347-350-442-452",
                 "titulo": "10. A respeito daqueles que exigiram o meio shekel.",
                 "conteudo": [
                   {
@@ -10136,7 +10209,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-449",
+                "id": "anf09-347-350-442-453",
                 "titulo": "11. A Liberdade dos Filhos.",
                 "conteudo": [
                   {
@@ -10147,8 +10220,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-450",
-                "titulo": "12. The Stater Allegorized.",
+                "id": "anf09-347-350-442-454",
+                "titulo": "12. O Stater Alegorizado.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10158,7 +10231,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-451",
+                "id": "anf09-347-350-442-455",
                 "titulo": "13. O Meio-Shekel Sagrado.",
                 "conteudo": [
                   {
@@ -10169,8 +10242,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-452",
-                "titulo": "14. A respeito daqueles que disseram: quem é o maior? e A respeito da criança que foi chamada por Jesus.",
+                "id": "anf09-347-350-442-456",
+                "titulo": "14. A respeito daqueles que disseram: quem é o maior? e O respeito da criança que foi chamada por Jesus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10180,7 +10253,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-453",
+                "id": "anf09-347-350-442-457",
                 "titulo": "15. A grandeza varia em grau.",
                 "conteudo": [
                   {
@@ -10191,7 +10264,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-454",
+                "id": "anf09-347-350-442-458",
                 "titulo": "16. Por que os grandes são comparados às crianças.",
                 "conteudo": [
                   {
@@ -10202,7 +10275,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-455",
+                "id": "anf09-347-350-442-459",
                 "titulo": "17. Os pequeninos e seus obstáculos.",
                 "conteudo": [
                   {
@@ -10213,7 +10286,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-456",
+                "id": "anf09-347-350-442-460",
                 "titulo": "18. Quem foi a criança chamada por Jesus.",
                 "conteudo": [
                   {
@@ -10224,7 +10297,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-457",
+                "id": "anf09-347-350-442-461",
                 "titulo": "19. As passagens paralelas em Marcos e Lucas.",
                 "conteudo": [
                   {
@@ -10235,7 +10308,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-458",
+                "id": "anf09-347-350-442-462",
                 "titulo": "20. O Mundo e as Ofensas. Vários significados do mundo.",
                 "conteudo": [
                   {
@@ -10246,7 +10319,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-459",
+                "id": "anf09-347-350-442-463",
                 "titulo": "21. O “Ai” não se aplica aos discípulos de Jesus.",
                 "conteudo": [
                   {
@@ -10257,7 +10330,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-460",
+                "id": "anf09-347-350-442-464",
                 "titulo": "22. Quais são as “ocasiões de tropeço”.",
                 "conteudo": [
                   {
@@ -10268,7 +10341,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-461",
+                "id": "anf09-347-350-442-465",
                 "titulo": "23. Em que sentido “necessário”.",
                 "conteudo": [
                   {
@@ -10279,7 +10352,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-462",
+                "id": "anf09-347-350-442-466",
                 "titulo": "24. A mão, pé ou olho agressor.",
                 "conteudo": [
                   {
@@ -10290,7 +10363,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-463",
+                "id": "anf09-347-350-442-467",
                 "titulo": "25. O Olho ou Mão Alegorizada.",
                 "conteudo": [
                   {
@@ -10301,7 +10374,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-464",
+                "id": "anf09-347-350-442-468",
                 "titulo": "26. Os pequeninos e seus anjos.",
                 "conteudo": [
                   {
@@ -10312,7 +10385,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-465",
+                "id": "anf09-347-350-442-469",
                 "titulo": "27. Quando os pequeninos são designados aos anjos.",
                 "conteudo": [
                   {
@@ -10323,7 +10396,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-466",
+                "id": "anf09-347-350-442-470",
                 "titulo": "28. Relacionamento próximo dos anjos com seus “pequeninos”.",
                 "conteudo": [
                   {
@@ -10334,7 +10407,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-467",
+                "id": "anf09-347-350-442-471",
                 "titulo": "29. Os Pequenos e os Perfeitos.",
                 "conteudo": [
                   {
@@ -10349,8 +10422,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-468",
-                "titulo": "30. O irmão pecador.",
+                "id": "anf09-347-350-442-472",
+                "titulo": "30. Ó irmão pecador.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10360,7 +10433,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-438-469",
+                "id": "anf09-347-350-442-473",
                 "titulo": "31. O Poder de Ligar na Terra e no Céu.",
                 "conteudo": [
                   {
@@ -10373,11 +10446,11 @@
             ]
           },
           {
-            "id": "anf09-343-346-470",
+            "id": "anf09-347-350-474",
             "titulo": "Livro XIV.",
             "children": [
               {
-                "id": "anf09-343-346-470-471",
+                "id": "anf09-347-350-474-475",
                 "titulo": "1. O Poder da Harmonia em Relação à Oração.",
                 "conteudo": [
                   {
@@ -10388,7 +10461,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-472",
+                "id": "anf09-347-350-474-476",
                 "titulo": "2. A Harmonia entre Marido e Mulher.",
                 "conteudo": [
                   {
@@ -10399,7 +10472,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-473",
+                "id": "anf09-347-350-474-477",
                 "titulo": "3. A Harmonia do Corpo, Alma e Espírito.",
                 "conteudo": [
                   {
@@ -10410,7 +10483,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-474",
+                "id": "anf09-347-350-474-478",
                 "titulo": "4. Harmonia da Antiga e da Nova Aliança.",
                 "conteudo": [
                   {
@@ -10421,7 +10494,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-475",
+                "id": "anf09-347-350-474-479",
                 "titulo": "5. O Limite do Perdão.",
                 "conteudo": [
                   {
@@ -10432,8 +10505,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-476",
-                "titulo": "6. A respeito do rei que fez contas com seus próprios servos, a quem foi trazido um homem que devia dez mil talentos.",
+                "id": "anf09-347-350-474-480",
+                "titulo": "6. A respeito do rei que fez contas com seus próprios servos, a quem foi trazido um homem que desviou dez mil talentos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10443,7 +10516,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-477",
+                "id": "anf09-347-350-474-481",
                 "titulo": "7. Continuação da Exposição: o Rei e os Servos.",
                 "conteudo": [
                   {
@@ -10454,7 +10527,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-478",
+                "id": "anf09-347-350-474-482",
                 "titulo": "8. O Princípio do Acerto de Contas.",
                 "conteudo": [
                   {
@@ -10465,8 +10538,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-479",
-                "titulo": "9. O tempo ocupado pelo acerto de contas.",
+                "id": "anf09-347-350-474-483",
+                "titulo": "9. O tempo ocupado pelo certo de contas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10476,8 +10549,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-480",
-                "titulo": "10. O homem que devia muitos talentos.",
+                "id": "anf09-347-350-474-484",
+                "titulo": "10. O homem que desvia muitos talentos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10487,8 +10560,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-481",
-                "titulo": "11. O servo que devia cem centavos.",
+                "id": "anf09-347-350-474-485",
+                "titulo": "11. O servo que desvia cem centavos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10498,7 +10571,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-482",
+                "id": "anf09-347-350-474-486",
                 "titulo": "12. A hora do acerto de contas.",
                 "conteudo": [
                   {
@@ -10509,7 +10582,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-483",
+                "id": "anf09-347-350-474-487",
                 "titulo": "13. Nenhum perdão aos implacáveis.",
                 "conteudo": [
                   {
@@ -10520,7 +10593,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-484",
+                "id": "anf09-347-350-474-488",
                 "titulo": "14. Como Jesus terminou suas palavras.",
                 "conteudo": [
                   {
@@ -10531,7 +10604,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-485",
+                "id": "anf09-347-350-474-489",
                 "titulo": "15. Como os homens seguiram Jesus.",
                 "conteudo": [
                   {
@@ -10542,8 +10615,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-486",
-                "titulo": "16. A respeito dos fariseus e escribas que tentaram Jesus (perguntando) se era lícito para um homem repudiar sua esposa por qualquer motivo.",
+                "id": "anf09-347-350-474-490",
+                "titulo": "16. A respeito dos fariseus e escribas que perseguiram Jesus (perguntando) se era lícito para um homem repudiar sua esposa por qualquer motivo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10553,7 +10626,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-487",
+                "id": "anf09-347-350-474-491",
                 "titulo": "17. União de Cristo e da Igreja.",
                 "conteudo": [
                   {
@@ -10564,7 +10637,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-488",
+                "id": "anf09-347-350-474-492",
                 "titulo": "18. A Declaração de Divórcio.",
                 "conteudo": [
                   {
@@ -10575,8 +10648,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-489",
-                "titulo": "19. O divórcio de Israel.",
+                "id": "anf09-347-350-474-493",
+                "titulo": "19. Os gráficos de Israel.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10586,7 +10659,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-490",
+                "id": "anf09-347-350-474-494",
                 "titulo": "20. Cristo e os gentios.",
                 "conteudo": [
                   {
@@ -10597,7 +10670,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-491",
+                "id": "anf09-347-350-474-495",
                 "titulo": "21. União dos Anjos e das Almas dos Homens.",
                 "conteudo": [
                   {
@@ -10608,7 +10681,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-492",
+                "id": "anf09-347-350-474-496",
                 "titulo": "22. O Casamento dos Dignitários da Igreja.",
                 "conteudo": [
                   {
@@ -10619,8 +10692,8 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-493",
-                "titulo": "23. Algumas leis dadas por concessão à fraqueza humana.",
+                "id": "anf09-347-350-474-497",
+                "titulo": "23. Algumas leis dadas por concessão de propriedade humana.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10630,7 +10703,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-494",
+                "id": "anf09-347-350-474-498",
                 "titulo": "24. Crítica Judaica à Lei de Cristo.",
                 "conteudo": [
                   {
@@ -10641,7 +10714,7 @@
                 "idioma": "en"
               },
               {
-                "id": "anf09-343-346-470-495",
+                "id": "anf09-347-350-474-499",
                 "titulo": "25. Castidade e Oração.",
                 "conteudo": [
                   {

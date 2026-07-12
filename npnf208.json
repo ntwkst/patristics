@@ -1,7 +1,7 @@
 [
   {
     "id": "npnf208-3",
-    "titulo": "—",
+    "titulo": "Basílio: Cartas e Obras Selecionadas",
     "children": [
       {
         "id": "npnf208-3-4",
@@ -16,6 +16,33 @@
       },
       {
         "id": "npnf208-3-5",
+        "titulo": "Preface.",
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "This translation of a portion of the works of St. Basil was originally begun under the editorial supervision of Dr. Wace. It was first announced that the translation would comprise the De Spiritu Sancto and Select Letters, but it was ultimately arranged with Dr. Wace that a volume of the series should be devoted to St. Basil, containing, as well as the De Spiritu Sancto, the whole of the Letters, and the Hexæmeron. The De Spiritu Sancto has already appeared in an English form, as have portions of the Letters, but I am not aware of an English translation of the Hexæmeron, or of all the Letters. The De Spiritu Sancto was presumably selected for publication as being at once the most famous, as it is among the most valuable, of the extant works of this Father. The Letters comprise short theological treatises and contain passages of historical and varied biographical interest, as well as valuable specimens of spiritual and consolatory exhortation. The Hexæmeron was added as being the most noted and popular of St. Basil’s compositions in older days, and as illustrating his exegetic method and skill, and his power as an extempore preacher."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The edition used has been that of the Benedictine editors as issued by Migne, with the aid, in the case of the De Spiritu Sancto, of that published by Rev. C. F. H. Johnston."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The editorship of Dr. Wace terminated during the progress of the work, but I am indebted to him, and very gratefully acknowledge the obligation, for valuable counsel and suggestions. I also desire to record my thanks to the Rev. C. Hole, Lecturer in Ecclesiastical History at King’s College, London, and to Mr. Reginald Geare, Head Master of the Grammar School, Bishop’s Stortford, to the former for help in the revision of proof-sheets and important suggestions, and to the latter for aid in the translation of several of the Letters."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The works consulted in the process of translation and attempted illustration are sufficiently indicated in the notes."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "London, December, 1894."
+          }
+        ],
+        "idioma": "en"
+      },
+      {
+        "id": "npnf208-3-6",
         "titulo": "TABELA CRONOLÓGICA PARA ACOMPANHAR A VIDA DE SÃO. MANJERICÃO.",
         "conteudo": [
           {
@@ -326,12 +353,12 @@
         "idioma": "en"
       },
       {
-        "id": "npnf208-3-6",
+        "id": "npnf208-3-7",
         "titulo": "Prolegômenos.",
         "children": [
           {
-            "id": "npnf208-3-6-7",
-            "titulo": "Eu. Vida.",
+            "id": "npnf208-3-7-8",
+            "titulo": "UE. Vida.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -349,7 +376,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-6-8",
+            "id": "npnf208-3-7-9",
             "titulo": "II.—Educação.",
             "conteudo": [
               {
@@ -388,7 +415,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-6-9",
+            "id": "npnf208-3-7-10",
             "titulo": "III.—Vida em Cesaréia; Batismo; e Adoção da Vida Monástica.",
             "conteudo": [
               {
@@ -415,7 +442,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-6-10",
+            "id": "npnf208-3-7-11",
             "titulo": "IV.—Basílio e os Concílios, à adesão de Valente.",
             "conteudo": [
               {
@@ -442,7 +469,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-6-11",
+            "id": "npnf208-3-7-12",
             "titulo": "V.—O Presbiterado.",
             "conteudo": [
               {
@@ -465,7 +492,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-6-12",
+            "id": "npnf208-3-7-13",
             "titulo": "VI.—Basílio como Arcebispo.",
             "conteudo": [
               {
@@ -508,7 +535,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-6-13",
+            "id": "npnf208-3-7-14",
             "titulo": "VII.—A Violação com Gregório de Nazianzo.",
             "conteudo": [
               {
@@ -531,8 +558,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-6-14",
-            "titulo": "VIII.—S. Basílio e Eustácio.",
+            "id": "npnf208-3-7-15",
+            "titulo": "VIII.-S. Basílio e Eustácio.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -546,8 +573,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-6-15",
-            "titulo": "IX.—Amizades Ininterruptas.",
+            "id": "npnf208-3-7-16",
+            "titulo": "IX.-Amizades Ininterruptas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -581,7 +608,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-6-16",
+            "id": "npnf208-3-7-17",
             "titulo": "X.—Problemas dos últimos anos.",
             "conteudo": [
               {
@@ -616,11 +643,11 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-6-17",
+            "id": "npnf208-3-7-18",
             "titulo": "II. Funciona.",
             "children": [
               {
-                "id": "npnf208-3-6-17-18",
+                "id": "npnf208-3-7-18-19",
                 "titulo": "I.—Dogmático.",
                 "conteudo": [
                   {
@@ -819,7 +846,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf208-3-6-17-19",
+                "id": "npnf208-3-7-18-20",
                 "titulo": "II.-Exegética.",
                 "conteudo": [
                   {
@@ -918,7 +945,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf208-3-6-17-20",
+                "id": "npnf208-3-7-18-21",
                 "titulo": "III.-Ascético.",
                 "conteudo": [
                   {
@@ -1053,7 +1080,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf208-3-6-17-21",
+                "id": "npnf208-3-7-18-22",
                 "titulo": "IV.-Homilética.",
                 "conteudo": [
                   {
@@ -1412,7 +1439,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf208-3-6-17-22",
+                "id": "npnf208-3-7-18-23",
                 "titulo": "V.—Cartas.",
                 "conteudo": [
                   {
@@ -1423,7 +1450,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf208-3-6-17-23",
+                "id": "npnf208-3-7-18-24",
                 "titulo": "VI.—Litúrgico.",
                 "conteudo": [
                   {
@@ -1446,7 +1473,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf208-3-6-17-24",
+                "id": "npnf208-3-7-18-25",
                 "titulo": "VII.—Escritos Espúrios e Duvidosos.",
                 "conteudo": [
                   {
@@ -1525,8 +1552,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf208-3-6-17-25",
-                "titulo": "VIII.—Escritos mencionados, mas perdidos.",
+                "id": "npnf208-3-7-18-26",
+                "titulo": "VIII.—Escritos referenciados, mas perdidos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -1536,7 +1563,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf208-3-6-17-26",
+                "id": "npnf208-3-7-18-27",
                 "titulo": "IX.—Notas adicionais sobre alguns pontos da posição doutrinária e eclesiástica de São Basílio.",
                 "conteudo": [
                   {
@@ -1575,7 +1602,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf208-3-6-17-27",
+                "id": "npnf208-3-7-18-28",
                 "titulo": "X.—Edições e Manuscritos.",
                 "conteudo": [
                   {
@@ -2034,11 +2061,11 @@
         ]
       },
       {
-        "id": "npnf208-3-28",
-        "titulo": "ΤΟΥ ΑΓΙΟΥ ΒΑΧΙΛΕΙΟΥ ΠΕΡΙ ΤΟΥ ΠΝΕΥΜΑΤΟΧ ΒΙΒΛΙΟΝ. O LIVRO DE SÃO MANJERICÃO SOBRE O ESPÍRITO. DE ESPÍRITO SANTO.",
+        "id": "npnf208-3-29",
+        "titulo": "ΤΟΥ ΑΓΙΟΥ ΒΑΧΙΛΕΙΟΥ ΠΕΡΙ ΤΟΥ ΠΝΕΥΜΑΤΟΧ ΒΙΒΛΙΟΝ. O LIVRO DE SÃO MANJERICÃO SOBRE O ESPÍRITO. DO ESPÍRITO SANTO.",
         "children": [
           {
-            "id": "npnf208-3-28-29",
+            "id": "npnf208-3-29-30",
             "titulo": "Capítulo I.",
             "conteudo": [
               {
@@ -2073,7 +2100,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-30",
+            "id": "npnf208-3-29-31",
             "titulo": "Capítulo II.",
             "conteudo": [
               {
@@ -2092,7 +2119,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-31",
+            "id": "npnf208-3-29-32",
             "titulo": "Capítulo III.",
             "conteudo": [
               {
@@ -2111,7 +2138,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-32",
+            "id": "npnf208-3-29-33",
             "titulo": "Capítulo IV.",
             "conteudo": [
               {
@@ -2126,7 +2153,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-33",
+            "id": "npnf208-3-29-34",
             "titulo": "Capítulo V.",
             "conteudo": [
               {
@@ -2185,7 +2212,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-34",
+            "id": "npnf208-3-29-35",
             "titulo": "Capítulo VI.",
             "conteudo": [
               {
@@ -2224,7 +2251,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-35",
+            "id": "npnf208-3-29-36",
             "titulo": "Capítulo VII.",
             "conteudo": [
               {
@@ -2247,7 +2274,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-36",
+            "id": "npnf208-3-29-37",
             "titulo": "Capítulo VIII.",
             "conteudo": [
               {
@@ -2290,7 +2317,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-37",
+            "id": "npnf208-3-29-38",
             "titulo": "Capítulo IX.",
             "conteudo": [
               {
@@ -2309,7 +2336,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-38",
+            "id": "npnf208-3-29-39",
             "titulo": "Capítulo X.",
             "conteudo": [
               {
@@ -2344,7 +2371,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-39",
+            "id": "npnf208-3-29-40",
             "titulo": "Capítulo XI.",
             "conteudo": [
               {
@@ -2363,7 +2390,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-40",
+            "id": "npnf208-3-29-41",
             "titulo": "Capítulo XII.",
             "conteudo": [
               {
@@ -2382,7 +2409,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-41",
+            "id": "npnf208-3-29-42",
             "titulo": "Capítulo XIII.",
             "conteudo": [
               {
@@ -2401,7 +2428,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-42",
+            "id": "npnf208-3-29-43",
             "titulo": "Capítulo XIV.",
             "conteudo": [
               {
@@ -2424,7 +2451,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-43",
+            "id": "npnf208-3-29-44",
             "titulo": "Capítulo XV.",
             "conteudo": [
               {
@@ -2447,7 +2474,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-44",
+            "id": "npnf208-3-29-45",
             "titulo": "Capítulo XVI.",
             "conteudo": [
               {
@@ -2478,7 +2505,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-45",
+            "id": "npnf208-3-29-46",
             "titulo": "Capítulo XVII.",
             "conteudo": [
               {
@@ -2501,7 +2528,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-46",
+            "id": "npnf208-3-29-47",
             "titulo": "Capítulo XVIII.",
             "conteudo": [
               {
@@ -2532,7 +2559,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-47",
+            "id": "npnf208-3-29-48",
             "titulo": "Capítulo XIX.",
             "conteudo": [
               {
@@ -2559,7 +2586,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-48",
+            "id": "npnf208-3-29-49",
             "titulo": "Capítulo XX.",
             "conteudo": [
               {
@@ -2574,7 +2601,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-49",
+            "id": "npnf208-3-29-50",
             "titulo": "Capítulo XXI.",
             "conteudo": [
               {
@@ -2589,7 +2616,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-50",
+            "id": "npnf208-3-29-51",
             "titulo": "Capítulo XXII.",
             "conteudo": [
               {
@@ -2604,7 +2631,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-51",
+            "id": "npnf208-3-29-52",
             "titulo": "Capítulo XXIII.",
             "conteudo": [
               {
@@ -2619,7 +2646,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-52",
+            "id": "npnf208-3-29-53",
             "titulo": "Capítulo XXIV.",
             "conteudo": [
               {
@@ -2646,7 +2673,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-53",
+            "id": "npnf208-3-29-54",
             "titulo": "Capítulo XXV.",
             "conteudo": [
               {
@@ -2669,7 +2696,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-54",
+            "id": "npnf208-3-29-55",
             "titulo": "Capítulo XXVI.",
             "conteudo": [
               {
@@ -2696,7 +2723,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-55",
+            "id": "npnf208-3-29-56",
             "titulo": "Capítulo XXVII.",
             "conteudo": [
               {
@@ -2723,7 +2750,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-56",
+            "id": "npnf208-3-29-57",
             "titulo": "Capítulo XXVIII.",
             "conteudo": [
               {
@@ -2742,7 +2769,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-57",
+            "id": "npnf208-3-29-58",
             "titulo": "Capítulo XXIX.",
             "conteudo": [
               {
@@ -2777,7 +2804,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-28-58",
+            "id": "npnf208-3-29-59",
             "titulo": "Capítulo XXX.",
             "conteudo": [
               {
@@ -2806,12 +2833,12 @@
         ]
       },
       {
-        "id": "npnf208-3-59",
+        "id": "npnf208-3-60",
         "titulo": "Introdução ao Hexæmeron.",
         "children": [
           {
-            "id": "npnf208-3-59-60",
-            "titulo": "Homilia I.",
+            "id": "npnf208-3-60-61",
+            "titulo": "Homília I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2885,8 +2912,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-59-61",
-            "titulo": "Homilia II.",
+            "id": "npnf208-3-60-62",
+            "titulo": "Homília II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2980,8 +3007,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-59-62",
-            "titulo": "Homilia III.",
+            "id": "npnf208-3-60-63",
+            "titulo": "Homília III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3059,8 +3086,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-59-63",
-            "titulo": "Homilia IV.",
+            "id": "npnf208-3-60-64",
+            "titulo": "Homília IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3126,8 +3153,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-59-64",
-            "titulo": "Homilia V.",
+            "id": "npnf208-3-60-65",
+            "titulo": "Homília V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3201,8 +3228,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-59-65",
-            "titulo": "Homilia VI.",
+            "id": "npnf208-3-60-66",
+            "titulo": "Homília VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3308,8 +3335,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-59-66",
-            "titulo": "Homilia VII.",
+            "id": "npnf208-3-60-67",
+            "titulo": "Homília VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3379,8 +3406,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-59-67",
-            "titulo": "Homilia VIII.",
+            "id": "npnf208-3-60-68",
+            "titulo": "Homília VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3466,8 +3493,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-59-68",
-            "titulo": "Homilia IX.",
+            "id": "npnf208-3-60-69",
+            "titulo": "Homília IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3539,11 +3566,11 @@
         ]
       },
       {
-        "id": "npnf208-3-69",
+        "id": "npnf208-3-70",
         "titulo": "Introdução às Cartas.",
         "children": [
           {
-            "id": "npnf208-3-69-70",
+            "id": "npnf208-3-70-71",
             "titulo": "Carta I.1737",
             "conteudo": [
               {
@@ -3566,7 +3593,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-71",
+            "id": "npnf208-3-70-72",
             "titulo": "Carta II.1743",
             "conteudo": [
               {
@@ -3601,7 +3628,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-72",
+            "id": "npnf208-3-70-73",
             "titulo": "Carta III.1757",
             "conteudo": [
               {
@@ -3624,7 +3651,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-73",
+            "id": "npnf208-3-70-74",
             "titulo": "Carta IV.1763",
             "conteudo": [
               {
@@ -3639,7 +3666,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-74",
+            "id": "npnf208-3-70-75",
             "titulo": "Carta V.1768",
             "conteudo": [
               {
@@ -3654,7 +3681,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-75",
+            "id": "npnf208-3-70-76",
             "titulo": "Carta VI.1773",
             "conteudo": [
               {
@@ -3669,7 +3696,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-76",
+            "id": "npnf208-3-70-77",
             "titulo": "Carta VII.1777",
             "conteudo": [
               {
@@ -3680,7 +3707,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-77",
+            "id": "npnf208-3-70-78",
             "titulo": "Carta VIII.1779",
             "conteudo": [
               {
@@ -3751,7 +3778,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-78",
+            "id": "npnf208-3-70-79",
             "titulo": "Carta IX.1872",
             "conteudo": [
               {
@@ -3774,7 +3801,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-79",
+            "id": "npnf208-3-70-80",
             "titulo": "Carta X.1883",
             "conteudo": [
               {
@@ -3785,7 +3812,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-80",
+            "id": "npnf208-3-70-81",
             "titulo": "Carta XI.1886",
             "conteudo": [
               {
@@ -3796,7 +3823,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-81",
+            "id": "npnf208-3-70-82",
             "titulo": "Carta XII.1888",
             "conteudo": [
               {
@@ -3807,7 +3834,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-82",
+            "id": "npnf208-3-70-83",
             "titulo": "Carta XIII.1890",
             "conteudo": [
               {
@@ -3818,7 +3845,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-83",
+            "id": "npnf208-3-70-84",
             "titulo": "Carta XIV.1892",
             "conteudo": [
               {
@@ -3833,7 +3860,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-84",
+            "id": "npnf208-3-70-85",
             "titulo": "Carta XV.1897",
             "conteudo": [
               {
@@ -3844,7 +3871,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-85",
+            "id": "npnf208-3-70-86",
             "titulo": "Carta XVI.1900",
             "conteudo": [
               {
@@ -3855,7 +3882,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-86",
+            "id": "npnf208-3-70-87",
             "titulo": "Carta XVII.1903",
             "conteudo": [
               {
@@ -3870,7 +3897,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-87",
+            "id": "npnf208-3-70-88",
             "titulo": "Carta XVIII.1905",
             "conteudo": [
               {
@@ -3881,7 +3908,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-88",
+            "id": "npnf208-3-70-89",
             "titulo": "Carta XIX.1908",
             "conteudo": [
               {
@@ -3892,7 +3919,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-89",
+            "id": "npnf208-3-70-90",
             "titulo": "Carta XX.1910",
             "conteudo": [
               {
@@ -3907,7 +3934,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-90",
+            "id": "npnf208-3-70-91",
             "titulo": "Carta XXI.1912",
             "conteudo": [
               {
@@ -3918,7 +3945,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-91",
+            "id": "npnf208-3-70-92",
             "titulo": "Carta XXII.1917",
             "conteudo": [
               {
@@ -3941,7 +3968,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-92",
+            "id": "npnf208-3-70-93",
             "titulo": "Carta XXIII.1977",
             "conteudo": [
               {
@@ -3952,7 +3979,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-93",
+            "id": "npnf208-3-70-94",
             "titulo": "Carta XXIV.1980",
             "conteudo": [
               {
@@ -3963,7 +3990,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-94",
+            "id": "npnf208-3-70-95",
             "titulo": "Carta XXV.1986",
             "conteudo": [
               {
@@ -3978,7 +4005,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-95",
+            "id": "npnf208-3-70-96",
             "titulo": "Carta XXVI.1988",
             "conteudo": [
               {
@@ -3989,7 +4016,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-96",
+            "id": "npnf208-3-70-97",
             "titulo": "Carta XXVII.1991",
             "conteudo": [
               {
@@ -4000,7 +4027,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-97",
+            "id": "npnf208-3-70-98",
             "titulo": "Carta XXVIII.1994",
             "conteudo": [
               {
@@ -4023,7 +4050,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-98",
+            "id": "npnf208-3-70-99",
             "titulo": "Carta XXIX.2000",
             "conteudo": [
               {
@@ -4034,7 +4061,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-99",
+            "id": "npnf208-3-70-100",
             "titulo": "Carta XXX.2004",
             "conteudo": [
               {
@@ -4045,7 +4072,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-100",
+            "id": "npnf208-3-70-101",
             "titulo": "Carta XXXI.2006",
             "conteudo": [
               {
@@ -4056,7 +4083,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-101",
+            "id": "npnf208-3-70-102",
             "titulo": "Carta XXXII.2008",
             "conteudo": [
               {
@@ -4071,7 +4098,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-102",
+            "id": "npnf208-3-70-103",
             "titulo": "Carta XXXIII.2013",
             "conteudo": [
               {
@@ -4082,7 +4109,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-103",
+            "id": "npnf208-3-70-104",
             "titulo": "Carta XXXIV.2015",
             "conteudo": [
               {
@@ -4093,7 +4120,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-104",
+            "id": "npnf208-3-70-105",
             "titulo": "Carta XXXV.2018",
             "conteudo": [
               {
@@ -4104,7 +4131,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-105",
+            "id": "npnf208-3-70-106",
             "titulo": "Carta XXXVI.2019",
             "conteudo": [
               {
@@ -4115,7 +4142,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-106",
+            "id": "npnf208-3-70-107",
             "titulo": "Carta XXXVII.2020",
             "conteudo": [
               {
@@ -4126,7 +4153,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-107",
+            "id": "npnf208-3-70-108",
             "titulo": "Carta XXXVIII.2022",
             "conteudo": [
               {
@@ -4173,7 +4200,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-108",
+            "id": "npnf208-3-70-109",
             "titulo": "Carta XXXIX.2048",
             "conteudo": [
               {
@@ -4184,7 +4211,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-109",
+            "id": "npnf208-3-70-110",
             "titulo": "Carta XL.2053",
             "conteudo": [
               {
@@ -4195,7 +4222,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-110",
+            "id": "npnf208-3-70-111",
             "titulo": "Carta XLI.2057",
             "conteudo": [
               {
@@ -4210,7 +4237,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-111",
+            "id": "npnf208-3-70-112",
             "titulo": "Carta XLII.2060",
             "conteudo": [
               {
@@ -4237,7 +4264,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-112",
+            "id": "npnf208-3-70-113",
             "titulo": "Carta XLIII.2090",
             "conteudo": [
               {
@@ -4248,7 +4275,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-113",
+            "id": "npnf208-3-70-114",
             "titulo": "Carta XLIV.2092",
             "conteudo": [
               {
@@ -4263,7 +4290,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-114",
+            "id": "npnf208-3-70-115",
             "titulo": "Carta XLV.2102",
             "conteudo": [
               {
@@ -4286,7 +4313,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-115",
+            "id": "npnf208-3-70-116",
             "titulo": "Carta XLVI.2108",
             "conteudo": [
               {
@@ -4321,7 +4348,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-116",
+            "id": "npnf208-3-70-117",
             "titulo": "Carta XLVII.2157",
             "conteudo": [
               {
@@ -4332,7 +4359,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-117",
+            "id": "npnf208-3-70-118",
             "titulo": "Carta XLVIII.2163",
             "conteudo": [
               {
@@ -4343,7 +4370,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-118",
+            "id": "npnf208-3-70-119",
             "titulo": "Carta XLIX.2169",
             "conteudo": [
               {
@@ -4354,7 +4381,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-119",
+            "id": "npnf208-3-70-120",
             "titulo": "Carta L.2172",
             "conteudo": [
               {
@@ -4365,7 +4392,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-120",
+            "id": "npnf208-3-70-121",
             "titulo": "Carta LI.2175",
             "conteudo": [
               {
@@ -4380,7 +4407,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-121",
+            "id": "npnf208-3-70-122",
             "titulo": "Carta LII.2184",
             "conteudo": [
               {
@@ -4407,7 +4434,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-122",
+            "id": "npnf208-3-70-123",
             "titulo": "Carta LIII.2192",
             "conteudo": [
               {
@@ -4422,7 +4449,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-123",
+            "id": "npnf208-3-70-124",
             "titulo": "Carta LIV.2199",
             "conteudo": [
               {
@@ -4433,7 +4460,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-124",
+            "id": "npnf208-3-70-125",
             "titulo": "Carta LV.2203",
             "conteudo": [
               {
@@ -4444,7 +4471,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-125",
+            "id": "npnf208-3-70-126",
             "titulo": "Carta LVI.2206",
             "conteudo": [
               {
@@ -4455,7 +4482,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-126",
+            "id": "npnf208-3-70-127",
             "titulo": "Carta LVII.2208",
             "conteudo": [
               {
@@ -4466,7 +4493,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-127",
+            "id": "npnf208-3-70-128",
             "titulo": "Carta LVIII.2211",
             "conteudo": [
               {
@@ -4477,7 +4504,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-128",
+            "id": "npnf208-3-70-129",
             "titulo": "Carta LIX.2216",
             "conteudo": [
               {
@@ -4496,7 +4523,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-129",
+            "id": "npnf208-3-70-130",
             "titulo": "Carta LX.2221",
             "conteudo": [
               {
@@ -4511,7 +4538,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-130",
+            "id": "npnf208-3-70-131",
             "titulo": "Carta LXI.2222",
             "conteudo": [
               {
@@ -4522,7 +4549,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-131",
+            "id": "npnf208-3-70-132",
             "titulo": "Carta LXII.2225",
             "conteudo": [
               {
@@ -4537,7 +4564,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-132",
+            "id": "npnf208-3-70-133",
             "titulo": "Carta LXIII.2228",
             "conteudo": [
               {
@@ -4548,7 +4575,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-133",
+            "id": "npnf208-3-70-134",
             "titulo": "Carta LXIV.2230",
             "conteudo": [
               {
@@ -4559,7 +4586,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-134",
+            "id": "npnf208-3-70-135",
             "titulo": "Carta LXV.2232",
             "conteudo": [
               {
@@ -4570,7 +4597,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-135",
+            "id": "npnf208-3-70-136",
             "titulo": "Carta LXVI.2237",
             "conteudo": [
               {
@@ -4581,7 +4608,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-136",
+            "id": "npnf208-3-70-137",
             "titulo": "Carta LXVII.2242",
             "conteudo": [
               {
@@ -4592,7 +4619,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-137",
+            "id": "npnf208-3-70-138",
             "titulo": "Carta LXVIII.2244",
             "conteudo": [
               {
@@ -4603,7 +4630,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-138",
+            "id": "npnf208-3-70-139",
             "titulo": "Carta LXIX.2246",
             "conteudo": [
               {
@@ -4618,7 +4645,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-139",
+            "id": "npnf208-3-70-140",
             "titulo": "Carta LXX.2251",
             "conteudo": [
               {
@@ -4629,7 +4656,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-140",
+            "id": "npnf208-3-70-141",
             "titulo": "Carta LXXI.2254",
             "conteudo": [
               {
@@ -4644,7 +4671,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-141",
+            "id": "npnf208-3-70-142",
             "titulo": "Carta LXXII.2257",
             "conteudo": [
               {
@@ -4655,7 +4682,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-142",
+            "id": "npnf208-3-70-143",
             "titulo": "Carta LXXIII.2259",
             "conteudo": [
               {
@@ -4678,7 +4705,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-143",
+            "id": "npnf208-3-70-144",
             "titulo": "Carta LXXIV.2260",
             "conteudo": [
               {
@@ -4701,7 +4728,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-144",
+            "id": "npnf208-3-70-145",
             "titulo": "Carta LXXV.2266",
             "conteudo": [
               {
@@ -4712,7 +4739,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-145",
+            "id": "npnf208-3-70-146",
             "titulo": "Carta LXXVI.2268",
             "conteudo": [
               {
@@ -4723,7 +4750,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-146",
+            "id": "npnf208-3-70-147",
             "titulo": "Carta LXXVII.2270",
             "conteudo": [
               {
@@ -4734,7 +4761,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-147",
+            "id": "npnf208-3-70-148",
             "titulo": "Carta LXXVIII.2273",
             "conteudo": [
               {
@@ -4745,7 +4772,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-148",
+            "id": "npnf208-3-70-149",
             "titulo": "Carta LXXIX.2274",
             "conteudo": [
               {
@@ -4756,7 +4783,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-149",
+            "id": "npnf208-3-70-150",
             "titulo": "Carta LXXX.2276",
             "conteudo": [
               {
@@ -4767,7 +4794,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-150",
+            "id": "npnf208-3-70-151",
             "titulo": "Carta LXXXI.2277",
             "conteudo": [
               {
@@ -4778,7 +4805,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-151",
+            "id": "npnf208-3-70-152",
             "titulo": "Carta LXXXII.2281",
             "conteudo": [
               {
@@ -4789,7 +4816,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-152",
+            "id": "npnf208-3-70-153",
             "titulo": "Carta LXXXIII.2286",
             "conteudo": [
               {
@@ -4800,7 +4827,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-153",
+            "id": "npnf208-3-70-154",
             "titulo": "Carta LXXXIV.2289",
             "conteudo": [
               {
@@ -4815,7 +4842,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-154",
+            "id": "npnf208-3-70-155",
             "titulo": "Carta LXXXV.2291",
             "conteudo": [
               {
@@ -4826,7 +4853,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-155",
+            "id": "npnf208-3-70-156",
             "titulo": "Carta LXXXVI.2293",
             "conteudo": [
               {
@@ -4837,7 +4864,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-156",
+            "id": "npnf208-3-70-157",
             "titulo": "Carta LXXXVII.2295",
             "conteudo": [
               {
@@ -4848,7 +4875,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-157",
+            "id": "npnf208-3-70-158",
             "titulo": "Carta LXXXVIII.2298",
             "conteudo": [
               {
@@ -4859,7 +4886,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-158",
+            "id": "npnf208-3-70-159",
             "titulo": "Carta LXXXIX.2300",
             "conteudo": [
               {
@@ -4878,7 +4905,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-159",
+            "id": "npnf208-3-70-160",
             "titulo": "Carta XC.2302",
             "conteudo": [
               {
@@ -4893,7 +4920,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-160",
+            "id": "npnf208-3-70-161",
             "titulo": "Carta XCI.2305",
             "conteudo": [
               {
@@ -4904,7 +4931,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-161",
+            "id": "npnf208-3-70-162",
             "titulo": "Carta XCII.2309",
             "conteudo": [
               {
@@ -4927,7 +4954,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-162",
+            "id": "npnf208-3-70-163",
             "titulo": "Carta XCIII.2328",
             "conteudo": [
               {
@@ -4938,7 +4965,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-163",
+            "id": "npnf208-3-70-164",
             "titulo": "Carta XCIV.2333",
             "conteudo": [
               {
@@ -4949,7 +4976,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-164",
+            "id": "npnf208-3-70-165",
             "titulo": "Carta XCV.2336",
             "conteudo": [
               {
@@ -4960,7 +4987,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-165",
+            "id": "npnf208-3-70-166",
             "titulo": "Carta XCVI.2338",
             "conteudo": [
               {
@@ -4971,7 +4998,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-166",
+            "id": "npnf208-3-70-167",
             "titulo": "Carta XCVII.2340",
             "conteudo": [
               {
@@ -4982,7 +5009,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-167",
+            "id": "npnf208-3-70-168",
             "titulo": "Carta XCVIII.2343",
             "conteudo": [
               {
@@ -5005,7 +5032,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-168",
+            "id": "npnf208-3-70-169",
             "titulo": "Carta XCIX.2347",
             "conteudo": [
               {
@@ -5028,7 +5055,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-169",
+            "id": "npnf208-3-70-170",
             "titulo": "Carta C.2351",
             "conteudo": [
               {
@@ -5039,7 +5066,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-170",
+            "id": "npnf208-3-70-171",
             "titulo": "Carta CI.2354",
             "conteudo": [
               {
@@ -5050,7 +5077,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-171",
+            "id": "npnf208-3-70-172",
             "titulo": "Carta CII.2357",
             "conteudo": [
               {
@@ -5065,7 +5092,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-172",
+            "id": "npnf208-3-70-173",
             "titulo": "Carta CIII.2361",
             "conteudo": [
               {
@@ -5076,7 +5103,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-173",
+            "id": "npnf208-3-70-174",
             "titulo": "Carta CIV.2362",
             "conteudo": [
               {
@@ -5087,7 +5114,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-174",
+            "id": "npnf208-3-70-175",
             "titulo": "Carta CV.2365",
             "conteudo": [
               {
@@ -5102,7 +5129,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-175",
+            "id": "npnf208-3-70-176",
             "titulo": "Carta CVI.2367",
             "conteudo": [
               {
@@ -5113,7 +5140,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-176",
+            "id": "npnf208-3-70-177",
             "titulo": "Carta CVII.2369",
             "conteudo": [
               {
@@ -5124,7 +5151,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-177",
+            "id": "npnf208-3-70-178",
             "titulo": "Carta CVIII.2371",
             "conteudo": [
               {
@@ -5135,7 +5162,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-178",
+            "id": "npnf208-3-70-179",
             "titulo": "Carta CIX.2372",
             "conteudo": [
               {
@@ -5146,7 +5173,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-179",
+            "id": "npnf208-3-70-180",
             "titulo": "Carta CX.2373",
             "conteudo": [
               {
@@ -5157,7 +5184,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-180",
+            "id": "npnf208-3-70-181",
             "titulo": "Carta CXI.2375",
             "conteudo": [
               {
@@ -5172,7 +5199,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-181",
+            "id": "npnf208-3-70-182",
             "titulo": "Carta CXII.2376",
             "conteudo": [
               {
@@ -5191,7 +5218,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-182",
+            "id": "npnf208-3-70-183",
             "titulo": "Carta CXIII.2380",
             "conteudo": [
               {
@@ -5206,7 +5233,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-183",
+            "id": "npnf208-3-70-184",
             "titulo": "Carta CXIV.2383",
             "conteudo": [
               {
@@ -5221,7 +5248,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-184",
+            "id": "npnf208-3-70-185",
             "titulo": "Carta CXV.2387",
             "conteudo": [
               {
@@ -5232,7 +5259,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-185",
+            "id": "npnf208-3-70-186",
             "titulo": "Carta CXVI.2390",
             "conteudo": [
               {
@@ -5243,7 +5270,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-186",
+            "id": "npnf208-3-70-187",
             "titulo": "Carta CXVII.",
             "conteudo": [
               {
@@ -5254,7 +5281,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-187",
+            "id": "npnf208-3-70-188",
             "titulo": "Carta CXVIII.2393",
             "conteudo": [
               {
@@ -5265,7 +5292,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-188",
+            "id": "npnf208-3-70-189",
             "titulo": "Carta CXIX.2395",
             "conteudo": [
               {
@@ -5280,7 +5307,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-189",
+            "id": "npnf208-3-70-190",
             "titulo": "Carta CXX.2397",
             "conteudo": [
               {
@@ -5299,7 +5326,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-190",
+            "id": "npnf208-3-70-191",
             "titulo": "Carta CXXI.2400",
             "conteudo": [
               {
@@ -5310,7 +5337,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-191",
+            "id": "npnf208-3-70-192",
             "titulo": "Carta CXXII.2402",
             "conteudo": [
               {
@@ -5325,7 +5352,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-192",
+            "id": "npnf208-3-70-193",
             "titulo": "Carta CXXIII.2404",
             "conteudo": [
               {
@@ -5336,7 +5363,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-193",
+            "id": "npnf208-3-70-194",
             "titulo": "Carta CXXIV.2406",
             "conteudo": [
               {
@@ -5347,7 +5374,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-194",
+            "id": "npnf208-3-70-195",
             "titulo": "Carta CXXV.2407",
             "conteudo": [
               {
@@ -5402,7 +5429,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-195",
+            "id": "npnf208-3-70-196",
             "titulo": "Carta CXXVI.2418",
             "conteudo": [
               {
@@ -5413,7 +5440,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-196",
+            "id": "npnf208-3-70-197",
             "titulo": "Carta CXXVII.2420",
             "conteudo": [
               {
@@ -5428,7 +5455,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-197",
+            "id": "npnf208-3-70-198",
             "titulo": "Carta CXXVIII.2422",
             "conteudo": [
               {
@@ -5447,7 +5474,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-198",
+            "id": "npnf208-3-70-199",
             "titulo": "Carta CXXIX.2427",
             "conteudo": [
               {
@@ -5466,7 +5493,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-199",
+            "id": "npnf208-3-70-200",
             "titulo": "Carta CXXX.2430",
             "conteudo": [
               {
@@ -5481,7 +5508,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-200",
+            "id": "npnf208-3-70-201",
             "titulo": "Carta CXXXI.2436",
             "conteudo": [
               {
@@ -5500,7 +5527,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-201",
+            "id": "npnf208-3-70-202",
             "titulo": "Carta CXXXII.2439",
             "conteudo": [
               {
@@ -5511,7 +5538,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-202",
+            "id": "npnf208-3-70-203",
             "titulo": "Carta CXXXIII.",
             "conteudo": [
               {
@@ -5522,7 +5549,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-203",
+            "id": "npnf208-3-70-204",
             "titulo": "Carta CXXXIV.2442",
             "conteudo": [
               {
@@ -5533,7 +5560,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-204",
+            "id": "npnf208-3-70-205",
             "titulo": "Carta CXXXV.2443",
             "conteudo": [
               {
@@ -5548,7 +5575,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-205",
+            "id": "npnf208-3-70-206",
             "titulo": "Carta CXXXVI.2445",
             "conteudo": [
               {
@@ -5563,7 +5590,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-206",
+            "id": "npnf208-3-70-207",
             "titulo": "Carta CXXXVII.2447",
             "conteudo": [
               {
@@ -5574,7 +5601,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-207",
+            "id": "npnf208-3-70-208",
             "titulo": "Carta CXXXVIII.2450",
             "conteudo": [
               {
@@ -5597,7 +5624,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-208",
+            "id": "npnf208-3-70-209",
             "titulo": "Carta CXXXIX.2456",
             "conteudo": [
               {
@@ -5612,7 +5639,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-209",
+            "id": "npnf208-3-70-210",
             "titulo": "Carta CXL.2463",
             "conteudo": [
               {
@@ -5627,7 +5654,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-210",
+            "id": "npnf208-3-70-211",
             "titulo": "Carta CXLI.2466",
             "conteudo": [
               {
@@ -5642,7 +5669,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-211",
+            "id": "npnf208-3-70-212",
             "titulo": "Carta CXLII.2470",
             "conteudo": [
               {
@@ -5653,7 +5680,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-212",
+            "id": "npnf208-3-70-213",
             "titulo": "Carta CXLIII.2473",
             "conteudo": [
               {
@@ -5664,7 +5691,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-213",
+            "id": "npnf208-3-70-214",
             "titulo": "Carta CXLIV.2475",
             "conteudo": [
               {
@@ -5675,7 +5702,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-214",
+            "id": "npnf208-3-70-215",
             "titulo": "Carta CXLV.2477",
             "conteudo": [
               {
@@ -5686,7 +5713,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-215",
+            "id": "npnf208-3-70-216",
             "titulo": "Carta CXLVI.2481",
             "conteudo": [
               {
@@ -5697,7 +5724,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-216",
+            "id": "npnf208-3-70-217",
             "titulo": "Carta CXLVII.2484",
             "conteudo": [
               {
@@ -5708,7 +5735,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-217",
+            "id": "npnf208-3-70-218",
             "titulo": "Carta CXLVIII.2486",
             "conteudo": [
               {
@@ -5719,7 +5746,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-218",
+            "id": "npnf208-3-70-219",
             "titulo": "Carta CXLIX.2488",
             "conteudo": [
               {
@@ -5730,7 +5757,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-219",
+            "id": "npnf208-3-70-220",
             "titulo": "Carta CL.2490",
             "conteudo": [
               {
@@ -5757,7 +5784,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-220",
+            "id": "npnf208-3-70-221",
             "titulo": "Carta CLI.2499",
             "conteudo": [
               {
@@ -5772,7 +5799,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-221",
+            "id": "npnf208-3-70-222",
             "titulo": "Carta CLII.2503",
             "conteudo": [
               {
@@ -5787,7 +5814,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-222",
+            "id": "npnf208-3-70-223",
             "titulo": "Carta CLIIII.2505",
             "conteudo": [
               {
@@ -5802,7 +5829,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-223",
+            "id": "npnf208-3-70-224",
             "titulo": "Carta CLIV.2506",
             "conteudo": [
               {
@@ -5817,7 +5844,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-224",
+            "id": "npnf208-3-70-225",
             "titulo": "Carta CLV.2508",
             "conteudo": [
               {
@@ -5832,7 +5859,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-225",
+            "id": "npnf208-3-70-226",
             "titulo": "Carta CLVI.2512",
             "conteudo": [
               {
@@ -5855,7 +5882,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-226",
+            "id": "npnf208-3-70-227",
             "titulo": "Carta CLVII.2515",
             "conteudo": [
               {
@@ -5870,7 +5897,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-227",
+            "id": "npnf208-3-70-228",
             "titulo": "Carta CLVIII.2517",
             "conteudo": [
               {
@@ -5885,7 +5912,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-228",
+            "id": "npnf208-3-70-229",
             "titulo": "Carta CLIX.2518",
             "conteudo": [
               {
@@ -5904,7 +5931,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-229",
+            "id": "npnf208-3-70-230",
             "titulo": "Carta CLX.2526",
             "conteudo": [
               {
@@ -5935,7 +5962,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-230",
+            "id": "npnf208-3-70-231",
             "titulo": "Carta CLXI.2540",
             "conteudo": [
               {
@@ -5954,7 +5981,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-231",
+            "id": "npnf208-3-70-232",
             "titulo": "Carta CLXII.2544",
             "conteudo": [
               {
@@ -5969,7 +5996,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-232",
+            "id": "npnf208-3-70-233",
             "titulo": "Carta CLXIII.2546",
             "conteudo": [
               {
@@ -5984,7 +6011,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-233",
+            "id": "npnf208-3-70-234",
             "titulo": "Carta CLXIV.2547",
             "conteudo": [
               {
@@ -6003,7 +6030,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-234",
+            "id": "npnf208-3-70-235",
             "titulo": "Carta CLXV.2551",
             "conteudo": [
               {
@@ -6018,7 +6045,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-235",
+            "id": "npnf208-3-70-236",
             "titulo": "Carta CLXVI.2553",
             "conteudo": [
               {
@@ -6029,7 +6056,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-236",
+            "id": "npnf208-3-70-237",
             "titulo": "Carta CLXVII.2555",
             "conteudo": [
               {
@@ -6044,7 +6071,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-237",
+            "id": "npnf208-3-70-238",
             "titulo": "Carta CLXVIII.2556",
             "conteudo": [
               {
@@ -6059,7 +6086,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-238",
+            "id": "npnf208-3-70-239",
             "titulo": "Carta CLXIX.2559",
             "conteudo": [
               {
@@ -6078,7 +6105,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-239",
+            "id": "npnf208-3-70-240",
             "titulo": "Carta CLXX.2564",
             "conteudo": [
               {
@@ -6093,7 +6120,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-240",
+            "id": "npnf208-3-70-241",
             "titulo": "Carta CLXXI.2567",
             "conteudo": [
               {
@@ -6108,7 +6135,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-241",
+            "id": "npnf208-3-70-242",
             "titulo": "Carta CLXXII.2568",
             "conteudo": [
               {
@@ -6123,7 +6150,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-242",
+            "id": "npnf208-3-70-243",
             "titulo": "Carta CLXXIII.2572",
             "conteudo": [
               {
@@ -6138,7 +6165,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-243",
+            "id": "npnf208-3-70-244",
             "titulo": "Carta CLXXIV.2574",
             "conteudo": [
               {
@@ -6161,7 +6188,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-244",
+            "id": "npnf208-3-70-245",
             "titulo": "Carta CLXXV.2576",
             "conteudo": [
               {
@@ -6176,7 +6203,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-245",
+            "id": "npnf208-3-70-246",
             "titulo": "Carta CLXXVI.2581",
             "conteudo": [
               {
@@ -6191,7 +6218,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-246",
+            "id": "npnf208-3-70-247",
             "titulo": "Carta CLXXVII.2586",
             "conteudo": [
               {
@@ -6206,7 +6233,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-247",
+            "id": "npnf208-3-70-248",
             "titulo": "Carta CLXXVIII.2587",
             "conteudo": [
               {
@@ -6221,7 +6248,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-248",
+            "id": "npnf208-3-70-249",
             "titulo": "Carta CLXXIX.2590",
             "conteudo": [
               {
@@ -6236,7 +6263,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-249",
+            "id": "npnf208-3-70-250",
             "titulo": "Carta CLXXX.2592",
             "conteudo": [
               {
@@ -6251,7 +6278,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-250",
+            "id": "npnf208-3-70-251",
             "titulo": "Carta CLXXXI.2593",
             "conteudo": [
               {
@@ -6270,7 +6297,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-251",
+            "id": "npnf208-3-70-252",
             "titulo": "Carta CLXXXII.2596",
             "conteudo": [
               {
@@ -6285,7 +6312,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-252",
+            "id": "npnf208-3-70-253",
             "titulo": "Carta CLXXXIII.2598",
             "conteudo": [
               {
@@ -6308,7 +6335,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-253",
+            "id": "npnf208-3-70-254",
             "titulo": "Carta CLXXXIV.2601",
             "conteudo": [
               {
@@ -6323,7 +6350,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-254",
+            "id": "npnf208-3-70-255",
             "titulo": "Carta CLXXXV.2603",
             "conteudo": [
               {
@@ -6338,7 +6365,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-255",
+            "id": "npnf208-3-70-256",
             "titulo": "Carta CLXXXVI.2605",
             "conteudo": [
               {
@@ -6353,7 +6380,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-256",
+            "id": "npnf208-3-70-257",
             "titulo": "Carta CLXXXVII.",
             "conteudo": [
               {
@@ -6368,7 +6395,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-257",
+            "id": "npnf208-3-70-258",
             "titulo": "Carta CLXXXVIII.2611",
             "conteudo": [
               {
@@ -6467,7 +6494,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-258",
+            "id": "npnf208-3-70-259",
             "titulo": "Carta CLXXXIX.2651",
             "conteudo": [
               {
@@ -6510,7 +6537,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-259",
+            "id": "npnf208-3-70-260",
             "titulo": "Carta CXC.2663",
             "conteudo": [
               {
@@ -6545,7 +6572,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-260",
+            "id": "npnf208-3-70-261",
             "titulo": "Carta CXCI.2671",
             "conteudo": [
               {
@@ -6560,7 +6587,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-261",
+            "id": "npnf208-3-70-262",
             "titulo": "Letter CXCII.2678",
             "conteudo": [
               {
@@ -6575,7 +6602,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-262",
+            "id": "npnf208-3-70-263",
             "titulo": "Carta CXCIII.2679",
             "conteudo": [
               {
@@ -6590,7 +6617,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-263",
+            "id": "npnf208-3-70-264",
             "titulo": "Carta CXCIV.2681",
             "conteudo": [
               {
@@ -6605,7 +6632,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-264",
+            "id": "npnf208-3-70-265",
             "titulo": "Carta CXCV.2682",
             "conteudo": [
               {
@@ -6620,7 +6647,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-265",
+            "id": "npnf208-3-70-266",
             "titulo": "Carta CXCVI.2683",
             "conteudo": [
               {
@@ -6635,7 +6662,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-266",
+            "id": "npnf208-3-70-267",
             "titulo": "Carta CXCVII.2684",
             "conteudo": [
               {
@@ -6658,7 +6685,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-267",
+            "id": "npnf208-3-70-268",
             "titulo": "Carta CXCVIII.2690",
             "conteudo": [
               {
@@ -6677,7 +6704,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-268",
+            "id": "npnf208-3-70-269",
             "titulo": "Carta CXCIX.2692",
             "conteudo": [
               {
@@ -6828,7 +6855,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-269",
+            "id": "npnf208-3-70-270",
             "titulo": "Carta CC.2723",
             "conteudo": [
               {
@@ -6843,7 +6870,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-270",
+            "id": "npnf208-3-70-271",
             "titulo": "Carta CCI.2724",
             "conteudo": [
               {
@@ -6858,7 +6885,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-271",
+            "id": "npnf208-3-70-272",
             "titulo": "Carta CCII.2725",
             "conteudo": [
               {
@@ -6873,7 +6900,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-272",
+            "id": "npnf208-3-70-273",
             "titulo": "Carta CCIII.2727",
             "conteudo": [
               {
@@ -6900,7 +6927,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-273",
+            "id": "npnf208-3-70-274",
             "titulo": "Carta CCIV.2733",
             "conteudo": [
               {
@@ -6939,7 +6966,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-274",
+            "id": "npnf208-3-70-275",
             "titulo": "Carta CCV.2751",
             "conteudo": [
               {
@@ -6954,7 +6981,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-275",
+            "id": "npnf208-3-70-276",
             "titulo": "Carta CCVI.2753",
             "conteudo": [
               {
@@ -6969,7 +6996,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-276",
+            "id": "npnf208-3-70-277",
             "titulo": "Carta CCVII.2754",
             "conteudo": [
               {
@@ -7000,7 +7027,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-277",
+            "id": "npnf208-3-70-278",
             "titulo": "Carta CCVIII.2766",
             "conteudo": [
               {
@@ -7015,7 +7042,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-278",
+            "id": "npnf208-3-70-279",
             "titulo": "Carta CCIX.2767",
             "conteudo": [
               {
@@ -7030,7 +7057,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-279",
+            "id": "npnf208-3-70-280",
             "titulo": "Carta CCX.2768",
             "conteudo": [
               {
@@ -7069,7 +7096,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-280",
+            "id": "npnf208-3-70-281",
             "titulo": "Carta CCXI.2798",
             "conteudo": [
               {
@@ -7084,7 +7111,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-281",
+            "id": "npnf208-3-70-282",
             "titulo": "Carta CCXII.2800",
             "conteudo": [
               {
@@ -7107,7 +7134,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-282",
+            "id": "npnf208-3-70-283",
             "titulo": "Carta CCXIII.2804",
             "conteudo": [
               {
@@ -7126,7 +7153,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-283",
+            "id": "npnf208-3-70-284",
             "titulo": "Carta CCXIV.2809",
             "conteudo": [
               {
@@ -7153,7 +7180,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-284",
+            "id": "npnf208-3-70-285",
             "titulo": "Carta CCXV.2821",
             "conteudo": [
               {
@@ -7168,7 +7195,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-285",
+            "id": "npnf208-3-70-286",
             "titulo": "Carta CCXVI.2823",
             "conteudo": [
               {
@@ -7183,7 +7210,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-286",
+            "id": "npnf208-3-70-287",
             "titulo": "Carta CCXVII.",
             "conteudo": [
               {
@@ -7338,7 +7365,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-287",
+            "id": "npnf208-3-70-288",
             "titulo": "Carta CCXVIII.2853",
             "conteudo": [
               {
@@ -7353,7 +7380,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-288",
+            "id": "npnf208-3-70-289",
             "titulo": "Carta CCXIX.2862",
             "conteudo": [
               {
@@ -7376,7 +7403,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-289",
+            "id": "npnf208-3-70-290",
             "titulo": "Carta CCXX.2868",
             "conteudo": [
               {
@@ -7391,7 +7418,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-290",
+            "id": "npnf208-3-70-291",
             "titulo": "Carta CCXXI.2871",
             "conteudo": [
               {
@@ -7406,7 +7433,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-291",
+            "id": "npnf208-3-70-292",
             "titulo": "Carta CCXXII.2872",
             "conteudo": [
               {
@@ -7421,7 +7448,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-292",
+            "id": "npnf208-3-70-293",
             "titulo": "Carta CCXXIII.2876",
             "conteudo": [
               {
@@ -7464,7 +7491,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-293",
+            "id": "npnf208-3-70-294",
             "titulo": "Carta CCXXIV.2903",
             "conteudo": [
               {
@@ -7487,7 +7514,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-294",
+            "id": "npnf208-3-70-295",
             "titulo": "Carta CCXXV.2910",
             "conteudo": [
               {
@@ -7502,7 +7529,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-295",
+            "id": "npnf208-3-70-296",
             "titulo": "Carta CCXXVI.2914",
             "conteudo": [
               {
@@ -7529,7 +7556,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-296",
+            "id": "npnf208-3-70-297",
             "titulo": "Carta CCXXVII.2929",
             "conteudo": [
               {
@@ -7544,7 +7571,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-297",
+            "id": "npnf208-3-70-298",
             "titulo": "Carta CCXXVIII.2933",
             "conteudo": [
               {
@@ -7559,7 +7586,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-298",
+            "id": "npnf208-3-70-299",
             "titulo": "Carta CCXXIX.2934",
             "conteudo": [
               {
@@ -7578,7 +7605,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-299",
+            "id": "npnf208-3-70-300",
             "titulo": "Carta CCXXX.2937",
             "conteudo": [
               {
@@ -7593,7 +7620,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-300",
+            "id": "npnf208-3-70-301",
             "titulo": "Carta CCXXXI.2940",
             "conteudo": [
               {
@@ -7612,7 +7639,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-301",
+            "id": "npnf208-3-70-302",
             "titulo": "Carta CCXXXII.2947",
             "conteudo": [
               {
@@ -7627,7 +7654,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-302",
+            "id": "npnf208-3-70-303",
             "titulo": "Carta CCXXXIII.2950",
             "conteudo": [
               {
@@ -7646,7 +7673,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-303",
+            "id": "npnf208-3-70-304",
             "titulo": "Carta CCXXXIV.2955",
             "conteudo": [
               {
@@ -7669,7 +7696,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-304",
+            "id": "npnf208-3-70-305",
             "titulo": "Carta CCXXXV.2960",
             "conteudo": [
               {
@@ -7692,7 +7719,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-305",
+            "id": "npnf208-3-70-306",
             "titulo": "Carta CCXXXVI.2975",
             "conteudo": [
               {
@@ -7743,7 +7770,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-306",
+            "id": "npnf208-3-70-307",
             "titulo": "Carta CCXXXVII.3002",
             "conteudo": [
               {
@@ -7762,7 +7789,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-307",
+            "id": "npnf208-3-70-308",
             "titulo": "Carta CCXXXVIII.3011",
             "conteudo": [
               {
@@ -7777,7 +7804,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-308",
+            "id": "npnf208-3-70-309",
             "titulo": "Carta CCXXXIX.3015",
             "conteudo": [
               {
@@ -7812,7 +7839,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-309",
+            "id": "npnf208-3-70-310",
             "titulo": "Carta CCXL.3022",
             "conteudo": [
               {
@@ -7835,7 +7862,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-310",
+            "id": "npnf208-3-70-311",
             "titulo": "Carta CCXLI.3029",
             "conteudo": [
               {
@@ -7850,7 +7877,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-311",
+            "id": "npnf208-3-70-312",
             "titulo": "Carta CCXLII.3030",
             "conteudo": [
               {
@@ -7873,7 +7900,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-312",
+            "id": "npnf208-3-70-313",
             "titulo": "Carta CCXLIII.3036",
             "conteudo": [
               {
@@ -7904,7 +7931,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-313",
+            "id": "npnf208-3-70-314",
             "titulo": "Carta CCXLIV.3051",
             "conteudo": [
               {
@@ -7951,7 +7978,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-314",
+            "id": "npnf208-3-70-315",
             "titulo": "Para Patrófilo, bispo de Ægæ.",
             "conteudo": [
               {
@@ -7966,7 +7993,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-315",
+            "id": "npnf208-3-70-316",
             "titulo": "Carta CCXLVI.3084",
             "conteudo": [
               {
@@ -7981,7 +8008,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-316",
+            "id": "npnf208-3-70-317",
             "titulo": "—",
             "conteudo": [
               {
@@ -8000,7 +8027,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-317",
+            "id": "npnf208-3-70-318",
             "titulo": "Carta CCXLVIII.3087",
             "conteudo": [
               {
@@ -8015,7 +8042,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-318",
+            "id": "npnf208-3-70-319",
             "titulo": "Carta CCXLIX.3092",
             "conteudo": [
               {
@@ -8030,7 +8057,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-319",
+            "id": "npnf208-3-70-320",
             "titulo": "Carta CCL.3093",
             "conteudo": [
               {
@@ -8045,7 +8072,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-320",
+            "id": "npnf208-3-70-321",
             "titulo": "Carta CCLI.3096",
             "conteudo": [
               {
@@ -8084,7 +8111,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-321",
+            "id": "npnf208-3-70-322",
             "titulo": "Carta CCLII.3114",
             "conteudo": [
               {
@@ -8099,7 +8126,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-322",
+            "id": "npnf208-3-70-323",
             "titulo": "Carta CCLIII.3117",
             "conteudo": [
               {
@@ -8114,7 +8141,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-323",
+            "id": "npnf208-3-70-324",
             "titulo": "Carta CCLIV.3119",
             "conteudo": [
               {
@@ -8129,7 +8156,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-324",
+            "id": "npnf208-3-70-325",
             "titulo": "Carta CCLV.3121",
             "conteudo": [
               {
@@ -8144,7 +8171,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-325",
+            "id": "npnf208-3-70-326",
             "titulo": "Carta CCLVI.3123",
             "conteudo": [
               {
@@ -8159,7 +8186,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-326",
+            "id": "npnf208-3-70-327",
             "titulo": "Carta CCLVII.3129",
             "conteudo": [
               {
@@ -8178,7 +8205,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-327",
+            "id": "npnf208-3-70-328",
             "titulo": "Carta CCLVIII.3131",
             "conteudo": [
               {
@@ -8205,7 +8232,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-328",
+            "id": "npnf208-3-70-329",
             "titulo": "Carta CCLIX.3142",
             "conteudo": [
               {
@@ -8220,7 +8247,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-329",
+            "id": "npnf208-3-70-330",
             "titulo": "Carta CCLX.3143",
             "conteudo": [
               {
@@ -8275,7 +8302,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-330",
+            "id": "npnf208-3-70-331",
             "titulo": "Carta CCLXI.3167",
             "conteudo": [
               {
@@ -8302,7 +8329,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-331",
+            "id": "npnf208-3-70-332",
             "titulo": "Carta CCLXII.3183",
             "conteudo": [
               {
@@ -8321,7 +8348,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-332",
+            "id": "npnf208-3-70-333",
             "titulo": "Carta CCLXIII.3189",
             "conteudo": [
               {
@@ -8352,7 +8379,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-333",
+            "id": "npnf208-3-70-334",
             "titulo": "Carta CCLXIV.3195",
             "conteudo": [
               {
@@ -8367,7 +8394,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-334",
+            "id": "npnf208-3-70-335",
             "titulo": "Letter CCLXV.3199",
             "conteudo": [
               {
@@ -8390,7 +8417,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-335",
+            "id": "npnf208-3-70-336",
             "titulo": "Carta CCLXVI.3209",
             "conteudo": [
               {
@@ -8409,7 +8436,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-336",
+            "id": "npnf208-3-70-337",
             "titulo": "Carta CCLXVII.3213",
             "conteudo": [
               {
@@ -8424,7 +8451,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-337",
+            "id": "npnf208-3-70-338",
             "titulo": "Carta CCLXVIII.3215",
             "conteudo": [
               {
@@ -8439,7 +8466,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-338",
+            "id": "npnf208-3-70-339",
             "titulo": "Carta CCLXIX.3218",
             "conteudo": [
               {
@@ -8458,7 +8485,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-339",
+            "id": "npnf208-3-70-340",
             "titulo": "Carta CCLXX.3221",
             "conteudo": [
               {
@@ -8473,7 +8500,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-340",
+            "id": "npnf208-3-70-341",
             "titulo": "Carta CCLXXI.3224",
             "conteudo": [
               {
@@ -8488,7 +8515,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-341",
+            "id": "npnf208-3-70-342",
             "titulo": "Carta CCLXXII.3226",
             "conteudo": [
               {
@@ -8511,7 +8538,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-342",
+            "id": "npnf208-3-70-343",
             "titulo": "Carta CCLXXIII.3229",
             "conteudo": [
               {
@@ -8526,7 +8553,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-343",
+            "id": "npnf208-3-70-344",
             "titulo": "Carta CCLXXIV.3230",
             "conteudo": [
               {
@@ -8541,7 +8568,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-344",
+            "id": "npnf208-3-70-345",
             "titulo": "Carta CCLXXV.3231",
             "conteudo": [
               {
@@ -8556,7 +8583,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-345",
+            "id": "npnf208-3-70-346",
             "titulo": "Carta CCLXXVI.3232",
             "conteudo": [
               {
@@ -8571,7 +8598,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-346",
+            "id": "npnf208-3-70-347",
             "titulo": "Carta CCLXXVII.3233",
             "conteudo": [
               {
@@ -8594,7 +8621,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-347",
+            "id": "npnf208-3-70-348",
             "titulo": "Carta CCLXXVIII.3235",
             "conteudo": [
               {
@@ -8609,7 +8636,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-348",
+            "id": "npnf208-3-70-349",
             "titulo": "Carta CCLXXIX.3238",
             "conteudo": [
               {
@@ -8628,7 +8655,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-349",
+            "id": "npnf208-3-70-350",
             "titulo": "Carta CCLXXX.3239",
             "conteudo": [
               {
@@ -8647,7 +8674,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-350",
+            "id": "npnf208-3-70-351",
             "titulo": "Carta CCLXXXI.3240",
             "conteudo": [
               {
@@ -8674,7 +8701,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-351",
+            "id": "npnf208-3-70-352",
             "titulo": "Carta CCLXXXII.3241",
             "conteudo": [
               {
@@ -8697,7 +8724,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-352",
+            "id": "npnf208-3-70-353",
             "titulo": "Carta CCLXXXIII.3242",
             "conteudo": [
               {
@@ -8716,7 +8743,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-353",
+            "id": "npnf208-3-70-354",
             "titulo": "Carta CCLXXXIV.3243",
             "conteudo": [
               {
@@ -8739,7 +8766,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-354",
+            "id": "npnf208-3-70-355",
             "titulo": "Carta CCLXXXV.3244",
             "conteudo": [
               {
@@ -8762,7 +8789,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-355",
+            "id": "npnf208-3-70-356",
             "titulo": "Carta CCLXXXVI.3245",
             "conteudo": [
               {
@@ -8781,7 +8808,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-356",
+            "id": "npnf208-3-70-357",
             "titulo": "Carta CCLXXXVII.3247",
             "conteudo": [
               {
@@ -8800,7 +8827,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-357",
+            "id": "npnf208-3-70-358",
             "titulo": "Carta CCLXXXVIII.3248",
             "conteudo": [
               {
@@ -8819,7 +8846,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-358",
+            "id": "npnf208-3-70-359",
             "titulo": "Carta CCLXXXIX.3251",
             "conteudo": [
               {
@@ -8854,7 +8881,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-359",
+            "id": "npnf208-3-70-360",
             "titulo": "Carta CCXC.3253",
             "conteudo": [
               {
@@ -8881,7 +8908,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-360",
+            "id": "npnf208-3-70-361",
             "titulo": "Carta CCXCI.3255",
             "conteudo": [
               {
@@ -8920,7 +8947,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-361",
+            "id": "npnf208-3-70-362",
             "titulo": "Carta CCXCII.",
             "conteudo": [
               {
@@ -8943,7 +8970,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-362",
+            "id": "npnf208-3-70-363",
             "titulo": "Carta CCXCIII.",
             "conteudo": [
               {
@@ -8978,7 +9005,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-363",
+            "id": "npnf208-3-70-364",
             "titulo": "Carta CCXCIV.",
             "conteudo": [
               {
@@ -9013,7 +9040,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-364",
+            "id": "npnf208-3-70-365",
             "titulo": "Carta CCXCV.",
             "conteudo": [
               {
@@ -9048,7 +9075,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-365",
+            "id": "npnf208-3-70-366",
             "titulo": "Carta CCXCVI.",
             "conteudo": [
               {
@@ -9063,7 +9090,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-366",
+            "id": "npnf208-3-70-367",
             "titulo": "Carta CCXCVII.",
             "conteudo": [
               {
@@ -9078,7 +9105,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-367",
+            "id": "npnf208-3-70-368",
             "titulo": "Carta CCXCVIII.",
             "conteudo": [
               {
@@ -9093,7 +9120,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-368",
+            "id": "npnf208-3-70-369",
             "titulo": "Carta CCXCIX.",
             "conteudo": [
               {
@@ -9108,7 +9135,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-369",
+            "id": "npnf208-3-70-370",
             "titulo": "Carta CCC.",
             "conteudo": [
               {
@@ -9123,7 +9150,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-370",
+            "id": "npnf208-3-70-371",
             "titulo": "Carta CCCI.",
             "conteudo": [
               {
@@ -9138,7 +9165,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-371",
+            "id": "npnf208-3-70-372",
             "titulo": "Carta CCCII.",
             "conteudo": [
               {
@@ -9153,7 +9180,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-372",
+            "id": "npnf208-3-70-373",
             "titulo": "Carta CCCIII.",
             "conteudo": [
               {
@@ -9168,7 +9195,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-373",
+            "id": "npnf208-3-70-374",
             "titulo": "Carta CCCIV.",
             "conteudo": [
               {
@@ -9183,7 +9210,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-374",
+            "id": "npnf208-3-70-375",
             "titulo": "Carta CCCV.",
             "conteudo": [
               {
@@ -9198,7 +9225,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-375",
+            "id": "npnf208-3-70-376",
             "titulo": "Carta CCCVI.",
             "conteudo": [
               {
@@ -9213,7 +9240,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-376",
+            "id": "npnf208-3-70-377",
             "titulo": "Carta CCCVII.",
             "conteudo": [
               {
@@ -9228,7 +9255,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-377",
+            "id": "npnf208-3-70-378",
             "titulo": "Carta CCCVIII.",
             "conteudo": [
               {
@@ -9243,7 +9270,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-378",
+            "id": "npnf208-3-70-379",
             "titulo": "Carta CCCIX.",
             "conteudo": [
               {
@@ -9258,7 +9285,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-379",
+            "id": "npnf208-3-70-380",
             "titulo": "Carta CCCX.",
             "conteudo": [
               {
@@ -9273,7 +9300,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-380",
+            "id": "npnf208-3-70-381",
             "titulo": "Carta CCCXI.",
             "conteudo": [
               {
@@ -9284,7 +9311,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-381",
+            "id": "npnf208-3-70-382",
             "titulo": "Carta CCCXII.",
             "conteudo": [
               {
@@ -9295,7 +9322,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-382",
+            "id": "npnf208-3-70-383",
             "titulo": "Carta CCCXIII.",
             "conteudo": [
               {
@@ -9306,7 +9333,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-383",
+            "id": "npnf208-3-70-384",
             "titulo": "Carta CCCXIV.",
             "conteudo": [
               {
@@ -9321,7 +9348,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-384",
+            "id": "npnf208-3-70-385",
             "titulo": "Carta CCCXV.",
             "conteudo": [
               {
@@ -9336,7 +9363,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-385",
+            "id": "npnf208-3-70-386",
             "titulo": "Letras CCCXVI., CCCXVII., CCCXVIII., CCCXIX. Sem endereço.",
             "conteudo": [
               {
@@ -9347,7 +9374,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-386",
+            "id": "npnf208-3-70-387",
             "titulo": "Carta CCCXX.",
             "conteudo": [
               {
@@ -9362,7 +9389,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-387",
+            "id": "npnf208-3-70-388",
             "titulo": "Carta CCCXXI.",
             "conteudo": [
               {
@@ -9377,7 +9404,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-388",
+            "id": "npnf208-3-70-389",
             "titulo": "Carta CCCXXII.",
             "conteudo": [
               {
@@ -9392,7 +9419,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-389",
+            "id": "npnf208-3-70-390",
             "titulo": "Carta CCCXXIII.",
             "conteudo": [
               {
@@ -9403,7 +9430,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-390",
+            "id": "npnf208-3-70-391",
             "titulo": "Carta CCCXXIV.",
             "conteudo": [
               {
@@ -9414,7 +9441,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-391",
+            "id": "npnf208-3-70-392",
             "titulo": "Carta CCCXXV.",
             "conteudo": [
               {
@@ -9425,7 +9452,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-392",
+            "id": "npnf208-3-70-393",
             "titulo": "Carta CCCXXVI.",
             "conteudo": [
               {
@@ -9440,7 +9467,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-393",
+            "id": "npnf208-3-70-394",
             "titulo": "Carta CCCXXVII.",
             "conteudo": [
               {
@@ -9455,7 +9482,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-394",
+            "id": "npnf208-3-70-395",
             "titulo": "Carta CCCXXVIII.",
             "conteudo": [
               {
@@ -9470,7 +9497,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-395",
+            "id": "npnf208-3-70-396",
             "titulo": "Carta CCCXXIX.",
             "conteudo": [
               {
@@ -9485,7 +9512,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-396",
+            "id": "npnf208-3-70-397",
             "titulo": "Letras CCCXXX., CCCXXXI., CCCXXXII., CCCXXXIII.",
             "conteudo": [
               {
@@ -9496,7 +9523,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-397",
+            "id": "npnf208-3-70-398",
             "titulo": "Carta CCCXXXIV.",
             "conteudo": [
               {
@@ -9511,7 +9538,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-398",
+            "id": "npnf208-3-70-399",
             "titulo": "Carta CCCXXXV.",
             "conteudo": [
               {
@@ -9526,7 +9553,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-399",
+            "id": "npnf208-3-70-400",
             "titulo": "Carta CCCXXXVI.",
             "conteudo": [
               {
@@ -9549,7 +9576,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-400",
+            "id": "npnf208-3-70-401",
             "titulo": "Carta CCCXXXVII.",
             "conteudo": [
               {
@@ -9564,7 +9591,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-401",
+            "id": "npnf208-3-70-402",
             "titulo": "Carta CCCXXXVIII.",
             "conteudo": [
               {
@@ -9579,7 +9606,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-402",
+            "id": "npnf208-3-70-403",
             "titulo": "Carta CCCXXXIX.",
             "conteudo": [
               {
@@ -9594,7 +9621,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-403",
+            "id": "npnf208-3-70-404",
             "titulo": "Carta CCCXL.",
             "conteudo": [
               {
@@ -9609,7 +9636,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-404",
+            "id": "npnf208-3-70-405",
             "titulo": "Carta CCXLI.",
             "conteudo": [
               {
@@ -9624,7 +9651,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-405",
+            "id": "npnf208-3-70-406",
             "titulo": "Carta CCCXLII.",
             "conteudo": [
               {
@@ -9639,7 +9666,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-406",
+            "id": "npnf208-3-70-407",
             "titulo": "Carta CCCXLIII.",
             "conteudo": [
               {
@@ -9654,7 +9681,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-407",
+            "id": "npnf208-3-70-408",
             "titulo": "Carta CCCXLIV.",
             "conteudo": [
               {
@@ -9669,7 +9696,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-408",
+            "id": "npnf208-3-70-409",
             "titulo": "Carta CCCXLV.",
             "conteudo": [
               {
@@ -9684,7 +9711,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-409",
+            "id": "npnf208-3-70-410",
             "titulo": "Carta CCCXLVI.",
             "conteudo": [
               {
@@ -9703,7 +9730,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-410",
+            "id": "npnf208-3-70-411",
             "titulo": "Carta CCCXLVII.",
             "conteudo": [
               {
@@ -9718,7 +9745,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-411",
+            "id": "npnf208-3-70-412",
             "titulo": "Carta CCCXLVIII.",
             "conteudo": [
               {
@@ -9733,7 +9760,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-412",
+            "id": "npnf208-3-70-413",
             "titulo": "Carta CCCXLIX.",
             "conteudo": [
               {
@@ -9752,7 +9779,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-413",
+            "id": "npnf208-3-70-414",
             "titulo": "Carta CCCL.",
             "conteudo": [
               {
@@ -9767,7 +9794,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-414",
+            "id": "npnf208-3-70-415",
             "titulo": "Carta CCCLI.",
             "conteudo": [
               {
@@ -9782,7 +9809,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-415",
+            "id": "npnf208-3-70-416",
             "titulo": "Carta CCCLII.",
             "conteudo": [
               {
@@ -9797,7 +9824,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-416",
+            "id": "npnf208-3-70-417",
             "titulo": "Carta CCCLIII.",
             "conteudo": [
               {
@@ -9812,7 +9839,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-417",
+            "id": "npnf208-3-70-418",
             "titulo": "Carta CCCLIV.",
             "conteudo": [
               {
@@ -9827,7 +9854,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-418",
+            "id": "npnf208-3-70-419",
             "titulo": "Carta CCCLV.",
             "conteudo": [
               {
@@ -9842,7 +9869,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-419",
+            "id": "npnf208-3-70-420",
             "titulo": "Carta CCCLVI.",
             "conteudo": [
               {
@@ -9857,7 +9884,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-420",
+            "id": "npnf208-3-70-421",
             "titulo": "Carta CCCLVII.",
             "conteudo": [
               {
@@ -9872,7 +9899,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-421",
+            "id": "npnf208-3-70-422",
             "titulo": "Carta CCCLVIII.",
             "conteudo": [
               {
@@ -9887,7 +9914,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-422",
+            "id": "npnf208-3-70-423",
             "titulo": "Carta CCCLIX.",
             "conteudo": [
               {
@@ -9902,7 +9929,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-423",
+            "id": "npnf208-3-70-424",
             "titulo": "Carta CCCLX.3289",
             "conteudo": [
               {
@@ -9917,7 +9944,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-424",
+            "id": "npnf208-3-70-425",
             "titulo": "—",
             "conteudo": [
               {
@@ -9928,7 +9955,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf208-3-69-425",
+            "id": "npnf208-3-70-426",
             "titulo": "Carta CCCLXVI.3294",
             "conteudo": [
               {

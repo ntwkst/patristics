@@ -1,7 +1,7 @@
 [
   {
     "id": "npnf207-3",
-    "titulo": "—",
+    "titulo": "Capítulo I.—Vida de S. Cirilo.",
     "children": [
       {
         "id": "npnf207-3-4",
@@ -19,7 +19,38 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-3-6",
+        "id": "npnf207-3-5",
+        "titulo": "Preface.",
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "The present translation of the Catechetical Lectures of S. Cyril of Jerusalem is based on a careful revision of the English translation published in the “Library of the Fathers of the Holy Catholic Church,” with a most interesting Preface by John Henry Newman, dated from Oxford, The Feast of St. Matthew, 1838."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "In his Preface Mr. Newman stated with respect to the translation “that for almost the whole of it the Editors were indebted to Mr. Church, Fellow of Oriel College.” Mr. Church was at that time a very young man, having taken his First Class in Michaelmas Term, 1836; and this his first published work gave abundant promise of that peculiar felicity of expression, which made him in maturer life one of the most perfect masters of the English tongue. Having received full liberty to make such use of his translation as I might deem most desirable for the purpose of the present Edition, I have been obliged to exercise my own judgment both in preserving much of Dean Church’s work unaltered, and in revising it wherever the meaning of the original appeared to be less perfectly expressed."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "In this constant study and use of Dean Church’s earliest work I have had always before my mind a grateful and inspiring remembrance of one whose friendship it was my great privilege to enjoy during the few last saddened years of his saintly and noble life."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "In the notes of the Edition one of my chief objects has been to illustrate S. Cyril’s teaching by comparing it with the works of earlier Fathers to whom he may have been indebted, and with the writings of his contemporaries."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "In the chapters of the Introduction which touch on S. Cyril’s doctrines of Baptism, Chrism, and the Holy Eucharist, I have not attempted either to criticise or to defend his teaching, but simply to give as faithful a representation as I could of his actual meaning. The Eastern Church had long before S. Cyril’s day, and still has its own peculiar Sacramental doctrines, which, notwithstanding the efforts of rival theologians, can never be reduced to exact conformity with the tenets of our own or other Western Churches."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The Indices have been revised, and large additions made to the lists of Greek words, E.H.G. Oxford, 26 May, 1893."
+          }
+        ],
+        "idioma": "en"
+      },
+      {
+        "id": "npnf207-3-7",
         "titulo": "Capítulo I.—Vida de S. Cirilo.",
         "conteudo": [
           {
@@ -202,7 +233,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-3-7",
+        "id": "npnf207-3-8",
         "titulo": "Capítulo II. — Instrução Catequética.",
         "conteudo": [
           {
@@ -353,7 +384,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-3-8",
+        "id": "npnf207-3-9",
         "titulo": "Capítulo III. — Preparação especial para o batismo.",
         "conteudo": [
           {
@@ -432,7 +463,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-3-9",
+        "id": "npnf207-3-10",
         "titulo": "Capítulo IV. — Cerimônias de Batismo e Crisma.",
         "conteudo": [
           {
@@ -571,7 +602,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-3-10",
+        "id": "npnf207-3-11",
         "titulo": "Capítulo V. — Ritos Eucarísticos. Liturgia.",
         "conteudo": [
           {
@@ -690,7 +721,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-3-11",
+        "id": "npnf207-3-12",
         "titulo": "Capítulo VI. — Efeitos do Batismo e do Crisma.",
         "conteudo": [
           {
@@ -833,7 +864,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-3-12",
+        "id": "npnf207-3-13",
         "titulo": "Capítulo VII. — Doutrina Eucarística.",
         "conteudo": [
           {
@@ -956,7 +987,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-3-13",
+        "id": "npnf207-3-14",
         "titulo": "Capítulo VIII.—Local das Palestras de S. Cirilo.",
         "conteudo": [
           {
@@ -1011,7 +1042,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-3-14",
+        "id": "npnf207-3-15",
         "titulo": "Capítulo IX.—O tempo e a organização das palestras de S. Cirilo.",
         "conteudo": [
           {
@@ -1082,7 +1113,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-3-15",
+        "id": "npnf207-3-16",
         "titulo": "Capítulo X. — O Credo de Jerusalém: Doutrina da Santíssima Trindade.",
         "conteudo": [
           {
@@ -1285,7 +1316,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-3-16",
+        "id": "npnf207-3-17",
         "titulo": "Capítulo XI.-S. Escritos de Cirilo.",
         "conteudo": [
           {
@@ -1592,7 +1623,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-3-17",
+        "id": "npnf207-3-18",
         "titulo": "AS PALESTRAS CATEQUETICAS DE S. CIRIL, ARCEBISPO DE JERUSALÉM.",
         "conteudo": [
           {
@@ -1687,11 +1718,11 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-3-18",
-        "titulo": "PRIMEIRA PALESTRA CATEQUETICA do Nosso Santo Padre Cirilo,",
+        "id": "npnf207-3-19",
+        "titulo": "PRIMEIRA PALESTRA CATEQUETICA de Nosso Santo Padre Cirilo,",
         "children": [
           {
-            "id": "npnf207-3-18-19",
+            "id": "npnf207-3-19-20",
             "titulo": "Aula II.",
             "conteudo": [
               {
@@ -1790,7 +1821,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-20",
+            "id": "npnf207-3-19-21",
             "titulo": "Palestra III.",
             "conteudo": [
               {
@@ -1877,7 +1908,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-21",
+            "id": "npnf207-3-19-22",
             "titulo": "Aula IV.",
             "conteudo": [
               {
@@ -2108,7 +2139,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-22",
+            "id": "npnf207-3-19-23",
             "titulo": "Palestra V.",
             "conteudo": [
               {
@@ -2187,7 +2218,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-23",
+            "id": "npnf207-3-19-24",
             "titulo": "Aula VI.",
             "conteudo": [
               {
@@ -2350,7 +2381,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-24",
+            "id": "npnf207-3-19-25",
             "titulo": "Aula VII.",
             "conteudo": [
               {
@@ -2433,7 +2464,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-25",
+            "id": "npnf207-3-19-26",
             "titulo": "Aula VIII.",
             "conteudo": [
               {
@@ -2480,7 +2511,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-26",
+            "id": "npnf207-3-19-27",
             "titulo": "Aula IX.",
             "conteudo": [
               {
@@ -2575,7 +2606,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-27",
+            "id": "npnf207-3-19-28",
             "titulo": "Apêndice da Aula IX.",
             "conteudo": [
               {
@@ -2598,7 +2629,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-28",
+            "id": "npnf207-3-19-29",
             "titulo": "Palestra X.",
             "conteudo": [
               {
@@ -2693,7 +2724,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-29",
+            "id": "npnf207-3-19-30",
             "titulo": "Palestra XI.",
             "conteudo": [
               {
@@ -2808,7 +2839,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-30",
+            "id": "npnf207-3-19-31",
             "titulo": "Aula XII.",
             "conteudo": [
               {
@@ -2967,7 +2998,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-31",
+            "id": "npnf207-3-19-32",
             "titulo": "Palestra XIII.",
             "conteudo": [
               {
@@ -3146,7 +3177,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-32",
+            "id": "npnf207-3-19-33",
             "titulo": "Aula XIV.",
             "conteudo": [
               {
@@ -3293,7 +3324,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-33",
+            "id": "npnf207-3-19-34",
             "titulo": "Palestra XV.",
             "conteudo": [
               {
@@ -3440,7 +3471,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-34",
+            "id": "npnf207-3-19-35",
             "titulo": "Aula XVI.",
             "conteudo": [
               {
@@ -3583,7 +3614,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-35",
+            "id": "npnf207-3-19-36",
             "titulo": "Palestra XVII.",
             "conteudo": [
               {
@@ -3750,7 +3781,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-18-36",
+            "id": "npnf207-3-19-37",
             "titulo": "Palestra XVIII.",
             "conteudo": [
               {
@@ -3907,11 +3938,11 @@
         ]
       },
       {
-        "id": "npnf207-3-37",
+        "id": "npnf207-3-38",
         "titulo": "CINCO PALESTRAS CATEQUETICAS DO MESMO AUTOR, AOS RECÉM-BAPTIZADOS2357.",
         "children": [
           {
-            "id": "npnf207-3-37-38",
+            "id": "npnf207-3-38-39",
             "titulo": "Palestra XIX.",
             "conteudo": [
               {
@@ -3966,7 +3997,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-37-39",
+            "id": "npnf207-3-38-40",
             "titulo": "Palestra XX.",
             "conteudo": [
               {
@@ -4013,7 +4044,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-37-40",
+            "id": "npnf207-3-38-41",
             "titulo": "Palestra XXI.",
             "conteudo": [
               {
@@ -4056,7 +4087,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-37-41",
+            "id": "npnf207-3-38-42",
             "titulo": "Palestra XXII.",
             "conteudo": [
               {
@@ -4107,7 +4138,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-3-37-42",
+            "id": "npnf207-3-38-43",
             "titulo": "Palestra XXIII.",
             "conteudo": [
               {
@@ -4218,11 +4249,11 @@
     ]
   },
   {
-    "id": "npnf207-44",
+    "id": "npnf207-45",
     "titulo": "Prolegômenos.",
     "children": [
       {
-        "id": "npnf207-44-45",
+        "id": "npnf207-45-46",
         "titulo": "Seção I. — A Vida.",
         "conteudo": [
           {
@@ -4343,11 +4374,11 @@
     ]
   },
   {
-    "id": "npnf207-48",
+    "id": "npnf207-49",
     "titulo": "GREGÓRIO NAZIANZEN.",
     "children": [
       {
-        "id": "npnf207-48-49",
+        "id": "npnf207-49-50",
         "titulo": "Oração I.",
         "conteudo": [
           {
@@ -4382,7 +4413,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-48-50",
+        "id": "npnf207-49-51",
         "titulo": "Introdução à Oração II.",
         "conteudo": [
           {
@@ -4393,7 +4424,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-48-51",
+        "id": "npnf207-49-52",
         "titulo": "Oração II.",
         "conteudo": [
           {
@@ -4872,7 +4903,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-48-52",
+        "id": "npnf207-49-53",
         "titulo": "Oração III.",
         "conteudo": [
           {
@@ -4919,7 +4950,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-48-53",
+        "id": "npnf207-49-54",
         "titulo": "Oração VII.",
         "conteudo": [
           {
@@ -5030,7 +5061,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-48-54",
+        "id": "npnf207-49-55",
         "titulo": "Oração VIII.",
         "conteudo": [
           {
@@ -5141,7 +5172,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-48-55",
+        "id": "npnf207-49-56",
         "titulo": "Oração XII.",
         "conteudo": [
           {
@@ -5180,7 +5211,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-48-56",
+        "id": "npnf207-49-57",
         "titulo": "Oração XVI.",
         "conteudo": [
           {
@@ -5275,7 +5306,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-48-57",
+        "id": "npnf207-49-58",
         "titulo": "Oração XVIII.",
         "conteudo": [
           {
@@ -5466,7 +5497,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-48-58",
+        "id": "npnf207-49-59",
         "titulo": "Oração XXI.",
         "conteudo": [
           {
@@ -5631,11 +5662,11 @@
     ]
   },
   {
-    "id": "npnf207-59",
+    "id": "npnf207-60",
     "titulo": "Introdução às Orações “Teológicas”.",
     "children": [
       {
-        "id": "npnf207-59-60",
+        "id": "npnf207-60-61",
         "titulo": "Oração XXVII.",
         "conteudo": [
           {
@@ -5694,7 +5725,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-59-61",
+        "id": "npnf207-60-62",
         "titulo": "Oração XXVIII.",
         "conteudo": [
           {
@@ -5853,7 +5884,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-59-62",
+        "id": "npnf207-60-63",
         "titulo": "Oração XXIX.",
         "conteudo": [
           {
@@ -5972,7 +6003,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-59-63",
+        "id": "npnf207-60-64",
         "titulo": "Oração XXX.",
         "conteudo": [
           {
@@ -6071,11 +6102,11 @@
         "idioma": "en"
       },
       {
-        "id": "npnf207-59-64",
+        "id": "npnf207-60-65",
         "titulo": "A Quinta Oração Teológica.",
         "children": [
           {
-            "id": "npnf207-59-64-65",
+            "id": "npnf207-60-65-66",
             "titulo": "Oração XXXIII.",
             "conteudo": [
               {
@@ -6154,7 +6185,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-59-64-66",
+            "id": "npnf207-60-65-67",
             "titulo": "Oração XXXIV.",
             "conteudo": [
               {
@@ -6229,7 +6260,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-59-64-67",
+            "id": "npnf207-60-65-68",
             "titulo": "Oração XXXVII.",
             "conteudo": [
               {
@@ -6336,7 +6367,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-59-64-68",
+            "id": "npnf207-60-65-69",
             "titulo": "Oração XXXVIII.",
             "conteudo": [
               {
@@ -6439,7 +6470,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-59-64-69",
+            "id": "npnf207-60-65-70",
             "titulo": "Oração XXXIX.",
             "conteudo": [
               {
@@ -6562,7 +6593,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-59-64-70",
+            "id": "npnf207-60-65-71",
             "titulo": "Oração XL.",
             "conteudo": [
               {
@@ -6761,7 +6792,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-59-64-71",
+            "id": "npnf207-60-65-72",
             "titulo": "Oração XLI.",
             "conteudo": [
               {
@@ -6868,7 +6899,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-59-64-72",
+            "id": "npnf207-60-65-73",
             "titulo": "Oração XLII.",
             "conteudo": [
               {
@@ -6991,7 +7022,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-59-64-73",
+            "id": "npnf207-60-65-74",
             "titulo": "Oração XLIII.",
             "conteudo": [
               {
@@ -7338,7 +7369,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf207-59-64-74",
+            "id": "npnf207-60-65-75",
             "titulo": "Oração XLV.",
             "conteudo": [
               {
@@ -7481,19 +7512,19 @@
     ]
   },
   {
-    "id": "npnf207-75",
-    "titulo": "—",
+    "id": "npnf207-76",
+    "titulo": "Uma seleção das cartas de São Gregório Nazianzeno, ex-arcebispo de Constantinopla.",
     "children": [
       {
-        "id": "npnf207-75-76",
+        "id": "npnf207-76-77",
         "titulo": "Uma seleção das cartas de São Gregório Nazianzeno, ex-arcebispo de Constantinopla.",
         "children": [
           {
-            "id": "npnf207-75-76-77",
+            "id": "npnf207-76-77-78",
             "titulo": "Divisão I.",
             "children": [
               {
-                "id": "npnf207-75-76-77-78",
+                "id": "npnf207-76-77-78-79",
                 "titulo": "Para Nectário, Bispo de Constantinopla. (Ep. CCII.)",
                 "conteudo": [
                   {
@@ -7504,7 +7535,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-77-79",
+                "id": "npnf207-76-77-78-80",
                 "titulo": "A Cledônio, o sacerdote, contra Apolinário. (Ep. CI.)",
                 "conteudo": [
                   {
@@ -7563,7 +7594,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-77-80",
+                "id": "npnf207-76-77-78-81",
                 "titulo": "Contra Apolinário; A Segunda Carta a Cledônio. (Ep. CII.)",
                 "conteudo": [
                   {
@@ -7598,7 +7629,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-77-81",
+                "id": "npnf207-76-77-78-82",
                 "titulo": "Ep. CXXV. Para Olímpio.",
                 "conteudo": [
                   {
@@ -7611,12 +7642,12 @@
             ]
           },
           {
-            "id": "npnf207-75-76-82",
+            "id": "npnf207-76-77-83",
             "titulo": "Divisão II.",
             "children": [
               {
-                "id": "npnf207-75-76-82-83",
-                "titulo": "Ep. I. Para Basil, seu camarada.",
+                "id": "npnf207-76-77-83-84",
+                "titulo": "Ep. I. Para Basil, sua camarada.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7630,7 +7661,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-84",
+                "id": "npnf207-76-77-83-85",
                 "titulo": "Ep. II.",
                 "conteudo": [
                   {
@@ -7645,7 +7676,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-85",
+                "id": "npnf207-76-77-83-86",
                 "titulo": "Ep. 4.",
                 "conteudo": [
                   {
@@ -7664,7 +7695,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-86",
+                "id": "npnf207-76-77-83-87",
                 "titulo": "Ep. V.",
                 "conteudo": [
                   {
@@ -7695,7 +7726,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-87",
+                "id": "npnf207-76-77-83-88",
                 "titulo": "Ep. VI.",
                 "conteudo": [
                   {
@@ -7710,7 +7741,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-88",
+                "id": "npnf207-76-77-83-89",
                 "titulo": "Ep. VIII.",
                 "conteudo": [
                   {
@@ -7725,7 +7756,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-89",
+                "id": "npnf207-76-77-83-90",
                 "titulo": "Ep. XIX.",
                 "conteudo": [
                   {
@@ -7744,7 +7775,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-90",
+                "id": "npnf207-76-77-83-91",
                 "titulo": "Ep. XVI. A Eusébio, Bispo de Cesaréia.",
                 "conteudo": [
                   {
@@ -7755,7 +7786,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-91",
+                "id": "npnf207-76-77-83-92",
                 "titulo": "Ep. XVII. A Eusébio, Arcebispo de Cesaréia.",
                 "conteudo": [
                   {
@@ -7766,7 +7797,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-92",
+                "id": "npnf207-76-77-83-93",
                 "titulo": "Ep. XVIII. Para Eusébio de Cesaréia.",
                 "conteudo": [
                   {
@@ -7777,7 +7808,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-93",
+                "id": "npnf207-76-77-83-94",
                 "titulo": "Ep. XL. Ao Grande Basílio.",
                 "conteudo": [
                   {
@@ -7792,7 +7823,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-94",
+                "id": "npnf207-76-77-83-95",
                 "titulo": "Ep. XLI. Ao povo de Cesaréia, em nome de Seu Pai.",
                 "conteudo": [
                   {
@@ -7807,7 +7838,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-95",
+                "id": "npnf207-76-77-83-96",
                 "titulo": "Ep. XLIII. Aos Bispos.",
                 "conteudo": [
                   {
@@ -7822,7 +7853,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-96",
+                "id": "npnf207-76-77-83-97",
                 "titulo": "Ep. XLII. A Eusébio, Bispo de Samósata.",
                 "conteudo": [
                   {
@@ -7837,8 +7868,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-97",
-                "titulo": "Ep. XLV. Para Basílio.",
+                "id": "npnf207-76-77-83-98",
+                "titulo": "Ep. XLV. Pará Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7852,8 +7883,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-98",
-                "titulo": "Ep. XLVI. Para Basílio.",
+                "id": "npnf207-76-77-83-99",
+                "titulo": "Ep. XLVI. Pará Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7871,8 +7902,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-99",
-                "titulo": "Ep. XLVII. Para Basílio.",
+                "id": "npnf207-76-77-83-100",
+                "titulo": "Ep. XLVII. Pará Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7886,8 +7917,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-100",
-                "titulo": "Ep. XLVIII. Para Basílio.",
+                "id": "npnf207-76-77-83-101",
+                "titulo": "Ep. XLVIII. Pará Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7901,8 +7932,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-101",
-                "titulo": "Ep. XLIX. Para Basílio. (Os louvores do silêncio.)",
+                "id": "npnf207-76-77-83-102",
+                "titulo": "Ep. XLIX. Pará Basílio. (Os louvores do silêncio.)",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7912,7 +7943,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-102",
+                "id": "npnf207-76-77-83-103",
                 "titulo": "Ep. L. Para Basílio.",
                 "conteudo": [
                   {
@@ -7927,8 +7958,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-103",
-                "titulo": "Ep. LVIII. Para Basílio.",
+                "id": "npnf207-76-77-83-104",
+                "titulo": "Ep. LVIII. Pará Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7958,8 +7989,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-104",
-                "titulo": "Ep. LIX. Para Basílio.",
+                "id": "npnf207-76-77-83-105",
+                "titulo": "Ep. LIX. Pará Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7973,8 +8004,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-82-105",
-                "titulo": "Ep. LX. Para Basílio.",
+                "id": "npnf207-76-77-83-106",
+                "titulo": "Ep. LX. Pará Basílio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -7990,11 +8021,11 @@
             ]
           },
           {
-            "id": "npnf207-75-76-106",
+            "id": "npnf207-76-77-107",
             "titulo": "Divisão III.",
             "children": [
               {
-                "id": "npnf207-75-76-106-107",
+                "id": "npnf207-76-77-107-108",
                 "titulo": "§1. Cartas para seu irmão César.",
                 "conteudo": [
                   {
@@ -8009,7 +8040,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-108",
+                "id": "npnf207-76-77-107-109",
                 "titulo": "Ep. XIV. e XXIII.",
                 "conteudo": [
                   {
@@ -8024,7 +8055,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-109",
+                "id": "npnf207-76-77-107-110",
                 "titulo": "Ep. XXIII.",
                 "conteudo": [
                   {
@@ -8035,7 +8066,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-110",
+                "id": "npnf207-76-77-107-111",
                 "titulo": "Ep. XX.",
                 "conteudo": [
                   {
@@ -8058,8 +8089,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-111",
-                "titulo": "Ep. eu.",
+                "id": "npnf207-76-77-107-112",
+                "titulo": "Ep. UE.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8069,7 +8100,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-112",
+                "id": "npnf207-76-77-107-113",
                 "titulo": "Ep. LXXII.",
                 "conteudo": [
                   {
@@ -8084,7 +8115,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-113",
+                "id": "npnf207-76-77-107-114",
                 "titulo": "Ep. LXXIII.",
                 "conteudo": [
                   {
@@ -8095,7 +8126,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-114",
+                "id": "npnf207-76-77-107-115",
                 "titulo": "Ep. LXXIV.",
                 "conteudo": [
                   {
@@ -8106,7 +8137,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-115",
+                "id": "npnf207-76-77-107-116",
                 "titulo": "Ep. LXXVI.",
                 "conteudo": [
                   {
@@ -8117,7 +8148,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-116",
+                "id": "npnf207-76-77-107-117",
                 "titulo": "Ep. LXXXII.",
                 "conteudo": [
                   {
@@ -8128,7 +8159,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-117",
+                "id": "npnf207-76-77-107-118",
                 "titulo": "Ep. CLXXXII.",
                 "conteudo": [
                   {
@@ -8143,7 +8174,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-118",
+                "id": "npnf207-76-77-107-119",
                 "titulo": "Ep. CXCVII. Uma carta de condolências pela morte de sua irmã Theosebia.",
                 "conteudo": [
                   {
@@ -8158,7 +8189,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-119",
+                "id": "npnf207-76-77-107-120",
                 "titulo": "§3. Para Eusébio Bispo de Samósata.",
                 "conteudo": [
                   {
@@ -8169,7 +8200,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-120",
+                "id": "npnf207-76-77-107-121",
                 "titulo": "Ep. XLIV.",
                 "conteudo": [
                   {
@@ -8188,7 +8219,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-121",
+                "id": "npnf207-76-77-107-122",
                 "titulo": "Ep. LXIV.",
                 "conteudo": [
                   {
@@ -8203,7 +8234,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-122",
+                "id": "npnf207-76-77-107-123",
                 "titulo": "Ep. LXV.",
                 "conteudo": [
                   {
@@ -8222,7 +8253,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-123",
+                "id": "npnf207-76-77-107-124",
                 "titulo": "Ep. LXVI.",
                 "conteudo": [
                   {
@@ -8245,7 +8276,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-124",
+                "id": "npnf207-76-77-107-125",
                 "titulo": "Ep. XXI.",
                 "conteudo": [
                   {
@@ -8256,7 +8287,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-125",
+                "id": "npnf207-76-77-107-126",
                 "titulo": "Ep. XXII.",
                 "conteudo": [
                   {
@@ -8271,7 +8302,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-126",
+                "id": "npnf207-76-77-107-127",
                 "titulo": "Ep. XXIX.",
                 "conteudo": [
                   {
@@ -8290,7 +8321,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-127",
+                "id": "npnf207-76-77-107-128",
                 "titulo": "Ep. XXXVII.",
                 "conteudo": [
                   {
@@ -8305,7 +8336,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-128",
+                "id": "npnf207-76-77-107-129",
                 "titulo": "Ep. XXXIX.",
                 "conteudo": [
                   {
@@ -8320,7 +8351,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-129",
+                "id": "npnf207-76-77-107-130",
                 "titulo": "Ep. XIII.",
                 "conteudo": [
                   {
@@ -8335,7 +8366,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-130",
+                "id": "npnf207-76-77-107-131",
                 "titulo": "Ep. CXXXV.",
                 "conteudo": [
                   {
@@ -8350,7 +8381,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-131",
+                "id": "npnf207-76-77-107-132",
                 "titulo": "§5. Para Anfilóquio, o Jovem.",
                 "conteudo": [
                   {
@@ -8365,7 +8396,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-132",
+                "id": "npnf207-76-77-107-133",
                 "titulo": "Ep. XIII.",
                 "conteudo": [
                   {
@@ -8384,7 +8415,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-133",
+                "id": "npnf207-76-77-107-134",
                 "titulo": "Ep. XXV.",
                 "conteudo": [
                   {
@@ -8399,7 +8430,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-134",
+                "id": "npnf207-76-77-107-135",
                 "titulo": "Ep. XXVI.",
                 "conteudo": [
                   {
@@ -8414,7 +8445,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-135",
+                "id": "npnf207-76-77-107-136",
                 "titulo": "Ep. XXVII.",
                 "conteudo": [
                   {
@@ -8425,7 +8456,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-136",
+                "id": "npnf207-76-77-107-137",
                 "titulo": "Ep. XXVIII.",
                 "conteudo": [
                   {
@@ -8436,7 +8467,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-137",
+                "id": "npnf207-76-77-107-138",
                 "titulo": "Ep. LXII.",
                 "conteudo": [
                   {
@@ -8451,7 +8482,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-138",
+                "id": "npnf207-76-77-107-139",
                 "titulo": "Ep. LXIII. Para Anfilóquio, o Velho.",
                 "conteudo": [
                   {
@@ -8466,7 +8497,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-139",
+                "id": "npnf207-76-77-107-140",
                 "titulo": "Ep. CLXXI. Para Anfilóquio, Bispo de Icônio.",
                 "conteudo": [
                   {
@@ -8477,7 +8508,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-140",
+                "id": "npnf207-76-77-107-141",
                 "titulo": "Ep. CLXXXIV.",
                 "conteudo": [
                   {
@@ -8500,7 +8531,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-141",
+                "id": "npnf207-76-77-107-142",
                 "titulo": "Ep. LXXXVIII.",
                 "conteudo": [
                   {
@@ -8511,7 +8542,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-142",
+                "id": "npnf207-76-77-107-143",
                 "titulo": "Ep. XCI.",
                 "conteudo": [
                   {
@@ -8526,7 +8557,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-143",
+                "id": "npnf207-76-77-107-144",
                 "titulo": "Ep. CLI.",
                 "conteudo": [
                   {
@@ -8541,7 +8572,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-144",
+                "id": "npnf207-76-77-107-145",
                 "titulo": "Ep. CLXXXV.",
                 "conteudo": [
                   {
@@ -8556,7 +8587,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-145",
+                "id": "npnf207-76-77-107-146",
                 "titulo": "Ep. CLXXXVI.",
                 "conteudo": [
                   {
@@ -8571,7 +8602,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-146",
+                "id": "npnf207-76-77-107-147",
                 "titulo": "Ep. CCII.",
                 "conteudo": [
                   {
@@ -8582,7 +8613,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-147",
+                "id": "npnf207-76-77-107-148",
                 "titulo": "§7. Para Teodoro, Bispo de Tiana.",
                 "conteudo": [
                   {
@@ -8593,7 +8624,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-148",
+                "id": "npnf207-76-77-107-149",
                 "titulo": "Ep. LXXVII.",
                 "conteudo": [
                   {
@@ -8620,7 +8651,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-149",
+                "id": "npnf207-76-77-107-150",
                 "titulo": "Ep. CXV.",
                 "conteudo": [
                   {
@@ -8635,7 +8666,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-150",
+                "id": "npnf207-76-77-107-151",
                 "titulo": "Ep. CXXI.",
                 "conteudo": [
                   {
@@ -8650,7 +8681,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-151",
+                "id": "npnf207-76-77-107-152",
                 "titulo": "Ep. CXXII.",
                 "conteudo": [
                   {
@@ -8661,7 +8692,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-152",
+                "id": "npnf207-76-77-107-153",
                 "titulo": "Ep. CXXIII.",
                 "conteudo": [
                   {
@@ -8676,7 +8707,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-153",
+                "id": "npnf207-76-77-107-154",
                 "titulo": "Ep. CXXIV.",
                 "conteudo": [
                   {
@@ -8691,7 +8722,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-154",
+                "id": "npnf207-76-77-107-155",
                 "titulo": "Ep. CLI.",
                 "conteudo": [
                   {
@@ -8706,7 +8737,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-155",
+                "id": "npnf207-76-77-107-156",
                 "titulo": "Ep. CLIIII. Ao Bósforo, Bispo de Colônia.",
                 "conteudo": [
                   {
@@ -8721,7 +8752,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-156",
+                "id": "npnf207-76-77-107-157",
                 "titulo": "Ep. CLVI. Para Teodoro, Arcebispo de Tyana.",
                 "conteudo": [
                   {
@@ -8736,7 +8767,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-157",
+                "id": "npnf207-76-77-107-158",
                 "titulo": "Ep. CLXIII.",
                 "conteudo": [
                   {
@@ -8751,7 +8782,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-158",
+                "id": "npnf207-76-77-107-159",
                 "titulo": "Ep. CLXXXIII.",
                 "conteudo": [
                   {
@@ -8766,7 +8797,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-159",
+                "id": "npnf207-76-77-107-160",
                 "titulo": "Ep. CXXXIX.",
                 "conteudo": [
                   {
@@ -8789,7 +8820,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-160",
+                "id": "npnf207-76-77-107-161",
                 "titulo": "Ep. XII. (Cerca de 365 d.C.).",
                 "conteudo": [
                   {
@@ -8800,7 +8831,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-161",
+                "id": "npnf207-76-77-107-162",
                 "titulo": "Ep. LI.",
                 "conteudo": [
                   {
@@ -8815,7 +8846,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-162",
+                "id": "npnf207-76-77-107-163",
                 "titulo": "Ep. LII.",
                 "conteudo": [
                   {
@@ -8830,7 +8861,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-163",
+                "id": "npnf207-76-77-107-164",
                 "titulo": "Ep. LIII.",
                 "conteudo": [
                   {
@@ -8845,7 +8876,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-164",
+                "id": "npnf207-76-77-107-165",
                 "titulo": "Ep. LIV.",
                 "conteudo": [
                   {
@@ -8856,7 +8887,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-165",
+                "id": "npnf207-76-77-107-166",
                 "titulo": "Ep. LV.",
                 "conteudo": [
                   {
@@ -8875,7 +8906,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-166",
+                "id": "npnf207-76-77-107-167",
                 "titulo": "Ep. CIV.",
                 "conteudo": [
                   {
@@ -8886,7 +8917,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-167",
+                "id": "npnf207-76-77-107-168",
                 "titulo": "Ep. CV.",
                 "conteudo": [
                   {
@@ -8897,8 +8928,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-168",
-                "titulo": "Ep. IVC.",
+                "id": "npnf207-76-77-107-169",
+                "titulo": "Ep. VCI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8908,7 +8939,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-169",
+                "id": "npnf207-76-77-107-170",
                 "titulo": "Ep. CXXV.",
                 "conteudo": [
                   {
@@ -8919,7 +8950,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-170",
+                "id": "npnf207-76-77-107-171",
                 "titulo": "Ep. CXXVI.",
                 "conteudo": [
                   {
@@ -8934,7 +8965,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-171",
+                "id": "npnf207-76-77-107-172",
                 "titulo": "Ep. CXXXII.",
                 "conteudo": [
                   {
@@ -8949,7 +8980,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-172",
+                "id": "npnf207-76-77-107-173",
                 "titulo": "Ep. CXL.",
                 "conteudo": [
                   {
@@ -8960,7 +8991,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-173",
+                "id": "npnf207-76-77-107-174",
                 "titulo": "Ep. CXLI.",
                 "conteudo": [
                   {
@@ -8983,7 +9014,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-174",
+                "id": "npnf207-76-77-107-175",
                 "titulo": "Ep. CXLII.",
                 "conteudo": [
                   {
@@ -8994,7 +9025,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-175",
+                "id": "npnf207-76-77-107-176",
                 "titulo": "Ep. CXLIII.",
                 "conteudo": [
                   {
@@ -9005,7 +9036,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-176",
+                "id": "npnf207-76-77-107-177",
                 "titulo": "Ep. CXLIV.",
                 "conteudo": [
                   {
@@ -9020,7 +9051,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-177",
+                "id": "npnf207-76-77-107-178",
                 "titulo": "Ep. CXLV. Para Veriano.",
                 "conteudo": [
                   {
@@ -9031,7 +9062,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-178",
+                "id": "npnf207-76-77-107-179",
                 "titulo": "Para Olímpio. Ep. CXLVI.",
                 "conteudo": [
                   {
@@ -9046,7 +9077,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf207-75-76-106-179",
+                "id": "npnf207-76-77-107-180",
                 "titulo": "Ep. CLIV.",
                 "conteudo": [
                   {

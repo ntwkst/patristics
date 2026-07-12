@@ -1,10 +1,10 @@
 [
   {
-    "id": "npnf111-3",
-    "titulo": "—",
+    "id": "npnf111-4",
+    "titulo": "UM COMENTÁRIO SOBRE OS ATOS DOS APÓSTOLOS, DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA.2",
     "children": [
       {
-        "id": "npnf111-3-4",
+        "id": "npnf111-4-5",
         "titulo": "—",
         "conteudo": [
           {
@@ -19,12 +19,82 @@
         "idioma": "en"
       },
       {
-        "id": "npnf111-3-5",
+        "id": "npnf111-4-6",
+        "titulo": "Prefácio à Parte I. da Edição Oxford.",
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "The present volume of St. Chrysostom on the Acts of the Apostles has been delayed for some time by the difficulty of fixing the Text. Some farther account of the grounds on which this has been done will be given in the Preface to Part II. (vid. infra.) It may suffice for the present to say, that these Homilies appear to have been less carefully reported than usual, and published without a revision by the Author. The printed text was formed for the most part (Erasmus’s Latin Version entirely) from a manuscript, said to be of the tenth century, in which these Homilies are given in a very different form, evidently the work of a later hand, and intended to make them read more smoothly. The earlier text, shown to be such by internal evidence, and alone followed in the Catena and all other ancient extracts and compilations, is preserved in other mss. and appears to have been in general disregarded by former editors, from its difficulty. The Translation was originally made from Savile’s Text, by the Rev. J. Walker, M.A. of Brasenose College, and the Rev. J. Sheppard, M.A. of Oriel College, Oxford. The Editors are much indebted to the Rev. H. Browne, M.A. of Corpus Christi College, Cambridge, who has restored the Text and corrected the Translation accordingly, the difference being frequently so great as to require a passage to be translated anew. He has likewise undertaken to prepare the Greek Text for publication, and to supply the prefatory matter. Many passages will still be found imperfect and unsatisfactory, but it has been thought better to leave them evidently so, than to resort to uncertain conjectures. A few conjectural emendations, however, have been admitted into the Text, and many more suggested."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "C. Marriott."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Oxford, Feast of St. James. 1851."
+          }
+        ],
+        "idioma": "en"
+      },
+      {
+        "id": "npnf111-4-7",
+        "titulo": "Prefácio à Parte II. da Edição Oxford.",
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "The manifestly imperfect condition in which these Homilies have come to us may partly be accounted for by the circumstances of the times in which they were preached. It was in the Easter weeks of the third year of his residence at Constantinople as Archbishop, that St. Chrysostom began this course of Sermons; and during all the remaining part of that year (a.d. 400), the Capital of the East was kept in constant trouble and alarm by the revolt of Gainas and the Goths. Moreover, scarcely had the preaching commenced, when the complaints from the Churches of Asia Minor were brought (May, 400) before the Metropolitan See, which business during many months painfully occupied the Archbishop’s thoughts, and eventually demanded his presence at Ephesus. Few of St. Chrysostom’s Sermons were originally prepared in writing: certainly these were not: and as certainly the text, drawn up by no skilful hand from notes taken during the preaching, can never have been revised by the Preacher himself. This was a serious disadvantage: for these Homilies, if only from the novelty of the subject, stood especially in need of revision. The Acts of the Apostles, though read in the churches in the season between Easter and Pentecost, were seldom preached upon; and we find St. Chrysostom complaining in the opening of these Homilies, as also on an earlier occasion at Antioch, that this portion of the Scriptures was not so much read as it ought to be, nay, that there were “many to whom this Book was not even known.” (p. 1 and note l). Hence it is not surprising, if the Preacher was not always understood; and, in fact, the attentive reader will not unfrequently see reason to suspect, that the scribe (or “reporter,”) from whose notes the text was formed, did not rightly apprehend the sense of what he heard. Nor has the transcriber (or “redactor”) remedied the defects, whatever they may have been, of the original report. On the contrary, in other ways, of which we shall have to speak presently, he has often perplexed the sense, and sometimes entirely misrepresented the Preacher’s meaning."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The earliest mention of our Homilies is by Cassiodorus (a.d. 514), who relates, that with the assistance of friends he caused “the fifty-five Homilies on the Acts, by St. John, Bishop of Constantinople,” to be translated into Latin, Opp. t. ii. p. 544. This version unfortunately is lost.1 In the Canons of the Fifth and Sixth General Councils, St. Chrysostom’s view of the Seven Deacons in the Acts is cited at length from Hom. xiv. (p. 91). John of Damascus, de Fid. Orthod. iii. 15, (a.d. 730), cites as from the second of these Homilies a passage which appears in the first, being the comment on i. 9. Photius has an entry in the Bibliotheca relating to them, but by some mistake the number is given as fifty. Of the Catena on the Acts, compiled by a certain Andreas Presbyter of unknown age and country, but not later than the tenth century (for there is a manuscript of that age), a large proportion is taken from St. Chrysostom: and the Commentaries of OEcumenius (990) and Theophylact (1077) are in many places formed from the Catena: as also are the Scholia in mss. of the Acts. To these may be added the Florilegium or Eclogæ, a compilation the date of which is unknown, but certainly not later than the first half of the eleventh century. The Author of this work seems to have resorted to our Homilies once only (Hom. xix. p 139): but there, he, as all the rest who have been mentioned, used the text which in the notes we call the old text, and from which the present Translation is made."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "For there is another and a widely different text, by which alone, unfortunately, these Homilies have been known in modern times, except by the few who have had access to Manuscripts. In the National Library at Paris there is (No. 729) a manuscript (in our notes marked E, in Par. Ben. 2, D), which the Parisian Editor describes thus: Quorum (of six mss. on the Acts) antiquissimus, olim Colb. nunc Reg. 729, sæc. X., nitide et accurate scriptus, desinit in hom. quinquagesima. (This is a mistake; it reaches to the end of the 55th.) Of the other mss. he assigns A. B. C (No. 725, 6, 7), to the twelfth, fourteenth and thirteenth centuries respectively. These, and a copy in the Library of New College (N), contain the old text. Two others D, F, (728, and 73 suppl.) exhibit a text compiled from old and new, and with alterations peculiar to itself. Of the six Parisian mss. a full collation was made for “the Library of the Fathers:” of N we have at present but a partial collation."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The ms. E. came into the hands of Erasmus, and from it he made his Latin version, down to the end of Hom. liii. and there for some reason which is not explained he goes off to the other text, of which he has nowhere taken notice in the preceding Homilies. Of this work he says in an Epistle to Tonstal, Bishop of Durham: Ex Chrysostomo in Acta verteram homilias tres; cujus operæ me poenituit, cum nihil hic viderem Chrysostomi. Tuo tamen hortatu recepi codicem in manum; sed nihil unquam legi indoctius. Ebrius ac stertens scriberem meliora. Habet frigidos sensiculos nec eos satis commode potest explicare. In his Preface, however, he considerably abates the severity of this censure, and contents himself with hinting a doubt whether the work be St. Chrysostom’s: quod stylus concisum quiddam et abruptum habeat, id quod a phrasi Chrysostomi videtur alienum: si docti tamen censebunt opus Chrysostomo dignum, libenter hoc ego quicquid est suspicionis ponam."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Of the Greek text, the editio princeps, that of Commelin, professes to be formed from manuscripts Biblioth. Palatinæ Bavaræ, Augustanæ, Pistorianæ, of which at present we are unable to give any account. Perhaps Commelin’s leading ms. was of a composite order: such however is his text; for it occasionally deserts E, to which, as a general rule, it closely adheres. This was inconsistent, for the circumstances of the two texts are such, that one or other ought to be followed throughout. There can be no valid reason for alternating between the two: for they are not different reports of the same matter, such that between them one might hope to approximate to the truth: the one is a refashionment of the other, and where it differs, it does so, not because its framer had a more correct report of the Sermons, but because he wished to improve upon the materials which lay before him in the other text."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Commelin’s text, in substance, is retained in all the subsequent editions. Savile, from the New College ms. has corrected words and phrases here and there, but in the main his text is still that of the editio princeps. (He describes it as composed from the New College ms., another belonging to J. A. de Thou (Thuanus), et tertio non ita pridem excuso in Germania.) The edition of Morel (which commonly goes under the name of Fronto Ducæus) repeats Commelin, but without Savile’s emendations: and the Benedictines (here not Montfaucon), though they profess to have collated the Parisian mss., have reprinted with but slight improvements, and with not a few disimprovements, the text of Morel. In the Parisian reprint of the Benedictine Chrysostom (Par. Ben. 2), the Editor has occasionally, but not constantly, recurred to the manuscripts, rarely gives the preference to the text of A. B. C., and constantly assumes the inferiority of those copies, in contents and authenticity as well as in antiquity, to the manuscript (E), which furnished the Latin version of Erasmus, and in substance, as we have explained, the printed text of the original."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Had the Editors collated the manuscript copies of these Homilies—a labor from which they, or those whom they employed, seem to have shrunk—they would probably have reversed their estimate of the relative value of the two recensions. The general superiority of the other text in point of sense and coherence, notwithstanding its frequent abruptness and uncouthness, is too evident to be called in question. Had they also collated the Catena, OEcumenius, Theophylact, and the Scholia, they would have found the external testimony to be coincident with the internal evidence to the higher antiquity as well as greater authenticity of the text which (for the most part unknown) they rejected. It would have been seen that this, besides being, with all its faults, incomparably better, was the older of the two; and that the other could claim no higher antiquity than that of the manuscript (said to be of the tenth century) in which it appears: that it is the work of some scribe, who, offended by the manifest abruptness and ruggedness of the earlier text, set himself to smooth out the difficulties, and to make it read more easily. For this is clearly the true state of the case. With this view, the scribe sometimes alters words and phrases, sometimes transposes: often omits, where he found something that he did not understand, oftener still amplifies, or rather dilutes: and interpolates matter which sometimes is demonstrably borrowed with little disguise from the Catena (see p. 113, note 1; 279, note 3; 280, note 2); or which, when it is his own, is little worth. In short, he has thought more of sound than of sense, and if he could make a passage run smoothly to the ear, has given himself little concern whether St. Chrysostom was likely to have so thought, or so expressed himself. The notes appended to our Translation will abundantly substantiate this censure. To have noted all the variations, either of the printed text, or of E alone, would have been a task as unprofitable as it was wearisome: perhaps as it is, we have given more than enough to vindicate the claims of the older text. If any one desires larger materials for comparison, Erasmus’ Latin version, which, except in the two last Homilies, keeps close to E, will show that the text which we represent in our Translation is, with all its imperfections, incomparably the better of the two. Even if it were otherwise and were the alterations not, as they mostly are, disfigurements, but, considered in themselves, decided improvements, still our duty was plain: the text which came to us accredited by all the testimony known to be extant, we were not at liberty to reject in favor of an alien recension, unknown to the Ancients, and, as far as our evidence goes, unheard of before the tenth century. Therefore, in forming the text for this Translation we have entirely dismissed E, except where it has preserved readings which came strictly under the description of “various readings.”"
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "But while confining ourselves to that older text, we were not to leave unnoticed its more patent defects and errors. We could not but perceive, that we had before us an unrevised report of St. Chrysostom’s Sermons, which, especially in the Expositions, was frequently imperfect—sometimes, indeed, little more than a set of rough notes thrown together, with, apparently, little or no attempt at arrangement. So far as this imperfection was caused by the reporter’s negligence or incapacity, there was no remedy: and leaving the matter as we found it, or, at most, inserting in the text the marks of a lacuna, we have only ventured, in the notes, to surmise what may have been the general purport of St. Chrysostom’s remarks. In other places, where the defects of our sources seemed to be rather chargeable upon the redactor, we have sought to apply a remedy, sometimes, but rarely, by conjectural emendation; very often by inserting portions of sacred text or other connecting matter in [], and also by transposing parts which had fallen out of their true order. For it seems that the original transcript from the reporter’s notes was defective in these two regards. (1) The reporter would frequently omit to note in his tablets the κείμενον or some other text of Scripture, or would indicate it in the shortest possible way by a word or two at the beginning and ending of the passage, intending to insert it afterwards at his leisure. It appears, however, that in many places this was either not done at all, or done in the wrong place. Hence where the text seemed incurably defective or perplexed, we have often been able to restore coherency by the simple expedient of inserting texts which were omitted, or else, by removing the texts altogether, and redistributing them among the comments. Almost any page of the Translation, especially in the Recapitulations, will illustrate this remark."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "(2) It often happens, that the order of the comments both in the first and in the second exposition (or recapitulation), does not follow the order of the texts. Of course the Preacher might be supposed to have sometimes returned upon his own steps, but it was scarcely conceivable that St. Chrysostom should have delivered an Exposition perplexed, as we often found it, by disjointed remarks thrown together without the slightest method. It was necessary therefore to consider whether it might not be possible to educe something like connected exposition, by assuming that the reporter’s notes had been transcribed from his tablets in a wrong order. Where it could be seen that one sentence or portion was given as comment on such a verse, another on some other verse, and so on, some clue to the true order was given us in the sequence of the texts themselves. Even so, the difficulties which beset this part of our task were greater than can be readily estimated by any one who has not tried it. Sometimes the complication resisted all attempts at disentanglement. We are far from supposing that we have done all that might have been done in this way: but it is hoped that the labor which has been bestowed has not been altogether wasted, and that the restoration will carry with it its own evidence. And as in these attempts we have indicated by letters the order in which the trajected parts lie in the manuscripts, the reader in every case has the means of forming his own judgment. In the first seventeen Homilies, we have only now and then resorted to this method: not because it was less needed there, but because we had not then so clearly perceived what was the state of the case, and what was practicable in this way. The eighteenth furnishes a remarkable instance, pp. 116–120. Let any one read it in the order denoted by the letters, i.e. the six parts marked (a) consecutively, then the seven parts marked (b), inserting in the third of the latter (see p. 116, note 3), the comment on v. 25, from page 117, (“And they when they had testified,” etc., to “when the Samaritans believed,”) and he will have the entire “recapitulation” or second exposition of the history of the Samaritans and Simon Magus as it appears in the mss.—which he will plainly perceive could not have proceeded in that form from St. Chrysostom. The same matter, read as we have arranged it, will be found to form a continuous exposition, not indeed perfect, for the dislocated state into which it had fallen seems to have led to further corruptions on the part of the scribes: but at any rate coherent, and with the parts fitting into each other. Moreover, if the fourteen parts, as here arranged, be numbered 1. 2. 3. etc., it will be seen that the order in which they lie in the mss. is 1. 3. 5: 8. 10. 12: 2. 4. 6: 14: 7. 9. 11. 13., whence it seems that the derangement proceeded by some kind of method. The like was often found to be the case in subsequent instances. In p. 229, the trajection is 1. 3. 5. 7. 9. 11. 13: 2. 4. 6. 8. 10. 12: i.e., the transcriber missed the alternate portions, and brought them all together at the end. In p. 229 (before the series just noticed), and 260, it is 3. 2. 1., and in 170, 4. 3. 2. 1., i. e. three, and four, parts read in reverse order. In a great number of instances the transposition is only of two parts, 2. 1: sometimes repeated as in 235, 2. 1., 1: 2. 1: 234, 2. 1: 1: 2. 1: 2. 1: 196, 2. 1: 1: 2. 1: 1: 2. 1: 1: 2. 1. A form of frequent occurrence is 2. 4., 1. 3., as in 188, 220, 225, 247; and combined with others as in 213, 2. 4. 1. 3. 2. 1: in 275, 2. 1: 1: 2. 4. 1. 3. and 183, 2. 1: 1: 2. 4. 1. 3: 2. 1. There is the like regularity in the scheme 2. 1. 4. 3., p. 125; and 3. 1. 4. 2. p. 216, 301. In the last Homily, which is extremely confused, the trajection seems to yield this very regular scheme, 2. 4. 6. 1. 3. 5: 1: 5. 3. 1. 6. 4. 2. In other instances where the trajection is less regular, or does not seem to follow a rule, as in 151, 4. 1. 3. 2: 152, 3. 2. 4. 1: 242, 4. 6. 1. 3. 5. 7. 2. 8: 250, 2. 1. 4. 8. 5. 3. 6. 9. 7. and in 298, 316, 321 (on which three see the notes), the transcriber may have gone wrong on other grounds, and not, as in the generality of instances, from mistaking the order in which the reporter had set the matter on his tablets. The trajections we have attempted to remedy occur mostly in the expository parts. In the Ethica it often appeared to us, that the coherency might be greatly improved by transposition, but the evidence of the true order was more precarious here, than where the sequence of the texts furnished a clue; in these parts, therefore, we have rarely ventured upon applying this remedy."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "In these ways it is hoped that something has been done towards presenting these Homilies in a form nearer to that in which they were delivered, than the form in which they are exhibited in the unadulterated manuscripts, much more in the printed editions. The task was arduous, and we are far from supposing that our labors have always been successful; but at least we have not spared pains and diligence. The Translation was a work only less difficult than the reconstruction of the text. Here again much indulgence is needed on the score of the difficulty of producing a version, which, while it represented the original with its roughnesses and defects, should not be altogether unreadable. We have attempted, however, to give faithfully, though not always literally, the sense, or what seemed to be the sense, of our materials."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "As a commentary on the Acts of the Apostles, this Work stands alone among the writings of the first ten centuries. The Expositions of St. Clement of Alexandria (in the Hypotyposes), of Origen, of Diodorus of Tarsus, and St. Chrysostom’s teacher, Theodore of Mopsuestia, as well as of Ammonius and others whose materials are used in the Catena, have perished. Those who are acquainted with the characteristic qualities of St. Chrysostom’s exegesis, will perceive here also the same excellencies which mark his other expository works—especially the clear and full exposition of the historical sense, and the exact appreciation of the rhetorical momenta in the discourses of St. Peter, St. Stephen, St. James and St. Paul, as recorded in the Acts. Of the Ethica it is perhaps not too much to affirm, that not the most finished work of St. Chrysostom will be found to furnish more of instruction and interesting matter (apart from the expression) than will be found in these Homilies, on the religious and moral subjects of which they treat: for example, On the delay of Baptism, On spiritual indolence and excuses derived from the cessation of Miraculous Grace, On the nature and uses of Miracles, On Prayer, On the Study of the Scriptures, On Alms, On Anger and Gentleness, Against Oaths and Swearing, and many others. Nor does any work exhibit a livelier portraiture of the character and life of the great Preacher and Bishop, and of the manners of the times in which his lot was cast."
+          }
+        ],
+        "idioma": "en"
+      },
+      {
+        "id": "npnf111-4-8",
         "titulo": "UM COMENTÁRIO SOBRE OS ATOS DOS APÓSTOLOS, DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA.2",
         "children": [
           {
-            "id": "npnf111-3-5-6",
-            "titulo": "Homilia I.",
+            "id": "npnf111-4-8-9",
+            "titulo": "Homília I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -122,8 +192,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-7",
-            "titulo": "Homilia II.",
+            "id": "npnf111-4-8-10",
+            "titulo": "Homília II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -161,8 +231,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-8",
-            "titulo": "Homilia III.",
+            "id": "npnf111-4-8-11",
+            "titulo": "Homília III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -228,8 +298,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-9",
-            "titulo": "Homilia IV.",
+            "id": "npnf111-4-8-12",
+            "titulo": "Homília IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -267,8 +337,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-10",
-            "titulo": "Homilia V.",
+            "id": "npnf111-4-8-13",
+            "titulo": "Homília V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -306,8 +376,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-11",
-            "titulo": "Homilia VI.",
+            "id": "npnf111-4-8-14",
+            "titulo": "Homília VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -341,8 +411,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-12",
-            "titulo": "Homilia VII.",
+            "id": "npnf111-4-8-15",
+            "titulo": "Homília VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -368,8 +438,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-13",
-            "titulo": "Homilia VIII.",
+            "id": "npnf111-4-8-16",
+            "titulo": "Homília VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -419,8 +489,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-14",
-            "titulo": "Homilia IX.",
+            "id": "npnf111-4-8-17",
+            "titulo": "Homília IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -470,8 +540,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-15",
-            "titulo": "Homilia X.",
+            "id": "npnf111-4-8-18",
+            "titulo": "Homília X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -521,8 +591,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-16",
-            "titulo": "Homilia XI",
+            "id": "npnf111-4-8-19",
+            "titulo": "Homília XI",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -556,8 +626,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-17",
-            "titulo": "Homilia XII.",
+            "id": "npnf111-4-8-20",
+            "titulo": "Homília XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -595,8 +665,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-18",
-            "titulo": "Homilia XIII.",
+            "id": "npnf111-4-8-21",
+            "titulo": "Homília XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -630,8 +700,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-19",
-            "titulo": "Homilia XIV.",
+            "id": "npnf111-4-8-22",
+            "titulo": "Homília XIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -657,8 +727,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-20",
-            "titulo": "Homilia XV.",
+            "id": "npnf111-4-8-23",
+            "titulo": "Homília XV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -688,8 +758,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-21",
-            "titulo": "Homilia XVI. Atos VII. 6, 7",
+            "id": "npnf111-4-8-24",
+            "titulo": "Homília XVI. Atos VII. 6, 7",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -719,8 +789,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-22",
-            "titulo": "Homilia XVII.",
+            "id": "npnf111-4-8-25",
+            "titulo": "Homília XVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -754,8 +824,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-23",
-            "titulo": "Homilia XVIII.",
+            "id": "npnf111-4-8-26",
+            "titulo": "Homília XVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -805,8 +875,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-24",
-            "titulo": "Homilia XIX.",
+            "id": "npnf111-4-8-27",
+            "titulo": "Homília XIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -840,8 +910,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-25",
-            "titulo": "Homilia XX.",
+            "id": "npnf111-4-8-28",
+            "titulo": "Homília XX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -875,8 +945,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-26",
-            "titulo": "Homilia XXI.",
+            "id": "npnf111-4-8-29",
+            "titulo": "Homília XXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -906,8 +976,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-27",
-            "titulo": "Homilia XXII.",
+            "id": "npnf111-4-8-30",
+            "titulo": "Homília XXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -933,8 +1003,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-28",
-            "titulo": "Homilia XXIII.",
+            "id": "npnf111-4-8-31",
+            "titulo": "Homília XXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -968,8 +1038,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-29",
-            "titulo": "Homilia XXIV.",
+            "id": "npnf111-4-8-32",
+            "titulo": "Homília XXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1007,8 +1077,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-30",
-            "titulo": "Homilia XXV.",
+            "id": "npnf111-4-8-33",
+            "titulo": "Homília XXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1042,8 +1112,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-31",
-            "titulo": "Homilia XXVI.",
+            "id": "npnf111-4-8-34",
+            "titulo": "Homília XXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1077,8 +1147,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-32",
-            "titulo": "Homilia XXVII.",
+            "id": "npnf111-4-8-35",
+            "titulo": "Homília XXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1108,8 +1178,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-33",
-            "titulo": "Homilia XXVIII.",
+            "id": "npnf111-4-8-36",
+            "titulo": "Homília XXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1135,8 +1205,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-34",
-            "titulo": "Homilia XXIX.",
+            "id": "npnf111-4-8-37",
+            "titulo": "Homília XXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1174,7 +1244,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-35",
+            "id": "npnf111-4-8-38",
             "titulo": "Homilia XXX.",
             "conteudo": [
               {
@@ -1209,7 +1279,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-36",
+            "id": "npnf111-4-8-39",
             "titulo": "Homilia XXXI.",
             "conteudo": [
               {
@@ -1240,8 +1310,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-37",
-            "titulo": "Homilia XXXII.",
+            "id": "npnf111-4-8-40",
+            "titulo": "Homília XXXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1275,8 +1345,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-38",
-            "titulo": "Homilia XXXIII.",
+            "id": "npnf111-4-8-41",
+            "titulo": "Homília XXXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1306,8 +1376,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-39",
-            "titulo": "Homilia XXXIV.",
+            "id": "npnf111-4-8-42",
+            "titulo": "Homília XXXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1349,8 +1419,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-40",
-            "titulo": "Homilia XXXV.",
+            "id": "npnf111-4-8-43",
+            "titulo": "Homília XXXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1380,8 +1450,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-41",
-            "titulo": "Homilia XXXVI.",
+            "id": "npnf111-4-8-44",
+            "titulo": "Homília XXXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1415,8 +1485,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-42",
-            "titulo": "Homilia XXXVII.",
+            "id": "npnf111-4-8-45",
+            "titulo": "Homília XXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1442,8 +1512,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-43",
-            "titulo": "Homilia XXXVIII.",
+            "id": "npnf111-4-8-46",
+            "titulo": "Homília XXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1477,8 +1547,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-44",
-            "titulo": "Homilia XXXIX.",
+            "id": "npnf111-4-8-47",
+            "titulo": "Homília XXXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1508,8 +1578,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-45",
-            "titulo": "Homilia XL.",
+            "id": "npnf111-4-8-48",
+            "titulo": "Homília XL.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1539,7 +1609,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-46",
+            "id": "npnf111-4-8-49",
             "titulo": "Homilia XLI.",
             "conteudo": [
               {
@@ -1578,7 +1648,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-47",
+            "id": "npnf111-4-8-50",
             "titulo": "Homilia XLII.",
             "conteudo": [
               {
@@ -1609,8 +1679,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-48",
-            "titulo": "Homilia XLIII.",
+            "id": "npnf111-4-8-51",
+            "titulo": "Homília XLIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1636,8 +1706,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-49",
-            "titulo": "Homilia XLIV.",
+            "id": "npnf111-4-8-52",
+            "titulo": "Homília XLIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1663,8 +1733,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-50",
-            "titulo": "Homilia XLV.",
+            "id": "npnf111-4-8-53",
+            "titulo": "Homília XLV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1686,8 +1756,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-51",
-            "titulo": "Homilia XLVI.",
+            "id": "npnf111-4-8-54",
+            "titulo": "Homília XLVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1713,8 +1783,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-52",
-            "titulo": "Homilia XLVII.",
+            "id": "npnf111-4-8-55",
+            "titulo": "Homília XLVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1740,8 +1810,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-53",
-            "titulo": "Homilia XLVIII.",
+            "id": "npnf111-4-8-56",
+            "titulo": "Homília XLVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1767,7 +1837,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-54",
+            "id": "npnf111-4-8-57",
             "titulo": "Homilia XLIX.1097",
             "conteudo": [
               {
@@ -1798,8 +1868,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-55",
-            "titulo": "Homilia L.",
+            "id": "npnf111-4-8-58",
+            "titulo": "Homília L.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1825,8 +1895,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-56",
-            "titulo": "Homilia LI.",
+            "id": "npnf111-4-8-59",
+            "titulo": "Homília LI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1852,8 +1922,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-57",
-            "titulo": "Homilia LII.",
+            "id": "npnf111-4-8-60",
+            "titulo": "Homília LII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1879,8 +1949,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-58",
-            "titulo": "Homilia LIII.",
+            "id": "npnf111-4-8-61",
+            "titulo": "Homília LIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1902,8 +1972,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-59",
-            "titulo": "Homilia LIV.",
+            "id": "npnf111-4-8-62",
+            "titulo": "Homília LIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1929,8 +1999,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-3-5-60",
-            "titulo": "Homilia LV.",
+            "id": "npnf111-4-8-63",
+            "titulo": "Homília LV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1960,11 +2030,11 @@
     ]
   },
   {
-    "id": "npnf111-61",
-    "titulo": "—",
+    "id": "npnf111-64",
+    "titulo": "HOMÍLIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA EPÍSTOLA DE SÃO. PAULO, O APÓSTOLO DOS ROMANOS.",
     "children": [
       {
-        "id": "npnf111-61-62",
+        "id": "npnf111-64-65",
         "titulo": "—",
         "conteudo": [
           {
@@ -1979,12 +2049,71 @@
         "idioma": "en"
       },
       {
-        "id": "npnf111-61-63",
-        "titulo": "HOMILIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA EPÍSTOLA DE SÃO. PAULO, O APÓSTOLO DOS ROMANOS.",
+        "id": "npnf111-64-66",
+        "titulo": "Prefácio às Homilias sobre Romanos.",
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "St. Chrysostom’s Commentary on the Epistle to the Romans is one of the closest and most argumentative of those he has left us. The style of the Epistle itself called for this, being such as almost constantly to remind an attentive reader of the necessity of forming some notion of the views and feelings of the persons to whom it was originally addressed. To this point St. Chrysostom has paid much attention, and has consequently obtained a far clearer view of the doctinal bearing of the Epistle than most other commentators. His early rhetorical education would probably have given him even too strong a bias toward that kind of exposition, but for his subsequent course of severe discipline and ascetic devotion. As it is, the rhetorical element in his commentary is of very great value. His ready apprehension of the effect intended to be produced by the style and wording of a sentence, is often the means of clearing up what might otherwise seem obscure or even inconsistent. An example of this occurs in the beginning of the seventh chapter, which he expounds in the 12th Homily. The illustration of our release from the Law of Moses by partaking in the Death of Christ, by the dissolution of marriage at death, is so stated in the Epistle as to contain an apparent inconsistency, as though the death of the Law, and the death of the person, were confounded. And the various readings only shift the difficulty, without removing it. This, however, he has very ably shown to be, in fact, an argument a fortiori. Other cases will strike other persons as they happen to have found difficulty in the Text."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "A far higher qualification for interpreting St. Paul, in whom, as much as in any of the sacred writers, the Man appears as well as the guiding Spirit, was that peculiar affection with which he regarded him, and which he expresses particularly in the beginning of the introduction, and at the close of the last Homily. The effect of this is perhaps best traced in the commentary on Rom. ix. 3, Hom. xvi."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The elaborate composition of these Homilies, and the close attention which it must have required, has been thought an indication that they must have been delivered before the Author was engaged in the cares of the Bishopric of Constantinople. But Tillemont has detected even surer indications, which place the point clearly beyond all question. In his exortation to Charity, Homily 8 he speaks of himself and his hearers as under one Bishop. It has been objected that he speaks of himself as Pastor, in Hom. xxix. but he does the same in other Homilies, certainly delivered by him when he was only a preacher at Antioch, and the terms are less definite than in the other case, v. ad. P. Ant. Hom. xx. on the Statues. Besides, he seems to address persons who have ready access to the place in which St. Paul taught and was bound, which cannot be shown to tally with Constantinople, but evidently agrees with Antioch. The binding of St. Paul there mentioned is not, however, on record, and it is just possible he may mean in that expression to refer to another place."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Some account of the life of the Author has been given in the Preface to the Homilies on the First Epistle to the Corinthians, already translated.1183 It may be worthwhile, however, to notice particularly, in connection with this work, the manner in which St. Chrysostom was quoted in the Pelagian controversy, as some of the passages were taken from it."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "St. Augustin, adv. Julianum. l. 1, c. vi. discusses a passage in a Homily to the newly baptized, which was alleged against the doctrine of Original Sin. He had spoken of infants as not having sins, meaning of course actual sins, as the plural number implies. The words were, however, easily turned in translation so as to bear another sense. St. Augustin quotes on the other side his Letter to Olympias, that “Adam by his sin condemned the whole race of men.” And Hom. ix. in Gen. c. i. v. 28, where he speaks of the loss of command over the creation, as a penalty of the Fall. And finally a passage from the homily before quoted (as ad Neophytos), in which he speaks of our Lord finding us “bound by a hereditary debt;” and one in Hom. x. of this Commentary, viz. that on Rom. v. 14. These are sufficient to make it clear, that St. Chrysostom did not hold any Pelagian doctrine on this point."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "With respect to Free-will, he has one or two passages, as in Hom. on the words of St. Paul, 2 Cor. iv. 13. Ben. t. iii. p. 264. “That first believing, and obeying when called, is of our good will; but when the foundation of faith is laid, we need the assistance of the Spirit.” And on St. John i. 38. Ben. 8. p. 107, p. 154, O.T. “that God does not precede our wills with his gifts; but when we have begun, when we have sent our will before, then He gives us abundant opportunities of salvation.” However, in Hom. lviii. in Gen. he says, “though he received help from above, yet he first did his own part. So let us persuade ourselves, that though we strive ever so much, we can do no good thing at all, except we are aided by help from above. For as we can never do anything aright without that help, so unless we contribute our own share, we shall not be able to obtain help from above.” This illustrates his meaning about doing our own part first, and shows that he does not mean to exclude Divine aid in the very beginning of good actions, only not superseding the motion of our will. The word gifts is also to be observed. He probably did not think of its being applicable to the first motions of prevenient grace, intending himself the Evangelical gifts. This view of his meaning seems to solve the difficulties of his expressions, so far as is necessary in a writer more rhetorical than logical. Some passages in this Commentary bear on the point, as Rom. ii. 16, and viii. 26."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "In a Letter to Olympias, shortly before his death, he laments the errors of a “Monk Pelagius,” and it is supposed that he means the well-known heretic."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The present Translation is from the text of Savile, except where otherwise noted. For the first sixteen Homilies, several mss. have been collated in Paris, with a view to an Edition of the original, the rest of the collation is not yet come to hand. Four contain nearly the whole of the Commentary, and three more several parts of it: two of these were partially used by the Benedictine Editors, and supply some valuable readings in the latter homilies. There is also one ms. in the Bodleian Library, which has many mistakes, but agrees in general with the best readings in those which have been collated. It contains nearly the whole text as far as Hom. xxx. and has been entirely collated after Hom. xvi and for a great part of the earlier Homilies."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The Editors are indebted for the Translation, and much of the matter contained in the notes, to the Reverend J.B. Morris, M.A., of Exeter College, as well as for the Index."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "C. Marriot"
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The Benedictine text having been revised by Mr. Field with singular acumen by aid of collations of all European mss. of any account, it was not thought right to republish this important volume without revising the tranlation by that text. This was kindly undertaken by the Rev. W. H. Simcox, late Fellow of Queen’s College, and has been executed with the care and exactness to be expected from that accomplished scholar. In other respects, he has with a remarkable modesty left the previous translation untouched."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "E. B. Pusey"
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "1876."
+          }
+        ],
+        "idioma": "en"
+      },
+      {
+        "id": "npnf111-64-67",
+        "titulo": "HOMÍLIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA EPÍSTOLA DE SÃO. PAULO, O APÓSTOLO DOS ROMANOS.",
         "children": [
           {
-            "id": "npnf111-61-63-64",
-            "titulo": "Homilia I.",
+            "id": "npnf111-64-67-68",
+            "titulo": "Homília I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2070,8 +2199,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-65",
-            "titulo": "Homilia II.",
+            "id": "npnf111-64-67-69",
+            "titulo": "Homília II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2181,8 +2310,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-66",
-            "titulo": "Homilia III.",
+            "id": "npnf111-64-67-70",
+            "titulo": "Homília III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2268,8 +2397,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-67",
-            "titulo": "Homilia IV.",
+            "id": "npnf111-64-67-71",
+            "titulo": "Homília IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2295,8 +2424,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-68",
-            "titulo": "Homilia V.",
+            "id": "npnf111-64-67-72",
+            "titulo": "Homília V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2466,8 +2595,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-69",
-            "titulo": "Homilia VI.",
+            "id": "npnf111-64-67-73",
+            "titulo": "Homília VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2637,8 +2766,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-70",
-            "titulo": "Homilia VII.",
+            "id": "npnf111-64-67-74",
+            "titulo": "Homília VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2772,8 +2901,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-71",
-            "titulo": "Homilia VIII.",
+            "id": "npnf111-64-67-75",
+            "titulo": "Homília VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2923,8 +3052,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-72",
-            "titulo": "Homilia IX.",
+            "id": "npnf111-64-67-76",
+            "titulo": "Homília IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3014,8 +3143,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-73",
-            "titulo": "Homilia X.",
+            "id": "npnf111-64-67-77",
+            "titulo": "Homília X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3145,8 +3274,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-74",
-            "titulo": "Homilia XI.",
+            "id": "npnf111-64-67-78",
+            "titulo": "Homília XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3296,8 +3425,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-75",
-            "titulo": "Homilia XII.",
+            "id": "npnf111-64-67-79",
+            "titulo": "Homília XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3475,8 +3604,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-76",
-            "titulo": "Homilia XIII.",
+            "id": "npnf111-64-67-80",
+            "titulo": "Homília XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3654,8 +3783,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-77",
-            "titulo": "Homilia XIV.",
+            "id": "npnf111-64-67-81",
+            "titulo": "Homília XIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3809,8 +3938,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-78",
-            "titulo": "Homilia XV.",
+            "id": "npnf111-64-67-82",
+            "titulo": "Homília XV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3928,8 +4057,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-79",
-            "titulo": "Homilia XVI.",
+            "id": "npnf111-64-67-83",
+            "titulo": "Homília XVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4175,8 +4304,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-80",
-            "titulo": "Homilia XVII.",
+            "id": "npnf111-64-67-84",
+            "titulo": "Homília XVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4262,7 +4391,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-81",
+            "id": "npnf111-64-67-85",
             "titulo": "ROM. X. 14, 15",
             "conteudo": [
               {
@@ -4373,8 +4502,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-82",
-            "titulo": "Homilia XIX.",
+            "id": "npnf111-64-67-86",
+            "titulo": "Homília XIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4624,8 +4753,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-83",
-            "titulo": "Homilia XX.",
+            "id": "npnf111-64-67-87",
+            "titulo": "Homília XX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4675,8 +4804,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-84",
-            "titulo": "Homilia XXI.",
+            "id": "npnf111-64-67-88",
+            "titulo": "Homília XXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4770,8 +4899,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-85",
-            "titulo": "Homilia XXII.",
+            "id": "npnf111-64-67-89",
+            "titulo": "Homília XXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4845,8 +4974,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-86",
-            "titulo": "Homilia XXIII.",
+            "id": "npnf111-64-67-90",
+            "titulo": "Homília XXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4948,8 +5077,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-87",
-            "titulo": "Homilia XXIV.",
+            "id": "npnf111-64-67-91",
+            "titulo": "Homília XXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5011,8 +5140,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-88",
-            "titulo": "Homilia XXV.",
+            "id": "npnf111-64-67-92",
+            "titulo": "Homília XXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5110,8 +5239,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-89",
-            "titulo": "Homilia XXVI.",
+            "id": "npnf111-64-67-93",
+            "titulo": "Homília XXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5209,8 +5338,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-90",
-            "titulo": "Homilia XXVII.",
+            "id": "npnf111-64-67-94",
+            "titulo": "Homília XXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5292,8 +5421,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-91",
-            "titulo": "Homilia XXVIII.",
+            "id": "npnf111-64-67-95",
+            "titulo": "Homília XXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5339,8 +5468,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-92",
-            "titulo": "Homilia XXIX.",
+            "id": "npnf111-64-67-96",
+            "titulo": "Homília XXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5446,7 +5575,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-93",
+            "id": "npnf111-64-67-97",
             "titulo": "Homilia XXX.",
             "conteudo": [
               {
@@ -5573,7 +5702,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-94",
+            "id": "npnf111-64-67-98",
             "titulo": "Homilia XXXI.",
             "conteudo": [
               {
@@ -5716,8 +5845,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf111-61-63-95",
-            "titulo": "Homilia XXXII.",
+            "id": "npnf111-64-67-99",
+            "titulo": "Homília XXXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",

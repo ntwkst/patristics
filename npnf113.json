@@ -1,7 +1,7 @@
 [
   {
     "id": "npnf113-4",
-    "titulo": "—",
+    "titulo": "COMENTÁRIO 5 DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA EPÍSTOLA DE SÃO. PAULO, O APÓSTOLO DOS GÁLATAS.",
     "children": [
       {
         "id": "npnf113-4-5",
@@ -16,10 +16,41 @@
       },
       {
         "id": "npnf113-4-6",
+        "titulo": "Preface.",
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "St. Chrysostom’s Commentary on the Epistle to the Galatians is continuous, according to chapter and verse, instead of being arranged in Homilies, with a moral or practical application at their close, as in his exposition of other Epistles. It was written in Antioch, as Montfaucon infers from a reference which the Author, makes upon Chap. i., ver. 16 (p. 20) to other of his writings, which certainly were written about the same time in that city. Vid. Hom. de Mutal. Nom., Tom. III., p. 98, Ed. Ben. The year is uncertain, but seems not to have been earlier than a.d. 395."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The Homilies on the Epistle to the Ephesians have been by some critics assigned to the Episcopate at Constantinople, in consequence of certain imperfections in their composition, which seemed to argue absence of the comparative leisure which he enjoyed at Antioch. There is a passage too in Homily XI., pp. 231, 232, which certainly is very apposite to the Author’s circumstance in the court of Eudoxia. Yet there are strong reasons for deciding that they too were delivered at Antioch. St. Babylas and St. Julian, both saints at Antioch, are mentioned familiarly, the former in Homily IX., p. 205, the latter in Homily XXI., pp. 342, 343. Monastic establishments in mountains in the neighborhood are spoken of in Homily VI., p. 165, and XIII., p. 248;3 and those near Antioch are famous in St. Chrysostom’s history. A schism too is alluded to in Homily XI., p. 230, as existing in the community he was addressing, and that not about a question of doctrine; circumstances which are accurately fulfilled in the contemporary history of Antioch, and which are more or less noticed in the Homilies on 1 Corinthians, which were certainly delivered at Antioch.4"
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Moreover, he makes mention of the prevalence of superstitions, Gentile and Jewish, among the people whom he was addressing, in Homily VI., fin., p. 166, Homily XII., fin., p. 240, which is a frequent ground of complaint in his other writings against the Christians of Antioch: vid. in Gal. p. 15; in 1 Cor., Homily XII., §§ 13, 14; in Col., Homily VIII., fin.; Contr. Jud. I., pp. 386–388."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Since Evagrius, the last Bishop of the Latin succession in the schism, died in a.d. 392, these Homilies must have been composed before that date."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "As to the Translations, the Editors have been favored with the former by a friend who conceals his name; and with the latter, by the Rev. William John Copeland, M.A., Fellow of Trinity College, Oxford."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "J.H. Newman"
+          }
+        ],
+        "idioma": "en"
+      },
+      {
+        "id": "npnf113-4-7",
         "titulo": "COMENTÁRIO 5 DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA EPÍSTOLA DE SÃO. PAULO, O APÓSTOLO DOS GÁLATAS.",
         "children": [
           {
-            "id": "npnf113-4-6-7",
+            "id": "npnf113-4-7-8",
             "titulo": "Capítulo I.",
             "conteudo": [
               {
@@ -342,7 +373,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-6-8",
+            "id": "npnf113-4-7-9",
             "titulo": "Capítulo II.",
             "conteudo": [
               {
@@ -625,7 +656,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-6-9",
+            "id": "npnf113-4-7-10",
             "titulo": "Capítulo III.",
             "conteudo": [
               {
@@ -900,7 +931,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-6-10",
+            "id": "npnf113-4-7-11",
             "titulo": "Capítulo IV.",
             "conteudo": [
               {
@@ -1147,7 +1178,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-6-11",
+            "id": "npnf113-4-7-12",
             "titulo": "Capítulo V.",
             "conteudo": [
               {
@@ -1382,7 +1413,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-6-12",
+            "id": "npnf113-4-7-13",
             "titulo": "Capítulo VI.",
             "conteudo": [
               {
@@ -1559,12 +1590,12 @@
         ]
       },
       {
-        "id": "npnf113-4-13",
-        "titulo": "HOMILIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA EPÍSTOLA DE SÃO. PAULO, O APÓSTOLO DOS EFÉSIOS.",
+        "id": "npnf113-4-14",
+        "titulo": "HOMÍLIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA EPÍSTOLA DE SÃO. PAULO, O APÓSTOLO DOS EFÉSIOS.",
         "children": [
           {
-            "id": "npnf113-4-13-14",
-            "titulo": "O argumento.",
+            "id": "npnf113-4-14-15",
+            "titulo": "Ó argumento.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1590,8 +1621,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-15",
-            "titulo": "Homilia I.",
+            "id": "npnf113-4-14-16",
+            "titulo": "Homília I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1781,8 +1812,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-16",
-            "titulo": "Homilia II.",
+            "id": "npnf113-4-14-17",
+            "titulo": "Homília II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1892,8 +1923,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-17",
-            "titulo": "Homilia III.",
+            "id": "npnf113-4-14-18",
+            "titulo": "Homília III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2095,8 +2126,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-18",
-            "titulo": "Homilia IV.",
+            "id": "npnf113-4-14-19",
+            "titulo": "Homília IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2266,8 +2297,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-19",
-            "titulo": "Homilia V.",
+            "id": "npnf113-4-14-20",
+            "titulo": "Homília V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2397,8 +2428,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-20",
-            "titulo": "Homilia VI.",
+            "id": "npnf113-4-14-21",
+            "titulo": "Homília VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2556,8 +2587,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-21",
-            "titulo": "Homilia VII.",
+            "id": "npnf113-4-14-22",
+            "titulo": "Homília VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2739,8 +2770,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-22",
-            "titulo": "Homilia VIII.",
+            "id": "npnf113-4-14-23",
+            "titulo": "Homília VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2882,8 +2913,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-23",
-            "titulo": "Homilia IX.",
+            "id": "npnf113-4-14-24",
+            "titulo": "Homília IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2977,8 +3008,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-24",
-            "titulo": "Homilia X.",
+            "id": "npnf113-4-14-25",
+            "titulo": "Homília X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3040,8 +3071,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-25",
-            "titulo": "Homilia XI.",
+            "id": "npnf113-4-14-26",
+            "titulo": "Homília XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3187,8 +3218,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-26",
-            "titulo": "Homilia XII.",
+            "id": "npnf113-4-14-27",
+            "titulo": "Homília XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3238,8 +3269,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-27",
-            "titulo": "Homilia XIII.",
+            "id": "npnf113-4-14-28",
+            "titulo": "Homília XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3357,8 +3388,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-28",
-            "titulo": "Homilia XIV.",
+            "id": "npnf113-4-14-29",
+            "titulo": "Homília XIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3464,8 +3495,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-29",
-            "titulo": "Homilia XV.",
+            "id": "npnf113-4-14-30",
+            "titulo": "Homília XV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3515,8 +3546,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-30",
-            "titulo": "Homilia XVI.",
+            "id": "npnf113-4-14-31",
+            "titulo": "Homília XVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3554,8 +3585,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-31",
-            "titulo": "Homilia XVII.",
+            "id": "npnf113-4-14-32",
+            "titulo": "Homília XVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3653,8 +3684,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-32",
-            "titulo": "Homilia XVIII.",
+            "id": "npnf113-4-14-33",
+            "titulo": "Homília XVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3764,8 +3795,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-33",
-            "titulo": "Homilia XIX.",
+            "id": "npnf113-4-14-34",
+            "titulo": "Homília XIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3879,8 +3910,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-34",
-            "titulo": "Homilia XX.",
+            "id": "npnf113-4-14-35",
+            "titulo": "Homília XX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4070,8 +4101,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-35",
-            "titulo": "Homilia XXI.",
+            "id": "npnf113-4-14-36",
+            "titulo": "Homília XXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4129,8 +4160,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-36",
-            "titulo": "Homilia XXII.",
+            "id": "npnf113-4-14-37",
+            "titulo": "Homília XXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4288,8 +4319,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-37",
-            "titulo": "Homilia XXIII.",
+            "id": "npnf113-4-14-38",
+            "titulo": "Homília XXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4347,8 +4378,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-4-13-38",
-            "titulo": "Homilia XXIV.",
+            "id": "npnf113-4-14-39",
+            "titulo": "Homília XXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4530,11 +4561,11 @@
     ]
   },
   {
-    "id": "npnf113-39",
-    "titulo": "—",
+    "id": "npnf113-40",
+    "titulo": "AS HOMILIAS DE ST. JOÃO CRISÓSTOMO ARCEBISPO DE CONSTANTINOPLA, NAS EPÍSTOLAS DE SÃO. PAULO, O APÓSTOLO DOS FILIPENSES, COLOSSENSES E TESSALONICENSES",
     "children": [
       {
-        "id": "npnf113-39-40",
+        "id": "npnf113-40-41",
         "titulo": "—",
         "conteudo": [
           {
@@ -4553,12 +4584,74 @@
         "idioma": "en"
       },
       {
-        "id": "npnf113-39-41",
-        "titulo": "HOMILIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA EPÍSTOLA DE SÃO. PAULO APÓSTOLO DOS FILIPENSES.",
+        "id": "npnf113-40-42",
+        "titulo": "Preface to the Oxford Ed.",
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "The present Volume completes the commentaries of St. Chrysostom on the shorter Epistles of St. Paul. It consists entirely of Homilies delivered at Constantinople, and one may perhaps remark some indications of a more matured and severe character than in earlier works. He refers several times to his responsibility as presiding in the Church, and sometimes threatens discipline as in that capacity, and from this it is that the date of the Homilies is chiefly to be gathered. The end of Hom. ix. on the Philippians, is sufficient for those Homilies. The close of Hom. iii. on Colossians, is still more express for them. Hom. viii. on 1 Thessalonians, and Hom. iv. on 2 Thessalonians, are to the like purpose."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Hom. viii. on 1 Thessalonians, seems also to be that which is referred to in Hom. iii. on Ep. to Philemon, as it contains a promise to discuss at some future time the subject there taken up."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Philip. ii. 6, and Col. i. 15, U+0026c. give rise to doctrinal discussions. The readiness in argument, which they suppose in hearers, is greater than one would expect. Hom. v. on Colossians goes farther into the system of typical interpretation than is usual with St. Chrysostom; though the system is in fact acknowledged by him frequently, as in the passage on marriage, which closes the Homilies on the Colossians, and which, though scarcely admissible in modern taste, is one of great value, and of a saintly purity. The close of Hom. iv. on Colossians is most instructive with regard to the use of the Historical Books of the Old Testament, and Hom. ix. points out one great use of the Psalms, for moral impression, and at the same time draws the necessary distinction between that and the higher aim of Hymns. In these Homilies he is particularly severe on luxury and display, by his attacks on which he is known to have incurred the displeasure of the Empress Eudoxia, and much persecution from her."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "A passage on the Holy Sacraments at the end of Hom. vi. on Colossians, one on Prayers for the departed in Hom. iii. on Philippians, and one in which he urges persons at enmity to immediate reconciliation, Hom. vi. on 1 Thessalonians, as well as that in Hom. iii. in Colossians, on unworthiness of Ministers, and several hints that occur about the order of Divine service, are well worthy of remark."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Savile’s text, with some comparison of others, was used for the Homilies on the Philippians, and that of the new Paris Edition, with Savile always at hand, for the rest. Collations of one ms. in British Museum (Burney 48 here marked B [called C by Field]) were also in hand, but those of mss. at Venice and Florence came too late for part of the work. The want of them is not however very material. The Bodleian ms. referred to, as well as the Catena published by Dr. Cramer, contain only extracts. It is hoped that the Homilies on 2 Cor. will have the benefit of a well-adjusted text before the Translation is published, as they are pre- paring for publication by Mr. Field, whom the Editor has to thank for information on some particulars, as well as for the benefit of having his accurate edition of the Homilies on St. Matthew to refer to."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "For the Translation of the Homilies on the Philippians, the Editors are indebted to the Rev. W. C. Cotton, M.A. of Ch. Ch. Chaplain to the Bishop of New Zealand; for that of the Homilies on the Colossians, to the Rev. J. Ashworth, M.A. Fellow of Brasenose College; and for the rest of the volume, to the Rev. James Tweed, M.A. of Corpus Christi College, Cambridge, the Translator of the Homilies on the Pastoral Epistles of St. Paul. The Index to the two former is by the Rev. F. Bowles, M.A. of Exeter College, and to the latter by the Editor, which is noticed in order that the reader may find the less difficulty from any difference in the heads under which similar matter may be placed, as the two were made simultaneously to save time."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "A few points on which the Editor was not informed until the sheets were printed are noticed in the Addenda and Corrigenda. In the Amer. ed. these are inserted in their proper places. For the text followed in Amer. ed., see Preface at the beginning of the volume."
+          }
+        ],
+        "idioma": "en"
+      },
+      {
+        "id": "npnf113-40-43",
+        "titulo": "HOMÍLIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA EPÍSTOLA DE SÃO. PAULO APÓSTOLO DOS FILIPENSES.",
         "children": [
           {
-            "id": "npnf113-39-41-42",
-            "titulo": "Homilia I.",
+            "id": "npnf113-40-43-44",
+            "titulo": "Introductory Discourse.",
+            "conteudo": [
+              {
+                "tipo": "paragrafo",
+                "texto": "The Philippians are of a city in Macedonia, a city that is a colony, as Luke saith. Here that seller of purple was converted, a woman of uncommon piety and heedfulness. Here the ruler of the synagogue507 believed. Here was Paul scourged with Silas. Here the magistrates requested them to depart, and were afraid of them, and the preaching had an illustrious commencement. And he bears them many and high testimonies himself, calling them his own crown, and saying they had suffered much. For, “To you,” he saith, “it hath been granted of God,508 not only to believe on Him, but also to suffer in His behalf.” (Philip. i. 29.) But when he wrote to them, it happened that he was in bonds. Therefore he says, “So that my bonds became manifest in Christ in the whole prætorium,” calling the palace of Nero the prætorium.509 But he was bound and let go again,510 and this he showed to Timothy by saying, “At my first defence no one took my part, but all forsook me: may it not be laid to their account. But the Lord stood by me and strengthened me.” (2 Tim. iv. 16.) He speaks of the bonds then in which he was before that defence. For that Timothy was not present then, is evident: for, “At my first defence,” he says, “no man took my part”; and this, by writing, he was making known to him. He would not then, had he already known it, have written thus to him. But when he wrote this epistle, Timothy was with him. And he shows it by what he says: “But I hope in the Lord Jesus to send Timothy shortly unto you.” (Philip. ii. 19.) And again, “Him I hope to send forthwith so soon as I shall see how it will go with me.” For he was loosed from his bonds and again bound after he had been to them. But if he saith, “Yea, and I am511 offered upon the sacrifice and service of your faith,” it is not as though this were now come to pass, but as much as to say, “and whenever this takes place I am glad,” raising them from their dejection at his bonds. For that he was not about to die at that time is plain from what he saith: “But I hope512 in the Lord that I myself also shall come shortly unto you.” (Philip. ii. 24.) And again, “And having this confidence, I know that I shall abide, yea, and abide with you all.”"
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "2. But the Philippians had sent to him Epaphroditus, to carry him money, and to know the things concerning him, for they were most lovingly disposed toward him. For that they sent, hear himself, saying, “I have all things, and abound; I am filled, having received from Epaphroditus the things that came from you.” At the same time they sent to know this. For that they sent also to know this he shows at once in the beginning of the epistle, writing of his own matters, and saying, “But I would have you know that the things which happened unto me have fallen out rather unto the progress of the Gospel.” (Philip. i. 12.) And again, “I hope to send Timothy shortly unto you, that I also may be of good comfort when I know your state.” This, “that I also,” is as if he meant “as you for full assurance sent to know the things concerning me, so ‘I also,’ that I may be of good comfort when I know the things concerning you.” Since then they had also been a long time without sending513 (for this he proves by saying, “Now at length you have revived your thought for me”) (Philip. iv. 10.), and then they heard that he was in bonds (Philip. ii. 26.); for if they heard about Epaphroditus, that he was sick, he being no such very remarkable person as Paul was, much more did they hear about Paul, and it was reasonable that they should be disturbed; therefore, in the opening of the epistle he offers them much consolation about his bonds, showing that they should not merely not be disturbed, but even rejoice. Then he gives them counsel about unanimity and humility, teaching them that this was their greatest safety, and that so they could easily overcome their enemies. For it is not being in bonds that is painful to your teachers, but their disciples not being of one mind. For the former brings even furtherance to the Gospel, but the latter distracts."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "3. So then after admonishing them to be of one mind, and showing that unanimity comes of humility, and then aiming a shaft at those Jews who were everywhere corrupting the doctrine under a show of Christianity, and calling them “dogs” and “evil workers” (Philip. iii. 2.), and giving admonition to keep away from them, and teaching to whom it is right to attend, and discoursing at length on moral points, and bringing them to order, and recalling them to themselves, by saying, “The Lord is at hand” (Philip. iv. 5.), he makes mention also, with his usual wisdom, of what had been sent, and then offers them abundant consolation. But he appears in writing to be doing them special honor, and never in any place writes any thing of reproof, which is a proof of their virtue, in that they gave no occasion to their teacher, and that he has written to them not in the way of rebuke, but throughout in the way of encouragement. And as I said also at first, this city showed great readiness for the faith; inasmuch as the very jailor, (and you know it is a business full of all wickedness,) at once, upon one miracle, both ran to them, and was baptized with all his house. For the miracle that took place he saw alone, but the gain he reaped not alone, but jointly with his wife and all his house. Nay, even the magistrates who scourged him seem to have done this rather of sudden impulse than out of wickedness, both from their sending at once to let him go, and from their being afterwards afraid. And he bears testimony to them not only in faith, or in perils, but also in well-doing, where he says, “That even in the beginning of the Gospel, ye sent once and again unto my need” (Philip. iv. 15, 16.), when no one else did so; for he says, “no Church had fellowship with me in the matter of giving and receiving”; and that their intermission had been rather from lack of opportunity than from choice, saying, “Not that ye took no thought for me, but ye lacked opportunity.” (Philip. iv. 10.) Let us also, knowing these things, and having so many patterns, and the love that he bore them—for that he loved them greatly appears in his saying, “For I have no man like minded, who will care truly for your state” (Philip. ii. 20.); and again, “Because I have you in my heart, and in my bonds,”"
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "4. let us also, knowing these things, show ourselves worthy of such examples, by being ready to suffer for Christ.514 But now the persecution is no more. So then, if there is nothing else, let us imitate their earnestness in well doing, and not think, if we have given once or twice, that we have fulfilled all. For we must do this through our whole life. For it is not once that we have to please God, but constantly. The racer, if, after running even ten heats, he leave the remaining one undone, has lost all; and we, if we begin with good works, and afterward faint, have lost all, have spoiled all. Listen to that profitable admonition that saith, “Let not mercy515 and truth forsake thee.” (Prov. iii. 3.) He saith not do so once, nor the second time, nor the third, nor the tenth, nor the hundredth, but continually: “let them not forsake thee.” And he did not say, Do not forsake them, but, “Let them not forsake thee,” showing that we are in need of them, and not they of us; and teaching us that we ought to make every effort to keep them with us. And “bind them,” saith he, “about thy neck.” For as the children of the wealthy have an ornament of gold about their neck, and never put it off, because it exhibits a token of their high birth, so should we too wear mercy ever about us, showing that we are children of the compassionate one, “who makes the sun to rise upon the evil and the good” (Matt. v. 45.). “But the unbelievers,” you say, “do not believe it.” I say then, hereby shall they believe, if we do these works. If they see that we take pity on all, and are enrolled under Him for our Teacher, they will know that it is in imitation of Him that we so act. For “mercy,” it says, “and true faith.”516 He well said “true.” For He willeth it not to be of rapine or fraud. For this were not “faith”; this were not “truth.” For he that plundereth must lie and forswear himself. So do not thou, saith he, but have faith with thy mercy."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "Let us put on this ornament. Let us make a golden chain for our soul, of mercy I mean, while we are here. For if this age517 pass, we can use it no longer. And why? There there are no poor, There there are no riches, no more want There. While we are children, let us not rob ourselves of this ornament. For as with children, if they become men, these are taken away, and they are advanced to other adornment; so too is it with us. There will be no more alms by money, but other and far nobler.518 Let us not then deprive ourselves of this! Let us make our soul appear beautiful! Great is alms, beautiful, and honorable, great is that gift, but greater is goodness. If we learn to despise riches, we shall learn other things besides. For behold how many good things spring from hence! He that giveth alms, as he ought to give, learns to despise wealth. He that has learned to despise wealth has cut up the root of evils. So that he does not do a greater good than he receives, not merely in that there is a due recompense and a requital for alms, but also in that his soul becomes philosophic, and elevated, and rich. He that gives alms is instructed not to admire riches or gold. And this lesson once fixed in his mind, he has gotten a great step toward mounting to Heaven, and has cut away ten thousand occasions of strife, and contention, and envy, and dejection. For ye know, ye too know, that all things are done for riches, and unnumbered wars are made for riches. But he that has learned to despise them, has placed himself in a quiet harbor, he no longer fears damage. For this hath alms taught him. He no longer desires what is his neighbor’s; for how should he, that parts with his own, and gives? He no longer envies the rich man; for how should he, that is willing to become poor? He clears the eye of his soul. And these are but here. But hereafter it is not to be told what blessings he shall win. He shall not abide without with the foolish virgins, but shall enter in with those that were wise, together with the Bridegroom, having his lamps bright. And though they have endured hardship in virginity, he that hath not so much as tasted these hardships shall be better than they. Such is the power of Mercy.519 She brings in her nurslings with much boldness. For she is known to the porters in Heaven, that keep the gates of the Bride-Chamber, and not known only, but reverenced; and those whom she knows to have honored her, she will bring in with much boldness, and none will gainsay, but all make room. For if she brought God down to earth, and persuaded him to become man, much more shall she be able to raise a man to Heaven; for great is her might. If then520 from mercy and loving-kindness God became man, and He persuaded Himself to become a servant, much rather will He bring His servants into His own house. Her let us love, on her let us set our affection, not one day, nor two, but all our life long, that she may acknowledge us. If she acknowledge us, the Lord will acknowledge us too. If she disown us, the Lord too will disown us, and will say, “I know you not.” But may it not be ours to hear this voice, but that happy one instead, “Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world.” (Matt. xxv. 34.) Which may we all obtain, by His grace and lovingkindness, in Christ Jesus our Lord, with whom to the Father and the Holy Ghost, be glory, strength, honor, now and for ever, and world without end. Amen."
+              }
+            ],
+            "idioma": "en"
+          },
+          {
+            "id": "npnf113-40-43-45",
+            "titulo": "Homília I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4652,8 +4745,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-41-43",
-            "titulo": "Homilia II.",
+            "id": "npnf113-40-43-46",
+            "titulo": "Homília II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4799,8 +4892,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-41-44",
-            "titulo": "Homilia III.",
+            "id": "npnf113-40-43-47",
+            "titulo": "Homília III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4870,8 +4963,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-41-45",
-            "titulo": "Homilia IV.",
+            "id": "npnf113-40-43-48",
+            "titulo": "Homília IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4957,8 +5050,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-41-46",
-            "titulo": "Homilia V.",
+            "id": "npnf113-40-43-49",
+            "titulo": "Homília V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5044,8 +5137,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-41-47",
-            "titulo": "Homilia VI.",
+            "id": "npnf113-40-43-50",
+            "titulo": "Homília VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5155,8 +5248,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-41-48",
-            "titulo": "Homilia VII.",
+            "id": "npnf113-40-43-51",
+            "titulo": "Homília VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5242,8 +5335,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-41-49",
-            "titulo": "Homilia VIII.",
+            "id": "npnf113-40-43-52",
+            "titulo": "Homília VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5285,8 +5378,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-41-50",
-            "titulo": "Homilia IX.",
+            "id": "npnf113-40-43-53",
+            "titulo": "Homília IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5420,8 +5513,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-41-51",
-            "titulo": "Homilia X.",
+            "id": "npnf113-40-43-54",
+            "titulo": "Homília X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5483,8 +5576,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-41-52",
-            "titulo": "Homilia XI.",
+            "id": "npnf113-40-43-55",
+            "titulo": "Homília XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5550,8 +5643,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-41-53",
-            "titulo": "Homilia XII.",
+            "id": "npnf113-40-43-56",
+            "titulo": "Homília XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5609,8 +5702,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-41-54",
-            "titulo": "Homilia XIII.",
+            "id": "npnf113-40-43-57",
+            "titulo": "Homília XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5676,8 +5769,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-41-55",
-            "titulo": "Homilia XIV.",
+            "id": "npnf113-40-43-58",
+            "titulo": "Homília XIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5751,8 +5844,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-41-56",
-            "titulo": "Homilia XV.",
+            "id": "npnf113-40-43-59",
+            "titulo": "Homília XV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5868,12 +5961,12 @@
         ]
       },
       {
-        "id": "npnf113-39-57",
-        "titulo": "HOMILIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA EPÍSTOLA DE SÃO. PAULO APÓSTOLO DOS COLOSSENSES.",
+        "id": "npnf113-40-60",
+        "titulo": "HOMÍLIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA EPÍSTOLA DE SÃO. PAULO APÓSTOLO DOS COLOSSENSES.",
         "children": [
           {
-            "id": "npnf113-39-57-58",
-            "titulo": "Homilia I.",
+            "id": "npnf113-40-60-61",
+            "titulo": "Homília I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6095,8 +6188,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-57-59",
-            "titulo": "Homilia II.",
+            "id": "npnf113-40-60-62",
+            "titulo": "Homília II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6194,8 +6287,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-57-60",
-            "titulo": "Homilia III.",
+            "id": "npnf113-40-60-63",
+            "titulo": "Homília III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6281,8 +6374,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-57-61",
-            "titulo": "Homilia IV.",
+            "id": "npnf113-40-60-64",
+            "titulo": "Homília IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6356,8 +6449,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-57-62",
-            "titulo": "Homilia V.",
+            "id": "npnf113-40-60-65",
+            "titulo": "Homília V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6467,8 +6560,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-57-63",
-            "titulo": "Homilia VI.",
+            "id": "npnf113-40-60-66",
+            "titulo": "Homília VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6554,8 +6647,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-57-64",
-            "titulo": "Homilia VII.",
+            "id": "npnf113-40-60-67",
+            "titulo": "Homília VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6685,8 +6778,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-57-65",
-            "titulo": "Homilia VIII.",
+            "id": "npnf113-40-60-68",
+            "titulo": "Homília VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6872,8 +6965,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-57-66",
-            "titulo": "Homilia IX.",
+            "id": "npnf113-40-60-69",
+            "titulo": "Homília IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6943,8 +7036,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-57-67",
-            "titulo": "Homilia X.",
+            "id": "npnf113-40-60-70",
+            "titulo": "Homília X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7118,8 +7211,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-57-68",
-            "titulo": "Homilia XI.",
+            "id": "npnf113-40-60-71",
+            "titulo": "Homília XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7257,8 +7350,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-57-69",
-            "titulo": "Homilia XII.",
+            "id": "npnf113-40-60-72",
+            "titulo": "Homília XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7394,12 +7487,12 @@
         ]
       },
       {
-        "id": "npnf113-39-70",
-        "titulo": "HOMILIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA PRIMEIRA EPÍSTOLA DE SÃO. PAULO, O APÓSTOLO DOS TESSALONICENSES.",
+        "id": "npnf113-40-73",
+        "titulo": "HOMÍLIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA PRIMEIRA EPÍSTOLA DE SÃO. PAULO, O APÓSTOLO DOS TESALONICENSES.",
         "children": [
           {
-            "id": "npnf113-39-70-71",
-            "titulo": "Homilia I.",
+            "id": "npnf113-40-73-74",
+            "titulo": "Homília I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7517,8 +7610,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-70-72",
-            "titulo": "Homilia II.",
+            "id": "npnf113-40-73-75",
+            "titulo": "Homília II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7624,8 +7717,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-70-73",
-            "titulo": "Homilia III.",
+            "id": "npnf113-40-73-76",
+            "titulo": "Homília III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7795,8 +7888,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-70-74",
-            "titulo": "Homilia IV.",
+            "id": "npnf113-40-73-77",
+            "titulo": "Homília IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7930,8 +8023,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-70-75",
-            "titulo": "Homilia V.",
+            "id": "npnf113-40-73-78",
+            "titulo": "Homília V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8009,8 +8102,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-70-76",
-            "titulo": "Homilia VI.",
+            "id": "npnf113-40-73-79",
+            "titulo": "Homília VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8092,8 +8185,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-70-77",
-            "titulo": "Homilia VII.",
+            "id": "npnf113-40-73-80",
+            "titulo": "Homília VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8163,8 +8256,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-70-78",
-            "titulo": "Homilia VIII.",
+            "id": "npnf113-40-73-81",
+            "titulo": "Homília VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8266,8 +8359,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-70-79",
-            "titulo": "Homilia IX.",
+            "id": "npnf113-40-73-82",
+            "titulo": "Homília IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8393,8 +8486,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-70-80",
-            "titulo": "Homilia X.",
+            "id": "npnf113-40-73-83",
+            "titulo": "Homília X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8500,8 +8593,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-70-81",
-            "titulo": "Homilia XI.",
+            "id": "npnf113-40-73-84",
+            "titulo": "Homília XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8617,12 +8710,12 @@
         ]
       },
       {
-        "id": "npnf113-39-82",
-        "titulo": "HOMILIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA SEGUNDA EPÍSTOLA DE SÃO. PAULO, O APÓSTOLO DOS TESSALONICENSES.",
+        "id": "npnf113-40-85",
+        "titulo": "HOMÍLIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA SEGUNDA EPÍSTOLA DE SÃO. PAULO, O APÓSTOLO DOS TESALONICENSES.",
         "children": [
           {
-            "id": "npnf113-39-82-83",
-            "titulo": "Homilia I.",
+            "id": "npnf113-40-85-86",
+            "titulo": "Homília I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8668,8 +8761,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-82-84",
-            "titulo": "Homilia II.",
+            "id": "npnf113-40-85-87",
+            "titulo": "Homília II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8795,8 +8888,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-82-85",
-            "titulo": "Homilia III.",
+            "id": "npnf113-40-85-88",
+            "titulo": "Homília III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8906,8 +8999,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-82-86",
-            "titulo": "Homilia IV.",
+            "id": "npnf113-40-85-89",
+            "titulo": "Homília IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9037,8 +9130,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-39-82-87",
-            "titulo": "Homilia V.",
+            "id": "npnf113-40-85-90",
+            "titulo": "Homília V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9212,11 +9305,11 @@
     ]
   },
   {
-    "id": "npnf113-88",
-    "titulo": "—",
+    "id": "npnf113-91",
+    "titulo": "AS HOMILIAS DE ST. JOÃO CRISÓSTOMO ARCEBISPO DE CONSTANTINOPLA, NAS EPÍSTOLAS DE SÃO. PAULO, APÓSTOLO DE TIMÓTEO, TITO E FILEMÃO",
     "children": [
       {
-        "id": "npnf113-88-89",
+        "id": "npnf113-91-92",
         "titulo": "—",
         "conteudo": [
           {
@@ -9231,11 +9324,46 @@
         "idioma": "en"
       },
       {
-        "id": "npnf113-88-90",
-        "titulo": "HOMILIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA PRIMEIRA EPÍSTOLA DE SÃO. PAULO APÓSTOLO DE TIMÓTEO.",
+        "id": "npnf113-91-93",
+        "titulo": "Preface.",
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "The remark of Photius, that St. Chrysostom’s more finished works were those which he composed at Antioch, does not seem to afford a sufficient criterion for assigning a date to each set of Homilies. Tillemont appears to have been misled by it in the instance of those on the Epistles to Timothy, which he has on such grounds supposed to have been delivered at Constantinople. Montfaucon, however, alleges two reasons for placing them at Antioch."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "1. That he speaks much of the Monks, as he used to do there, owing to the neighborhood of a large number of them, who lived in strict discipline and exemplary devotion. 2. That in speaking of Timothy’s office as Bishop, he never says a word of being one himself. A third reason may be added, which is perhaps more conclusive than either of these. In Hom. viii. on 2 Tim. iii. he seems pretty evidently to allude to the burning of the Temple of Apollo at Daphne. One can hardly doubt the allusion, in reading the full account in the Homily on St. Babylas; nor can it well be supposed that he would thus refer to it as a thing well known at any other place than Antioch."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The Homilies on the Epistle to Titus are fixed at Antioch by the mention of Daphne and the cave of Matrona in Hom. iii. (2). A passage in Hom. i. (4) seems to place him in a paternal relation to the people, as the plural we is constantly used by him for the singular. But the whole context seems rather to allude to another as Bishop, and he must be understood to speak as one of a body of clergy, in which in fact he held the second place."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Those on the Epistle to Philemon cannot easily be assigned to any particular date. The promise he mentions in the last Homily does not seem to afford a clue to it, but may possibly do so. The composition of these Homilies has been remarked on as negligent by Hemsterhusius, so that he takes them to have been extemporaneous effusions taken down by others. There may be some ground for this in the style, and in the paraphrastic character of the various readings, but as a commentary they are unusually closed and exact, and point out much of what regards the persuasive character of the Epistle that is not generally noticed."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "For the Translation and some illustrative notes, the Editors are indebted to the Rev. James Tweed, M.A., of Corpus Christi College, Cambridge. The text of the New Paris edition has been chiefly used, as it is improved from the Benedictine. Savile’s has been compared with it in many parts, and in every difficulty, and where both failed, a better reading has been sometimes found in the ms. marked B, which is in the British Museum marked Burney 48. The differences are, however, slight, and affect the Greek more than the Translation. A Venice ms. which usually agrees with this has been collated for the Homilies on the Epistle to Philemon. An old Latin version published at Basle has been noticed in some places, where its variations appear to be derived from Greek copies."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "C. Marriot."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Oxford, 1843."
+          }
+        ],
+        "idioma": "en"
+      },
+      {
+        "id": "npnf113-91-94",
+        "titulo": "HOMÍLIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA PRIMEIRA EPÍSTOLA DE SÃO. PAULO APÓSTOLO DE TIMÓTEO.",
         "children": [
           {
-            "id": "npnf113-88-90-91",
+            "id": "npnf113-91-94-95",
             "titulo": "Argumento.",
             "conteudo": [
               {
@@ -9258,8 +9386,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-92",
-            "titulo": "Homilia I.",
+            "id": "npnf113-91-94-96",
+            "titulo": "Homília I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9337,8 +9465,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-93",
-            "titulo": "Homilia II.",
+            "id": "npnf113-91-94-97",
+            "titulo": "Homília II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9424,8 +9552,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-94",
-            "titulo": "Homilia III.",
+            "id": "npnf113-91-94-98",
+            "titulo": "Homília III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9483,8 +9611,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-95",
-            "titulo": "Homilia IV.",
+            "id": "npnf113-91-94-99",
+            "titulo": "Homília IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9570,8 +9698,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-96",
-            "titulo": "Homilia V.",
+            "id": "npnf113-91-94-100",
+            "titulo": "Homília V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9629,8 +9757,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-97",
-            "titulo": "Homilia VI.",
+            "id": "npnf113-91-94-101",
+            "titulo": "Homília VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9664,8 +9792,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-98",
-            "titulo": "Homilia VII.",
+            "id": "npnf113-91-94-102",
+            "titulo": "Homília VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9747,8 +9875,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-99",
-            "titulo": "Homilia VIII.",
+            "id": "npnf113-91-94-103",
+            "titulo": "Homília VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9786,8 +9914,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-100",
-            "titulo": "Homilia IX.",
+            "id": "npnf113-91-94-104",
+            "titulo": "Homília IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9841,8 +9969,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-101",
-            "titulo": "Homilia X.",
+            "id": "npnf113-91-94-105",
+            "titulo": "Homília X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9904,8 +10032,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-102",
-            "titulo": "Homilia XI.",
+            "id": "npnf113-91-94-106",
+            "titulo": "Homília XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10007,8 +10135,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-103",
-            "titulo": "Homilia XII.",
+            "id": "npnf113-91-94-107",
+            "titulo": "Homília XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10130,8 +10258,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-104",
-            "titulo": "Homilia XIII.",
+            "id": "npnf113-91-94-108",
+            "titulo": "Homília XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10289,8 +10417,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-105",
-            "titulo": "Homilia XIV.",
+            "id": "npnf113-91-94-109",
+            "titulo": "Homília XIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10380,8 +10508,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-106",
-            "titulo": "Homilia XV.",
+            "id": "npnf113-91-94-110",
+            "titulo": "Homília XV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10495,8 +10623,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-107",
-            "titulo": "Homilia XVI.",
+            "id": "npnf113-91-94-111",
+            "titulo": "Homília XVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10586,8 +10714,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-108",
-            "titulo": "Homilia XVII.",
+            "id": "npnf113-91-94-112",
+            "titulo": "Homília XVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10725,8 +10853,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-90-109",
-            "titulo": "Homilia XVIII.",
+            "id": "npnf113-91-94-113",
+            "titulo": "Homília XVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10886,12 +11014,12 @@
         ]
       },
       {
-        "id": "npnf113-88-110",
-        "titulo": "HOMILIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA SEGUNDA EPÍSTOLA DE SÃO. PAULO APÓSTOLO DE TIMÓTEO.",
+        "id": "npnf113-91-114",
+        "titulo": "HOMÍLIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA SEGUNDA EPÍSTOLA DE SÃO. PAULO APÓSTOLO DE TIMÓTEO.",
         "children": [
           {
-            "id": "npnf113-88-110-111",
-            "titulo": "Homilia I.",
+            "id": "npnf113-91-114-115",
+            "titulo": "Homília I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11001,8 +11129,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-110-112",
-            "titulo": "Homilia II.",
+            "id": "npnf113-91-114-116",
+            "titulo": "Homília II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11076,8 +11204,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-110-113",
-            "titulo": "Homilia III.",
+            "id": "npnf113-91-114-117",
+            "titulo": "Homília III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11139,8 +11267,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-110-114",
-            "titulo": "Homilia IV.",
+            "id": "npnf113-91-114-118",
+            "titulo": "Homília IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11246,8 +11374,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-110-115",
-            "titulo": "Homilia V.",
+            "id": "npnf113-91-114-119",
+            "titulo": "Homília V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11377,8 +11505,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-110-116",
-            "titulo": "Homilia VI.",
+            "id": "npnf113-91-114-120",
+            "titulo": "Homília VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11504,8 +11632,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-110-117",
-            "titulo": "Homilia VII.",
+            "id": "npnf113-91-114-121",
+            "titulo": "Homília VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11559,8 +11687,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-110-118",
-            "titulo": "Homilia VIII.",
+            "id": "npnf113-91-114-122",
+            "titulo": "Homília VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11718,8 +11846,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-110-119",
-            "titulo": "Homilia IX.",
+            "id": "npnf113-91-114-123",
+            "titulo": "Homília IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11861,8 +11989,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-110-120",
-            "titulo": "Homilia X.",
+            "id": "npnf113-91-114-124",
+            "titulo": "Homília X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12070,12 +12198,12 @@
         ]
       },
       {
-        "id": "npnf113-88-121",
-        "titulo": "HOMILIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA EPÍSTOLA DE SÃO. PAULO APÓSTOLO DE TITO.",
+        "id": "npnf113-91-125",
+        "titulo": "HOMÍLIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA EPÍSTOLA DE SÃO. PAULO APÓSTOLO DE TITO.",
         "children": [
           {
-            "id": "npnf113-88-121-122",
-            "titulo": "Homilia I.",
+            "id": "npnf113-91-125-126",
+            "titulo": "Homília I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12209,8 +12337,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-121-123",
-            "titulo": "Homilia II.",
+            "id": "npnf113-91-125-127",
+            "titulo": "Homília II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12356,8 +12484,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-121-124",
-            "titulo": "Homilia III.",
+            "id": "npnf113-91-125-128",
+            "titulo": "Homília III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12475,8 +12603,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-121-125",
-            "titulo": "Homilia IV.",
+            "id": "npnf113-91-125-129",
+            "titulo": "Homília IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12642,8 +12770,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-121-126",
-            "titulo": "Homilia V.",
+            "id": "npnf113-91-125-130",
+            "titulo": "Homília V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12837,8 +12965,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-121-127",
-            "titulo": "Homilia VI.",
+            "id": "npnf113-91-125-131",
+            "titulo": "Homília VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12930,11 +13058,11 @@
         ]
       },
       {
-        "id": "npnf113-88-128",
-        "titulo": "HOMILIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA EPÍSTOLA DE SÃO. PAULO APÓSTOLO DE FILEMÃO.",
+        "id": "npnf113-91-132",
+        "titulo": "HOMÍLIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, NA EPÍSTOLA DE SÃO. PAULO APÓSTOLO DE FILEMÃO.",
         "children": [
           {
-            "id": "npnf113-88-128-129",
+            "id": "npnf113-91-132-133",
             "titulo": "Argumento.",
             "conteudo": [
               {
@@ -12973,8 +13101,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-128-130",
-            "titulo": "Homilia I.",
+            "id": "npnf113-91-132-134",
+            "titulo": "Homília I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13092,8 +13220,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-128-131",
-            "titulo": "Homilia II.",
+            "id": "npnf113-91-132-135",
+            "titulo": "Homília II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13263,8 +13391,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf113-88-128-132",
-            "titulo": "Homilia III.",
+            "id": "npnf113-91-132-136",
+            "titulo": "Homília III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",

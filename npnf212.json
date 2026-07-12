@@ -1,7 +1,7 @@
 [
   {
     "id": "npnf212-3",
-    "titulo": "—",
+    "titulo": "AS CARTAS E SERMÕES DE LEÃO, O GRANDE BISPO DE ROMA,",
     "children": [
       {
         "id": "npnf212-3-4",
@@ -2050,7 +2050,7 @@
           },
           {
             "id": "npnf212-3-11-66",
-            "titulo": "Cartas LV. para LVIII.",
+            "titulo": "Cartas LV. parágrafo LVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2665,7 +2665,7 @@
           },
           {
             "id": "npnf212-3-11-99",
-            "titulo": "Carta XCII.",
+            "titulo": "Carta XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6871,7 +6871,7 @@
   },
   {
     "id": "npnf212-229",
-    "titulo": "—",
+    "titulo": "Nota Prefatória.",
     "children": [
       {
         "id": "npnf212-229-230",
@@ -7208,15 +7208,48 @@
         "idioma": "en"
       },
       {
-        "id": "npnf212-229-233",
+        "id": "npnf212-229-232",
+        "titulo": "O Livro da Regra Pastoral.",
+        "children": [
+          {
+            "id": "npnf212-229-232-233",
+            "titulo": "Preface.",
+            "conteudo": [
+              {
+                "tipo": "paragrafo",
+                "texto": "The title, Liber Regulæ Pastoralis, is the one adopted by the Benedictine Edition from several ancient mss., being Gregory’s own designation of his work when he sent it to his friend, Leander of Seville;—“Ut librum Regulæ Pastoralis, quem in episcopatus mei exordio scripsi…sanctitati tuæ transmitterem” (Epp. Lib. v., Ep. 49). The previously more usual one, Liber Pastoralis Curæ, may have been taken from the opening words of the book itself, “Pastoralis curæ me pondera fugere, etc.” The book was issued (as appears from the passage above quoted in the Epistle to Leander) at the commencement of Gregory’s episcopacy, and (as appears from its opening words) addressed to John, bishop of Ravenna, in reply to a letter received from him. But, though put into form for a special purpose on this occasion, it must have been the issue of long previous thought, as is further evident from the fact that in his Magna Moralia, or Commentary on the Book of Job, begun and in a great measure written during his residence in Constantinople, he had already sketched the plan of such a treatise, and expressed the hope of some day putting it into form. For we there find the prologue to the third book of the Regula already written, together with most of the headings contained in the first chapter of that book, followed by the words, “And indeed we ought to have denoted particularly what should be the order of admonition with respect to each of these points; but fear of prolixity deters us. Yet, with God’s help, we hope to complete this task in another work, should some little time of this laborious life still remain to us” (Moral. Lib. xxx. c. 12 and 13)."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "The book appears to have been estimated as it deserved during the writer’s life. It was sent by him, as we have seen, to Leander of Seville, apparently at the request of the latter, for the benefit of the Church in Spain; and there will be found among the Epistles one addressed to Gregory from Licinianus, a learned bishop of Carthagena in that country, in which it is highly praised, though a fear is expressed lest the standard required in it of fitness for the episcopal office might prove too high for ordinary attainment (Epp. Lib. II., Ep. 54). The Emperor Maurice, having requested and obtained a copy of it from Anatolius, Gregory’s deacon at Constantinople, had it translated into Greek by Anastasius the patriarch of Antioch, who himself highly approved of it (Epp. Lib. XII., Ep. 24). It appears to have been taken to England by the Monk Augustine. This is asserted by Alfred the Great, who, nearly three hundred years afterwards, with the assistance of his divines, made a translation, or rather paraphrase, of it in the West Saxon tongue, intending, as he says, to send a copy to every bishop in his Kingdom1261."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "Previously to this, there is evidence of the high repute in which the book was held in Gaul. In a series of councils held by command of Charlemagne, a.d. 813,—viz. at Mayence, Rheims, Tours, and Châlon-sur-Seine—the study of it was specially enjoined on all bishops, together with the New Testament Scriptures and the Canons of the Fathers1262. Similarly at a Council held at Aix-la-Chapelle, a.d. 8361263. Further, it appears from a letter of Hincmar1264, Archbishop of Rheims (a.d. 845–882), that a copy of it together with the Book of Canons was given into the hands of bishops before the altar at their consecration, and that they were admonished to frame their lives accordingly."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "The work is well worthy of its old repute, being the best of its kind, and profitable for all ages. Two similar works had preceded it. First, that of Gregory Nazianzen (c. a.d. 362), known as his second oration, and called τοῦ αὐτοῦ ἀπολογητικός , which was written, like that of the later Gregory, to excuse the writer’s reluctance to accept the episcopate, and to set forth the responsibilities of the office. It is obvious, from comparing the two treatises, that the earlier had suggested the later one; and indeed Pope Gregory acknowledges his indebtedness in his prologue to the second book of the Regula. The second somewhat similar treatise had been that of Chrysostom, ‘De Sacerdotio,’ in six books, c. a.d. 382. It also sets forth the awful responsibilities of the episcopal office; but there are no signs of pope Gregory having drawn from it."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "It is to be observed that the subject of all these treatises is the office of episcopacy; not the pastoral or priestly office in its wider sense, as now commonly understood: and it is noteworthy how prominent in Gregory’s view of it are the duties of preaching and spiritual guidance of souls. It is regarded, indeed, in the first place as an office of government—locus regiminis, culmen regiminis, denote it frequently—and hence the exercise of discipline comes prominently in; and the chief pastor is viewed also as an intercessor between his flock and God—See e.g. I. 10;—but it is especially as a teacher, and a physician of souls, that he is spoken of throughout the treatise; as one whose peculiar duty it is to be conversant with all forms of spiritual disease, and so be able to suit his treatment to all cases, to “preach the word, reprove, rebuke, exhort, with all long suffering and doctrine,” and both by precept and example guide souls in the way of salvation. Gregory had not studied in vain the Pas- toral Epistles of St. Paul. Remarkable indeed is his own discriminating insight, displayed throughout, into human characters and motives, and his perception of the temptations to which circumstances or temperament render various people—pastors as well as members of their flocks—peculiarly liable. No less striking, in this as in other works of his, is his intimate acquaintance with the whole of Holy Scripture. He knew it indeed through the Latin version only; his critical knowledge is frequently at fault; and far-fetched mystical interpretations, such as he delighted in, abound. But as a true expounder of its general moral and religious teaching he well deserves his name as one of the great Doctors of the Church. And, further, notwithstanding all his reverence for Councils and Fathers, as paramount authorities in matters of faith, it is to Scripture that he ever appeals as the final authority for conduct and belief."
+              }
+            ],
+            "idioma": "en"
+          }
+        ]
+      },
+      {
+        "id": "npnf212-229-234",
         "titulo": "O Livro da Regra Pastoral de São Gregório Magno, Romano Pontífice, a João, Bispo da Cidade de Ravena.",
         "children": [
           {
-            "id": "npnf212-229-233-234",
+            "id": "npnf212-229-234-235",
             "titulo": "Parte I.",
             "children": [
               {
-                "id": "npnf212-229-233-234-235",
+                "id": "npnf212-229-234-235-236",
                 "titulo": "Capítulo I.",
                 "conteudo": [
                   {
@@ -7227,7 +7260,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-234-236",
+                "id": "npnf212-229-234-235-237",
                 "titulo": "Capítulo II.",
                 "conteudo": [
                   {
@@ -7238,7 +7271,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-234-237",
+                "id": "npnf212-229-234-235-238",
                 "titulo": "Capítulo III.",
                 "conteudo": [
                   {
@@ -7249,7 +7282,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-234-238",
+                "id": "npnf212-229-234-235-239",
                 "titulo": "Capítulo IV.",
                 "conteudo": [
                   {
@@ -7264,7 +7297,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-234-239",
+                "id": "npnf212-229-234-235-240",
                 "titulo": "Capítulo V.",
                 "conteudo": [
                   {
@@ -7279,7 +7312,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-234-240",
+                "id": "npnf212-229-234-235-241",
                 "titulo": "Capítulo VI.",
                 "conteudo": [
                   {
@@ -7290,7 +7323,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-234-241",
+                "id": "npnf212-229-234-235-242",
                 "titulo": "Capítulo VII.",
                 "conteudo": [
                   {
@@ -7301,7 +7334,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-234-242",
+                "id": "npnf212-229-234-235-243",
                 "titulo": "Capítulo VIII.",
                 "conteudo": [
                   {
@@ -7312,7 +7345,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-234-243",
+                "id": "npnf212-229-234-235-244",
                 "titulo": "Capítulo IX.",
                 "conteudo": [
                   {
@@ -7323,7 +7356,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-234-244",
+                "id": "npnf212-229-234-235-245",
                 "titulo": "Capítulo X.",
                 "conteudo": [
                   {
@@ -7334,7 +7367,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-234-245",
+                "id": "npnf212-229-234-235-246",
                 "titulo": "Capítulo XI.",
                 "conteudo": [
                   {
@@ -7355,11 +7388,11 @@
             ]
           },
           {
-            "id": "npnf212-229-233-246",
+            "id": "npnf212-229-234-247",
             "titulo": "Parte II.",
             "children": [
               {
-                "id": "npnf212-229-233-246-247",
+                "id": "npnf212-229-234-247-248",
                 "titulo": "Capítulo I.",
                 "conteudo": [
                   {
@@ -7370,7 +7403,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-246-248",
+                "id": "npnf212-229-234-247-249",
                 "titulo": "Capítulo II.",
                 "conteudo": [
                   {
@@ -7381,7 +7414,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-246-249",
+                "id": "npnf212-229-234-247-250",
                 "titulo": "Capítulo III.",
                 "conteudo": [
                   {
@@ -7392,7 +7425,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-246-250",
+                "id": "npnf212-229-234-247-251",
                 "titulo": "Capítulo IV.",
                 "conteudo": [
                   {
@@ -7403,7 +7436,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-246-251",
+                "id": "npnf212-229-234-247-252",
                 "titulo": "Capítulo V.",
                 "conteudo": [
                   {
@@ -7414,7 +7447,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-246-252",
+                "id": "npnf212-229-234-247-253",
                 "titulo": "Capítulo VI.",
                 "conteudo": [
                   {
@@ -7437,7 +7470,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-246-253",
+                "id": "npnf212-229-234-247-254",
                 "titulo": "Capítulo VII.",
                 "conteudo": [
                   {
@@ -7456,7 +7489,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-246-254",
+                "id": "npnf212-229-234-247-255",
                 "titulo": "Capítulo VIII.",
                 "conteudo": [
                   {
@@ -7467,7 +7500,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-246-255",
+                "id": "npnf212-229-234-247-256",
                 "titulo": "Capítulo IX.",
                 "conteudo": [
                   {
@@ -7478,7 +7511,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-246-256",
+                "id": "npnf212-229-234-247-257",
                 "titulo": "Capítulo X.",
                 "conteudo": [
                   {
@@ -7517,7 +7550,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-246-257",
+                "id": "npnf212-229-234-247-258",
                 "titulo": "Capítulo XI.",
                 "conteudo": [
                   {
@@ -7530,11 +7563,11 @@
             ]
           },
           {
-            "id": "npnf212-229-233-258",
+            "id": "npnf212-229-234-259",
             "titulo": "Parte III.",
             "children": [
               {
-                "id": "npnf212-229-233-258-259",
+                "id": "npnf212-229-234-259-260",
                 "titulo": "Capítulo I.",
                 "conteudo": [
                   {
@@ -7697,7 +7730,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-260",
+                "id": "npnf212-229-234-259-261",
                 "titulo": "Capítulo II.",
                 "conteudo": [
                   {
@@ -7712,7 +7745,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-261",
+                "id": "npnf212-229-234-259-262",
                 "titulo": "Capítulo III.",
                 "conteudo": [
                   {
@@ -7723,7 +7756,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-262",
+                "id": "npnf212-229-234-259-263",
                 "titulo": "Capítulo IV.",
                 "conteudo": [
                   {
@@ -7742,7 +7775,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-263",
+                "id": "npnf212-229-234-259-264",
                 "titulo": "Capítulo V.",
                 "conteudo": [
                   {
@@ -7753,7 +7786,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-264",
+                "id": "npnf212-229-234-259-265",
                 "titulo": "Capítulo VI.",
                 "conteudo": [
                   {
@@ -7764,7 +7797,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-265",
+                "id": "npnf212-229-234-259-266",
                 "titulo": "Capítulo VII.",
                 "conteudo": [
                   {
@@ -7775,7 +7808,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-266",
+                "id": "npnf212-229-234-259-267",
                 "titulo": "Capítulo VIII.",
                 "conteudo": [
                   {
@@ -7794,7 +7827,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-267",
+                "id": "npnf212-229-234-259-268",
                 "titulo": "Capítulo IX.",
                 "conteudo": [
                   {
@@ -7821,7 +7854,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-268",
+                "id": "npnf212-229-234-259-269",
                 "titulo": "Capítulo X.",
                 "conteudo": [
                   {
@@ -7836,7 +7869,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-269",
+                "id": "npnf212-229-234-259-270",
                 "titulo": "Capítulo XI.",
                 "conteudo": [
                   {
@@ -7855,7 +7888,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-270",
+                "id": "npnf212-229-234-259-271",
                 "titulo": "Capítulo XII.",
                 "conteudo": [
                   {
@@ -7878,7 +7911,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-271",
+                "id": "npnf212-229-234-259-272",
                 "titulo": "Capítulo XIII.",
                 "conteudo": [
                   {
@@ -7897,7 +7930,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-272",
+                "id": "npnf212-229-234-259-273",
                 "titulo": "Capítulo XIV.",
                 "conteudo": [
                   {
@@ -7916,7 +7949,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-273",
+                "id": "npnf212-229-234-259-274",
                 "titulo": "Capítulo XV.",
                 "conteudo": [
                   {
@@ -7931,7 +7964,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-274",
+                "id": "npnf212-229-234-259-275",
                 "titulo": "Capítulo XVI.",
                 "conteudo": [
                   {
@@ -7950,7 +7983,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-275",
+                "id": "npnf212-229-234-259-276",
                 "titulo": "Capítulo XVII.",
                 "conteudo": [
                   {
@@ -7973,7 +8006,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-276",
+                "id": "npnf212-229-234-259-277",
                 "titulo": "Capítulo XVIII.",
                 "conteudo": [
                   {
@@ -7992,7 +8025,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-277",
+                "id": "npnf212-229-234-259-278",
                 "titulo": "Capítulo XIX.",
                 "conteudo": [
                   {
@@ -8019,7 +8052,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-278",
+                "id": "npnf212-229-234-259-279",
                 "titulo": "Capítulo XX.",
                 "conteudo": [
                   {
@@ -8046,7 +8079,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-279",
+                "id": "npnf212-229-234-259-280",
                 "titulo": "Capítulo XXI.",
                 "conteudo": [
                   {
@@ -8081,7 +8114,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-280",
+                "id": "npnf212-229-234-259-281",
                 "titulo": "Capítulo XXII.",
                 "conteudo": [
                   {
@@ -8092,7 +8125,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-281",
+                "id": "npnf212-229-234-259-282",
                 "titulo": "Capítulo XXIII.",
                 "conteudo": [
                   {
@@ -8107,7 +8140,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-282",
+                "id": "npnf212-229-234-259-283",
                 "titulo": "Capítulo XXIV.",
                 "conteudo": [
                   {
@@ -8122,7 +8155,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-283",
+                "id": "npnf212-229-234-259-284",
                 "titulo": "Capítulo XXV.",
                 "conteudo": [
                   {
@@ -8141,7 +8174,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-284",
+                "id": "npnf212-229-234-259-285",
                 "titulo": "Capítulo XXVI.",
                 "conteudo": [
                   {
@@ -8160,7 +8193,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-285",
+                "id": "npnf212-229-234-259-286",
                 "titulo": "Capítulo XXVII.",
                 "conteudo": [
                   {
@@ -8179,7 +8212,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-286",
+                "id": "npnf212-229-234-259-287",
                 "titulo": "Capítulo XXVIII.",
                 "conteudo": [
                   {
@@ -8206,7 +8239,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-287",
+                "id": "npnf212-229-234-259-288",
                 "titulo": "Capítulo XXIX.",
                 "conteudo": [
                   {
@@ -8233,7 +8266,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-288",
+                "id": "npnf212-229-234-259-289",
                 "titulo": "Capítulo XXX.",
                 "conteudo": [
                   {
@@ -8256,7 +8289,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-289",
+                "id": "npnf212-229-234-259-290",
                 "titulo": "Capítulo XXXI.",
                 "conteudo": [
                   {
@@ -8271,7 +8304,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-290",
+                "id": "npnf212-229-234-259-291",
                 "titulo": "Capítulo XXXII.",
                 "conteudo": [
                   {
@@ -8286,7 +8319,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-291",
+                "id": "npnf212-229-234-259-292",
                 "titulo": "Capítulo XXXIII.",
                 "conteudo": [
                   {
@@ -8301,7 +8334,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-292",
+                "id": "npnf212-229-234-259-293",
                 "titulo": "Capítulo XXXIV.",
                 "conteudo": [
                   {
@@ -8320,7 +8353,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-293",
+                "id": "npnf212-229-234-259-294",
                 "titulo": "Capítulo XXXV.",
                 "conteudo": [
                   {
@@ -8339,7 +8372,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-294",
+                "id": "npnf212-229-234-259-295",
                 "titulo": "Capítulo XXXVI.",
                 "conteudo": [
                   {
@@ -8350,7 +8383,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-295",
+                "id": "npnf212-229-234-259-296",
                 "titulo": "Capítulo XXXVII.",
                 "conteudo": [
                   {
@@ -8361,7 +8394,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-296",
+                "id": "npnf212-229-234-259-297",
                 "titulo": "Capítulo XXXVIII.",
                 "conteudo": [
                   {
@@ -8372,7 +8405,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-297",
+                "id": "npnf212-229-234-259-298",
                 "titulo": "Capítulo XXXIX.",
                 "conteudo": [
                   {
@@ -8383,7 +8416,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-233-258-298",
+                "id": "npnf212-229-234-259-299",
                 "titulo": "Capítulo XL.",
                 "conteudo": [
                   {
@@ -8396,7 +8429,7 @@
             ]
           },
           {
-            "id": "npnf212-229-233-299",
+            "id": "npnf212-229-234-300",
             "titulo": "Parte IV.",
             "conteudo": [
               {
@@ -8417,15 +8450,15 @@
         ]
       },
       {
-        "id": "npnf212-229-300",
+        "id": "npnf212-229-301",
         "titulo": "Registro das Epístolas de São Gregório Magno.",
         "children": [
           {
-            "id": "npnf212-229-300-301",
+            "id": "npnf212-229-301-302",
             "titulo": "Livro I.",
             "children": [
               {
-                "id": "npnf212-229-300-301-302",
+                "id": "npnf212-229-301-302-303",
                 "titulo": "Epístola I. A todos os Bispos da Sicília.",
                 "conteudo": [
                   {
@@ -8444,8 +8477,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-303",
-                "titulo": "Epístola II. Para Justinus, Pretor da Sicília.",
+                "id": "npnf212-229-301-302-304",
+                "titulo": "Epistola II. Para Justinus, Pretor da Sicília.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8467,8 +8500,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-304",
-                "titulo": "Epístola III. Para Paulo, Escolástico.",
+                "id": "npnf212-229-301-302-305",
+                "titulo": "Epistola III. Pará Paulo, Escolástico.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8482,8 +8515,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-305",
-                "titulo": "Epístola IV. João, Bispo de Constantinopla1299.",
+                "id": "npnf212-229-301-302-306",
+                "titulo": "Epistola IV. João, Bispo de Constantinopla1299.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8501,8 +8534,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-306",
-                "titulo": "Epístola V. A Teoctista, Irmã do Imperador.",
+                "id": "npnf212-229-301-302-307",
+                "titulo": "Epistola V. A Teoctista, Irmã do Imperador.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8516,7 +8549,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-307",
+                "id": "npnf212-229-301-302-308",
                 "titulo": "Epístola VI. Para Narses, Patrício1305.",
                 "conteudo": [
                   {
@@ -8535,7 +8568,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-308",
+                "id": "npnf212-229-301-302-309",
                 "titulo": "Epístola VII. Para Anastácio, Patriarca de Antioquia1310.",
                 "conteudo": [
                   {
@@ -8550,7 +8583,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-309",
+                "id": "npnf212-229-301-302-310",
                 "titulo": "Epístola IX. Para Pedro, o Subdiácono.",
                 "conteudo": [
                   {
@@ -8569,7 +8602,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-310",
+                "id": "npnf212-229-301-302-311",
                 "titulo": "Epístola X. A Bacauda e Agnellus, Bispos.",
                 "conteudo": [
                   {
@@ -8584,7 +8617,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-311",
+                "id": "npnf212-229-301-302-312",
                 "titulo": "Epístola XI. À Clementina, Patrícia1314.",
                 "conteudo": [
                   {
@@ -8603,8 +8636,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-312",
-                "titulo": "Epístola XII. A João, Bispo de Urbs Vetus (Orvieto).",
+                "id": "npnf212-229-301-302-313",
+                "titulo": "Epistola XII. A João, Bispo de Urbs Vetus (Orvieto).",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8618,8 +8651,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-313",
-                "titulo": "Epístola XVI. To Severus, Bishop of Aquileia1317.",
+                "id": "npnf212-229-301-302-314",
+                "titulo": "Epístola XVI. Para Severo, Bispo de Aquileia1317.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8633,8 +8666,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-314",
-                "titulo": "Epístola XVII. A todos os Bispos da Itália.",
+                "id": "npnf212-229-301-302-315",
+                "titulo": "Epistola XVII. A todos os Bispos da Itália.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8648,8 +8681,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-315",
-                "titulo": "Epístola XVIII. Para Pedro, o Subdiácono.",
+                "id": "npnf212-229-301-302-316",
+                "titulo": "Epistola XVIII. Para Pedro, o Subdiácono.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8663,8 +8696,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-316",
-                "titulo": "Epístola XIX. Para Natalis, Bispo de Salona1319.",
+                "id": "npnf212-229-301-302-317",
+                "titulo": "Epistola XIX. Para Natalis, Bispo de Salona1319.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8678,8 +8711,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-317",
-                "titulo": "Epístola XX. A Honorato, Diácono de Salona.",
+                "id": "npnf212-229-301-302-318",
+                "titulo": "Epistola XX. A Honorato, Diácono de Salona.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8693,7 +8726,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-318",
+                "id": "npnf212-229-301-302-319",
                 "titulo": "Epístola XXI. Para Natalis, Bispo de Salona1321.",
                 "conteudo": [
                   {
@@ -8708,7 +8741,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-319",
+                "id": "npnf212-229-301-302-320",
                 "titulo": "Epístola XXV. A João, Bispo de Constantinopla, e aos Outros Patriarcas.",
                 "conteudo": [
                   {
@@ -8755,7 +8788,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-320",
+                "id": "npnf212-229-301-302-321",
                 "titulo": "Epístola XXVI. Para Anastácio, Patriarca de Antioquia.",
                 "conteudo": [
                   {
@@ -8770,7 +8803,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-321",
+                "id": "npnf212-229-301-302-322",
                 "titulo": "Epístola XXVII. Para Anastácio, Arcebispo de Corinto.",
                 "conteudo": [
                   {
@@ -8785,8 +8818,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-322",
-                "titulo": "Epístola XXVIII. To Sebastian, Bishop of Rhisinum in Dalmatia.",
+                "id": "npnf212-229-301-302-323",
+                "titulo": "Epístola XXVIII. A Sebastião, Bispo de Rhisinum na Dalmácia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8800,7 +8833,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-323",
+                "id": "npnf212-229-301-302-324",
                 "titulo": "Epístola XXIX. Para Aristóbulo, Ex-Prefeito e Antígrafo 1328.",
                 "conteudo": [
                   {
@@ -8815,7 +8848,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-324",
+                "id": "npnf212-229-301-302-325",
                 "titulo": "Epístola XXXIII. A Romano, Patrício e Exarca da Itália.",
                 "conteudo": [
                   {
@@ -8830,7 +8863,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-325",
+                "id": "npnf212-229-301-302-326",
                 "titulo": "Epístola XXXIV. A Venâncio, Ex-Monge, Patrício de Siracusa1331.",
                 "conteudo": [
                   {
@@ -8849,7 +8882,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-326",
+                "id": "npnf212-229-301-302-327",
                 "titulo": "Epístola XXXV. A Pedro, Bispo de Terracina.",
                 "conteudo": [
                   {
@@ -8864,7 +8897,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-327",
+                "id": "npnf212-229-301-302-328",
                 "titulo": "Epístola XXXVI. Para Pedro, o Subdiácono.",
                 "conteudo": [
                   {
@@ -8879,7 +8912,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-328",
+                "id": "npnf212-229-301-302-329",
                 "titulo": "Epístola XXXIX. Para Antêmio, Subdiácono1338.",
                 "conteudo": [
                   {
@@ -8894,7 +8927,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-329",
+                "id": "npnf212-229-301-302-330",
                 "titulo": "Epístola XLI. Para Pedro, subdiácono.",
                 "conteudo": [
                   {
@@ -8909,7 +8942,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-330",
+                "id": "npnf212-229-301-302-331",
                 "titulo": "Epístola XLII. Para Antêmio, Subdiácono 1339.",
                 "conteudo": [
                   {
@@ -8924,7 +8957,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-331",
+                "id": "npnf212-229-301-302-332",
                 "titulo": "Epístola XLIII. A Leandro Bispo de Hispalis (Sevilha) 1341.",
                 "conteudo": [
                   {
@@ -8947,7 +8980,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-332",
+                "id": "npnf212-229-301-302-333",
                 "titulo": "Epístola XLIV. A Pedro, Subdiácono da Sicília.",
                 "conteudo": [
                   {
@@ -9050,7 +9083,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-333",
+                "id": "npnf212-229-301-302-334",
                 "titulo": "Epístola XLVI. Para Pedro, o Subdiácono.",
                 "conteudo": [
                   {
@@ -9065,7 +9098,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-334",
+                "id": "npnf212-229-301-302-335",
                 "titulo": "Epístola XLVII. A Virgílio, Bispo de Arelate (Arles) e Teodoro, Bispo de Massília (Marselha).",
                 "conteudo": [
                   {
@@ -9080,7 +9113,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-335",
+                "id": "npnf212-229-301-302-336",
                 "titulo": "Epístola XLVIII. Para Teodoro, Duque da Sardenha.",
                 "conteudo": [
                   {
@@ -9099,7 +9132,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-336",
+                "id": "npnf212-229-301-302-337",
                 "titulo": "Epístola XLIX. Para Honorato, Diácono1367.",
                 "conteudo": [
                   {
@@ -9114,8 +9147,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-337",
-                "titulo": "Epístola L. A Antêmio, o Subdiácono 1368.",
+                "id": "npnf212-229-301-302-338",
+                "titulo": "Epistola L. A Antêmio, o Subdiácono 1368.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9129,7 +9162,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-338",
+                "id": "npnf212-229-301-302-339",
                 "titulo": "Epístola LII. Para Símaco, o Defensor1371.",
                 "conteudo": [
                   {
@@ -9152,7 +9185,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-339",
+                "id": "npnf212-229-301-302-340",
                 "titulo": "Epístola LVI. Para Pedro, subdiácono.",
                 "conteudo": [
                   {
@@ -9167,8 +9200,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-340",
-                "titulo": "Epístola LVII. Para Severo, Bispo.",
+                "id": "npnf212-229-301-302-341",
+                "titulo": "Epístola LVII. Pará Severo, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9182,7 +9215,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-341",
+                "id": "npnf212-229-301-302-342",
                 "titulo": "Epístola LVIII.",
                 "conteudo": [
                   {
@@ -9197,7 +9230,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-342",
+                "id": "npnf212-229-301-302-343",
                 "titulo": "Epístola LXI.",
                 "conteudo": [
                   {
@@ -9208,7 +9241,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-343",
+                "id": "npnf212-229-301-302-344",
                 "titulo": "Epístola LXII.",
                 "conteudo": [
                   {
@@ -9223,7 +9256,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-344",
+                "id": "npnf212-229-301-302-345",
                 "titulo": "Epístola LXIII.",
                 "conteudo": [
                   {
@@ -9238,7 +9271,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-345",
+                "id": "npnf212-229-301-302-346",
                 "titulo": "Epístola LXVI.",
                 "conteudo": [
                   {
@@ -9249,7 +9282,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-346",
+                "id": "npnf212-229-301-302-347",
                 "titulo": "Epístola LXVII.",
                 "conteudo": [
                   {
@@ -9264,7 +9297,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-347",
+                "id": "npnf212-229-301-302-348",
                 "titulo": "Epístola LXXII.",
                 "conteudo": [
                   {
@@ -9279,7 +9312,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-348",
+                "id": "npnf212-229-301-302-349",
                 "titulo": "Epístola LXXIV.",
                 "conteudo": [
                   {
@@ -9290,7 +9323,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-349",
+                "id": "npnf212-229-301-302-350",
                 "titulo": "Epístola LXXV.",
                 "conteudo": [
                   {
@@ -9305,7 +9338,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-350",
+                "id": "npnf212-229-301-302-351",
                 "titulo": "Epístola LXXVII.",
                 "conteudo": [
                   {
@@ -9320,7 +9353,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-351",
+                "id": "npnf212-229-301-302-352",
                 "titulo": "Epístola LXXVIII.",
                 "conteudo": [
                   {
@@ -9335,7 +9368,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-352",
+                "id": "npnf212-229-301-302-353",
                 "titulo": "Epístola LXXIX.",
                 "conteudo": [
                   {
@@ -9350,7 +9383,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-301-353",
+                "id": "npnf212-229-301-302-354",
                 "titulo": "Epístola LXXX.",
                 "conteudo": [
                   {
@@ -9367,12 +9400,12 @@
             ]
           },
           {
-            "id": "npnf212-229-300-354",
+            "id": "npnf212-229-301-355",
             "titulo": "Livro II.",
             "children": [
               {
-                "id": "npnf212-229-300-354-355",
-                "titulo": "Epístola III.",
+                "id": "npnf212-229-301-355-356",
+                "titulo": "Epistola III.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9390,7 +9423,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-356",
+                "id": "npnf212-229-301-355-357",
                 "titulo": "Epístola VI.",
                 "conteudo": [
                   {
@@ -9405,7 +9438,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-357",
+                "id": "npnf212-229-301-355-358",
                 "titulo": "Epístola VII.",
                 "conteudo": [
                   {
@@ -9424,7 +9457,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-358",
+                "id": "npnf212-229-301-355-359",
                 "titulo": "Epístola IX.",
                 "conteudo": [
                   {
@@ -9443,8 +9476,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-359",
-                "titulo": "Epístola X.",
+                "id": "npnf212-229-301-355-360",
+                "titulo": "Epistola X.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9458,8 +9491,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-360",
-                "titulo": "Epístola XII.",
+                "id": "npnf212-229-301-355-361",
+                "titulo": "Epistola XII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9473,7 +9506,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-361",
+                "id": "npnf212-229-301-355-362",
                 "titulo": "Epístola XV.",
                 "conteudo": [
                   {
@@ -9488,8 +9521,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-362",
-                "titulo": "Epístola XVIII.",
+                "id": "npnf212-229-301-355-363",
+                "titulo": "Epistola XVIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9503,8 +9536,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-363",
-                "titulo": "Epístola XIX.",
+                "id": "npnf212-229-301-355-364",
+                "titulo": "Epistola XIX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9518,8 +9551,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-364",
-                "titulo": "Epístola XX.",
+                "id": "npnf212-229-301-355-365",
+                "titulo": "Epistola XX.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9549,7 +9582,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-365",
+                "id": "npnf212-229-301-355-366",
                 "titulo": "Epístola XXII.",
                 "conteudo": [
                   {
@@ -9564,7 +9597,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-366",
+                "id": "npnf212-229-301-355-367",
                 "titulo": "Epístola XXIII.",
                 "conteudo": [
                   {
@@ -9579,7 +9612,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-367",
+                "id": "npnf212-229-301-355-368",
                 "titulo": "Epístola XXVI.",
                 "conteudo": [
                   {
@@ -9598,7 +9631,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-368",
+                "id": "npnf212-229-301-355-369",
                 "titulo": "Epístola XXVII.",
                 "conteudo": [
                   {
@@ -9613,7 +9646,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-369",
+                "id": "npnf212-229-301-355-370",
                 "titulo": "Epístola XXIX.",
                 "conteudo": [
                   {
@@ -9628,7 +9661,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-370",
+                "id": "npnf212-229-301-355-371",
                 "titulo": "Epístola XXX.",
                 "conteudo": [
                   {
@@ -9643,7 +9676,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-371",
+                "id": "npnf212-229-301-355-372",
                 "titulo": "Epístola XXXII.",
                 "conteudo": [
                   {
@@ -9702,7 +9735,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-372",
+                "id": "npnf212-229-301-355-373",
                 "titulo": "Epístola XXXIII.",
                 "conteudo": [
                   {
@@ -9717,7 +9750,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-373",
+                "id": "npnf212-229-301-355-374",
                 "titulo": "Epístola XXXIV.",
                 "conteudo": [
                   {
@@ -9732,7 +9765,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-374",
+                "id": "npnf212-229-301-355-375",
                 "titulo": "Epístola XXXVI.",
                 "conteudo": [
                   {
@@ -9747,7 +9780,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-375",
+                "id": "npnf212-229-301-355-376",
                 "titulo": "Epístola XXXVII.",
                 "conteudo": [
                   {
@@ -9762,7 +9795,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-376",
+                "id": "npnf212-229-301-355-377",
                 "titulo": "Epístola XLI.",
                 "conteudo": [
                   {
@@ -9797,7 +9830,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-377",
+                "id": "npnf212-229-301-355-378",
                 "titulo": "Epístola XLII.",
                 "conteudo": [
                   {
@@ -9812,7 +9845,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-378",
+                "id": "npnf212-229-301-355-379",
                 "titulo": "Epístola XLVI.",
                 "conteudo": [
                   {
@@ -9851,7 +9884,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-379",
+                "id": "npnf212-229-301-355-380",
                 "titulo": "Epístola XLVII.",
                 "conteudo": [
                   {
@@ -9878,7 +9911,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-380",
+                "id": "npnf212-229-301-355-381",
                 "titulo": "Epístola XLVIII.",
                 "conteudo": [
                   {
@@ -9905,7 +9938,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-381",
+                "id": "npnf212-229-301-355-382",
                 "titulo": "Epístola XLIX.",
                 "conteudo": [
                   {
@@ -9924,8 +9957,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-382",
-                "titulo": "Epístola LI.",
+                "id": "npnf212-229-301-355-383",
+                "titulo": "Epistola LI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -9947,7 +9980,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-383",
+                "id": "npnf212-229-301-355-384",
                 "titulo": "Epístola LII.",
                 "conteudo": [
                   {
@@ -9998,7 +10031,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-354-384",
+                "id": "npnf212-229-301-355-385",
                 "titulo": "Epístola LIV.",
                 "conteudo": [
                   {
@@ -10031,12 +10064,12 @@
             ]
           },
           {
-            "id": "npnf212-229-300-385",
+            "id": "npnf212-229-301-386",
             "titulo": "Livro III.",
             "children": [
               {
-                "id": "npnf212-229-300-385-386",
-                "titulo": "Epístola I.",
+                "id": "npnf212-229-301-386-387",
+                "titulo": "Epistola I.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10054,8 +10087,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-387",
-                "titulo": "Epístola II.",
+                "id": "npnf212-229-301-386-388",
+                "titulo": "Epistola II.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10069,8 +10102,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-388",
-                "titulo": "Epístola III.",
+                "id": "npnf212-229-301-386-389",
+                "titulo": "Epistola III.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10100,8 +10133,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-389",
-                "titulo": "Epístola V.",
+                "id": "npnf212-229-301-386-390",
+                "titulo": "Epistola V.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10115,7 +10148,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-390",
+                "id": "npnf212-229-301-386-391",
                 "titulo": "Epístola VI.",
                 "conteudo": [
                   {
@@ -10134,7 +10167,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-391",
+                "id": "npnf212-229-301-386-392",
                 "titulo": "Epístola VII.",
                 "conteudo": [
                   {
@@ -10165,8 +10198,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-392",
-                "titulo": "Epístola VIII.",
+                "id": "npnf212-229-301-386-393",
+                "titulo": "Epistola VIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10180,7 +10213,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-393",
+                "id": "npnf212-229-301-386-394",
                 "titulo": "Epístola IX.",
                 "conteudo": [
                   {
@@ -10195,8 +10228,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-394",
-                "titulo": "Epístola X.",
+                "id": "npnf212-229-301-386-395",
+                "titulo": "Epistola X.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10210,8 +10243,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-395",
-                "titulo": "Epístola XII.",
+                "id": "npnf212-229-301-386-396",
+                "titulo": "Epistola XII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10225,7 +10258,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-396",
+                "id": "npnf212-229-301-386-397",
                 "titulo": "Epístola XV.",
                 "conteudo": [
                   {
@@ -10240,7 +10273,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-397",
+                "id": "npnf212-229-301-386-398",
                 "titulo": "Epístola XXII.",
                 "conteudo": [
                   {
@@ -10263,7 +10296,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-398",
+                "id": "npnf212-229-301-386-399",
                 "titulo": "Epístola XXIX.",
                 "conteudo": [
                   {
@@ -10286,7 +10319,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-399",
+                "id": "npnf212-229-301-386-400",
                 "titulo": "Epístola XXX.",
                 "conteudo": [
                   {
@@ -10301,7 +10334,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-400",
+                "id": "npnf212-229-301-386-401",
                 "titulo": "Epístola XXXI.",
                 "conteudo": [
                   {
@@ -10316,7 +10349,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-401",
+                "id": "npnf212-229-301-386-402",
                 "titulo": "Epístola XXXII.",
                 "conteudo": [
                   {
@@ -10331,7 +10364,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-402",
+                "id": "npnf212-229-301-386-403",
                 "titulo": "Epístola XXXIII.",
                 "conteudo": [
                   {
@@ -10346,7 +10379,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-403",
+                "id": "npnf212-229-301-386-404",
                 "titulo": "Epístola XXXV.",
                 "conteudo": [
                   {
@@ -10361,7 +10394,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-404",
+                "id": "npnf212-229-301-386-405",
                 "titulo": "Epístola XXXVI.",
                 "conteudo": [
                   {
@@ -10384,7 +10417,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-405",
+                "id": "npnf212-229-301-386-406",
                 "titulo": "Epístola XXXVIII.",
                 "conteudo": [
                   {
@@ -10399,7 +10432,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-406",
+                "id": "npnf212-229-301-386-407",
                 "titulo": "Epístola XLV.",
                 "conteudo": [
                   {
@@ -10418,7 +10451,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-407",
+                "id": "npnf212-229-301-386-408",
                 "titulo": "Epístola XLVI.",
                 "conteudo": [
                   {
@@ -10441,7 +10474,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-408",
+                "id": "npnf212-229-301-386-409",
                 "titulo": "Epístola XLVII.",
                 "conteudo": [
                   {
@@ -10456,7 +10489,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-409",
+                "id": "npnf212-229-301-386-410",
                 "titulo": "Epístola XLVIII.",
                 "conteudo": [
                   {
@@ -10487,7 +10520,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-410",
+                "id": "npnf212-229-301-386-411",
                 "titulo": "Epístola XLIX.",
                 "conteudo": [
                   {
@@ -10506,8 +10539,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-411",
-                "titulo": "Epístola LI.",
+                "id": "npnf212-229-301-386-412",
+                "titulo": "Epistola LI.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10521,7 +10554,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-412",
+                "id": "npnf212-229-301-386-413",
                 "titulo": "Epístola LIII.",
                 "conteudo": [
                   {
@@ -10536,7 +10569,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-413",
+                "id": "npnf212-229-301-386-414",
                 "titulo": "Epístola LVI.",
                 "conteudo": [
                   {
@@ -10567,7 +10600,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-414",
+                "id": "npnf212-229-301-386-415",
                 "titulo": "Epístola LVII.",
                 "conteudo": [
                   {
@@ -10590,7 +10623,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-415",
+                "id": "npnf212-229-301-386-416",
                 "titulo": "Epístola LIX.",
                 "conteudo": [
                   {
@@ -10605,7 +10638,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-416",
+                "id": "npnf212-229-301-386-417",
                 "titulo": "Epístola LX.",
                 "conteudo": [
                   {
@@ -10620,7 +10653,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-417",
+                "id": "npnf212-229-301-386-418",
                 "titulo": "Epístola LXV.",
                 "conteudo": [
                   {
@@ -10655,7 +10688,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-418",
+                "id": "npnf212-229-301-386-419",
                 "titulo": "Epístola LXVI.",
                 "conteudo": [
                   {
@@ -10674,7 +10707,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-385-419",
+                "id": "npnf212-229-301-386-420",
                 "titulo": "Epístola LXVII.",
                 "conteudo": [
                   {
@@ -10699,11 +10732,11 @@
             ]
           },
           {
-            "id": "npnf212-229-300-420",
+            "id": "npnf212-229-301-421",
             "titulo": "Livro IV.",
             "children": [
               {
-                "id": "npnf212-229-300-420-421",
+                "id": "npnf212-229-301-421-422",
                 "titulo": "Epístola I. Para Constâncio, Bispo.",
                 "conteudo": [
                   {
@@ -10730,8 +10763,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-422",
-                "titulo": "Epístola II. Para Constâncio, Bispo.",
+                "id": "npnf212-229-301-421-423",
+                "titulo": "Epistola II. Para Constâncio, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10749,8 +10782,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-423",
-                "titulo": "Epístola III. Para Constâncio, Bispo.",
+                "id": "npnf212-229-301-421-424",
+                "titulo": "Epistola III. Para Constâncio, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10764,8 +10797,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-424",
-                "titulo": "Epístola IV. À Rainha Teodelinda.",
+                "id": "npnf212-229-301-421-425",
+                "titulo": "Epistola IV. À Rainha Teodelinda.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10783,8 +10816,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-425",
-                "titulo": "Epístola V. Para Bonifácio, Bispo.",
+                "id": "npnf212-229-301-421-426",
+                "titulo": "Epistola V. Para Bonifácio, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10798,7 +10831,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-426",
+                "id": "npnf212-229-301-421-427",
                 "titulo": "Epístola VI. Para Cipriano, Diácono.",
                 "conteudo": [
                   {
@@ -10813,7 +10846,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-427",
+                "id": "npnf212-229-301-421-428",
                 "titulo": "Epístola VII. Para Genádio, Patrício.",
                 "conteudo": [
                   {
@@ -10828,8 +10861,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-428",
-                "titulo": "Epístola VIII. A Januário, Bispo.",
+                "id": "npnf212-229-301-421-429",
+                "titulo": "Epistola VIII. A Januário, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10843,7 +10876,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-429",
+                "id": "npnf212-229-301-421-430",
                 "titulo": "Epístola IX. A Januário, Bispo.",
                 "conteudo": [
                   {
@@ -10874,7 +10907,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-430",
+                "id": "npnf212-229-301-421-431",
                 "titulo": "Epístola X. A Todos os Bispos da Dalmácia.",
                 "conteudo": [
                   {
@@ -10897,8 +10930,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-431",
-                "titulo": "Epístola XI. Para Maximiano, Bispo.",
+                "id": "npnf212-229-301-421-432",
+                "titulo": "Epístola XI. Pará Maximiano, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10928,7 +10961,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-432",
+                "id": "npnf212-229-301-421-433",
                 "titulo": "Epístola XV. A Januário, Bispo.",
                 "conteudo": [
                   {
@@ -10943,8 +10976,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-433",
-                "titulo": "Epístola XVIII. Para Maurus, Abade.",
+                "id": "npnf212-229-301-421-434",
+                "titulo": "Epistola XVIII. Para Maurus, Abade.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10966,8 +10999,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-434",
-                "titulo": "Epístola XX. Para Máximo, Pretendente (Præsumptorem)1539.",
+                "id": "npnf212-229-301-421-435",
+                "titulo": "Epistola XX. Para Máximo, Pretendente (Præsumptorem)1539.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10981,7 +11014,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-435",
+                "id": "npnf212-229-301-421-436",
                 "titulo": "Epístola XXI. Para Venâncio, Bispo.",
                 "conteudo": [
                   {
@@ -10996,7 +11029,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-436",
+                "id": "npnf212-229-301-421-437",
                 "titulo": "Epístola XXIII. Para Hospito, Duque dos Barbaricini1542.",
                 "conteudo": [
                   {
@@ -11011,7 +11044,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-437",
+                "id": "npnf212-229-301-421-438",
                 "titulo": "Epístola XXIV. Para Zabardas, duque da Sardenha.",
                 "conteudo": [
                   {
@@ -11026,7 +11059,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-438",
+                "id": "npnf212-229-301-421-439",
                 "titulo": "Epístola XXV. Aos Nobres e Proprietários da Sardenha.",
                 "conteudo": [
                   {
@@ -11041,7 +11074,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-439",
+                "id": "npnf212-229-301-421-440",
                 "titulo": "Epístola XXVI. A Januário, Bispo.",
                 "conteudo": [
                   {
@@ -11072,7 +11105,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-440",
+                "id": "npnf212-229-301-421-441",
                 "titulo": "Epístola XXVII. A Januário, Bispo.",
                 "conteudo": [
                   {
@@ -11119,7 +11152,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-441",
+                "id": "npnf212-229-301-421-442",
                 "titulo": "Epístola XXIX. A Januário, Bispo.",
                 "conteudo": [
                   {
@@ -11134,7 +11167,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-442",
+                "id": "npnf212-229-301-421-443",
                 "titulo": "Epístola XXX. Para Constantina Augusta.",
                 "conteudo": [
                   {
@@ -11169,7 +11202,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-443",
+                "id": "npnf212-229-301-421-444",
                 "titulo": "Epístola XXXI. Para Teodoro, Médico.",
                 "conteudo": [
                   {
@@ -11204,7 +11237,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-444",
+                "id": "npnf212-229-301-421-445",
                 "titulo": "Epístola XXXII. Para Narses, o Patrício.",
                 "conteudo": [
                   {
@@ -11227,7 +11260,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-445",
+                "id": "npnf212-229-301-421-446",
                 "titulo": "Epístola XXXIII. Para Antêmio, Subdiácono.",
                 "conteudo": [
                   {
@@ -11242,7 +11275,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-446",
+                "id": "npnf212-229-301-421-447",
                 "titulo": "Epístola XXXIV. Para Pantaleo, Prefeito.",
                 "conteudo": [
                   {
@@ -11257,7 +11290,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-447",
+                "id": "npnf212-229-301-421-448",
                 "titulo": "Epístola XXXV. Para Victor e Colombo, Bispos1559.",
                 "conteudo": [
                   {
@@ -11284,8 +11317,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-448",
-                "titulo": "Epístola XXXVI. Para Leo, Bispo.",
+                "id": "npnf212-229-301-421-449",
+                "titulo": "Epístola XXXVI. ParaLeo, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11307,7 +11340,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-449",
+                "id": "npnf212-229-301-421-450",
                 "titulo": "Epístola XXXVIII. À Rainha Teodelinda.",
                 "conteudo": [
                   {
@@ -11330,7 +11363,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-450",
+                "id": "npnf212-229-301-421-451",
                 "titulo": "Epístola XXXIX. Para Constâncio, Bispo.",
                 "conteudo": [
                   {
@@ -11353,7 +11386,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-451",
+                "id": "npnf212-229-301-421-452",
                 "titulo": "Epístola XLVI. À Rusticiana, Patrícia.",
                 "conteudo": [
                   {
@@ -11368,7 +11401,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-420-452",
+                "id": "npnf212-229-301-421-453",
                 "titulo": "Epístola XLVII. Para Sabiniano, Diácono 1570.",
                 "conteudo": [
                   {
@@ -11389,12 +11422,12 @@
             ]
           },
           {
-            "id": "npnf212-229-300-453",
+            "id": "npnf212-229-301-454",
             "titulo": "Livro V.",
             "children": [
               {
-                "id": "npnf212-229-300-453-454",
-                "titulo": "Epístola II. Para Félix, Bispo, e Ciríaco, Abade1575.",
+                "id": "npnf212-229-301-454-455",
+                "titulo": "Epistola II. Para Félix, Bispo, e Ciríaco, Abade1575.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11408,8 +11441,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-455",
-                "titulo": "Epístola IV. Para Constâncio, Bispo.",
+                "id": "npnf212-229-301-454-456",
+                "titulo": "Epistola IV. Para Constâncio, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11435,8 +11468,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-456",
-                "titulo": "Epístola V. A Dominicus, Bispo.",
+                "id": "npnf212-229-301-454-457",
+                "titulo": "Epistola V. A Dominicus, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11450,8 +11483,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-457",
-                "titulo": "Epístola VIII. Para Cipriano, Diácono.",
+                "id": "npnf212-229-301-454-458",
+                "titulo": "Epistola VIII. Para Cipriano, Diácono.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11465,7 +11498,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-458",
+                "id": "npnf212-229-301-454-459",
                 "titulo": "Epístola XI. Para João, bispo.",
                 "conteudo": [
                   {
@@ -11480,7 +11513,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-459",
+                "id": "npnf212-229-301-454-460",
                 "titulo": "Epístola XV. Para João, bispo.",
                 "conteudo": [
                   {
@@ -11511,8 +11544,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-460",
-                "titulo": "Epístola XVII. Para Cipriano, Diácono1583.",
+                "id": "npnf212-229-301-454-461",
+                "titulo": "Epistola XVII. Para Cipriano, Diácono1583.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11526,8 +11559,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-461",
-                "titulo": "Epístola XVIII.",
+                "id": "npnf212-229-301-454-462",
+                "titulo": "Epistola XVIII.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11593,8 +11626,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-462",
-                "titulo": "Epístola XIX. Para Sabiniano, Diácono 1589.",
+                "id": "npnf212-229-301-454-463",
+                "titulo": "Epistola XIX. Para Sabiniano, Diácono 1589.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11612,8 +11645,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-463",
-                "titulo": "Epístola XX. Para Maurício Augusto.",
+                "id": "npnf212-229-301-454-464",
+                "titulo": "Epistola XX. Para Maurício Augusto.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11667,7 +11700,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-464",
+                "id": "npnf212-229-301-454-465",
                 "titulo": "Epístola XXI. Para Constantina Augusta1593.",
                 "conteudo": [
                   {
@@ -11698,7 +11731,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-465",
+                "id": "npnf212-229-301-454-466",
                 "titulo": "Epístola XXIII. Para Castório, Tabelião.",
                 "conteudo": [
                   {
@@ -11713,8 +11746,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-466",
-                "titulo": "Epístola XXV. Para Severo, Bispo.",
+                "id": "npnf212-229-301-454-467",
+                "titulo": "Epístola XXV. Pará Severo, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11728,7 +11761,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-467",
+                "id": "npnf212-229-301-454-468",
                 "titulo": "Epístola XXVI. Ao povo de Ravena.",
                 "conteudo": [
                   {
@@ -11743,7 +11776,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-468",
+                "id": "npnf212-229-301-454-469",
                 "titulo": "Epístola XXIX. Para Vincomalus, Guardião (Defensorem) 1598.",
                 "conteudo": [
                   {
@@ -11758,7 +11791,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-469",
+                "id": "npnf212-229-301-454-470",
                 "titulo": "Epístola XXX. Para Maurício Augusto.",
                 "conteudo": [
                   {
@@ -11773,7 +11806,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-470",
+                "id": "npnf212-229-301-454-471",
                 "titulo": "Epístola XXXVI. Para Severo, Escolástico",
                 "conteudo": [
                   {
@@ -11792,7 +11825,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-471",
+                "id": "npnf212-229-301-454-472",
                 "titulo": "Epístola XXXIX. Para Anastácio, Bispo1602.",
                 "conteudo": [
                   {
@@ -11815,7 +11848,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-472",
+                "id": "npnf212-229-301-454-473",
                 "titulo": "Epístola XL. Para Maurício Augusto.",
                 "conteudo": [
                   {
@@ -11850,7 +11883,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-473",
+                "id": "npnf212-229-301-454-474",
                 "titulo": "Epístola XLI. Para Constantina Augusta.",
                 "conteudo": [
                   {
@@ -11873,7 +11906,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-474",
+                "id": "npnf212-229-301-454-475",
                 "titulo": "Epístola XLII. Para Sebastião, Bispo.",
                 "conteudo": [
                   {
@@ -11896,7 +11929,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-475",
+                "id": "npnf212-229-301-454-476",
                 "titulo": "Epístola XLIII. A Eulógio e Anastácio, Bispos.",
                 "conteudo": [
                   {
@@ -11947,7 +11980,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-476",
+                "id": "npnf212-229-301-454-477",
                 "titulo": "Epístola XLVIII. Para André, Escolástico1613.",
                 "conteudo": [
                   {
@@ -11962,8 +11995,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-477",
-                "titulo": "Epístola XLIX. Para Leander, Bispo.",
+                "id": "npnf212-229-301-454-478",
+                "titulo": "Epístola XLIX. Leander, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -11977,7 +12010,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-478",
+                "id": "npnf212-229-301-454-479",
                 "titulo": "Epístola LII. Para John, Arcebispo.",
                 "conteudo": [
                   {
@@ -11996,7 +12029,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-479",
+                "id": "npnf212-229-301-454-480",
                 "titulo": "Epístola LIII. Para Virgílio, Bispo.",
                 "conteudo": [
                   {
@@ -12047,7 +12080,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-480",
+                "id": "npnf212-229-301-454-481",
                 "titulo": "Epístola LIV. A todos os Bispos do Reino de Childeberto.",
                 "conteudo": [
                   {
@@ -12082,8 +12115,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-481",
-                "titulo": "Epístola LV. Para o rei Childeberto.",
+                "id": "npnf212-229-301-454-482",
+                "titulo": "Epistola LV. Para o rei Childeberto.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -12113,7 +12146,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-482",
+                "id": "npnf212-229-301-454-483",
                 "titulo": "Epístola LVI. Para Marinianus, Bispo.",
                 "conteudo": [
                   {
@@ -12128,7 +12161,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-483",
+                "id": "npnf212-229-301-454-484",
                 "titulo": "Epístola LVII. Para João, bispo.",
                 "conteudo": [
                   {
@@ -12167,7 +12200,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-453-484",
+                "id": "npnf212-229-301-454-485",
                 "titulo": "Epístola LVIII. A todos os Bispos de Helladia1626.",
                 "conteudo": [
                   {
@@ -12188,12 +12221,12 @@
             ]
           },
           {
-            "id": "npnf212-229-300-485",
+            "id": "npnf212-229-301-486",
             "titulo": "Livro VI.",
             "children": [
               {
-                "id": "npnf212-229-300-485-486",
-                "titulo": "Epístola I. Para Marinianus, Bispo.",
+                "id": "npnf212-229-301-486-487",
+                "titulo": "Epistola I. Para Marinianus, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -12211,8 +12244,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-487",
-                "titulo": "Epístola II. Ao Clero e ao Povo de Ravena.",
+                "id": "npnf212-229-301-486-488",
+                "titulo": "Epistola II. Ao Clero e ao Povo de Ravena.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -12226,8 +12259,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-488",
-                "titulo": "Epístola III. Para Máximo de Salona.",
+                "id": "npnf212-229-301-486-489",
+                "titulo": "Epistola III. Para Máximo de Salona.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -12241,8 +12274,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-489",
-                "titulo": "Epístola V. À Rainha Brunichild.",
+                "id": "npnf212-229-301-486-490",
+                "titulo": "Epistola V. À Rainha Brunichild.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -12260,7 +12293,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-490",
+                "id": "npnf212-229-301-486-491",
                 "titulo": "Epístola VI. Para o rei Childeberto.",
                 "conteudo": [
                   {
@@ -12283,7 +12316,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-491",
+                "id": "npnf212-229-301-486-492",
                 "titulo": "Epístola VII. Para Cândido, Presbítero.",
                 "conteudo": [
                   {
@@ -12298,8 +12331,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-492",
-                "titulo": "Epístola VIII. Aos Bispos do Épiro.",
+                "id": "npnf212-229-301-486-493",
+                "titulo": "Epistola VIII. Aos Bispos do Épiro.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -12325,7 +12358,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-493",
+                "id": "npnf212-229-301-486-494",
                 "titulo": "Epístola IX. Para Donus, Bispo.",
                 "conteudo": [
                   {
@@ -12340,8 +12373,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-494",
-                "titulo": "Epístola XII. Para Montana e Thomas.",
+                "id": "npnf212-229-301-486-495",
+                "titulo": "Epistola XII. Para Montana e Thomas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -12367,7 +12400,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-495",
+                "id": "npnf212-229-301-486-496",
                 "titulo": "Epístola XIV. Ao Conde Narses1642.",
                 "conteudo": [
                   {
@@ -12390,7 +12423,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-496",
+                "id": "npnf212-229-301-486-497",
                 "titulo": "Epístola XV. Para João, bispo.",
                 "conteudo": [
                   {
@@ -12409,7 +12442,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-497",
+                "id": "npnf212-229-301-486-498",
                 "titulo": "Epístola XVI. Para Maurício, Augusto.",
                 "conteudo": [
                   {
@@ -12432,8 +12465,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-498",
-                "titulo": "Epístola XVII. Para Teotista.",
+                "id": "npnf212-229-301-486-499",
+                "titulo": "Epistola XVII. Para Teotista.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -12451,8 +12484,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-499",
-                "titulo": "Epístola XVIII. Para João, bispo.",
+                "id": "npnf212-229-301-486-500",
+                "titulo": "Epistola XVIII. Para João, bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -12470,7 +12503,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-500",
+                "id": "npnf212-229-301-486-501",
                 "titulo": "Epístola XXII. Para Pedro, Bispo.",
                 "conteudo": [
                   {
@@ -12485,7 +12518,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-501",
+                "id": "npnf212-229-301-486-502",
                 "titulo": "Epístola XXIV. Para Marinianus, Bispo.",
                 "conteudo": [
                   {
@@ -12500,7 +12533,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-502",
+                "id": "npnf212-229-301-486-503",
                 "titulo": "Epístola XXV. Para Máximo de Salona.",
                 "conteudo": [
                   {
@@ -12531,7 +12564,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-503",
+                "id": "npnf212-229-301-486-504",
                 "titulo": "Epístola XXVI. Para os Salonitanos.",
                 "conteudo": [
                   {
@@ -12562,7 +12595,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-504",
+                "id": "npnf212-229-301-486-505",
                 "titulo": "Epístola XXVII. Ao Clero e ao Povo de Jadera1651.",
                 "conteudo": [
                   {
@@ -12585,7 +12618,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-505",
+                "id": "npnf212-229-301-486-506",
                 "titulo": "Epístola XXIX. Para Marinianus, Bispo.",
                 "conteudo": [
                   {
@@ -12612,7 +12645,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-506",
+                "id": "npnf212-229-301-486-507",
                 "titulo": "Epístola XXX. Para Secundus.",
                 "conteudo": [
                   {
@@ -12635,7 +12668,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-507",
+                "id": "npnf212-229-301-486-508",
                 "titulo": "Epístola XXXII. Para Fortunato, Bispo.",
                 "conteudo": [
                   {
@@ -12650,7 +12683,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-508",
+                "id": "npnf212-229-301-486-509",
                 "titulo": "Epístola XXXIV. Para Castório, Tabelião.",
                 "conteudo": [
                   {
@@ -12665,7 +12698,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-509",
+                "id": "npnf212-229-301-486-510",
                 "titulo": "Epístola XXXV. Para Antêmio, Subdiácono.",
                 "conteudo": [
                   {
@@ -12680,7 +12713,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-510",
+                "id": "npnf212-229-301-486-511",
                 "titulo": "Epístola XXXVII. Para Colombo, Bispo.",
                 "conteudo": [
                   {
@@ -12703,7 +12736,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-511",
+                "id": "npnf212-229-301-486-512",
                 "titulo": "Epístola XLIII. Para Venâncio, Patrício.",
                 "conteudo": [
                   {
@@ -12718,7 +12751,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-512",
+                "id": "npnf212-229-301-486-513",
                 "titulo": "Epístola XLIV. Para João, bispo.",
                 "conteudo": [
                   {
@@ -12733,7 +12766,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-513",
+                "id": "npnf212-229-301-486-514",
                 "titulo": "Epístola XLVI. A Félix, Bispo de Pisaurum (Pesaro).",
                 "conteudo": [
                   {
@@ -12752,7 +12785,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-514",
+                "id": "npnf212-229-301-486-515",
                 "titulo": "Epístola XLVIII. Para Urbicus, Abade.",
                 "conteudo": [
                   {
@@ -12767,7 +12800,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-515",
+                "id": "npnf212-229-301-486-516",
                 "titulo": "Epístola XLIX. Para Paládio, Bispo.",
                 "conteudo": [
                   {
@@ -12782,8 +12815,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-516",
-                "titulo": "Epístola L. À Rainha Brunichild.",
+                "id": "npnf212-229-301-486-517",
+                "titulo": "Epistola L. À Rainha Brunichild.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -12797,8 +12830,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-517",
-                "titulo": "Epístola LI. Aos Irmãos que vão para a Inglaterra (Angliam) 1666.",
+                "id": "npnf212-229-301-486-518",
+                "titulo": "Epistola LI. Aos Irmãos que vão para a Inglaterra (Angliam) 1666.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -12812,7 +12845,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-518",
+                "id": "npnf212-229-301-486-519",
                 "titulo": "Epístola LII. A Pelágio e Sereno, Bispos.",
                 "conteudo": [
                   {
@@ -12831,7 +12864,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-519",
+                "id": "npnf212-229-301-486-520",
                 "titulo": "Epístola LIII. Para Virgílio, Bispo.",
                 "conteudo": [
                   {
@@ -12846,7 +12879,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-520",
+                "id": "npnf212-229-301-486-521",
                 "titulo": "Epístola LIV. A Desidério e Syagrius, Bispos.",
                 "conteudo": [
                   {
@@ -12861,8 +12894,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-521",
-                "titulo": "Epístola LV. Para Protásio, Bispo.",
+                "id": "npnf212-229-301-486-522",
+                "titulo": "Epistola LV. Para Protásio, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -12876,7 +12909,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-522",
+                "id": "npnf212-229-301-486-523",
                 "titulo": "Epístola LVI. Para Estêvão, Abade1670.",
                 "conteudo": [
                   {
@@ -12899,7 +12932,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-523",
+                "id": "npnf212-229-301-486-524",
                 "titulo": "Epístola LVII. Para Arigius, Patrício1671.",
                 "conteudo": [
                   {
@@ -12918,7 +12951,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-524",
+                "id": "npnf212-229-301-486-525",
                 "titulo": "Epístola LVIII. Para Teodorico e Teodeberto 1672.",
                 "conteudo": [
                   {
@@ -12937,7 +12970,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-525",
+                "id": "npnf212-229-301-486-526",
                 "titulo": "Epístola LIX. Para Brunichild, Rainha dos Francos.",
                 "conteudo": [
                   {
@@ -12956,7 +12989,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-526",
+                "id": "npnf212-229-301-486-527",
                 "titulo": "Epístola LX. Para Eulógio, Bispo.",
                 "conteudo": [
                   {
@@ -12991,7 +13024,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-527",
+                "id": "npnf212-229-301-486-528",
                 "titulo": "Epístola LXI. Para Castorius, Tabelião1677.",
                 "conteudo": [
                   {
@@ -13010,7 +13043,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-528",
+                "id": "npnf212-229-301-486-529",
                 "titulo": "Epístola LXIII. Para Genádio, Patrício1680.",
                 "conteudo": [
                   {
@@ -13029,7 +13062,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-529",
+                "id": "npnf212-229-301-486-530",
                 "titulo": "Epístola LXV. Para Maurício, Imperador.",
                 "conteudo": [
                   {
@@ -13048,7 +13081,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-485-530",
+                "id": "npnf212-229-301-486-531",
                 "titulo": "Epístola LXVI. Para Atanásio, Presbítero.",
                 "conteudo": [
                   {
@@ -13069,12 +13102,12 @@
             ]
           },
           {
-            "id": "npnf212-229-300-531",
+            "id": "npnf212-229-301-532",
             "titulo": "Livro VII.",
             "children": [
               {
-                "id": "npnf212-229-300-531-532",
-                "titulo": "Epístola II. Para Colombo, Bispo.",
+                "id": "npnf212-229-301-532-533",
+                "titulo": "Epistola II. Para Colombo, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13088,8 +13121,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-533",
-                "titulo": "Epístola IV. Para Ciríaco, Bispo.",
+                "id": "npnf212-229-301-532-534",
+                "titulo": "Epistola IV. Para Ciríaco, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13127,8 +13160,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-534",
-                "titulo": "Epístola V. A Ciríaco, Bispo.",
+                "id": "npnf212-229-301-532-535",
+                "titulo": "Epistola V. A Ciríaco, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13154,7 +13187,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-535",
+                "id": "npnf212-229-301-532-536",
                 "titulo": "Epístola VI. Para Maurício Augusto.",
                 "conteudo": [
                   {
@@ -13173,7 +13206,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-536",
+                "id": "npnf212-229-301-532-537",
                 "titulo": "Epístola VII. Para Pedro, Domiciano e Elpidius.",
                 "conteudo": [
                   {
@@ -13196,7 +13229,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-537",
+                "id": "npnf212-229-301-532-538",
                 "titulo": "Epístola XI. A Rufino, Bispo de Éfeso.",
                 "conteudo": [
                   {
@@ -13211,8 +13244,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-538",
-                "titulo": "Epístola XII. À Respecta, Abadessa.",
+                "id": "npnf212-229-301-532-539",
+                "titulo": "Epistola XII. À respeito, Abadessa.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13230,8 +13263,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-539",
-                "titulo": "Epístola XIII. Para Fortunato, Bispo.",
+                "id": "npnf212-229-301-532-540",
+                "titulo": "Epistola XIII. Para Fortunato, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13245,7 +13278,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-540",
+                "id": "npnf212-229-301-532-541",
                 "titulo": "Epístola XV. Para George, Presbítero.",
                 "conteudo": [
                   {
@@ -13268,8 +13301,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-541",
-                "titulo": "Epístola XVII. Para Sabiniano, Bispo.",
+                "id": "npnf212-229-301-532-542",
+                "titulo": "Epistola XVII. Para Sabiniano, Bispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13283,8 +13316,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-542",
-                "titulo": "Epístola XIX. Para Marinianus, Arcebispo.",
+                "id": "npnf212-229-301-532-543",
+                "titulo": "Epistola XIX. Para Marinianus, Arcebispo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13298,8 +13331,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-543",
-                "titulo": "Epístola XX. Ao Clero e ao Povo Ariminum1698.",
+                "id": "npnf212-229-301-532-544",
+                "titulo": "Epistola XX. Ao Clero e ao Povo Ariminum1698.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13317,7 +13350,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-544",
+                "id": "npnf212-229-301-532-545",
                 "titulo": "Epístola XXIII. Para Fortunato e Antêmio 1701.",
                 "conteudo": [
                   {
@@ -13332,7 +13365,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-545",
+                "id": "npnf212-229-301-532-546",
                 "titulo": "Epístola XXV. Para Gregória.",
                 "conteudo": [
                   {
@@ -13351,7 +13384,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-546",
+                "id": "npnf212-229-301-532-547",
                 "titulo": "Epístola XXVI. Para Teoctista, Patrício 1704",
                 "conteudo": [
                   {
@@ -13382,7 +13415,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-547",
+                "id": "npnf212-229-301-532-548",
                 "titulo": "Epístola XXVII. Para Anastácio, Bispo.",
                 "conteudo": [
                   {
@@ -13405,7 +13438,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-548",
+                "id": "npnf212-229-301-532-549",
                 "titulo": "Epístola XXVIII. Para Theodoro, Médico.",
                 "conteudo": [
                   {
@@ -13424,7 +13457,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-549",
+                "id": "npnf212-229-301-532-550",
                 "titulo": "Epístola XXX. Para Narses, o Religioso (Narsæ Relegioso)1710.",
                 "conteudo": [
                   {
@@ -13451,7 +13484,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-550",
+                "id": "npnf212-229-301-532-551",
                 "titulo": "Epístola XXXI. Para Ciríaco, Bispo.",
                 "conteudo": [
                   {
@@ -13466,7 +13499,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-551",
+                "id": "npnf212-229-301-532-552",
                 "titulo": "Epístola XXXII. Para Anastácio, Presbítero1714.",
                 "conteudo": [
                   {
@@ -13489,7 +13522,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-552",
+                "id": "npnf212-229-301-532-553",
                 "titulo": "Epístola XXXIII. Para Maurício Augusto.",
                 "conteudo": [
                   {
@@ -13508,7 +13541,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-553",
+                "id": "npnf212-229-301-532-554",
                 "titulo": "Epístola XXXIV. Para Eulógio, Bispo.",
                 "conteudo": [
                   {
@@ -13539,7 +13572,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-554",
+                "id": "npnf212-229-301-532-555",
                 "titulo": "Epístola XXXV. Para Dominicus, Bispo.",
                 "conteudo": [
                   {
@@ -13554,7 +13587,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-555",
+                "id": "npnf212-229-301-532-556",
                 "titulo": "Epístola XXXVIII. Para Donus, Bispo.",
                 "conteudo": [
                   {
@@ -13569,7 +13602,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-556",
+                "id": "npnf212-229-301-532-557",
                 "titulo": "Epístola XXXIX. Para João, bispo.",
                 "conteudo": [
                   {
@@ -13592,7 +13625,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-557",
+                "id": "npnf212-229-301-532-558",
                 "titulo": "Epístola XL. Para Eulógio, Bispo.",
                 "conteudo": [
                   {
@@ -13619,7 +13652,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-558",
+                "id": "npnf212-229-301-532-559",
                 "titulo": "Epístola XLII. Para Marinianus, Bispo.",
                 "conteudo": [
                   {
@@ -13634,7 +13667,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-531-559",
+                "id": "npnf212-229-301-532-560",
                 "titulo": "Epístola XLIII. Para Marinianus, Bispo.",
                 "conteudo": [
                   {
@@ -13651,11 +13684,11 @@
             ]
           },
           {
-            "id": "npnf212-229-300-560",
+            "id": "npnf212-229-301-561",
             "titulo": "Livro VIII.",
             "children": [
               {
-                "id": "npnf212-229-300-560-561",
+                "id": "npnf212-229-301-561-562",
                 "titulo": "Epístola I. A Pedro, Bispo.",
                 "conteudo": [
                   {
@@ -13682,8 +13715,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-562",
-                "titulo": "Epístola II. Para Anastácio, Bispo de Antioquia.",
+                "id": "npnf212-229-301-561-563",
+                "titulo": "Epistola II. Para Anastácio, Bispo de Antioquia.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13717,8 +13750,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-563",
-                "titulo": "Epístola III. A Donus, Bispo de Messana (na Sicília).",
+                "id": "npnf212-229-301-561-564",
+                "titulo": "Epistola III. A Donus, Bispo de Messana (na Sicília).",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13736,8 +13769,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-564",
-                "titulo": "Epístola V. A vários Metropolitas e Bispos 1733.",
+                "id": "npnf212-229-301-561-565",
+                "titulo": "Epístola V. A várias Metropolitas e Bispos 1733.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13751,7 +13784,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-565",
+                "id": "npnf212-229-301-561-566",
                 "titulo": "Epístola VI. Para Amós, Patriarca de Jerusalém.",
                 "conteudo": [
                   {
@@ -13766,7 +13799,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-566",
+                "id": "npnf212-229-301-561-567",
                 "titulo": "Epístola X. A Sabinianus, Bispo de Jadera1734.",
                 "conteudo": [
                   {
@@ -13789,8 +13822,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-567",
-                "titulo": "Epístola XIII. Para Colombo.",
+                "id": "npnf212-229-301-561-568",
+                "titulo": "Epistola XIII. Pará Colombo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13808,7 +13841,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-568",
+                "id": "npnf212-229-301-561-569",
                 "titulo": "Epístola XIV. Para Bonifácio, Primeiro Guardião (Defensorem).",
                 "conteudo": [
                   {
@@ -13823,7 +13856,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-569",
+                "id": "npnf212-229-301-561-570",
                 "titulo": "Epístola XV. A Marinianus, Bispo de Ravena.",
                 "conteudo": [
                   {
@@ -13850,8 +13883,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-570",
-                "titulo": "Epístola XVII. Para Maurêncio.",
+                "id": "npnf212-229-301-561-571",
+                "titulo": "Epistola XVII. Para Maurêncio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13865,8 +13898,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-571",
-                "titulo": "Epístola XVIII. A Agnellus, Bispo de Terracina.",
+                "id": "npnf212-229-301-561-572",
+                "titulo": "Epistola XVIII. A Agnellus, Bispo de Terracina.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13884,8 +13917,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-572",
-                "titulo": "Epístola XX. A Marinianus, Bispo de Ravena.",
+                "id": "npnf212-229-301-561-573",
+                "titulo": "Epistola XX. A Marinianus, Bispo de Ravena.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -13899,7 +13932,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-573",
+                "id": "npnf212-229-301-561-574",
                 "titulo": "Epístola XXI. Para João, Bispo de Siracusa.",
                 "conteudo": [
                   {
@@ -13914,7 +13947,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-574",
+                "id": "npnf212-229-301-561-575",
                 "titulo": "Epístola XXII. Para Rusticiana, Patrícia1745.",
                 "conteudo": [
                   {
@@ -13933,7 +13966,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-575",
+                "id": "npnf212-229-301-561-576",
                 "titulo": "Epístola XXIII. Para Fantinus, Guardião (Defensorem).",
                 "conteudo": [
                   {
@@ -13952,7 +13985,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-576",
+                "id": "npnf212-229-301-561-577",
                 "titulo": "Epístola XXIV. Para Sabinianus, Bispo de Jadera1747.",
                 "conteudo": [
                   {
@@ -13987,7 +14020,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-577",
+                "id": "npnf212-229-301-561-578",
                 "titulo": "Epístola XXIX. Para Eulogius, bispo de Alexandria.",
                 "conteudo": [
                   {
@@ -14010,7 +14043,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-578",
+                "id": "npnf212-229-301-561-579",
                 "titulo": "Epístola XXX. Para Eulogius, bispo de Alexandria.",
                 "conteudo": [
                   {
@@ -14041,8 +14074,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-579",
-                "titulo": "Epístola XXXIII. Para Dominicus.",
+                "id": "npnf212-229-301-561-580",
+                "titulo": "Epístola XXXIII. Pará Dominicus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -14068,7 +14101,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-580",
+                "id": "npnf212-229-301-561-581",
                 "titulo": "Epístola XXXIV. Para João Bispo de Scyllacium 1757.",
                 "conteudo": [
                   {
@@ -14095,7 +14128,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf212-229-300-560-581",
+                "id": "npnf212-229-301-561-582",
                 "titulo": "Epístola XXXV. Para Leôncio, Ex-Cônsul.",
                 "conteudo": [
                   {

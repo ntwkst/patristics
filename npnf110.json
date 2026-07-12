@@ -1,10 +1,10 @@
 [
   {
-    "id": "npnf110-3",
-    "titulo": "—",
+    "id": "npnf110-4",
+    "titulo": "São Crisóstomo: Homilias sobre o Evangelho de São Mateus",
     "children": [
       {
-        "id": "npnf110-3-4",
+        "id": "npnf110-4-5",
         "titulo": "—",
         "conteudo": [
           {
@@ -23,12 +23,135 @@
         "idioma": "en"
       },
       {
-        "id": "npnf110-3-5",
-        "titulo": "HOMILIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, SOBRE O EVANGELHO SEGUNDO SÃO. MATEUS.",
+        "id": "npnf110-4-6",
+        "titulo": "Prefácio à Edição Oxford.",
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "The Homilies of St. Chrysostom on St. Matthew were undoubtedly delivered at Antioch (see Hom. vii. p. 43) and probably in the latter part of the time during which he preached as a Presbyter. Montfaucon considers his little mention of the sin of swearing a sign of his having accomplished some reformation on that point by his previous exertions. In the Homilies delivered from 386 to 388, it is a constant topic; and the Homilies known to belong to that date are so numerous, as scarcely leave room for such a series as the present. These, however, contain very little to mark the period to which they belong. The argument from his reference to dissensions some time gone by, possibly those between St. Meletius and Paulinus and Evagrius, in commenting on St. Matt. xxiii. 6. is not very conclusive."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "A modern reader must sometimes be struck with finding in St. Chrysostom a kind of criticism, which we are apt to think belongs only to later times. His main object, however, is moral, and he searches out with diligence both the meaning and the applications of particular passages, usually concluding with an eloquent exhortation to some special virtue. Some of the most remarkable of these exhortations are on the subject of Alms-giving, which he seems to have pressed with some success at last. His calculation in Hom. lxvi. as to what might be done, is somewhat curious. In the end of Hom. lxxxviii. he demands a reformation as the condition of his entering on the controversy with Infidels. In the next Homily he discusses the evidence of the Resurrection with nearly the same arguments as would still be used against an objector."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The Theatres are the theme of his frequent reprobation, and the Monks of the mountains near Antioch of his praise. In Hom. lxix. and lxx. he describes their mode of life as an edifying example to all. He frequently attacks the Anomoean or extreme Arian Heresy, and sometimes also the Manichæan. It is perhaps worth while to recollect the nearly contemporaneous prevalence of Manichæism in the West, as it appears in the early history of St. Augustine. In Hom. lxxxvi. there are some remarks on the device of Satan by which evil is introduced by little and little, which are worthy of consideration as applicable to the growth of erroneous doctrine and practice within the Church."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "For all information with respect to the Text and Manuscripts of these Homilies, the learned reader is referred to the Greek Edition of Mr. Field, which has been of great service, as affording a safe basis for the Translation. The paucity of materials possessed by Savile, and the carelessness of the Benedictine Editor, had left much room for improvement by a judicious and faithful use of the existing copies. It may now at last be hoped, that we have a Text very closely approximating to the genuine work of the Author."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "For the Translation, the Editors are indebted to the Rev. Sir George Prevost, M.A. of Oriel College, and for the Index to the Rev. J. E. Tweed, M.A. of Christ Church, Oxford. It will be their endeavor to complete the commentaries of St. Chrysostom on the New Testament, by bringing out the remainder of the Homilies on the Acts of the Apostles, and those on the Epistle to the Hebrews, as soon as they are able. In both instances, however, the corrupt state of the Text has occasioned some difficulty and delay."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "C. Marriott."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Oxford, Advent, 1851."
+          }
+        ],
+        "idioma": "en"
+      },
+      {
+        "id": "npnf110-4-7",
+        "titulo": "INTRODUCTORY ESSAY.",
         "children": [
           {
-            "id": "npnf110-3-5-6",
-            "titulo": "Homilia I.",
+            "id": "npnf110-4-7-8",
+            "titulo": "I. O Lugar de Crisóstomo na História da Exegese.",
+            "conteudo": [
+              {
+                "tipo": "paragrafo",
+                "texto": "The position held by Chrysostom in the history of exegesis is remarkable. Owing to a peculiar combination of circumstances he, more than any of the Fathers, was enabled to avoid the errors alike of the allegorizing and dogmatic tendencies. The former tendency was the prevalent one in the Christian Church in the Ante-Nicene period; the latter, especially in the West, became dominant during the Post-Nicene period, using for its own ends the earlier erroneous theory. Chrysostom represents the Antiochian reaction against the allegorizing method, while he ante-dates by a generation, at least, the time when the ecclesiastical or dogmatic theory became overpowering in its influence. This historical position must be recognized in estimating his character as an exegete, as well as in accounting for his eminence as an interpreter of Scripture. Modern scholarship with comparative unanimity accords to him this eminence. It is true that one is disposed to dissent from this judgment on first reading the Homilies of Chrysostom. Trained in our modern exegetical methods the reader may unconsciously compare the expositions of the Greek Father with those of Luther and Calvin, if not with those of Meyer and Weiss. Such a comparison is of course an anachronism. A study of other patristic exegetes must lead to an endorsement of the prevalent opinion as to the merits of Chrysostom as an expositor. An immense mass of homiletical literature of which he was the author has been preserved, and of course reveals very unequal results. Marks of carelessness, especially in citation, abound; the habits of the “practical preacher” often leads to long digressions, to elaboration of matters that at best hold only the relation of a tangent to the truth of the text. Yet less than most pulpit orators does Chrysostom warp the interpretation itself to suit his homiletical purpose. Occasionally vehement invective occurs when an exegetical difficulty is encountered, and it is easy to suppose that unconsciously the former has been used to cover up the latter. But there are few evidences of lack of candor in the treatment of such difficulties. It must be confessed that Chrysostom is not always true to his own principles of interpretation, yet these instances of inconsistency are usually due to a desire to enforce an ethical lesson pertinent to the occasion, even though the application was scarcely pertinent to the text. Owing to his ignorance of Hebrew, Chrysostom was not properly equipped for the work of expounding the Old Testament. He treats the LXX. as though it were of final authority, save in a few instances where the variations of other Greek versions have occasioned discussion. Frequently he makes use of verbal suggestions of the Greek that have no warrant in the Hebrew text. Yet, where he is not thus misled, his comments on the Old Testament present the same characteristics as those on the New."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "The most marked peculiarity of Chrysostom as an exegete is his comparative freedom from the allegorizing tendency that prevailed in the early Christian centuries. In contending with the Jews, the Christian apologists, from Justin Martyr onward, had inevitably followed8 to some extent the methods of their opponents. The Jewish schools of interpreters, both at Alexandria and in Palestine, while somewhat antagonistic to each other, had in common this allegorizing habit. Argument about the meaning of the Old Testament necessarily fostered a similar tendency among Christian writers. Moreover, the Christian authors of the second and third centuries were not men of pre-eminent talent or acquirements. The victory won by the church was ethical rather than intellectual. Then, as now, profound piety, when not combined with accurate knowledge and mental acumen, delighted in mystical fancies. Types could be invented far more easily than texts could be investigated. At length this tendency found in Origen an advocate who had the ability to formulate its principles, and also the learning and industry necessary to illustrate the method by copious comments of his own. Facile princeps as a mystical interpreter, Origen’s influence is still felt, and in his own age it was dominant in exegesis. It is true the dogmatic principle was already gaining the mastery, yet both the Orthodox and their opponents made use of allegory: the former combined the two tendencies, the latter placed them in antagonism. Curiously enough the doctrinal controversy that arose in consequence of some of Origen’s views was made the occasion of an attack upon Chrysostom, and the kindness he showed to certain Egyptian monks, who were followers of Origen, became the pretext for those harsh measures which resulted in his banishment and death.1 Yet Chrysostom, in his writings, shows no sympathy with the philosophic speculations of Origen, and his method as an exegete is far removed from that implied in the principles laid down by the latter. The great preacher never dishonors the literal, or historical, sense of Scripture, and though he occasionally refers to interpretations κατ ναγωγν, using the phrase applied by Origen to the mystical sense of passages, these are never exalted above the plain meaning of the words of the text. No one living in the age of Chrysostom could be a diligent student of the Bible and ignore the labors of Origen. Despite his advocacy of the mystical theory and his excessive speculative tendency he had done more for exegetical theology than any of his predecessors. In these days we owe him too much to forget these services. The wonder is that Chrysostom, familiar with his writings, was so little influenced by the erroneous hermeneutical principles he advocated and exemplified. The earnest practical purpose of Chrysostom did much in preserving him from allegorizing, but his training of Antioch under Diodorus, afterwards bishop of Tarsus, was probably still more influential for good. Diodorus is reckoned the leader of the so-called Antiochian school of exegetes. He was the first to oppose directly the false methods of Origen. It is true “the Three Cappadocians,” Basil the Great, his brother Gregory of Nyssa, and his friend Gregory of Nazianzen, had but a qualified admiration for the exegetical results attained by Origen, though diligent in their use of his writings. The conflicts of the period interfered, however, with any decided hermeneutical advance; the dogmatic interest of the Arian controversy still overshadowing all other theological movements. Diodorus (394) was president of a monastery in the vicinity of Antioch. Under his guidance Chrysostom and his friend Basil pursued a semi-monastic life of seclusion and study for nearly six years (ending in A.D. 381). Theodore, who was afterwards bishop of Mopsuestia, and the father of the Nestorian theology, was also his friend and fellow-student. While Diodorus was not free from rationalizing tendencies, he undoubtedly represents a healthy re-action toward the historico-exegetical theory of interpretation. His writings and his influence on his two most distinguished pupils, Chrysostom and Theodore, plainly prove this. “The practical element in Diodorus, his method of literal and common-sense interpretation of Holy Scripture, was inherited chiefly by Chrysostom; the intellectual vein, his conceptions of the relation between the Godhead and Manhood in Christ, his opinions respecting the final restoration of mankind, which were almost equivalent to a denial of eternal punishment, were reproduced mainly by Theodore.”2"
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "While the influence of the Antiochian school seems transient, it has achieved much in stating more clearly the correct principles of interpretation; it has achieved still more in preparing for his work the greatest preacher of the Greek church. Avoiding to a great extent the extremes of both Origen and Diodorus, Chrysostom as an interpreter is probably nearer to us than any Father of the Eastern Church. A careful study of his Homilies must lead to that conviction. “He set forth the verbal meaning with constant attention to the course of thought, and connected therewith, in harmony with the form which he had chosen, the religious and moral observations which were founded directly on the text. Dogmatic and polemic digressions were not necessarily excluded, but were never made the principal thing, and the more or less frequently inserted allegorical additions appear rather as rhetorical ornament and deference to custom than as something necessary to the expositor.”3"
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "The doctrinal views of Chrysostom were positive and usually well defined. He does not fail to oppose heretical opinions. So great a preacher could not be without a theology. Yet, as already intimated, the dogmatic principle of interpretation does not dominate his exegesis to any great extent."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "It thus appears that, whatever may be defects in his expositions, however faulty his comments may seem to us, Chrysostom stands as the representative of more correct principles than any of the early Fathers. That his eminence as a preacher is due to this fact can scarcely be doubted. A new interest in his writings would serve to emphasize the importance of adherence to the historico-exegetical method of interpretation. Great pulpit orators do not need to indulge in mystical fancies, nor does their true power arise from dogmatic warping of the sense of Scripture."
+              }
+            ],
+            "idioma": "en"
+          },
+          {
+            "id": "npnf110-4-7-9",
+            "titulo": "II. Extensão e caráter dos trabalhos exegéticos de Crisóstomo.",
+            "conteudo": [
+              {
+                "tipo": "paragrafo",
+                "texto": "1. The exegetical labors of Chrysostom are embodied in his Homilies, of which more than six hundred have been preserved. These are for the most part expository in their character, usually forming a continuous series upon some book of Scripture. The parts of the Bible thus treated are: in the Old Testament, Genesis and the Book of Psalms; in the New Testament, all the books except the gospels of Mark and Luke, the Catholic Epistles and Revelation. “Commentaries, properly so-called, he wrote only on the first eight chapters of Isaiah and on the Epistle to the Galatians” (Schaff4). Most of the Homilies were preserved by short-hand reports, but some were published by Chrysostom himself.5 There are internal evidences that in many cases the spoken discourse had not been previously written, e.g., the rebuke of applause and of inattention on account of some distracting incident. Previous study is equally manifest in the expository portions; but the method of delivery as well as the method of preservation must modify our judgment of the preacher’s exegetical accuracy. Probably many of the inconsistencies and inexact citations, noticeable in the Homilies, are due to one or the other of these causes."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "From an exegetical point of view the Homilies on the Old Testament rank lowest, those on the Pauline Epistles highest. The reasons for this are easily discovered. For the exposition of the Old Testament Chrysostom did not have the necessary equipment, being ignorant of Hebrew. In explaining the Gospels he fails to discuss the historical questions with fullness. This was owing no doubt to his distinct homiletical purpose. For the same reason he passes over most of the harmonistic questions, or answers them indefinitely. But in expounding our Lord’s longer discourses the same qualities as an interpreter which fitted him so well for explaining the Pauline Epistles enable him to rise to his full eminence."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "2. In all the Homilies there is apparent a proper conception of the relation of the Old Testament and the New. Chrysostom’s treatment of the two parts of revelation agrees in many respects with the methods now generally accepted in the subdivision of Exegetical Theology technically termed Biblical Theology. He recognized the progressive movement; thus holding to the essential unity of Scripture, but also admitting the incompleteness of the Old Testament and superiority of the New. The distinction between the two is never regarded as an antagonism. Indeed some of the severest utterances in the Homilies is in opposition to the error that denies the authority of the Old Testament as a revelation from the Father of our Lord Jesus Christ. But the unity of the two parts of Scripture are not maintained at the expense of the historical sense of the Old Testament. While Chrysostom finds in the older revelation a prophecy of Christ who was to come, “he fails not also to point out the moral aspect of prophecy as a system of teaching rather than prediction, as preparatory to the advent of Jesus Christ in the flesh, not only by informing men’s minds, but disciplining their hearts to receive Him.”6 Probably the absence of any polemical purpose against the Jews aided him in attaining a position more correct than most of some of the earlier Fathers. His view of the relation of Christ to the law is set forth in Homily XVI. on Matthew.7 In his view of inspiration Chrysostom recognized the Divine-human character of the Scriptures. While he does not formally state his theory, the method he adopts implies the value of each and every part of the Bible, the importance of marking the sense of every word. But the mechanical theory is nowhere suggested: it is in fact opposed by his statements regarding the variations in the Gospels.8 Indeed no one could be such an expositor as Chrysostom was without an acceptance alike of the Divine authority and human authorship of the Scriptures. These not in antithesis, but in synthesis. Denying the former, there could have been no such power in preaching; ignoring the latter, there would have been no such care in his comments. This view of the Bible was the result of his profound and constant study of it. The same study gave him the wealth of Scriptural illustration and suggestion so noticeable in his Homilies. Knowledge of the whole Bible and love of the whole Bible are manifest everywhere."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "3. In textual criticism Chrysostom does not afford us the help that might be expected from the extent of his labors. Origen is incomparably more useful to the textual critic. Even in citing the LXX. many inaccuracies occur, and the Hebrew text is ignored, except in a few cases where doctrinal discussion had arisen.9"
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "As Westcott and Hort have shown,10the Syrian text of the New Testament had become dominant in the Eastern church about A.D. 350. It held in the time of Chrysostom very much the same position afterwards allowed to the received text during the seventeenth and eighteenth centuries. Accordingly we find few indications of any critical investigations of the text, and the variations from the Syrian text in the Homilies are neither numerous nor important. Yet the differences from the received text of our day are worth noticing.11 In all such matters, however, there enter several elements of uncertainty, combining to subtract from the value of the Homilies or critical purposes.12 In the case of Chrysostom we know that the Homilies were taken down by others. Hence we are not sure how accurately the preacher made his citations, how correctly they were reported, nor how much of change has been made by copyists in the interest of conformity to the text prevalent at the time of transcription. Quite frequently the same passage occurs in two forms within the limits of the same Homily. The labors of Mr. Field on the Greek text of Chrysostom show how much remains to be done before we can cite this Father as a trustworthy witness in regard to the minor variations of the New Testament text. Fortunately Tischendorf, who had access to a very ancient codex of the Homilies on Matthew,13has given the results of his collation in his painstaking way. As this codex was not included in the apparatus criticus of Mr. Field, the supplementary value of Tischendorf’s citations is increased."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "Some peculiar readings occur in the Homilies on Matthew; the most remarkable is, however, a reading of Luke ix. 31. In Homily LVI. 3 (p. 346 of this volume), Chrysostom expressly reads δξαν for ἔξοδον, commenting upon the word. It seems altogether probable that there was no such reading prevalent in his day, but that the word δξ, which stands immediately before in Luke ix. 31, was accidentally substituted for ἔξοδον. This might happen from a slip of the memory on the part of Chrysostom, or some scribe might have made the blunder in an isolated copy used by the preacher. In other respects Chrysostom is a witness for the prevalence of the Antiochian or Syrian text, from which our received text has descended. He ignores the pericope of the woman taken in adultery (John vii. 53, viii. 11), as do all the Greek Fathers before the eighth century."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "The minor variations do not fully appear in the Oxford translation, owing to the habit of using the text of the Authorized Version, even when its differences from the text of Chrysostom were quite obvious. Accordingly the emendations of the Revised Version have been given, without comment, in the additional foot-notes to this volume, wherever that Version represents more accurately the readings in the Homilies."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "4. As already intimated, Chrysostom’s ignorance of Hebrew detracts from his trustworthiness as an Old Testament expositor. In the New Testament he is much superior. Yet even here he is open to criticism. Besides an occasional allegorizing comment, he shows much inaccuracy, sometimes inconsistency, in dealing with the historical questions that arise in connection with the Gospel History. He seems to have no taste for the dis cussion of such questions. Augustin shows far more judgment in his treatment of these problems. But the ethical purpose probably debarred Chrysostom from such investigations. As regards the length of our Lord’s ministry, the vexed question of our Lord’s brethren, the identity of Mary Magdalene and the woman who was a sinner, etc., we derive little satisfaction from these Homilies. Occasionally topographical and archæological topics are referred to in terms that are misleading or positively erroneous. Hence the Homilies on the Gospels are usually estimated as less valuable than those on the Epistles."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "But where the exegesis deals with the human heart, its motives, its weakness, or with the grace and love of Jesus Christ, there Chrysostom rises, and remains “the Master in Israel.” Few have made advances beyond him in commenting upon the parables, the miracles of healing, the great discourses of our Lord. His sturdy common sense enabled him to expound the great eschatological discourse (Matt. xxiv, xxv.) in a manner so free from chiliastic extravagance, that to-day his exposition can be used with little alteration."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "These characteristics of his exegesis fitted Chrysostom to excel in his exposition of the Epistles. Here there is more of continuated and logical method than in the Homilies on the Gospels. Each Epistle he is careful to consider “as a connected whole; and, in order to impress this on his hearers, he frequently recapitulates at the beginning of a Homily all the steps by which the part under consideration has been reached. In his introduction to each letter he generally makes useful observations on the author, the time, place, and style of composition, the readers for whom it was intended, the general character and arrangement of its contents.” 14 The Pauline authorship of the Epistle to the Hebrews is accepted in all the references to that book which occur in the Homilies or other portions of Scripture."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "The doctrinal positions of Chrysostom naturally influence his explanations of certain portions of the Epistle, but these are to be judged by the stage of development attained by the theology of the Eastern Church in the Post-Nicene period."
+              },
+              {
+                "tipo": "paragrafo",
+                "texto": "The minute attention necessary in editing this volume has compelled the writer to note the excellence of the great Greek Father as an exegete. Beginning the task with some prejudice, mainly due to a knowledge of the inaccuracy of Chrysostom’s citations, he now gladly pays his humble tribute to the genius of the author, hoping that students of the volume will be enabled to echo the praises that for so many centuries have been bestowed upon John of the Golden Mouth."
+              }
+            ],
+            "idioma": "en"
+          }
+        ]
+      },
+      {
+        "id": "npnf110-4-10",
+        "titulo": "HOMÍLIAS DE ST. JOÃO CRISÓSTOMO, ARCEBISPO DE CONSTANTINOPLA, SOBRE O EVANGELHO SEGUNDO SÃO. MATEUS.",
+        "children": [
+          {
+            "id": "npnf110-4-10-11",
+            "titulo": "Homília I.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -270,8 +393,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-7",
-            "titulo": "Homilia II.",
+            "id": "npnf110-4-10-12",
+            "titulo": "Homília II.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -477,8 +600,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-8",
-            "titulo": "Homilia III.",
+            "id": "npnf110-4-10-13",
+            "titulo": "Homília III.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -588,8 +711,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-9",
-            "titulo": "Homilia IV.",
+            "id": "npnf110-4-10-14",
+            "titulo": "Homília IV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -819,8 +942,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-10",
-            "titulo": "Homilia V.",
+            "id": "npnf110-4-10-15",
+            "titulo": "Homília V.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -938,8 +1061,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-11",
-            "titulo": "Homilia VI.",
+            "id": "npnf110-4-10-16",
+            "titulo": "Homília VI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1105,8 +1228,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-12",
-            "titulo": "Homilia VII.",
+            "id": "npnf110-4-10-17",
+            "titulo": "Homília VII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1276,8 +1399,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-13",
-            "titulo": "Homilia VIII.",
+            "id": "npnf110-4-10-18",
+            "titulo": "Homília VIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1395,8 +1518,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-14",
-            "titulo": "Homilia IX.",
+            "id": "npnf110-4-10-19",
+            "titulo": "Homília IX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1542,8 +1665,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-15",
-            "titulo": "Homilia X.",
+            "id": "npnf110-4-10-20",
+            "titulo": "Homília X.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1693,8 +1816,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-16",
-            "titulo": "Homilia XI.",
+            "id": "npnf110-4-10-21",
+            "titulo": "Homília XI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -1908,8 +2031,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-17",
-            "titulo": "Homilia XII.",
+            "id": "npnf110-4-10-22",
+            "titulo": "Homília XII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2031,8 +2154,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-18",
-            "titulo": "Homilia XIII.",
+            "id": "npnf110-4-10-23",
+            "titulo": "Homília XIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2242,8 +2365,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-19",
-            "titulo": "Homilia XIV.",
+            "id": "npnf110-4-10-24",
+            "titulo": "Homília XIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2385,8 +2508,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-20",
-            "titulo": "Homilia XV.",
+            "id": "npnf110-4-10-25",
+            "titulo": "Homília XV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -2868,8 +2991,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-21",
-            "titulo": "Homilia XVI.",
+            "id": "npnf110-4-10-26",
+            "titulo": "Homília XVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3295,8 +3418,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-22",
-            "titulo": "Homilia XVII.",
+            "id": "npnf110-4-10-27",
+            "titulo": "Homília XVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3606,8 +3729,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-23",
-            "titulo": "Homilia XVIII.",
+            "id": "npnf110-4-10-28",
+            "titulo": "Homília XVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -3829,8 +3952,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-24",
-            "titulo": "Homilia XIX.",
+            "id": "npnf110-4-10-29",
+            "titulo": "Homília XIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4220,7 +4343,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-25",
+            "id": "npnf110-4-10-30",
             "titulo": "Homilia XX.883",
             "conteudo": [
               {
@@ -4423,8 +4546,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-26",
-            "titulo": "Homilia XXI.",
+            "id": "npnf110-4-10-31",
+            "titulo": "Homília XXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4566,8 +4689,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-27",
-            "titulo": "Homilia XXII.",
+            "id": "npnf110-4-10-32",
+            "titulo": "Homília XXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -4749,8 +4872,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-28",
-            "titulo": "Homilia XXIII.",
+            "id": "npnf110-4-10-33",
+            "titulo": "Homília XXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5152,8 +5275,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-29",
-            "titulo": "Homilia XXIV.",
+            "id": "npnf110-4-10-34",
+            "titulo": "Homília XXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5271,8 +5394,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-30",
-            "titulo": "Homilia XXV.",
+            "id": "npnf110-4-10-35",
+            "titulo": "Homília XXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5422,8 +5545,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-31",
-            "titulo": "Homilia XXVI.",
+            "id": "npnf110-4-10-36",
+            "titulo": "Homília XXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5669,8 +5792,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-32",
-            "titulo": "Homilia XXVII.",
+            "id": "npnf110-4-10-37",
+            "titulo": "Homília XXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -5884,8 +6007,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-33",
-            "titulo": "Homilia XXVIII.",
+            "id": "npnf110-4-10-38",
+            "titulo": "Homília XXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6063,8 +6186,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-34",
-            "titulo": "Homilia XXIX.",
+            "id": "npnf110-4-10-39",
+            "titulo": "Homília XXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -6202,7 +6325,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-35",
+            "id": "npnf110-4-10-40",
             "titulo": "Homilia XXX.",
             "conteudo": [
               {
@@ -6429,7 +6552,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-36",
+            "id": "npnf110-4-10-41",
             "titulo": "Homilia XXXI.",
             "conteudo": [
               {
@@ -6616,8 +6739,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-37",
-            "titulo": "Homilia XXXII.",
+            "id": "npnf110-4-10-42",
+            "titulo": "Homília XXXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7051,8 +7174,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-38",
-            "titulo": "Homilia XXXIII.",
+            "id": "npnf110-4-10-43",
+            "titulo": "Homília XXXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7294,8 +7417,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-39",
-            "titulo": "Homilia XXXIV.",
+            "id": "npnf110-4-10-44",
+            "titulo": "Homília XXXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7461,8 +7584,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-40",
-            "titulo": "Homilia XXXV.",
+            "id": "npnf110-4-10-45",
+            "titulo": "Homília XXXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7688,8 +7811,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-41",
-            "titulo": "Homilia XXXVI.",
+            "id": "npnf110-4-10-46",
+            "titulo": "Homília XXXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7819,8 +7942,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-42",
-            "titulo": "Homilia XXXVII.",
+            "id": "npnf110-4-10-47",
+            "titulo": "Homília XXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8066,8 +8189,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-43",
-            "titulo": "Homilia XXXVIII.",
+            "id": "npnf110-4-10-48",
+            "titulo": "Homília XXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8225,8 +8348,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-44",
-            "titulo": "Homilia XXXIX.",
+            "id": "npnf110-4-10-49",
+            "titulo": "Homília XXXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8400,8 +8523,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-45",
-            "titulo": "Homilia XL.",
+            "id": "npnf110-4-10-50",
+            "titulo": "Homília XL.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -8607,7 +8730,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-46",
+            "id": "npnf110-4-10-51",
             "titulo": "Homilia XLI.",
             "conteudo": [
               {
@@ -8798,7 +8921,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-47",
+            "id": "npnf110-4-10-52",
             "titulo": "Homilia XLII.",
             "conteudo": [
               {
@@ -8965,8 +9088,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-48",
-            "titulo": "Homilia XLIII.",
+            "id": "npnf110-4-10-53",
+            "titulo": "Homília XLIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9120,8 +9243,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-49",
-            "titulo": "Homilia XLIV.",
+            "id": "npnf110-4-10-54",
+            "titulo": "Homília XLIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9335,8 +9458,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-50",
-            "titulo": "Homilia XLV.",
+            "id": "npnf110-4-10-55",
+            "titulo": "Homília XLV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9454,8 +9577,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-51",
-            "titulo": "Homilia XLVI.",
+            "id": "npnf110-4-10-56",
+            "titulo": "Homília XLVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9633,8 +9756,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-52",
-            "titulo": "Homilia XLVII.",
+            "id": "npnf110-4-10-57",
+            "titulo": "Homília XLVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9836,8 +9959,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-53",
-            "titulo": "Homilia XLVIII.",
+            "id": "npnf110-4-10-58",
+            "titulo": "Homília XLVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10075,7 +10198,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-54",
+            "id": "npnf110-4-10-59",
             "titulo": "Homilia XLIX.",
             "conteudo": [
               {
@@ -10382,8 +10505,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-55",
-            "titulo": "Homilia L.",
+            "id": "npnf110-4-10-60",
+            "titulo": "Homília L.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10593,8 +10716,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-56",
-            "titulo": "Homilia LI.",
+            "id": "npnf110-4-10-61",
+            "titulo": "Homília LI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10856,8 +10979,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-57",
-            "titulo": "Homilia LII.",
+            "id": "npnf110-4-10-62",
+            "titulo": "Homília LII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11479,8 +11602,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-58",
-            "titulo": "Homilia LV.",
+            "id": "npnf110-4-10-63",
+            "titulo": "Homília LV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11778,8 +11901,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-59",
-            "titulo": "Homilia LVI.",
+            "id": "npnf110-4-10-64",
+            "titulo": "Homília LVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12081,8 +12204,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-60",
-            "titulo": "Homilia LVII.",
+            "id": "npnf110-4-10-65",
+            "titulo": "Homília LVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12396,8 +12519,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-61",
-            "titulo": "Homilia LIX.",
+            "id": "npnf110-4-10-66",
+            "titulo": "Homília LIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12687,8 +12810,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-62",
-            "titulo": "Homilia LX.",
+            "id": "npnf110-4-10-67",
+            "titulo": "Homília LX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -12814,8 +12937,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-63",
-            "titulo": "Homilia LXI.",
+            "id": "npnf110-4-10-68",
+            "titulo": "Homília LXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13093,8 +13216,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-64",
-            "titulo": "Homilia LXII.",
+            "id": "npnf110-4-10-69",
+            "titulo": "Homília LXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13320,8 +13443,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-65",
-            "titulo": "Homilia LXIII.",
+            "id": "npnf110-4-10-70",
+            "titulo": "Homília LXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13463,8 +13586,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-66",
-            "titulo": "Homilia LXIV.",
+            "id": "npnf110-4-10-71",
+            "titulo": "Homília LXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13690,8 +13813,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-67",
-            "titulo": "Homilia LXV.",
+            "id": "npnf110-4-10-72",
+            "titulo": "Homília LXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13969,8 +14092,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-68",
-            "titulo": "Homilia LXVI.",
+            "id": "npnf110-4-10-73",
+            "titulo": "Homília LXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14188,8 +14311,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-69",
-            "titulo": "Homilia LXVII.",
+            "id": "npnf110-4-10-74",
+            "titulo": "Homília LXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14427,8 +14550,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-70",
-            "titulo": "Homilia LXVIII.",
+            "id": "npnf110-4-10-75",
+            "titulo": "Homília LXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14658,8 +14781,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-71",
-            "titulo": "Homilia LXIX.",
+            "id": "npnf110-4-10-76",
+            "titulo": "Homília LXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14917,8 +15040,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-72",
-            "titulo": "Homilia LXX.",
+            "id": "npnf110-4-10-77",
+            "titulo": "Homília LXX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15136,8 +15259,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-73",
-            "titulo": "Homilia LXXI.",
+            "id": "npnf110-4-10-78",
+            "titulo": "Homília LXXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15339,8 +15462,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-74",
-            "titulo": "Homilia LXXII.",
+            "id": "npnf110-4-10-79",
+            "titulo": "Homília LXXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15538,8 +15661,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-75",
-            "titulo": "Homilia LXXIII.",
+            "id": "npnf110-4-10-80",
+            "titulo": "Homília LXXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15737,8 +15860,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-76",
-            "titulo": "Homilia LXXIV.",
+            "id": "npnf110-4-10-81",
+            "titulo": "Homília LXXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -15920,8 +16043,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-77",
-            "titulo": "Homilia LXXV.",
+            "id": "npnf110-4-10-82",
+            "titulo": "Homília LXXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -16139,8 +16262,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-78",
-            "titulo": "Homilia LXXVI.",
+            "id": "npnf110-4-10-83",
+            "titulo": "Homília LXXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -16326,8 +16449,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-79",
-            "titulo": "Homilia LXXVII.",
+            "id": "npnf110-4-10-84",
+            "titulo": "Homília LXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -16541,8 +16664,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-80",
-            "titulo": "Homilia LXXVIII.",
+            "id": "npnf110-4-10-85",
+            "titulo": "Homília LXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -16820,8 +16943,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-81",
-            "titulo": "Homilia LXXX.",
+            "id": "npnf110-4-10-86",
+            "titulo": "Homília LXXX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -16991,8 +17114,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-82",
-            "titulo": "Homilia LXXXI.",
+            "id": "npnf110-4-10-87",
+            "titulo": "Homília LXXXI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17194,8 +17317,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-83",
-            "titulo": "Homilia LXXXII.",
+            "id": "npnf110-4-10-88",
+            "titulo": "Homília LXXXII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17421,8 +17544,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-84",
-            "titulo": "Homilia LXXXIII.",
+            "id": "npnf110-4-10-89",
+            "titulo": "Homília LXXXIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17572,8 +17695,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-85",
-            "titulo": "Homilia LXXXIV.",
+            "id": "npnf110-4-10-90",
+            "titulo": "Homília LXXXIV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17759,8 +17882,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-86",
-            "titulo": "Homilia LXXXV.",
+            "id": "npnf110-4-10-91",
+            "titulo": "Homília LXXXV.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -17922,8 +18045,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-87",
-            "titulo": "Homilia LXXXVI.",
+            "id": "npnf110-4-10-92",
+            "titulo": "Homília LXXXVI.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18101,8 +18224,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-88",
-            "titulo": "Homilia LXXXVII.",
+            "id": "npnf110-4-10-93",
+            "titulo": "Homília LXXXVII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18224,8 +18347,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-89",
-            "titulo": "Homilia LXXXVIII.",
+            "id": "npnf110-4-10-94",
+            "titulo": "Homília LXXXVIII.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18351,8 +18474,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-90",
-            "titulo": "Homilia LXXXIX.",
+            "id": "npnf110-4-10-95",
+            "titulo": "Homília LXXXIX.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -18486,8 +18609,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf110-3-5-91",
-            "titulo": "Homilia XC.",
+            "id": "npnf110-4-10-96",
+            "titulo": "Homília XC.",
             "conteudo": [
               {
                 "tipo": "paragrafo",

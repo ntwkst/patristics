@@ -1,7 +1,7 @@
 [
   {
     "id": "npnf204-4",
-    "titulo": "—",
+    "titulo": "Atanásio: selecionar obras e cartas",
     "children": [
       {
         "id": "npnf204-4-5",
@@ -16,14 +16,65 @@
       },
       {
         "id": "npnf204-4-6",
+        "titulo": "Preface.",
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "In preparing the present volume the Editor has aimed at providing the English reader with the most complete apparatus for the study of Athanasius, his life, and his theological influence, which could be brought within the compass of a single volume of the ‘Nicene and Post-Nicene Library.’ The volume contains all the most important treatises of Athanasius (in as nearly as possible their exact chronological order), with the exception of the ad Serapionem, the contra Apollinarium, the ad Marcellinum, and the exegetical remains. On these and other treatises omitted from the present collection the reader is referred to the Prolegomena, ch. iii."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "A great part of the volume, including the bulk of the historical and anti-Arian works, and the Festal Letters, consists of a revision of translations and notes comprised in the Oxford Library of the Fathers. The notes to all, and the translation of most, of the works in question, excepting the Festal Letters, were prepared for that series by Mr. (since Cardinal) Newman. It was at first intended to incorporate his work without any change; but as the volume began to take shape this intention was inevitably to some extent modified; moreover, the limits of space demanded the sacrifice of some of the less important matter. The principles upon which the necessary changes have been made will be found stated on pp. 304, 305, 450. What is there said applies also to the de Decretis and Letter of Eusebius, as well as to the notes to the historical pieces; it may be added that the translation of the ‘Fourth Discourse’ has been very carefully revised, in order to secure the utmost closeness to the somewhat difficult original. In all the new translations, as well as in the revision of earlier work, the aim has been to secure the strictest fidelity compatible with clearness. The easy assumption that distinctions of tenses, constructions, U+0026c., count for little or nothing in patristic Greek has been steadily resisted. Doubtless there are passages where the distinction, for example, of aorist and perfect, seems to fade away; but generally speaking, Athanasius is fully sensitive to this and other points of grammar."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The incorporation in this volume of so much of the ample patristic learning of Cardinal Newman has inevitably involved some sacrifice of uniformity. To provide the new matter with illustrative notes on anything like the same scale, even had it been within the present editor’s power, would have involved the crowding out of many works which the reader will certainly prefer to have before him. Again, many opinions are expressed by Cardinal Newman which the present editor is unable to accept. It may not be invidious to specify as an example the many cases in which the notes enforce views of Church authority, especially of papal authority, or again of the justifiableness of religious persecution, which appear to be at any rate foreign to the mind of Athanasius; or the tacit assumption that the men of the fourth century can be divided by a broad and fast line into orthodox and heretical, and that while everything may be believed to the discredit of the latter, the former were at once uniform in their convictions and consistently right in practice. Such an assumption operates with special injustice against men like Eusebius, whose position does not fall in with so summary a classification. But it has been thought better to leave the notes in nearly all such cases as they stand, only very rarely inserting a reference or observation to call attention to another aspect of the case. And in no instance has the editor forgotten the respect due to the theological learning and personal greatness of Cardinal Newman, or to his peculiar eminence as a religious thinker."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "But this has made it inevitable that many matters are regarded in one way in the notes of Newman, and in quite another where the present editor speaks for himself. What the great Cardinal says of his ‘Historical Sketches’ (Preface to vol. ii.) holds good to a large extent of his expositions of Athanasius. ‘Though mainly historical, they are in their form and character polemical, as being directed against certain Protestant ideas and opinions.’ The aim of the present editor has been throughout exclusively historical. He has regarded any polemical purpose as foreign to the spirit in which this series was undertaken, and moreover as fated in the long run to defeat its own aim. Whatever results may ultimately be reaped from the field of patristic studies, whether practical, dogmatic, or controversial, they must be resolutely postponed or rather ignored, pending the application of strict method to the criticism and interpretation of the texts, and to the reconstruction of the history whether of the life or of the doctrine of the Church. For the latter purpose, ‘lucifera experimenta, non fructifera quærenda.’ To follow this method, without concealing, but without obtruding, his personal convictions, has been the endeavour of the present editor. That he has succeeded, it is not for him to claim: but his work has been in this respect disinterested, and he ventures to hope that readers of all opinions will at least recognise in it ‘un livre de bonne foy.’"
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The Prolegomena are not intended to be anything approaching to a complete treatise upon the history, writings, or theology of S. Athanasius. They are simply what their title implies, an attempt to furnish in a connected form a preliminary account of the matters comprised in the text of the volume, such as on the one hand to reduce the necessity for a running historical commentary, on the other hand to prepare the reader for the study of the text itself."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Full indices have been added for the same purpose. The general index comprises the leading theological and historical topics, and a complete register of all personal names. This latter seemed requisite in order to escape the arbitrariness of any line which might have been drawn between important and insignificant characters. The nobodies of history may occasionally be important witnesses. The index of Scripture texts has been made with painful attention to detail, and contains no unverified reference. To draw the line in each case between formal citation and mere reminiscence would have involved too great an expenditure of time and space; moreover there are many probable reminiscences of Scripture language which it would have been endless to include. But on the whole the index in question claims to be a complete synopsis of the use made of the Bible in the text of this volume. As such it is hoped that, with whatever occasional errors, it may be of use to the patristic and the biblical student alike."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "For the original matter comprised in this volume the editor disclaims any credit of his own. He has aimed simply at consulting and comparing the best authorities, at sifting their conclusions, and at following those which seem best founded. That in doing so the original sources are ready to hand throughout is the peculiar good fortune of those who work at Athanasius. It remains, then, for the editor to express his principal obligations to modern writers. To mention those of earlier date, such as Montfaucon and Tillemont, is merely to say that he has not neglected the indispensable foundations of his task. But Athanasius has also attracted to the study of his works much of the best patristic scholarship of recent times. Among the names mentioned in the first chapter of the Prolegomena, that of Cardinal Newman speaks for itself. No English student will neglect his Arians, however much some of its views may require modification. Pre-eminent for accurate knowledge of the texts and for vivid presentment of the history is Dr. Bright, whose works have been constantly open before the present editor, and have secured him from many an oversight. His occasional divergence from Dr. Bright’s views, especially on points of chronology, has gone along with grateful appreciation of this scholar’s genuine historical interest, large theological grasp, and perhaps unequalled personal sympathy with Athanasius as a man and as a writer. (On the use made in this volume of his Later Treatises of S. Athanasius, the reader is referred to what is said, infr. p. 482.)"
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Last, but not least, the editor must acknowledge his obligations to Mr. Gwatkin. To say that that writer’s Studies of Arianism have done more than any one work with which he is acquainted to place the intricate story of the period on a secure historical footing is saying a great deal, but by no means too much. To say that whatever historical accuracy has been attained in this volume has been rendered possible by Mr. Gwatkin’s previous labours is to the present writer a matter of mere honest acknowledgment. Especially this is the case in chronological questions. Here Mr. Gwatkin has in no single instance been blindly followed, or without the attempt to interrogate the sources independently. But in nearly all cases Mr. Gwatkin’s results, which, it should be added, are those accepted by the best continental students also, have held their own. It has been the editor’s misfortune to differ from Mr. Gwatkin now and then, for example with regard to the Life of Antony: but even where he has differed as to conclusions, he has received help and instruction from Mr. Gwatkin’s ample command of material, and genuinely scientific method."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "In addition to the above writers, the manifold obligations of the editor are recorded in the introductions and notes: if any have been passed over, it has been due to inadvertence or to the necessity of condensation. For the suggestions and help of personal friends the editor’s gratitude may be here expressed without the mention of names. But he may specially mention the Rev. H. Ellershaw and Miss Payne Smith, to the former of whom he owes the translation of the Life of Antony, while the latter has kindly revised the Oxford translation of the bulk of the Festal Letters. Lastly, the many kindnesses, and uniform consideration, shewn to him by the English editor of this series call for his warmest recognition: that they may prove not wholly thrown away is the utmost that their recipient can venture to hope."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "A.R."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "The University, Durham, 1891."
+          }
+        ],
+        "idioma": "en"
+      },
+      {
+        "id": "npnf204-4-7",
         "titulo": "Prolegômenos.",
         "children": [
           {
-            "id": "npnf204-4-6-7",
+            "id": "npnf204-4-7-8",
             "titulo": "Capítulo I.",
             "children": [
               {
-                "id": "npnf204-4-6-7-8",
+                "id": "npnf204-4-7-8-9",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -50,7 +101,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-7-9",
+                "id": "npnf204-4-7-8-10",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -61,7 +112,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-7-10",
+                "id": "npnf204-4-7-8-11",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -80,7 +131,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-7-11",
+                "id": "npnf204-4-7-8-12",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -99,7 +150,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-7-12",
+                "id": "npnf204-4-7-8-13",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -110,7 +161,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-7-13",
+                "id": "npnf204-4-7-8-14",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -131,11 +182,11 @@
             ]
           },
           {
-            "id": "npnf204-4-6-14",
+            "id": "npnf204-4-7-15",
             "titulo": "Capítulo II.",
             "children": [
               {
-                "id": "npnf204-4-6-14-15",
+                "id": "npnf204-4-7-15-16",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -262,7 +313,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-14-16",
+                "id": "npnf204-4-7-15-17",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -301,7 +352,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-14-17",
+                "id": "npnf204-4-7-15-18",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -348,7 +399,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-14-18",
+                "id": "npnf204-4-7-15-19",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -571,7 +622,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-14-19",
+                "id": "npnf204-4-7-15-20",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -622,7 +673,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-14-20",
+                "id": "npnf204-4-7-15-21",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -661,7 +712,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-14-21",
+                "id": "npnf204-4-7-15-22",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -760,7 +811,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-14-22",
+                "id": "npnf204-4-7-15-23",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -811,7 +862,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-14-23",
+                "id": "npnf204-4-7-15-24",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -890,7 +941,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-14-24",
+                "id": "npnf204-4-7-15-25",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -953,7 +1004,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-14-25",
+                "id": "npnf204-4-7-15-26",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -1006,11 +1057,11 @@
             ]
           },
           {
-            "id": "npnf204-4-6-26",
+            "id": "npnf204-4-7-27",
             "titulo": "Capítulo III.",
             "children": [
               {
-                "id": "npnf204-4-6-26-27",
+                "id": "npnf204-4-7-27-28",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -1141,7 +1192,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-26-28",
+                "id": "npnf204-4-7-27-29",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -1156,7 +1207,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-26-29",
+                "id": "npnf204-4-7-27-30",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -1197,11 +1248,11 @@
             ]
           },
           {
-            "id": "npnf204-4-6-30",
+            "id": "npnf204-4-7-31",
             "titulo": "Capítulo IV.",
             "children": [
               {
-                "id": "npnf204-4-6-30-31",
+                "id": "npnf204-4-7-31-32",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -1232,7 +1283,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-30-32",
+                "id": "npnf204-4-7-31-33",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -1283,7 +1334,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-30-33",
+                "id": "npnf204-4-7-31-34",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -1302,7 +1353,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-30-34",
+                "id": "npnf204-4-7-31-35",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -1353,7 +1404,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-30-35",
+                "id": "npnf204-4-7-31-36",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -1392,7 +1443,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-30-36",
+                "id": "npnf204-4-7-31-37",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -1425,11 +1476,11 @@
             ]
           },
           {
-            "id": "npnf204-4-6-37",
+            "id": "npnf204-4-7-38",
             "titulo": "Capítulo V.",
             "children": [
               {
-                "id": "npnf204-4-6-37-38",
+                "id": "npnf204-4-7-38-39",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -1456,7 +1507,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-37-39",
+                "id": "npnf204-4-7-38-40",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -1471,7 +1522,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-37-40",
+                "id": "npnf204-4-7-38-41",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -1528,7 +1579,7 @@
             ]
           },
           {
-            "id": "npnf204-4-6-41",
+            "id": "npnf204-4-7-42",
             "titulo": "I. Tabela Cronológica Geral da Vida de S. Atanásio.",
             "conteudo": [
               {
@@ -2067,7 +2118,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-6-42",
+            "id": "npnf204-4-7-43",
             "titulo": "II. Mesa Sinóptica dos Bispos das Sés Maiores.",
             "conteudo": [
               {
@@ -2486,7 +2537,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-6-43",
+            "id": "npnf204-4-7-44",
             "titulo": "Apêndice.",
             "conteudo": [
               {
@@ -2673,7 +2724,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-6-44",
+            "id": "npnf204-4-7-45",
             "titulo": "Introdução ao Tratado Contra Gentes",
             "conteudo": [
               {
@@ -2880,11 +2931,11 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-6-45",
-            "titulo": "Contra os pagãos.",
+            "id": "npnf204-4-7-46",
+            "titulo": "Contra os pagos.",
             "children": [
               {
-                "id": "npnf204-4-6-45-46",
+                "id": "npnf204-4-7-46-47",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -2899,7 +2950,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-47",
+                "id": "npnf204-4-7-46-48",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -2914,7 +2965,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-48",
+                "id": "npnf204-4-7-46-49",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -2929,7 +2980,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-49",
+                "id": "npnf204-4-7-46-50",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -2944,7 +2995,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-50",
+                "id": "npnf204-4-7-46-51",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -2959,7 +3010,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-51",
+                "id": "npnf204-4-7-46-52",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -2974,7 +3025,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-52",
+                "id": "npnf204-4-7-46-53",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -2989,7 +3040,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-53",
+                "id": "npnf204-4-7-46-54",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3004,7 +3055,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-54",
+                "id": "npnf204-4-7-46-55",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3019,7 +3070,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-55",
+                "id": "npnf204-4-7-46-56",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3034,7 +3085,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-56",
+                "id": "npnf204-4-7-46-57",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3049,7 +3100,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-57",
+                "id": "npnf204-4-7-46-58",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3064,7 +3115,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-58",
+                "id": "npnf204-4-7-46-59",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3079,7 +3130,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-59",
+                "id": "npnf204-4-7-46-60",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3094,7 +3145,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-60",
+                "id": "npnf204-4-7-46-61",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3109,7 +3160,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-61",
+                "id": "npnf204-4-7-46-62",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3124,7 +3175,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-62",
+                "id": "npnf204-4-7-46-63",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3139,7 +3190,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-63",
+                "id": "npnf204-4-7-46-64",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3154,7 +3205,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-64",
+                "id": "npnf204-4-7-46-65",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3169,7 +3220,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-65",
+                "id": "npnf204-4-7-46-66",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3184,7 +3235,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-66",
+                "id": "npnf204-4-7-46-67",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3199,7 +3250,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-67",
+                "id": "npnf204-4-7-46-68",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3214,7 +3265,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-68",
+                "id": "npnf204-4-7-46-69",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3229,7 +3280,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-69",
+                "id": "npnf204-4-7-46-70",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3244,7 +3295,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-70",
+                "id": "npnf204-4-7-46-71",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3271,7 +3322,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-71",
+                "id": "npnf204-4-7-46-72",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3286,7 +3337,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-72",
+                "id": "npnf204-4-7-46-73",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3301,7 +3352,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-73",
+                "id": "npnf204-4-7-46-74",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3316,7 +3367,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-6-45-74",
+                "id": "npnf204-4-7-46-75",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -3335,11 +3386,11 @@
         ]
       },
       {
-        "id": "npnf204-4-75",
+        "id": "npnf204-4-76",
         "titulo": "Parte II.",
         "children": [
           {
-            "id": "npnf204-4-75-76",
+            "id": "npnf204-4-76-77",
             "titulo": "—",
             "conteudo": [
               {
@@ -3354,7 +3405,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-75-77",
+            "id": "npnf204-4-76-78",
             "titulo": "—",
             "conteudo": [
               {
@@ -3369,7 +3420,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-75-78",
+            "id": "npnf204-4-76-79",
             "titulo": "—",
             "conteudo": [
               {
@@ -3384,7 +3435,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-75-79",
+            "id": "npnf204-4-76-80",
             "titulo": "—",
             "conteudo": [
               {
@@ -3399,7 +3450,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-75-80",
+            "id": "npnf204-4-76-81",
             "titulo": "—",
             "conteudo": [
               {
@@ -3416,11 +3467,11 @@
         ]
       },
       {
-        "id": "npnf204-4-81",
+        "id": "npnf204-4-82",
         "titulo": "Parte III.",
         "children": [
           {
-            "id": "npnf204-4-81-82",
+            "id": "npnf204-4-82-83",
             "titulo": "—",
             "conteudo": [
               {
@@ -3435,7 +3486,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-81-83",
+            "id": "npnf204-4-82-84",
             "titulo": "—",
             "conteudo": [
               {
@@ -3450,7 +3501,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-81-84",
+            "id": "npnf204-4-82-85",
             "titulo": "—",
             "conteudo": [
               {
@@ -3465,7 +3516,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-81-85",
+            "id": "npnf204-4-82-86",
             "titulo": "—",
             "conteudo": [
               {
@@ -3480,7 +3531,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-81-86",
+            "id": "npnf204-4-82-87",
             "titulo": "—",
             "conteudo": [
               {
@@ -3495,7 +3546,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-81-87",
+            "id": "npnf204-4-82-88",
             "titulo": "—",
             "conteudo": [
               {
@@ -3510,7 +3561,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-81-88",
+            "id": "npnf204-4-82-89",
             "titulo": "—",
             "conteudo": [
               {
@@ -3525,7 +3576,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-81-89",
+            "id": "npnf204-4-82-90",
             "titulo": "—",
             "conteudo": [
               {
@@ -3540,7 +3591,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-81-90",
+            "id": "npnf204-4-82-91",
             "titulo": "—",
             "conteudo": [
               {
@@ -3555,7 +3606,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-81-91",
+            "id": "npnf204-4-82-92",
             "titulo": "—",
             "conteudo": [
               {
@@ -3570,7 +3621,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-81-92",
+            "id": "npnf204-4-82-93",
             "titulo": "—",
             "conteudo": [
               {
@@ -3585,7 +3636,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-81-93",
+            "id": "npnf204-4-82-94",
             "titulo": "—",
             "conteudo": [
               {
@@ -3600,7 +3651,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-81-94",
+            "id": "npnf204-4-82-95",
             "titulo": "—",
             "conteudo": [
               {
@@ -3617,7 +3668,7 @@
         ]
       },
       {
-        "id": "npnf204-4-95",
+        "id": "npnf204-4-96",
         "titulo": "Introdução ao Tratado sobre a Encarnação do Verbo.",
         "conteudo": [
           {
@@ -3888,11 +3939,11 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-96",
+        "id": "npnf204-4-97",
         "titulo": "Sobre a Encarnação do Verbo.",
         "children": [
           {
-            "id": "npnf204-4-96-97",
+            "id": "npnf204-4-97-98",
             "titulo": "—",
             "conteudo": [
               {
@@ -3907,7 +3958,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-98",
+            "id": "npnf204-4-97-99",
             "titulo": "—",
             "conteudo": [
               {
@@ -3926,7 +3977,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-99",
+            "id": "npnf204-4-97-100",
             "titulo": "—",
             "conteudo": [
               {
@@ -3941,7 +3992,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-100",
+            "id": "npnf204-4-97-101",
             "titulo": "—",
             "conteudo": [
               {
@@ -3956,7 +4007,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-101",
+            "id": "npnf204-4-97-102",
             "titulo": "—",
             "conteudo": [
               {
@@ -3971,7 +4022,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-102",
+            "id": "npnf204-4-97-103",
             "titulo": "—",
             "conteudo": [
               {
@@ -3990,7 +4041,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-103",
+            "id": "npnf204-4-97-104",
             "titulo": "—",
             "conteudo": [
               {
@@ -4005,7 +4056,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-104",
+            "id": "npnf204-4-97-105",
             "titulo": "—",
             "conteudo": [
               {
@@ -4020,7 +4071,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-105",
+            "id": "npnf204-4-97-106",
             "titulo": "—",
             "conteudo": [
               {
@@ -4035,7 +4086,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-106",
+            "id": "npnf204-4-97-107",
             "titulo": "—",
             "conteudo": [
               {
@@ -4050,7 +4101,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-107",
+            "id": "npnf204-4-97-108",
             "titulo": "—",
             "conteudo": [
               {
@@ -4065,7 +4116,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-108",
+            "id": "npnf204-4-97-109",
             "titulo": "—",
             "conteudo": [
               {
@@ -4080,7 +4131,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-109",
+            "id": "npnf204-4-97-110",
             "titulo": "—",
             "conteudo": [
               {
@@ -4095,7 +4146,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-110",
+            "id": "npnf204-4-97-111",
             "titulo": "—",
             "conteudo": [
               {
@@ -4110,7 +4161,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-111",
+            "id": "npnf204-4-97-112",
             "titulo": "—",
             "conteudo": [
               {
@@ -4145,7 +4196,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-112",
+            "id": "npnf204-4-97-113",
             "titulo": "—",
             "conteudo": [
               {
@@ -4160,7 +4211,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-113",
+            "id": "npnf204-4-97-114",
             "titulo": "—",
             "conteudo": [
               {
@@ -4175,7 +4226,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-114",
+            "id": "npnf204-4-97-115",
             "titulo": "—",
             "conteudo": [
               {
@@ -4190,7 +4241,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-115",
+            "id": "npnf204-4-97-116",
             "titulo": "—",
             "conteudo": [
               {
@@ -4205,7 +4256,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-116",
+            "id": "npnf204-4-97-117",
             "titulo": "—",
             "conteudo": [
               {
@@ -4220,7 +4271,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-117",
+            "id": "npnf204-4-97-118",
             "titulo": "—",
             "conteudo": [
               {
@@ -4235,7 +4286,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-118",
+            "id": "npnf204-4-97-119",
             "titulo": "—",
             "conteudo": [
               {
@@ -4250,7 +4301,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-119",
+            "id": "npnf204-4-97-120",
             "titulo": "—",
             "conteudo": [
               {
@@ -4265,7 +4316,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-120",
+            "id": "npnf204-4-97-121",
             "titulo": "—",
             "conteudo": [
               {
@@ -4280,7 +4331,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-121",
+            "id": "npnf204-4-97-122",
             "titulo": "—",
             "conteudo": [
               {
@@ -4295,7 +4346,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-122",
+            "id": "npnf204-4-97-123",
             "titulo": "—",
             "conteudo": [
               {
@@ -4310,7 +4361,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-123",
+            "id": "npnf204-4-97-124",
             "titulo": "—",
             "conteudo": [
               {
@@ -4325,7 +4376,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-124",
+            "id": "npnf204-4-97-125",
             "titulo": "—",
             "conteudo": [
               {
@@ -4340,7 +4391,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-125",
+            "id": "npnf204-4-97-126",
             "titulo": "—",
             "conteudo": [
               {
@@ -4355,7 +4406,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-126",
+            "id": "npnf204-4-97-127",
             "titulo": "—",
             "conteudo": [
               {
@@ -4370,7 +4421,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-127",
+            "id": "npnf204-4-97-128",
             "titulo": "—",
             "conteudo": [
               {
@@ -4385,7 +4436,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-128",
+            "id": "npnf204-4-97-129",
             "titulo": "—",
             "conteudo": [
               {
@@ -4400,7 +4451,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-129",
+            "id": "npnf204-4-97-130",
             "titulo": "—",
             "conteudo": [
               {
@@ -4415,7 +4466,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-130",
+            "id": "npnf204-4-97-131",
             "titulo": "—",
             "conteudo": [
               {
@@ -4430,7 +4481,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-131",
+            "id": "npnf204-4-97-132",
             "titulo": "—",
             "conteudo": [
               {
@@ -4445,7 +4496,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-132",
+            "id": "npnf204-4-97-133",
             "titulo": "—",
             "conteudo": [
               {
@@ -4460,7 +4511,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-133",
+            "id": "npnf204-4-97-134",
             "titulo": "—",
             "conteudo": [
               {
@@ -4475,7 +4526,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-134",
+            "id": "npnf204-4-97-135",
             "titulo": "—",
             "conteudo": [
               {
@@ -4490,7 +4541,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-135",
+            "id": "npnf204-4-97-136",
             "titulo": "—",
             "conteudo": [
               {
@@ -4505,7 +4556,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-136",
+            "id": "npnf204-4-97-137",
             "titulo": "—",
             "conteudo": [
               {
@@ -4520,7 +4571,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-137",
+            "id": "npnf204-4-97-138",
             "titulo": "—",
             "conteudo": [
               {
@@ -4535,7 +4586,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-138",
+            "id": "npnf204-4-97-139",
             "titulo": "—",
             "conteudo": [
               {
@@ -4550,7 +4601,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-139",
+            "id": "npnf204-4-97-140",
             "titulo": "—",
             "conteudo": [
               {
@@ -4565,7 +4616,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-140",
+            "id": "npnf204-4-97-141",
             "titulo": "—",
             "conteudo": [
               {
@@ -4580,7 +4631,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-141",
+            "id": "npnf204-4-97-142",
             "titulo": "—",
             "conteudo": [
               {
@@ -4595,7 +4646,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-142",
+            "id": "npnf204-4-97-143",
             "titulo": "—",
             "conteudo": [
               {
@@ -4610,7 +4661,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-143",
+            "id": "npnf204-4-97-144",
             "titulo": "—",
             "conteudo": [
               {
@@ -4625,7 +4676,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-144",
+            "id": "npnf204-4-97-145",
             "titulo": "—",
             "conteudo": [
               {
@@ -4640,7 +4691,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-145",
+            "id": "npnf204-4-97-146",
             "titulo": "—",
             "conteudo": [
               {
@@ -4655,7 +4706,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-146",
+            "id": "npnf204-4-97-147",
             "titulo": "—",
             "conteudo": [
               {
@@ -4670,7 +4721,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-147",
+            "id": "npnf204-4-97-148",
             "titulo": "—",
             "conteudo": [
               {
@@ -4685,7 +4736,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-148",
+            "id": "npnf204-4-97-149",
             "titulo": "—",
             "conteudo": [
               {
@@ -4700,7 +4751,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-149",
+            "id": "npnf204-4-97-150",
             "titulo": "—",
             "conteudo": [
               {
@@ -4715,7 +4766,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-150",
+            "id": "npnf204-4-97-151",
             "titulo": "—",
             "conteudo": [
               {
@@ -4730,7 +4781,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-151",
+            "id": "npnf204-4-97-152",
             "titulo": "—",
             "conteudo": [
               {
@@ -4745,7 +4796,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-152",
+            "id": "npnf204-4-97-153",
             "titulo": "—",
             "conteudo": [
               {
@@ -4760,7 +4811,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-96-153",
+            "id": "npnf204-4-97-154",
             "titulo": "—",
             "conteudo": [
               {
@@ -4777,7 +4828,7 @@
         ]
       },
       {
-        "id": "npnf204-4-154",
+        "id": "npnf204-4-155",
         "titulo": "Depósito Arii.",
         "conteudo": [
           {
@@ -4796,7 +4847,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-155",
+        "id": "npnf204-4-156",
         "titulo": "Deposição de Ário.",
         "conteudo": [
           {
@@ -5183,7 +5234,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-156",
+        "id": "npnf204-4-157",
         "titulo": "Epistola Eusébio.",
         "conteudo": [
           {
@@ -5198,8 +5249,8 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-157",
-        "titulo": "Concílio de Nicéia.",
+        "id": "npnf204-4-158",
+        "titulo": "Concílio de Niceia.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5277,8 +5328,8 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-158",
-        "titulo": "Excursão427 A.",
+        "id": "npnf204-4-159",
+        "titulo": "Compreende427 A.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5408,8 +5459,8 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-159",
-        "titulo": "Introdução à Expositio Fidei.",
+        "id": "npnf204-4-160",
+        "titulo": "Introdução à Exposição Fidei.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -5427,7 +5478,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-160",
+        "id": "npnf204-4-161",
         "titulo": "Declaração de Fé.",
         "conteudo": [
           {
@@ -5450,7 +5501,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-161",
+        "id": "npnf204-4-162",
         "titulo": "Introdução ao In Illud ‘Omnia’, etc.",
         "conteudo": [
           {
@@ -5469,11 +5520,11 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-162",
+        "id": "npnf204-4-163",
         "titulo": "Em Lucas X. 22 (Mat. XI. 27).",
         "children": [
           {
-            "id": "npnf204-4-162-163",
+            "id": "npnf204-4-163-164",
             "titulo": "—",
             "conteudo": [
               {
@@ -5492,7 +5543,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-162-164",
+            "id": "npnf204-4-163-165",
             "titulo": "—",
             "conteudo": [
               {
@@ -5507,7 +5558,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-162-165",
+            "id": "npnf204-4-163-166",
             "titulo": "—",
             "conteudo": [
               {
@@ -5522,7 +5573,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-162-166",
+            "id": "npnf204-4-163-167",
             "titulo": "—",
             "conteudo": [
               {
@@ -5537,7 +5588,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-162-167",
+            "id": "npnf204-4-163-168",
             "titulo": "—",
             "conteudo": [
               {
@@ -5552,7 +5603,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-162-168",
+            "id": "npnf204-4-163-169",
             "titulo": "—",
             "conteudo": [
               {
@@ -5569,7 +5620,7 @@
         ]
       },
       {
-        "id": "npnf204-4-169",
+        "id": "npnf204-4-170",
         "titulo": "Introdução à Epístola Encíclica aos Bispos de todo o mundo.",
         "conteudo": [
           {
@@ -5580,11 +5631,11 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-170",
+        "id": "npnf204-4-171",
         "titulo": "Carta Circular.",
         "children": [
           {
-            "id": "npnf204-4-170-171",
+            "id": "npnf204-4-171-172",
             "titulo": "—",
             "conteudo": [
               {
@@ -5599,7 +5650,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-170-172",
+            "id": "npnf204-4-171-173",
             "titulo": "—",
             "conteudo": [
               {
@@ -5618,7 +5669,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-170-173",
+            "id": "npnf204-4-171-174",
             "titulo": "—",
             "conteudo": [
               {
@@ -5637,7 +5688,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-170-174",
+            "id": "npnf204-4-171-175",
             "titulo": "—",
             "conteudo": [
               {
@@ -5652,7 +5703,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-170-175",
+            "id": "npnf204-4-171-176",
             "titulo": "—",
             "conteudo": [
               {
@@ -5671,7 +5722,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-170-176",
+            "id": "npnf204-4-171-177",
             "titulo": "—",
             "conteudo": [
               {
@@ -5686,7 +5737,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-170-177",
+            "id": "npnf204-4-171-178",
             "titulo": "—",
             "conteudo": [
               {
@@ -5711,7 +5762,7 @@
         ]
       },
       {
-        "id": "npnf204-4-178",
+        "id": "npnf204-4-179",
         "titulo": "Introdução à Apologia Contra Arianos.",
         "conteudo": [
           {
@@ -5918,11 +5969,11 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-179",
+        "id": "npnf204-4-180",
         "titulo": "Defesa contra os arianos.",
         "children": [
           {
-            "id": "npnf204-4-179-180",
+            "id": "npnf204-4-180-181",
             "titulo": "—",
             "conteudo": [
               {
@@ -6085,7 +6136,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-179-181",
+            "id": "npnf204-4-180-182",
             "titulo": "Capítulo II. — Carta de Júlio aos Eusébios em Antioquia.",
             "conteudo": [
               {
@@ -6208,7 +6259,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-179-182",
+            "id": "npnf204-4-180-183",
             "titulo": "Capítulo III.—Cartas do Concílio de Sardica às Igrejas do Egito e de Alexandria, e a todas as Igrejas.",
             "conteudo": [
               {
@@ -6391,7 +6442,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-179-183",
+            "id": "npnf204-4-180-184",
             "titulo": "Capítulo IV.—Atos Imperiais e Eclesiásticos em Consequência da Decisão do Concílio de Sardica.",
             "conteudo": [
               {
@@ -6524,11 +6575,11 @@
         ]
       },
       {
-        "id": "npnf204-4-184",
+        "id": "npnf204-4-185",
         "titulo": "Parte II.",
         "children": [
           {
-            "id": "npnf204-4-184-185",
+            "id": "npnf204-4-185-186",
             "titulo": "Capítulo V. — Documentos relacionados com as acusações dos Meletianos contra S. Atanásio.",
             "conteudo": [
               {
@@ -6679,7 +6730,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-184-186",
+            "id": "npnf204-4-185-187",
             "titulo": "Capítulo VI.—Documentos relacionados com o Concílio de Tiro.",
             "conteudo": [
               {
@@ -6944,7 +6995,7 @@
         ]
       },
       {
-        "id": "npnf204-4-187",
+        "id": "npnf204-4-188",
         "titulo": "Nota adicional sobre Apol. C. Arianos, §50.",
         "conteudo": [
           {
@@ -6967,8 +7018,8 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-188",
-        "titulo": "Introdução ao de Decretis ou Defesa da Definição Nicena.",
+        "id": "npnf204-4-189",
+        "titulo": "Introdução ao Decretis ou Defesa da Definição Nicena.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -6994,12 +7045,12 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-189",
+        "id": "npnf204-4-190",
         "titulo": "De Decretis ou Defesa da Definição Nicena",
         "children": [
           {
-            "id": "npnf204-4-189-190",
-            "titulo": "Capítulo I.—Introdução. A denúncia dos arianos contra o Concílio de Nicéia; sua inconstância; eles são como judeus; seu emprego da força em vez da razão.",
+            "id": "npnf204-4-190-191",
+            "titulo": "Capítulo I.—Introdução. A denúncia dos arianos contra o Concílio de Nicéia; sua inconstância; eles são como judeus; seu trabalho da força em vez da razão.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7017,8 +7068,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-189-191",
-            "titulo": "Capítulo II.—Conduta dos Arianos perante o Concílio Niceno. Ignorante e também irreligioso na tentativa de reverter um Concílio Ecumênico: procedimentos em Nicæa: os eusébios então assinaram o que agora reclamam: sobre a unanimidade dos verdadeiros professores e o processo da tradição: mudanças dos arianos.",
+            "id": "npnf204-4-190-192",
+            "titulo": "Capítulo II.—Conduta dos Arianos perante o Concílio Niceno. Ignorante e também irreligioso na tentativa de reverter um Concílio Ecumênico: procedimentos em Nicæa: os eusébios então revisaram o que agora reclamam: sobre a unanimidade dos verdadeiros professores e o processo da tradição: mudanças dos arianos.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7040,8 +7091,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-189-192",
-            "titulo": "Capítulo III.—Dois sentidos da palavra Filho, 1. adotivo; 2. essencial; tentativas dos arianos de encontrar um terceiro significado entre estes; por exemplo que somente nosso Senhor foi criado imediatamente por Deus (visão de Asterius), ou que somente nosso Senhor participa do Pai. O segundo e verdadeiro sentido; Deus gera como Ele faz, na verdade; embora Sua criação e geração não sejam como as do homem; Sua geração independente do tempo; a geração implica um ato interno e, portanto, eterno em Deus; explicação de Prov. viii. 22.",
+            "id": "npnf204-4-190-193",
+            "titulo": "Capítulo III.—Dois sentidos da palavra Filho, 1. adotivo; 2. essencial; Esforço dos arianos de encontrar um terceiro significado entre estes; por exemplo que somente nosso Senhor foi criado imediatamente por Deus (visão de Asterius), ou que somente nosso Senhor participa do Pai. O segundo é verdadeiro sentido; Deus gera como Ele faz, na verdade; embora Sua criação e geração não sejam como as do homem; Sua geração independente do tempo; a geração implica um ato interno e, portanto, eterno em Deus; explicação de Prov. viii. 22.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7103,8 +7154,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-189-193",
-            "titulo": "Capítulo IV. — Prova do sentido católico da palavra filho. Poder, Palavra ou Razão e Sabedoria, os nomes do Filho, implicam eternidade; bem como o título de Fonte do Pai. Os arianos respondem que estes não pertencem formalmente à essência do Filho, mas são nomes dados a Ele; que Deus tem muitas palavras, poderes, U+0026c. Por que existe apenas um Filho e uma Palavra, U+0026c. Todos os títulos do Filho coincidem Nele.",
+            "id": "npnf204-4-190-194",
+            "titulo": "Capítulo IV. — Prova do sentido católico da palavra filho. Poder, Palavra ou Razão e Sabedoria, os nomes do Filho, implicam eternidade; bem como o título de Fonte do Pai. Os arianos responderam que estes não pertencem formalmente à essência do Filho, mas são nomes dados a Ele; que Deus tem muitas palavras, poderes, U+0026c. Por que existe apenas um Filho e uma Palavra, U+0026c. Todos os títulos do Filho coincidem com Nele.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7122,8 +7173,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-189-194",
-            "titulo": "Capítulo V. — Defesa das Frases do Concílio, “da essência” e “um em essência”. Objeção de que as frases não são bíblicas; devemos olhar mais para o sentido do que para o texto; evasão dos arianos quanto à frase “de Deus” que está nas Escrituras; sua evasão a todas as explicações, exceto aquelas que o Concílio selecionou, que pretendiam negar as fórmulas arianas; protestar contra a transmissão de qualquer sentido material.",
+            "id": "npnf204-4-190-195",
+            "titulo": "Capítulo V. — Defesa das Frases do Concílio, “da essência” e “um em essência”. Objeção de que as frases não são bíblicas; devemos olhar mais para o sentido do que para o texto; evasão dos arianos quanto à frase “de Deus” que está nas Escrituras; sua evasão a todas as explicações, exceto aquelas que o Concílio selecionou, que propuseram negar as fórmulas arianas; protestar contra a transmissão de qualquer sentido material.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7161,7 +7212,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-189-195",
+            "id": "npnf204-4-190-196",
             "titulo": "Capítulo VI.—Autoridades de Apoio ao Conselho. Teognosto; Dionísio de Alexandria; Dionísio de Roma; Orígenes.",
             "conteudo": [
               {
@@ -7212,8 +7263,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-189-196",
-            "titulo": "Capítulo VII. — Sobre o símbolo ariano “não originado”. Este termo foi posteriormente adotado por eles; e por quê; três sentidos disso. Um quarto sentido. Não originado denota Deus em contraste com Suas criaturas, não com Seu Filho; Em vez disso, crie o título bíblico; Conclusão.",
+            "id": "npnf204-4-190-197",
+            "titulo": "Capítulo VII. — Sobre o símbolo ariano “não originado”. Este termo foi divulgado posteriormente por eles; e por quê; três sentidos disso. Um quarto sentido. Não originado denota Deus em contraste com Suas criaturas, não com Seu Filho; Em vez disso, grite o título bíblico; Conclusão.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -7241,7 +7292,7 @@
         ]
       },
       {
-        "id": "npnf204-4-197",
+        "id": "npnf204-4-198",
         "titulo": "Introdução ao de Sententia Dionysii.",
         "conteudo": [
           {
@@ -7280,7 +7331,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-198",
+        "id": "npnf204-4-199",
         "titulo": "Sobre a opinião de Dionísio.",
         "conteudo": [
           {
@@ -7507,7 +7558,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-199",
+        "id": "npnf204-4-200",
         "titulo": "Introdução à Vita S. Antoni.",
         "conteudo": [
           {
@@ -7650,7 +7701,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-200",
+        "id": "npnf204-4-201",
         "titulo": "Vida de Antônio.",
         "conteudo": [
           {
@@ -7849,7 +7900,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-201",
+        "id": "npnf204-4-202",
         "titulo": "Vida de Antônio.",
         "conteudo": [
           {
@@ -8248,7 +8299,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-202",
+        "id": "npnf204-4-203",
         "titulo": "Introdução à Ad Episcopos Ægypti Et Libyæ Epistola Encycla.",
         "conteudo": [
           {
@@ -8275,16 +8326,16 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-203",
+        "id": "npnf204-4-204",
         "titulo": "Aos Bispos do Egito.",
         "children": [
           {
-            "id": "npnf204-4-203-204",
+            "id": "npnf204-4-204-205",
             "titulo": "Capítulo I.",
             "children": [
               {
-                "id": "npnf204-4-203-204-205",
-                "titulo": "1. Cristo advertiu Seus seguidores contra os falsos profetas.",
+                "id": "npnf204-4-204-205-206",
+                "titulo": "1. Cristo anuncia seus seguidores contra os falsos profetas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8294,7 +8345,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-204-206",
+                "id": "npnf204-4-204-205-207",
                 "titulo": "2. Satanás fingindo ser santo é detectado pelo cristão.",
                 "conteudo": [
                   {
@@ -8305,7 +8356,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-204-207",
+                "id": "npnf204-4-204-205-208",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -8316,7 +8367,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-204-208",
+                "id": "npnf204-4-204-205-209",
                 "titulo": "4. É proveitoso não receber parte das Escrituras e rejeitar parte.",
                 "conteudo": [
                   {
@@ -8327,7 +8378,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-204-209",
+                "id": "npnf204-4-204-205-210",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -8342,7 +8393,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-204-210",
+                "id": "npnf204-4-204-205-211",
                 "titulo": "—",
                 "conteudo": [
                   {
@@ -8353,7 +8404,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-204-211",
+                "id": "npnf204-4-204-205-212",
                 "titulo": "7. O partido de Acácio é realmente ariano.",
                 "conteudo": [
                   {
@@ -8364,8 +8415,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-204-212",
-                "titulo": "8. As palavras são más, embora bíblicas, e procedem de homens maus.",
+                "id": "npnf204-4-204-205-213",
+                "titulo": "8. As palavras são mais, embora bíblicas, e procedem de homens maus.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8375,7 +8426,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-204-213",
+                "id": "npnf204-4-204-205-214",
                 "titulo": "9. Pois tais palavras servem apenas como capa.",
                 "conteudo": [
                   {
@@ -8386,7 +8437,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-204-214",
+                "id": "npnf204-4-204-205-215",
                 "titulo": "10. Eles deveriam primeiro condenar Ário, se quiserem ser ouvidos.",
                 "conteudo": [
                   {
@@ -8397,7 +8448,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-204-215",
+                "id": "npnf204-4-204-205-216",
                 "titulo": "11. Não há lucro em fazer o certo de uma maneira, se fizermos o errado de outra.",
                 "conteudo": [
                   {
@@ -8410,11 +8461,11 @@
             ]
           },
           {
-            "id": "npnf204-4-203-216",
+            "id": "npnf204-4-204-217",
             "titulo": "Capítulo II.",
             "children": [
               {
-                "id": "npnf204-4-203-216-217",
+                "id": "npnf204-4-204-217-218",
                 "titulo": "12. Declarações arianas.",
                 "conteudo": [
                   {
@@ -8425,7 +8476,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-216-218",
+                "id": "npnf204-4-204-217-219",
                 "titulo": "13. Argumentos das Escrituras contra as declarações arianas.",
                 "conteudo": [
                   {
@@ -8436,7 +8487,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-216-219",
+                "id": "npnf204-4-204-217-220",
                 "titulo": "14. Argumentos das Escrituras contra as declarações arianas.",
                 "conteudo": [
                   {
@@ -8447,7 +8498,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-216-220",
+                "id": "npnf204-4-204-217-221",
                 "titulo": "15. Argumentos das Escrituras contra as declarações arianas.",
                 "conteudo": [
                   {
@@ -8458,7 +8509,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-216-221",
+                "id": "npnf204-4-204-217-222",
                 "titulo": "16. Arianos paralelos aos Maniqueístas.",
                 "conteudo": [
                   {
@@ -8469,7 +8520,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-216-222",
+                "id": "npnf204-4-204-217-223",
                 "titulo": "17. Argumentos das Escrituras contra as declarações arianas.",
                 "conteudo": [
                   {
@@ -8480,8 +8531,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-216-223",
-                "titulo": "18. Se os arianos sentissem que estavam certos, falariam abertamente.",
+                "id": "npnf204-4-204-217-224",
+                "titulo": "18. Se os arianos sentiram que estavam certos, falariam abertamente.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8491,7 +8542,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-216-224",
+                "id": "npnf204-4-204-217-225",
                 "titulo": "19. Significado da morte de Ário.",
                 "conteudo": [
                   {
@@ -8502,8 +8553,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-216-225",
-                "titulo": "20. Embora sejam amigos de Ário, em vão suas palavras moderadas.",
+                "id": "npnf204-4-204-217-226",
+                "titulo": "20. Embora sejam amigos de Ário, em suas palavras moderadas.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8513,8 +8564,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-216-226",
-                "titulo": "21. Defender a Fé equivalente ao martírio.",
+                "id": "npnf204-4-204-217-227",
+                "titulo": "21. Defensor a Fé equivalente ao martírio.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -8524,7 +8575,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-216-227",
+                "id": "npnf204-4-204-217-228",
                 "titulo": "22. Coalizão de meletianos sórdidos com arianos insanos.",
                 "conteudo": [
                   {
@@ -8535,7 +8586,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-203-216-228",
+                "id": "npnf204-4-204-217-229",
                 "titulo": "23. Conclusão.",
                 "conteudo": [
                   {
@@ -8550,7 +8601,7 @@
         ]
       },
       {
-        "id": "npnf204-4-229",
+        "id": "npnf204-4-230",
         "titulo": "Introdução à Apologia Ad Constantium.",
         "conteudo": [
           {
@@ -8561,7 +8612,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-230",
+        "id": "npnf204-4-231",
         "titulo": "Defesa diante de Constâncio.",
         "conteudo": [
           {
@@ -8860,7 +8911,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-231",
+        "id": "npnf204-4-232",
         "titulo": "Introdução à Apologia de Fuga.",
         "conteudo": [
           {
@@ -8883,7 +8934,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-232",
+        "id": "npnf204-4-233",
         "titulo": "Defesa de sua fuga.",
         "conteudo": [
           {
@@ -9110,7 +9161,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-233",
+        "id": "npnf204-4-234",
         "titulo": "Introdução à História Arianorum.",
         "conteudo": [
           {
@@ -9405,12 +9456,12 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-234",
+        "id": "npnf204-4-235",
         "titulo": "História dos Arianos.",
         "children": [
           {
-            "id": "npnf204-4-234-235",
-            "titulo": "Part I. Arian Persecution Under Constantine.",
+            "id": "npnf204-4-235-236",
+            "titulo": "Parte I. Perseguição Ariana sob Constantino.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -9484,7 +9535,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-234-236",
+            "id": "npnf204-4-235-237",
             "titulo": "Parte II. Primeira perseguição ariana sob Constâncio.",
             "conteudo": [
               {
@@ -9531,7 +9582,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-234-237",
+            "id": "npnf204-4-235-238",
             "titulo": "Parte III. Restauração dos Católicos no Concílio de Sardica",
             "conteudo": [
               {
@@ -9686,7 +9737,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-234-238",
+            "id": "npnf204-4-235-239",
             "titulo": "Parte IV. Segunda perseguição ariana sob Constâncio",
             "conteudo": [
               {
@@ -9745,7 +9796,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-234-239",
+            "id": "npnf204-4-235-240",
             "titulo": "Parte V. Perseguição e lapso de Libério",
             "conteudo": [
               {
@@ -9804,7 +9855,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-234-240",
+            "id": "npnf204-4-235-241",
             "titulo": "Parte VI. Perseguição e lapso de Hosius",
             "conteudo": [
               {
@@ -9847,7 +9898,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-234-241",
+            "id": "npnf204-4-235-242",
             "titulo": "Parte VII. Perseguição em Alexandria",
             "conteudo": [
               {
@@ -9974,7 +10025,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-234-242",
+            "id": "npnf204-4-235-243",
             "titulo": "Parte VIII.",
             "conteudo": [
               {
@@ -10141,7 +10192,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-234-243",
+            "id": "npnf204-4-235-244",
             "titulo": "Introdução aos Quatro Discursos Contra os Arianos.",
             "conteudo": [
               {
@@ -10264,12 +10315,12 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-234-244",
+            "id": "npnf204-4-235-245",
             "titulo": "Quatro discursos contra os arianos.",
             "children": [
               {
-                "id": "npnf204-4-234-244-245",
-                "titulo": "Capítulo I.—Introdução. Motivo da escrita; certas pessoas indiferentes ao Arianismo; Arianos, não cristãos, porque os sectários sempre levam o nome do seu fundador.",
+                "id": "npnf204-4-235-245-246",
+                "titulo": "Capítulo I.—Introdução. Motivo da escrita; certas pessoas indiferentes ao Arianismo; Arianos, não cristãos, porque os setores sempre levam o nome do seu fundador.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10291,8 +10342,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-234-244-246",
-                "titulo": "Capítulo II. — Extratos da Thalia de Ário. Ário afirma que Deus se tornou Pai, e o Filho nem sempre o foi; o Filho do nada; uma vez que Ele não existia; Ele não existia antes de sua geração; Ele foi criado; nomeou Sabedoria e Palavra segundo os atributos de Deus; feito para que Ele pudesse nos fazer; um dos muitos poderes de Deus; alterável; exaltado na presciência de Deus sobre o que Ele seria; não é muito Deus; mas chamados assim como os outros pela participação; estranho em essência ao Pai; não conhece nem vê o Pai; não conhece a si mesmo.",
+                "id": "npnf204-4-235-245-247",
+                "titulo": "Capítulo II. — Extratos de Thalia de Ário. Ário afirma que Deus se tornou Pai, e o Filho nem sempre o foi; o Filho do nada; uma vez que Ele não existia; Ele não existia antes de sua geração; Ele foi criado; nomeou Sabedoria e Palavra segundo os atributos de Deus; feito para que Ele pudesse nos fazer; um dos muitos poderes de Deus; alterável; exaltado na presciência de Deus sobre o que Ele seria; não é muito Deus; mas chamados assim como os outros pela participação; estranho em essência ao Pai; não conhece nem vê o Pai; não conhece a si mesmo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10314,8 +10365,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-234-244-247",
-                "titulo": "Capítulo III.—A Importância do Assunto. Os arianos afetam a linguagem das Escrituras, mas sua doutrina é nova e também antibíblica. Declaração da doutrina católica de que o Filho é próprio da substância do Pai e eterno. A reafirmação do Arianismo, em contraste, de que Ele é uma criatura com um começo: a controvérsia chega a esta questão, se alguém em quem devemos acreditar como Deus pode sê-lo apenas no nome e é apenas uma criatura. Que pretensão então de ser indiferente na controvérsia? Os arianos dependem do patrocínio do Estado e não ousam confessar os seus princípios.",
+                "id": "npnf204-4-235-245-248",
+                "titulo": "Capítulo III.—A Importância do Assunto. Os arianos afetam a linguagem das Escrituras, mas sua doutrina é nova e também antibíblica. Declaração da doutrina católica de que o Filho é próprio da substância do Pai e eterno. A reafirmação do Arianismo, em contraste, de que Ele é uma criatura com um começo: a controvérsia chega a esta questão, se alguém em quem deve acreditar como Deus pode sê-lo apenas no nome e é apenas uma criatura. Que pretensão então de ser indiferente na controvérsia? Os arianos dependem do patrocínio do Estado e não ousam confessar os seus princípios.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10333,8 +10384,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-234-244-248",
-                "titulo": "Capítulo IV. - Que o Filho é Eterno e Incriado. Esses atributos, sendo os pontos em disputa, são primeiro provados por textos diretos das Escrituras. A respeito do “poder eterno” de Deus em Rom. eu. 20, que é mostrado como significando o Filho. Observações sobre a fórmula ariana, “Uma vez que o Filho não existia”, seus defensores não ousavam falar de “um tempo em que o Filho não existia”.",
+                "id": "npnf204-4-235-245-249",
+                "titulo": "Capítulo IV. - Que o Filho é Eterno e Incriado. Esses atributos, sendo os pontos em disputa, são primeiro provados pelos textos diretos das Escrituras. A respeito do “poder eterno” de Deus em Rom. UE. 20, que é mostrado como significando o Filho. Observações sobre a fórmula ariana, “Uma vez que o Filho não existia”, seus defensores não ousavam falar de “um tempo em que o Filho não existia”.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10352,8 +10403,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-234-244-249",
-                "titulo": "Capítulo V.—Assunto Continuação. A objeção de que a eternidade do Filho o faz coordenar-se com o Pai introduz o assunto de Sua Filiação Divina, como uma segunda prova de Sua eternidade. A palavra Filho é introduzida de forma secundária, mas deve ser entendida em sentido real. Visto que todas as coisas participam do Pai ao participarem do Filho, Ele é toda a participação do Pai, isto é, Ele é o Filho por natureza; pois ser totalmente participado é gerar.",
+                "id": "npnf204-4-235-245-250",
+                "titulo": "Capítulo V.—Assunto Continuação. A objeção de que a eternidade do Filho o faz coordenar-se com o Pai introduz o assunto de Sua Filiação Divina, como uma segunda prova de Sua eternidade. A palavra Filho é introduzida de forma secundária, mas deve ser entendida no sentido real. Visto que todas as coisas participam do Pai ao participarem do Filho, Ele é toda a participação do Pai, isto é, Ele é o Filho por natureza; pois ser totalmente participado é gerar.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10371,8 +10422,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-234-244-250",
-                "titulo": "Capítulo VI.—Assunto Continuação. Terceira prova da eternidade do Filho, viz. de outros títulos indicativos de Sua coessencialidade; como o Criador; Um da Santíssima Trindade; como Sabedoria; como Palavra; como imagem. Se o Filho é uma imagem perfeita do Pai, por que Ele também não é Pai? porque Deus, sendo perfeito, não é a origem de uma raça. Somente o Pai é Pai porque é o Único Pai, somente o Filho é como Filho porque é o Único Filho. Os homens não são realmente pais e realmente filhos, mas sombras do Verdadeiro. O Filho não se torna Pai, porque recebeu do Pai ser imutável e sempre o mesmo.",
+                "id": "npnf204-4-235-245-251",
+                "titulo": "Capítulo VI.—Assunto Continuação. Terceira prova da eternidade do Filho, viz. de outros títulos indicativos de Sua coessencialidade; como o Criador; Um da Santíssima Trindade; como Sabedoria; como Palavra; como imagem. Se o Filho é uma imagem perfeita do Pai, por que Ele também não é Pai? porque Deus, sendo perfeito, não é a origem de uma raça. Só o Pai é Pai porque é o Único Pai, somente o Filho é como Filho porque é o Único Filho. Os homens não são realmente pais e realmente filhos, mas sombras do Verdadeiro. O Filho não se torna Pai, porque recebeu do Pai ser imutável e sempre o mesmo.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10402,7 +10453,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-234-244-251",
+                "id": "npnf204-4-235-245-252",
                 "titulo": "Capítulo VII.—Objeções à Prova Anterior. Se, na geração do Filho, Deus fez Aquele que já existia ou Aquele que não existia.",
                 "conteudo": [
                   {
@@ -10429,8 +10480,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-234-244-252",
-                "titulo": "Capítulo VIII. — Continuação das objeções. Se podemos decidir a questão pelo paralelo dos filhos humanos, que nascem depois dos seus pais. Não, pois a força da analogia reside na ideia de conaturalidade. O tempo não está envolvido na ideia de Filho, mas é adventício a ela, e não se liga a Deus, porque Ele não tem partes nem paixões. Os títulos Palavra e Sabedoria protegem nossos pensamentos sobre Ele e Seu Filho desse equívoco. Deus não é Pai, como Criador, em posse desde a eternidade, porque a criação não se relaciona com a essência de Deus, como a geração.",
+                "id": "npnf204-4-235-245-253",
+                "titulo": "Capítulo VIII. — Continuação das objeções. Se pudermos decidir a questão pelo paralelo dos filhos humanos, que nasceram depois dos seus pais. Não, pois a força da analogia reside na ideia de conaturalidade. O tempo não está envolvido na ideia de Filho, mas é adventício a ela, e não se liga a Deus, porque Ele não tem partes nem paixões. Os títulos Palavra e Sabedoria protegem nossos pensamentos sobre Ele e Seu Filho desse equívoco. Deus não é Pai, como Criador, em posse desde a eternidade, porque a criação não se relaciona com a essência de Deus, como a geração.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10452,8 +10503,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-234-244-253",
-                "titulo": "Capítulo IX.—Objeções Continuadas. Se o Não Originado é um ou dois? Inconsistente entre os arianos em usar uma palavra antibíblica; necessário definir seu significado. Diferentes sentidos da palavra. Se significa “sem Pai”, existe apenas Um Não Originado; se ‘sem começo ou criação’, há dois. Inconsistência de Asterius. ‘Não originado’ é um título de Deus, não em contraste com o Filho, mas com as criaturas, como é ‘Todo-Poderoso’ ou ‘Senhor dos poderes’. ‘Pai’ é o título mais verdadeiro, pois não apenas é bíblico, mas implica um Filho e nossa adoção como filhos.",
+                "id": "npnf204-4-235-245-254",
+                "titulo": "Capítulo IX.—Objeções Continuadas. Se o Não Originado é um ou dois? Inconsistente entre os arianos em usar uma palavra antibíblica; necessário definir seu significado. Diferentes sentidos da palavra. Se significa “sem Pai”, existe apenas Um Não Originado; se ‘sem começo ou criação’, há dois. Inconsistência de Asterius. ‘Não originado’ é um título de Deus, não em contraste com o Filho, mas com as criaturas, como é ‘Todo-Poderoso’ ou ‘Senhor dos poderes’. ‘Pai’ é o título mais verdadeiro, pois não é apenas bíblico, mas implica um Filho e nossa adoção como filhos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10479,8 +10530,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-234-244-254",
-                "titulo": "Capítulo X.—Objeções Continuadas. Como a Palavra tem livre arbítrio, mas sem ser alterável. Ele é inalterável porque é a Imagem do Pai, comprovada pelos textos.",
+                "id": "npnf204-4-235-245-255",
+                "titulo": "Capítulo X.—Objeções Continuadas. Como a palavra tem livre arbítrio, mas sem ser alterável. Ele é inalterável porque é a Imagem do Pai, comprovada pelos textos.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10494,7 +10545,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-234-244-255",
+                "id": "npnf204-4-235-245-256",
                 "titulo": "Capítulo XI.",
                 "conteudo": [
                   {
@@ -10541,7 +10592,7 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-234-244-256",
+                "id": "npnf204-4-235-245-257",
                 "titulo": "Capítulo XII.",
                 "conteudo": [
                   {
@@ -10580,8 +10631,8 @@
                 "idioma": "en"
               },
               {
-                "id": "npnf204-4-234-244-257",
-                "titulo": "Capítulo XIII. — Textos explicados; Em terceiro lugar, Hebreus i. 4. Textos adicionais trazidos como impugnações; por exemplo Heb. eu. 4; vii. 22. Se a palavra “melhor” implica semelhança com os Anjos; e ‘feito’ ou ‘tornar-se’ implica criação. É necessário considerar as circunstâncias sob as quais as Escrituras falam. Diferença entre textos ‘melhor’ e ‘maior’; na prova. ‘Feito’ ou ‘tornar-se’ uma palavra geral. Contraste em Heb. eu. 4, entre o Filho e as Obras no que diz respeito à natureza. A diferença das punições sob as duas Alianças mostra a diferença das naturezas do Filho e dos Anjos. ‘Tornar-se’ não se refere à natureza da Palavra, mas à Sua masculinidade, ofício e relação conosco. Passagens paralelas em que o termo é aplicado ao Pai Eterno.",
+                "id": "npnf204-4-235-245-258",
+                "titulo": "Capítulo XIII. — Textos explicados; Em terceiro lugar, Hebreus i. 4. Textos adicionais trazidos como impugnações; por exemplo Heb. UE. 4; vii. 22. Se a palavra “melhor” implica semelhança com os Anjos; e ‘feito’ ou ‘tornar-se’ implica criação. É necessário considerar as situações sob as quais as Escrituras falam. Diferença entre textos ‘melhor’ e ‘maior’; na prova. ‘Feito’ ou ‘tornar-se’ uma palavra geral. Contraste em Heb. UE. 4, entre o Filho e as Obras não que diz respeito à natureza. A diferença das punições sob as duas Alianças mostra a diferença das naturezas do Filho e dos Anjos. ‘Tornar-se’ não se refere à natureza da Palavra, mas à Sua masculinidade, ofício e relação conosco. Passagens paralelas em que o termo é aplicado ao Pai Eterno.",
                 "conteudo": [
                   {
                     "tipo": "paragrafo",
@@ -10657,8 +10708,8 @@
             ]
           },
           {
-            "id": "npnf204-4-234-258",
-            "titulo": "Excursus B. Em §22 (Nota 3).",
+            "id": "npnf204-4-235-259",
+            "titulo": "Excurso B. Em §22 (Nota 3).",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10782,12 +10833,12 @@
         ]
       },
       {
-        "id": "npnf204-4-259",
+        "id": "npnf204-4-260",
         "titulo": "Discurso II.",
         "children": [
           {
-            "id": "npnf204-4-259-260",
-            "titulo": "Capítulo XIV.—Textos explicados; Em quarto lugar, Hebreus iii. 2 Introdução; a Regula Fidei contraria um sentido ariano do texto; que não é apoiado pela palavra ‘servo’, nem por ‘feito’ que ocorre nela; (como pode o Juiz estar entre as ‘obras’ que ‘Deus trará a julgamento?’) nem pelos ‘fiéis’; e é refutado pelo contexto imediato, que é sobre o Sacerdócio; e pela passagem anterior, que explica a palavra “fiel” como significando confiável, como faz 1 Ped. 4. barbatana. e outros textos. No geral, pode-se compreender com segurança a geração divina ou a criação humana.",
+            "id": "npnf204-4-260-261",
+            "titulo": "Capítulo XIV.—Textos explicados; Em quarto lugar, Hebreus iii. 2 Introdução; a Regula Fidei contraria um sentido ariano do texto; que não é apoiado pela palavra ‘servo’, nem por ‘feito’ que ocorre nela; (como pode o Juiz estar entre as ‘obras’ que ‘Deus traz a julgamento?’) nem pelos ‘fiéis’; e é refutado pelo contexto imediato, que é sobre o Sacerdócio; e pela passagem anterior, que explica a palavra “fiel” como significando confiável, como faz 1 Ped. 4. barbatana. e outros textos. No geral, pode-se compreender com segurança a geração divina ou a criação humana.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10837,8 +10888,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-259-261",
-            "titulo": "Capítulo XV.—Textos explicados; Em quinto lugar, Atos ii. 36. A Regula Fidei deve ser observada; made aplica-se à masculinidade de nosso Senhor; e à Sua manifestação; e ao Seu ofício em relação a nós; e é relativo aos judeus. Instância paralela em Gen. xxvii. 29, 37. O contexto contradiz a interpretação ariana.",
+            "id": "npnf204-4-260-262",
+            "titulo": "Capítulo XV.—Textos explicados; Em quinto lugar, Atos ii. 36. A Regula Fidei deve ser observada; made aplica-se à masculinidade do nosso Senhor; e à Sua manifestação; e ao Seu ofício em relação a nós; e é relativo aos judeus. Instância paralela em Gen. 29, 37. O contexto contradiz a interpretação ariana.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10876,8 +10927,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-259-262",
-            "titulo": "Capítulo XVI.—Introdução a Provérbios viii. 22, que o Filho não é uma criatura. Fórmula ariana, uma criatura mas não como uma das criaturas; mas cada criatura é diferente de todas as outras criaturas; e nenhuma criatura pode criar. A Palavra então difere de todas as criaturas porque elas, embora diferindo de outra forma, todas concordam juntas, como criaturas; viz. em ser uma causa eficiente; em ser o único meio ou agente instrumental na criação; além disso, sendo o revelador do Pai; e em ser objeto de adoração.",
+            "id": "npnf204-4-260-263",
+            "titulo": "Capítulo XVI.—Introdução a Provérbios viii. 22, que o Filho não é uma criatura. Fórmula ariana, uma criatura mas não como uma das criaturas; mas cada criatura é diferente de todas as outras criaturas; e nenhuma criatura pode criar. A Palavra então difere de todas as criaturas porque elas, embora diferendo de outra forma, todas concordam juntas, como criaturas; viz. em ser uma causa eficiente; em ser o único meio ou agente instrumental na criação; além disso, sendo o revelador do Pai; e em ser objeto de desejo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -10915,7 +10966,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-259-263",
+            "id": "npnf204-4-260-264",
             "titulo": "Capítulo XVII. — Introdução a Provérbios viii. 22 continuação. Absurdo supor um Filho ou Verbo criado para a criação de outras criaturas; quanto à criação ser incapaz de suportar a mão imediata de Deus, Deus condescende com o mais baixo. Além disso, se o Filho fosse uma criatura, Ele também não poderia suportar a mão de Deus, e uma série infinita de meios seria necessária. Objetou que, assim como Moisés que liderou os israelitas era um homem, nosso Senhor também; mas Moisés não foi o Agente na criação: - novamente, essa unidade é encontrada nas ministrações criadas, mas todas essas ministrações são defeituosas e dependentes: - novamente, que Ele aprendeu a criar, mas poderia a Sabedoria de Deus precisar de ensino? e por que Ele deveria aprender, se o Pai trabalhou até agora? Se o Filho foi criado para nos criar, Ele é por nós, e não nós por Ele.",
             "conteudo": [
               {
@@ -10950,8 +11001,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-259-264",
-            "titulo": "Capítulo XVIII. — Introdução a Provérbios viii. 22 continuação. Contraste entre as operações do Pai imediata e naturalmente no Filho, instrumentalmente pelas criaturas; Termos das Escrituras que ilustram isso. Explicação destas ilustrações; que deve ser interpretado pela doutrina da Igreja; sentido perverso imposto a eles pelos arianos, refutado. Mistério da Geração Divina. Contraste entre a Palavra de Deus e a palavra do homem extensamente desenvolvida. Asterius traiu e prendeu dois Não Originados; sua inconsistência. Batismo tanto pelo Filho como pelo Pai. Sobre o Batismo dos Hereges. Por que Arian é pior que outras heresias.",
+            "id": "npnf204-4-260-265",
+            "titulo": "Capítulo XVIII. — Introdução a Provérbios viii. 22 continuação. Contraste entre as operações do Pai Imediato e naturalmente no Filho, instrumentalmente pelas criaturas; Termos das Escrituras que ilustram isso. Explicação destas ilustrações; que deve ser interpretado pela doutrina da Igreja; sentido perverso imposto a eles pelos arianos, refutado. Mistério da Geração Divina. Contraste entre a Palavra de Deus e a palavra do homem extensamente desenvolvida. Asterius traiu e prendeu dois Não Originados; sua inconsistência. Batismo tanto pelo Filho como pelo Pai. Sobre o Batismo dos Hereges. Por que Arian é pior que outras heresias.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11009,8 +11060,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-259-265",
-            "titulo": "Chapter XIX.—Texts explained; Em sexto lugar, Provérbios viii. 22. Os provérbios são de natureza figurativa e devem ser interpretados como tal. Devemos interpretá-los, e em particular esta passagem, pela Regula Fidei. 'Ele me criou' não equivale a 'Eu sou uma criatura'. A sabedoria é uma criatura tão distante quanto seu corpo humano. Novamente, se Ele é uma criatura, é como 'um começo de caminhos', um ofício que, embora não seja um atributo, é uma consequência de uma natureza superior e divina. E é “para as obras”, o que implica que as obras existiam e, portanto, muito mais que Ele, antes de ser criado. Além disso, “o Senhor”, e não o Pai, “o criou”, o que implica que a criação foi a de um servo.",
+            "id": "npnf204-4-260-266",
+            "titulo": "Capítulo XIX.—Textos explicados; Em sexto lugar, Provérbios viii. 22. Os provérbios são de natureza figurativa e devem ser interpretados como tal. Devemos interpretá-los, e em particular esta passagem, pela Regula Fidei. 'Ele me criou' não equivale a 'Eu sou uma criatura'. A sabedoria é uma criatura tão distante quanto ao seu corpo humano. Novamente, se Ele é uma criatura, é como 'um começo de caminhos', um ofício que, embora não seja um atributo, é uma consequência de uma natureza superior e divina. E é “para as obras”, o que implica que as obras existiam e, portanto, muito mais que Ele, antes de serem criadas. Além disso, “o Senhor”, e não o Pai, “o crioulo”, o que implica que a criação foi a de um servo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11044,7 +11095,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-259-266",
+            "id": "npnf204-4-260-267",
             "titulo": "Capítulo XX.—Textos Explicados; Em sexto lugar, Provérbios viii. 22 Continuação. Diz-se que nosso Senhor foi criado “para as obras”, isto é, com um propósito particular, que nunca foi dito que meras criaturas sejam. Paralelo de Isai. xlix. 5, U+0026c. Quando se fala de Sua masculinidade, acrescenta-se uma razão para isso; não é assim quando Sua Natureza Divina; Textos em prova.",
             "conteudo": [
               {
@@ -11075,8 +11126,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-259-267",
-            "titulo": "Capítulo XXI.—Textos Explicados; Em sexto lugar, Provérbios viii. 22, Continuação. Nosso Senhor não disse nas Escrituras para serem ‘criados’, ou para as obras serem ‘geradas’. ‘No princípio’ significa, no caso das obras, ‘desde o princípio’. Somos feitos primeiro por Deus e gerados em seguida; criaturas por natureza, filhos por graça. Cristo gerado primeiro, feito ou criado depois. Sentido de 'Primogênito dos mortos;' de 'Primogênito entre muitos irmãos'; de 'Primogênito de toda a criação', contrastado com 'Unigênito'. Interpretação adicional de 'início dos caminhos' e 'para as obras'. por que a redenção era necessária. Texts which contrast the Word and the works.",
+            "id": "npnf204-4-260-268",
+            "titulo": "Capítulo XXI.—Textos Explicados; Em sexto lugar, Provérbios viii. 22, Continuação. Nosso Senhor não disse nas Escrituras para serem ‘criados’, ou para as obras serem ‘geradas’. ‘No princípio’ significa, no caso das obras, ‘desde o princípio’. Somos feitos primeiro por Deus e gerados em seguida; criaturas por natureza, filhos por graça. Cristo gerado primeiro, feito ou criado depois. Sentido de 'Primogênito dos mortos;' de 'Primogênito entre muitos irmãos'; de 'Primogênito de toda a criação', contrastado com 'Unigênito'. Interpretação adicional de 'início dos caminhos' e 'para as obras'. por que a redenção era necessária. Textos que contrastam a Palavra e as obras.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11146,8 +11197,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-259-268",
-            "titulo": "Capítulo XXII. — Textos explicados; Em sexto lugar, o Contexto de Provérbios viii. 22 Vz. 22–30 É correto interpretar esta passagem da Regula Fidei. ‘Fundado’ é usado em contraste com superestrutura; e implica, como no caso das pedras na construção, existência anterior. ‘Diante do mundo’ significa a intenção e propósito divino. Recorrência à Prov. viii. 22, e sua aplicação à Sabedoria criada conforme visto nas obras. O Filho revela o Pai, primeiro pelas obras, depois pela Encarnação.",
+            "id": "npnf204-4-260-269",
+            "titulo": "Capítulo XXII. — Textos explicados; Em sexto lugar, o Contexto de Provérbios viii. 22 Vz. 22–30 É correta a interpretação desta passagem da Regulamentação Fidei. ‘Fundado’ é usado em contraste com superestrutura; e implica, como no caso das pedras na construção, existência anterior. ‘Diante do mundo’ significa intenção e propósito divino. Recorrência à Prov. viii. 22, e sua aplicação à Sabedoria criada conforme visto nas obras. O Filho revela o Pai, primeiro pelas obras, depois pela Encarnação.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11199,12 +11250,12 @@
         ]
       },
       {
-        "id": "npnf204-4-269",
+        "id": "npnf204-4-270",
         "titulo": "Discurso III.",
         "children": [
           {
-            "id": "npnf204-4-269-270",
-            "titulo": "Capítulo XXIII. — Textos explicados; Em sétimo lugar, João XIV. 10 Introdução. A doutrina da coincidência. O Pai e o Filho Cada Deus inteiro e perfeito. Eles estão um no outro, porque sua Essência é Uma e a Mesma. Cada um deles é perfeito e tem uma essência, porque a segunda pessoa é o filho da primeira. A explicação evasiva de Asterius sobre o texto em análise; refutado. Visto que o Filho tem tudo o que o Pai tem, Ele é Sua Imagem; e o Pai é o Deus Único, porque o Filho está no Pai.",
+            "id": "npnf204-4-270-271",
+            "titulo": "Capítulo XXIII. — Textos explicados; Em sétimo lugar, João XIV. 10 Introdução. A doutrina da coincidência. O Pai e o Filho Cada Deus inteiro e perfeito. Eles um no outro, porque sua Essência é Uma e a Mesma. Cada um deles é perfeito e tem uma essência, porque a segunda pessoa é o filho da primeira. A explicação evasiva de Asterius sobre o texto em análise; refutado. Visto que o Filho tem tudo o que o Pai tem, Ele é Sua Imagem; e o Pai é o Deus Único, porque o Filho não é Pai.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11234,7 +11285,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-269-271",
+            "id": "npnf204-4-270-272",
             "titulo": "Capítulo XXIV. — Textos explicados; Oitavo, João xvii. 3. e similares. A divindade de Nosso Senhor não pode interferir nas prerrogativas de Seu Pai, como o Deus Único, que foram tão fervorosamente defendidas pelo Filho. ‘Um’ é usado em contraste com falsos deuses e ídolos, não com o Filho, através de quem o Pai falou. Nosso Senhor acrescenta Seu Nome ao do Pai, como incluído Nele. O Pai é o Primeiro, não como se o Filho também não fosse o Primeiro, mas como Origem.",
             "conteudo": [
               {
@@ -11253,8 +11304,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-269-272",
-            "titulo": "Capítulo XXV. — Textos explicados; Em nono lugar, João x. 30; XVII. 11, U+0026c. Explicação ariana, de que o Filho é um com o Pai em vontade e julgamento; mas o mesmo acontece com todos os homens bons, ou melhor, com as coisas inanimadas; contraste do Filho. A unidade entre Eles está na natureza, porque a unidade está em operação. Os anjos não são objetos de oração, porque não trabalham juntos com Deus, mas com o Filho; textos citados. Ver um Anjo, não é ver Deus. Na verdade, os arianos possuem dois deuses e tendem ao politeísmo gentio. A explicação ariana de que o Pai e o Filho são um, assim como nós somos um com Cristo, é posta de lado pela Regula Fidei e considerada inválida pelo uso das Escrituras nas ilustrações; a verdadeira força da comparação; força dos termos usados. Força de ‘em nós;’ força de ‘como;’ confirmada por S. João. Em que sentido estamos “em Deus” e em Seus “filhos”.",
+            "id": "npnf204-4-270-273",
+            "titulo": "Capítulo XXV. — Textos explicados; Em nenhum lugar, João x. 30; XVII. 11, U+0026c. Explicação ariana, de que o Filho é um com o Pai em vontade e julgamento; mas o mesmo acontece com todos os homens bons, ou melhor, com as coisas inanimadas; contraste do Filho. A unidade entre Eles está na natureza, porque a unidade está em operação. Os anjos não são objetos de oração, porque não trabalham juntos com Deus, mas com o Filho; textos citados. Ver um Anjo, não é ver Deus. Na verdade, os arianos possuem dois deuses e tendem ao politeísmo gentio. A explicação ariana de que o Pai e o Filho são um, assim como nós somos um com Cristo, é posta de lado pela Regula Fidei e considerada inválida pelo uso das Escrituras nas ilustrações; a verdadeira força da comparação; força dos termos usados. Força de ‘em nós;’ força de ‘como;’ confirmada por S. João. Em que sentido estamos “em Deus” e em Seus “filhos”.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11324,8 +11375,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-269-273",
-            "titulo": "Capítulo XXVI.—Introdução aos Textos dos Evangelhos sobre a Encarnação. Enumeração de textos ainda por explicar. Arianos em comparação com os judeus. We must recur to the Regula Fidei. Nosso Senhor não veio, mas tornou-se homem e, portanto, teve os atos e afeições da carne. O mesmo funciona divino e humano. Assim a carne foi purificada e os homens tornaram-se imortais. Referência a I Pet. 4. 1.",
+            "id": "npnf204-4-270-274",
+            "titulo": "Capítulo XXVI.—Introdução aos Textos dos Evangelhos sobre a Encarnação. Enumeração de textos ainda por explicar. Arianos em comparação com os judeus. Devemos recorrer à Regula Fidei. Nosso Senhor não veio, mas tornou-se homem e, portanto, teve os atos e afeições da carne. O mesmo funciona divino e humano. Assim a carne foi purificada e os homens tornaram-se imortais. Referência a I Pet. 4.1.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11375,8 +11426,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-269-274",
-            "titulo": "Capítulo XXVII. — Textos explicados; Em décimo lugar, Mateus xi. 27; João III. 35, U+0026c. Estes textos pretendiam excluir a noção sabeliana do Filho; eles se enquadram na doutrina católica a respeito do Filho; eles são explicados por “assim” em João v. 26. (Antecipação do próximo capítulo.) Novamente eles são usados ​​com referência à natureza humana de nosso Senhor; por nossa causa, para que possamos receber e não perder, como recebendo Nele. E consistentemente com outras partes das Escrituras, que mostram que Ele tinha o poder, U+0026c., antes de recebê-lo. Ele era Deus e homem, e Suas ações são muitas vezes ao mesmo tempo divinas e humanas.",
+            "id": "npnf204-4-270-275",
+            "titulo": "Capítulo XXVII. — Textos explicados; Em lugar décimo, Mateus xi. 27; João III. 35, U+0026c. Estes textos pretendiam excluir a noção sabeliana do Filho; eles se enquadraram na doutrina católica a respeito do Filho; eles são explicados por “assim” em João v. 26. (Antecipação do próximo capítulo.) Novamente eles são usados ​​com referência à natureza humana de nosso Senhor; por nossa causa, para que possamos receber e não perder, como receber Nele. E consistentemente com outras partes das Escrituras, que mostram que Ele tinha o poder, U+0026c., antes de recebê-lo. Ele era Deus e homem, e Suas ações são muitas vezes ao mesmo tempo divinas e humanas.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11410,8 +11461,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-269-275",
-            "titulo": "Capítulo XXVIII. — Textos explicados; Décimo primeiro, Marcos xiii. 32 e Lucas ii. 52 A explicação ariana do texto anterior é contra a Regula Fidei; e contra o contexto. Nosso Senhor disse que ignorava o Dia, por causa de Sua natureza humana. Se o Espírito Santo conhece o Dia, portanto o Filho conhece; se o Filho conhece o Pai, portanto conhece o Dia; se Ele tem tudo o que é do Pai, portanto conhecimento do Dia; se está no Pai, Ele conhece o Dia no Pai; se Ele criou e sustenta todas as coisas, Ele sabe quando elas deixarão de existir. Ele não conhece como Homem, argumentou de Matt. xviv. 42. Assim como Ele perguntou sobre o túmulo de Lázaro, U+0026c., ainda sabia, então Ele sabe; como diz S. Paulo, ‘se no corpo não sei’, U+0026c., mas sabia, então Ele sabe. Ele disse que não sabia para nosso proveito, para que não fôssemos curiosos (como em Atos 1.7, onde, pelo contrário, Ele não disse que não sabia). Assim como o Todo-Poderoso pede a Adão e a Caim, ainda que o conheça, o Filho conhece como Deus. Novamente, Ele avançou em sabedoria também como homem, caso contrário, Ele tornou os anjos perfeitos diante de si mesmo. Ele avançou, no sentido de que a Divindade foi manifestada Nele mais plenamente com o passar do tempo.",
+            "id": "npnf204-4-270-276",
+            "titulo": "Capítulo XXVIII. — Textos explicados; Décimo primeiro, Marcos xiii. 32 e Lucas ii. 52 A explicação ariana do texto anterior é contra a Regula Fidei; e contra o contexto. Nosso Senhor disse que ignorava o Dia, por causa de Sua natureza humana. Se o Espírito Santo conhece o Dia, portanto o Filho conhece; se o Filho conhece o Pai, portanto conhece o Dia; se Ele tem tudo o que é do Pai, portanto conhecimento do Dia; se está no Pai, Ele conhece o Dia no Pai; se Ele criou e sustenta todas as coisas, Ele sabe quando elas deixarão de existir. Ele não conhece como Homem, argumentou de Matt. xviv. 42. Assim como Ele disse sobre o túmulo de Lázaro, U+0026c., ainda sabia, então Ele sabe; como diz S. Paulo, ‘se no corpo não sei’, U+0026c., mas sabia, então Ele sabe. Ele disse que não sabia para nossos benefícios, para que não fôssemos curiosos (como em Atos 1.7, onde, pelo contrário, Ele não disse que não sabia). Assim como o Todo-Poderoso pede a Adão e a Caim, ainda que o conheça, o Filho conhece como Deus. Novamente, Ele avançou em sabedoria também como homem, caso contrário, Ele tornou os anjos perfeitos diante de si mesmo. Ele avançou, no sentido de que a Divindade foi manifestada Nele mais plenamente com o passar do tempo.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11465,8 +11516,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-269-276",
-            "titulo": "Capítulo XXIX. — Textos explicados; Em décimo segundo lugar, Mateus xxvi. 39; João XII. 27, U+0026c. As inferências arianas são contra a Regula Fidei, como antes. Ele chorou e coisas assim, como homem. Outros textos provam que Ele é Deus. Deus não podia temer. Ele temeu porque Sua carne temia.",
+            "id": "npnf204-4-270-277",
+            "titulo": "Capítulo XXIX. — Textos explicados; Em décimo segundo lugar, Mateus xxvi. 39; João XII. 27, U+0026c. As inferências arianas são contra a Regula Fidei, como antes. Ele chorou e coisas assim, como homem. Outros textos provam que Ele é Deus. Deus não poderia temer. Ele temeu porque Sua carne temia.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11492,8 +11543,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-269-277",
-            "titulo": "Capítulo XXX.—As objeções continuaram, como nos capítulos vii.—x. Se o Filho é gerado pela vontade do Pai? Isso é praticamente o mesmo que uma vez Ele não existiu? e usado pelos arianos para introduzir a última questão. A Regula Fidei responde imediatamente negativamente com textos contrários. Os arianos seguem os valentinianos na manutenção de um testamento precedente; que realmente só é exercido por Deus para com as criaturas. Exemplos das Escrituras. Inconsistência de Asterius. Se for o Filho por vontade, deve haver outra Palavra antes Dele. Se Deus é bom, ou existe, por Sua vontade, então o Filho o é por Sua vontade. Se Ele quis ter razão ou sabedoria, então Sua Palavra e Sabedoria estão à Sua vontade. O Filho é o Testamento Vital e tem todos os títulos que denotam conaturalidade. Aquela vontade que o Pai tem para com o Filho, o Filho tem para com o Pai. O Pai quer o Filho e o Filho quer o Pai.",
+            "id": "npnf204-4-270-278",
+            "titulo": "Capítulo XXX.—As objeções continuadas, como nos capítulos vii.—x. Se o Filho é gerado pela vontade do Pai? Isso é praticamente o mesmo que uma vez Ele não existe? e usado pelos arianos para introduzir a última questão. A Regulamentação Fidei responde imediatamente de acordo com textos contrários. Os arianos seguem os valentinianos na manutenção de um testamento precedente; que realmente só é exercido por Deus para com as criaturas. Exemplos das Escrituras. Inconsistência de Asterius. Se for o Filho por vontade, deve haver outra Palavra antes Dele. Se Deus é bom, ou existe, por Sua vontade, então o Filho o é por Sua vontade. Se Ele quis ter razão ou sabedoria, então Sua Palavra e Sabedoria estão à Sua vontade. O Filho é o Testamento Vital e tem todos os títulos que denotam conaturalidade. Aquela vontade que o Pai tem para com o Filho, o Filho tem para com o Pai. O Pai quer o Filho e o Filho quer o Pai.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11541,7 +11592,7 @@
         ]
       },
       {
-        "id": "npnf204-4-278",
+        "id": "npnf204-4-279",
         "titulo": "Excursus C. Introdutório3273 ao Quarto Discurso contra os Arianos.",
         "conteudo": [
           {
@@ -11604,11 +11655,11 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-279",
+        "id": "npnf204-4-280",
         "titulo": "Discurso IV.",
         "children": [
           {
-            "id": "npnf204-4-279-280",
+            "id": "npnf204-4-280-281",
             "titulo": "§§1–5. A substancialidade da Palavra é comprovada pelas Escrituras. Se a Origem Única for substancial, Sua Palavra será substancial. A menos que o Verbo e o Filho sejam uma segunda origem, ou uma obra, ou um atributo (e assim Deus seja composto), ou ao mesmo tempo Pai, ou envolvam uma segunda natureza em Deus, Ele é da Essência do Pai e distinto Dele. Ilustração de João x. 30, extraído de Deut. 4. 4.",
             "conteudo": [
               {
@@ -11635,8 +11686,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-279-281",
-            "titulo": "§§6, 7. Quando o Verbo e o Filho tiveram fome, choraram e se cansaram, Ele agiu como nosso Mediador, assumindo sobre si o que era nosso, para que pudesse nos transmitir o que era dele.",
+            "id": "npnf204-4-280-282",
+            "titulo": "§§6, 7. Quando o Verbo e o Filho tiveram fome, choraram e se cansaram, Ele agiu como nosso Mediador, assumindo sobre si o que era nosso, para que pudéssemos nos transmitir o que era dele.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11650,7 +11701,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-279-282",
+            "id": "npnf204-4-280-283",
             "titulo": "§8. Os arianos datam o início do Filho antes de Marcelo, U+0026c.",
             "conteudo": [
               {
@@ -11661,7 +11712,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-279-283",
+            "id": "npnf204-4-280-284",
             "titulo": "§§9, 10. A menos que Pai e Filho sejam dois apenas no nome, ou como partes e, portanto, cada um imperfeito, ou dois deuses, eles são coessenciais, um na Divindade, e o Filho vem do Pai.",
             "conteudo": [
               {
@@ -11676,7 +11727,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-279-284",
+            "id": "npnf204-4-280-285",
             "titulo": "§§11, 12. Marcelo e seus discípulos, como os arianos, dizem que o Verbo não foi realmente criado, mas emitido, para nos criar, como se o silêncio divino fosse um estado de inação, e quando Deus falou pela Palavra, Ele agiu; ou que houve uma saída e retorno da Palavra; uma doutrina que implica mudança e imperfeição no Pai e no Filho.",
             "conteudo": [
               {
@@ -11691,7 +11742,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-279-285",
+            "id": "npnf204-4-280-286",
             "titulo": "§§13, 14. Tal doutrina exclui todas as distinções reais de personalidade na Natureza Divina. Ilustração da doutrina das Escrituras de 2 Cor. vi. 11, U+0026c.",
             "conteudo": [
               {
@@ -11706,7 +11757,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-279-286",
+            "id": "npnf204-4-280-287",
             "titulo": "§§15–24. Visto que a Palavra vem de Deus, Ele deve ser Filho. Visto que o Filho é desde a eternidade, Ele deve ser a Palavra; caso contrário, ou Ele é superior à Palavra, ou a Palavra é o Pai. Textos do Novo Testamento que afirmam a unidade do Filho com o Pai; portanto, o Filho é a Palavra. Três hipóteses refutadas – 1. Que o Homem é o Filho; 2. Que o Verbo e o Homem juntos são o Filho; 3. Que o Verbo se tornou Filho em Sua encarnação. Textos do Antigo Testamento que falam do Filho. Se forem meramente proféticos, então aqueles que dizem respeito à Palavra também podem sê-lo.",
             "conteudo": [
               {
@@ -11753,7 +11804,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-279-287",
+            "id": "npnf204-4-280-288",
             "titulo": "§25. Ilustração de Marceliano de 1 Cor. xii. 4, refutado.",
             "conteudo": [
               {
@@ -11764,8 +11815,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-279-288",
-            "titulo": "§§26–36. Que o Filho é a Palavra Coexistente, argumentado a partir do Novo Testamento. Os textos do Antigo Testamento continuaram; especialmente Sal. cx. 3. Além disso, a Palavra no Antigo Testamento pode ser Filho no Novo, assim como o Espírito no Antigo Testamento é Paráclito no Novo. Objeção de Atos x. 36; respondida por paralelos, como 1 Cor. eu. 5. Lev. IX. 7.U+0026c. A necessidade da Palavra se encarnar, viz. santificar, mas sem destruir, a carne.",
+            "id": "npnf204-4-280-289",
+            "titulo": "§§26–36. Que o Filho é a Palavra Coexistente, argumentado a partir do Novo Testamento. Os textos do Antigo Testamento continuado; especialmente Sal. cx. 3. Além disso, a Palavra no Antigo Testamento pode ser Filho no Novo, assim como o Espírito no Antigo Testamento é Paráclito no Novo. Objeção de Atos x. 36; respondida por paralelos, como 1 Cor. UE. 5. Lev. IX. 7.U+0026c. A necessidade da Palavra se encarnar, viz. santificar, mas sem destruir, a carne.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -11817,8 +11868,8 @@
         ]
       },
       {
-        "id": "npnf204-4-289",
-        "titulo": "Introdução ao de Synodis.",
+        "id": "npnf204-4-290",
+        "titulo": "Introdução ao Synodis.",
         "conteudo": [
           {
             "tipo": "paragrafo",
@@ -12084,11 +12135,11 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-290",
+        "id": "npnf204-4-291",
         "titulo": "Concílios de Ariminum e Selêucia.",
         "children": [
           {
-            "id": "npnf204-4-290-291",
+            "id": "npnf204-4-291-292",
             "titulo": "Parte I. História dos Concílios.",
             "conteudo": [
               {
@@ -12191,7 +12242,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-290-292",
+            "id": "npnf204-4-291-293",
             "titulo": "Parte II. História das opiniões arianas.",
             "conteudo": [
               {
@@ -12598,7 +12649,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-290-293",
+            "id": "npnf204-4-291-294",
             "titulo": "Parte III. Sobre os símbolos ‘Da Essência’ e ‘Coessencial’.",
             "conteudo": [
               {
@@ -12743,7 +12794,7 @@
         ]
       },
       {
-        "id": "npnf204-4-294",
+        "id": "npnf204-4-295",
         "titulo": "Introdução ao Tomus Ad Antiochenos.",
         "conteudo": [
           {
@@ -12766,7 +12817,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-295",
+        "id": "npnf204-4-296",
         "titulo": "Tomo ou Carta Sinodal ao Povo de Antioquia.",
         "conteudo": [
           {
@@ -12885,7 +12936,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-296",
+        "id": "npnf204-4-297",
         "titulo": "Apêndice.",
         "conteudo": [
           {
@@ -12912,7 +12963,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-297",
+        "id": "npnf204-4-298",
         "titulo": "Introdução à Ad Afros Epistola Synodica.",
         "conteudo": [
           {
@@ -12947,7 +12998,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-298",
+        "id": "npnf204-4-299",
         "titulo": "Aos Bispos de África.",
         "conteudo": [
           {
@@ -13046,7 +13097,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-299",
+        "id": "npnf204-4-300",
         "titulo": "Cartas de Atanásio, com duas crônicas antigas de sua vida.",
         "conteudo": [
           {
@@ -13073,7 +13124,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-300",
+        "id": "npnf204-4-301",
         "titulo": "R.—A História Acéfala.",
         "conteudo": [
           {
@@ -13224,7 +13275,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-301",
+        "id": "npnf204-4-302",
         "titulo": "História Acéfala.",
         "conteudo": [
           {
@@ -13331,7 +13382,7 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-302",
+        "id": "npnf204-4-303",
         "titulo": "B. — As cartas festivas e seu índice, ou Chronicon Athanasianum.",
         "conteudo": [
           {
@@ -13658,11 +13709,11 @@
         "idioma": "en"
       },
       {
-        "id": "npnf204-4-303",
+        "id": "npnf204-4-304",
         "titulo": "I. Cartas festivas.",
         "children": [
           {
-            "id": "npnf204-4-303-304",
+            "id": "npnf204-4-304-305",
             "titulo": "—",
             "conteudo": [
               {
@@ -13729,8 +13780,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-305",
-            "titulo": "Carta II. — Para 330. Páscoa xxiv Pharmuthi; xiiiKal. Mai; Era Diocleto. 46; Coss. Gallicianus, Valerius Symmachus; Prefeito, Magninianus; Indiciar. iii.",
+            "id": "npnf204-4-304-306",
+            "titulo": "Carta II. — Parágrafo 330. Páscoa xxiv Pharmuthi; xiiiKal. Mai; Era Diocleto. 46; Coss. Gallicianus, Valerius Symmachus; Prefeito, Magniniano; Indicar. iii.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13780,8 +13831,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-306",
-            "titulo": "Carta III. — Para 331. Dia de Páscoa xvi Pharmuthi; iii Id. Abril; Era Diocleto. 47; Coss. Annius Bassus, Ablabius; Prefeito, Florentius; Indiciar. 4.",
+            "id": "npnf204-4-304-307",
+            "titulo": "Carta III. — Parágrafo 331. Dia de Páscoa xvi Pharmuthi; iii Id. abril; Era Diocleto. 47; Coss. Annius Bassus, Ablabius; Prefeito, Florêncio; Indicar. 4.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13819,8 +13870,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-307",
-            "titulo": "Carta IV.—Para 332. Dia de Páscoa vii Pharmuthi4023, iv Non. abril; Era Diocleto. 48; Coss. Fábio Pacatianus, Mæcilius Hilarianus; Prefeito, Hyginus4024; Indiciar. v.",
+            "id": "npnf204-4-304-308",
+            "titulo": "Carta IV.—Para 332. Dia de Páscoa vii Pharmuthi4023, iv Non. abril; Era Diocleto. 48; Coss. Fábio Pacatianus, Mæcilius Hilarianus; Prefeito, Higino4024; Indicar. v.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13854,8 +13905,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-308",
-            "titulo": "Carta V. — Para 333. Páscoa 4050, Coss. Dalmácio e Zenófilo; Préfeito, Paternus4051; vi Indic.; xviiKal. Maii, xx Pharmuthi; xv Lua; vii Deuses; Era Diocleto. 49.",
+            "id": "npnf204-4-304-309",
+            "titulo": "Carta V. — Parágrafo 333. Páscoa 4050, Coss. Dalmácio e Zenófilo; Préfeito, Paternus4051; vi Indic.; xviiKal. Maii, xx Pharmuthi; xv Lua; vii Deuses; Era Diocleto. 49.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13893,8 +13944,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-309",
-            "titulo": "Carta VI.—Para 334. Dia de Páscoa, xii Pharmuthi, vii Id. Abril; xvii Lua; Era Diocleto. 50; Coss. Optatus Patrício, Anício Paulino; Prefeito, Philagrius4072, o Capadócio; vii Acusação.",
+            "id": "npnf204-4-304-310",
+            "titulo": "Carta VI.—Para 334. Dia de Páscoa, xii Pharmuthi, vii Id. abril; xvii Lua; Era Diocleto. 50; Coss. Optatus Patrício, Anício Paulino; Prefeito, Philagrius4072, o Capadócio; vii Acusação.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -13956,8 +14007,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-310",
-            "titulo": "Carta VII. — Para 335. Páscoa iv Pharmuthi, iii Kal. Abril; xx Lua; É. Diocleto. 51; Coss. Júlio Constâncio, irmão de Augusto, Rufinus Albinus; Prefeito, o mesmo Filágrio; viii Acusação.",
+            "id": "npnf204-4-304-311",
+            "titulo": "Carta VII. — Parágrafo 335. Páscoa iv Pharmuthi, iii Kal. abril; xxLua; É. Diocleto. 51; Coss. Júlio Constâncio, irmão de Augusto, Rufinus Albinus; Prefeito, o mesmo Filágrio; viii Acusação.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14019,8 +14070,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-311",
-            "titulo": "Carta X. — Para 338. Coss. Ursus e Polêmio; Praef. o mesmo Teodoro, de Heliópolis, e dos católicos4203. Depois dele, pelo segundo ano, Filágrio; Indiciar. xi; Dia de Páscoa, vii Kal. Ap.4204 xxx Phamenoth; Lua 18½; Era Diocleto. 54.",
+            "id": "npnf204-4-304-312",
+            "titulo": "Carta X. - Parágrafo 338. Coss. Ursus e Polêmio; Praef. o mesmo Teodoro, de Heliópolis, e dos católicos4203. Depois dele, pelo segundo ano, Filágrio; Indicar. xi; Dia de Páscoa, vii Kal. Ap.4204 xxx Phamenoth; Lua 18½; Era Diocleto. 54.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14078,8 +14129,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-312",
-            "titulo": "Carta XI.—Para 339. Coss. Constâncio Augusto II, Constante I; Prefeito, Filágrio, o Capadócio, pela segunda vez; Indiciar. xii; Dia de Páscoa xvii Kal. Mai, xx Pharmuthi; Era Diocleto. 55.",
+            "id": "npnf204-4-304-313",
+            "titulo": "Carta XI.—Parágrafo 339. Coss. Constâncio Augusto II, Constante I; Prefeito, Filágrio, o Capadócio, pela segunda vez; Indicar. xii; Dia de Páscoa xvii Kal. Mai, xx Pharmuthi; Era Diocleto. 55.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14153,7 +14204,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-313",
+            "id": "npnf204-4-304-314",
             "titulo": "XII.—(Provavelmente por 340 d.C.) Ao Amado Irmão e ao nosso colega Ministro Serapião4353.",
             "conteudo": [
               {
@@ -14176,8 +14227,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-314",
-            "titulo": "Carta XIII.—(Para 341.) Coss. Marcelino, Probino; Praef. Longino; Indiciar. XIV; Dia de Páscoa, xiii Kal. Maii, xxiv Pharmuthi; Era Diocleto. 57.",
+            "id": "npnf204-4-304-315",
+            "titulo": "Carta XIII.—(Parágrafo 341.) Coss. Marcelino, Probino; Praef. Longino; Indicar. XIV; Dia de Páscoa, xiii Kal. Maii, xxiv Pharmuthi; Era Diocleto. 57.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14219,8 +14270,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-315",
-            "titulo": "Carta XIV.—(Para 342.) Coss. Augusto Constâncio III, Constante II, Præf. o mesmo Longino; Indiciar. xv; Dia de Páscoa iii Id. Abril, xvi Pharmuthi; Era Diocleto. 58.",
+            "id": "npnf204-4-304-316",
+            "titulo": "Carta XIV.—(Parágrafo 342.) Coss. Augusto Constâncio III, Constante II, Præf. o mesmo Longino; Indicar. xv; Dia de Páscoa iii Id. Abril, xvi Farmuthi; Era Diocleto. 58.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14254,8 +14305,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-316",
-            "titulo": "Letter XVII.—(For 345.) Coss. Amâncio, Albino; Praef. Nestório de Gaza; Indiciar. iii; Páscoa, vii Id. Abril, xii Pharmuthi; Lua 19; Era Diocleto. 61.",
+            "id": "npnf204-4-304-317",
+            "titulo": "Carta XVII.—(Para 345.) Coss. Amâncio, Albino; Praef. Nestório de Gaza; Indicar. iii; Páscoa, vii Id. Abril, xii Farmuthi; Lua 19; Era Diocleto. 61.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14269,8 +14320,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-317",
-            "titulo": "Carta XVIII.—(Para 346.) Coss. Augusto Constâncio IV, Constante III; Praef. o mesmo Nestório; Indiciar. 4; Dia de Páscoa iii Kal. Abril, iv Pharmuthi; Lua 21; Era Diocleto. 62.",
+            "id": "npnf204-4-304-318",
+            "titulo": "Carta XVIII.—(Parágrafo 346.) Coss. Augusto Constâncio IV, Constante III; Praef. o mesmo Nestório; Indicar. 4; Dia de Páscoa iii Kal. Abril, iv Farmuthi; Lua 21; Era Diocleto. 62.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14288,8 +14339,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-318",
-            "titulo": "Carta XIX.—(Para 347.) Coss. Rufino, Eusébio; Praef. o mesmo Nestório; Indiciar. v; Páscoa, Orgulho. Eu ia. Abril, Pharmuthi xvii; Era Diocleto. 63; Lua 15.",
+            "id": "npnf204-4-304-319",
+            "titulo": "Carta XIX.—(Parágrafo 347.) Coss. Rufino, Eusébio; Praef. o mesmo Nestório; Indicar. v; Páscoa, orgulho. Eu ia. Abril, Pharmuthi xvii; Era Diocleto. 63; Lua 15.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14343,8 +14394,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-319",
-            "titulo": "Carta XX.—(Para 348.) Coss. Filipo, Salia; Préfecto o mesmo Nestório; Indiciar. vi; Páscoa iii Não. Abril, viii Pharmuthi; Era Diocleto. 64; Lua 18.",
+            "id": "npnf204-4-304-320",
+            "titulo": "Carta XX.—(Parágrafo 348.) Coss. Filipo, Sália; Préfecto o mesmo Nestório; Indicar. vi; Páscoa iii Não. Abril, viii Farmuthi; Era Diocleto. 64; Lua 18.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14358,8 +14409,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-320",
-            "titulo": "Da Carta XXII4523.—(Para 350.)",
+            "id": "npnf204-4-304-321",
+            "titulo": "Da Carta XXII4523.—(Parágrafo 350.)",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14369,8 +14420,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-321",
-            "titulo": "Da Carta XXIV4524.—(Para 352.)",
+            "id": "npnf204-4-304-322",
+            "titulo": "Da Carta XXIV4524.—(Parágrafo 352.)",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14380,7 +14431,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-322",
+            "id": "npnf204-4-304-323",
             "titulo": "Da Carta XXVII.—(Para 355.) Da vigésima sétima Carta Festal de Atanásio, Bispo de Alexandria e Confessor; cujo início é: ‘Novamente a estação do dia da Páscoa viva4525.’",
             "conteudo": [
               {
@@ -14391,8 +14442,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-323",
-            "titulo": "Da Carta XXVIII4527.—(Para 356.)",
+            "id": "npnf204-4-304-324",
+            "titulo": "Da Carta XXVIII4527.—(Parágrafo 356.)",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14402,7 +14453,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-324",
+            "id": "npnf204-4-304-325",
             "titulo": "Outro Fragmento.",
             "conteudo": [
               {
@@ -14413,7 +14464,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-325",
+            "id": "npnf204-4-304-326",
             "titulo": "Da Carta XXIX4529.—(Para 357.) Da vigésima nona Carta, cujo início é: ‘Suficiente para o tempo presente é o que já escrevemos.’",
             "conteudo": [
               {
@@ -14424,7 +14475,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-326",
+            "id": "npnf204-4-304-327",
             "titulo": "Outro Fragmento4534.",
             "conteudo": [
               {
@@ -14435,7 +14486,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-327",
+            "id": "npnf204-4-304-328",
             "titulo": "Outro Fragmento4535.",
             "conteudo": [
               {
@@ -14450,8 +14501,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-328",
-            "titulo": "Da Carta XXXIX.—(Para 367.) Dos livros particulares e seu número, que são aceitos pela Igreja. Da trigésima nona Carta de Santo Atanásio, Bispo de Alexandria, sobre a festa pascal; onde ele define canonicamente quais são os livros divinos aceitos pela Igreja.",
+            "id": "npnf204-4-304-329",
+            "titulo": "Da Carta XXXIX.—(Parágrafo 367.) Dos livros particulares e seu número, que são aceitos pela Igreja. Da trigésima nona Carta de Santo Atanásio, Bispo de Alexandria, sobre a festa pascal; onde ele define canonicamente quais são os livros divinos aceitos pela Igreja.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14485,8 +14536,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-329",
-            "titulo": "Da Carta XL4547.—(Para 368.)",
+            "id": "npnf204-4-304-330",
+            "titulo": "Da Carta XL4547.—(Parágrafo 368.)",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14496,8 +14547,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-330",
-            "titulo": "Da Carta XLII.—(Para 370.)",
+            "id": "npnf204-4-304-331",
+            "titulo": "Da Carta XLII.—(Parágrafo 370.)",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14507,8 +14558,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-331",
-            "titulo": "Da Carta XLIII.—(Para 371.)",
+            "id": "npnf204-4-304-332",
+            "titulo": "Da Carta XLIII.—(Parágrafo 371.)",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14518,7 +14569,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-332",
+            "id": "npnf204-4-304-333",
             "titulo": "Da Carta XLIV. - (Para 372.) E novamente, da quadragésima quarta Carta, cujo início é: 'Tudo o que nosso Senhor e Salvador Jesus Cristo fez em nosso lugar e por nós 4557.'",
             "conteudo": [
               {
@@ -14529,8 +14580,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-303-333",
-            "titulo": "From Letter XLV.—(For 373.)",
+            "id": "npnf204-4-304-334",
+            "titulo": "Da Carta XLV.—(Para 373.)",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14542,11 +14593,11 @@
         ]
       },
       {
-        "id": "npnf204-4-334",
+        "id": "npnf204-4-335",
         "titulo": "II. Cartas Pessoais.",
         "children": [
           {
-            "id": "npnf204-4-334-335",
+            "id": "npnf204-4-335-336",
             "titulo": "Carta XLVI. — Carta 4563 aos Mareotis de Sardica, d.C. 343–4.",
             "conteudo": [
               {
@@ -14573,7 +14624,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-336",
+            "id": "npnf204-4-335-337",
             "titulo": "Carta XLVII. — À Igreja de Alexandria na mesma ocasião.",
             "conteudo": [
               {
@@ -14596,8 +14647,8 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-337",
-            "titulo": "Carta XLVIII. — Carta a Amun4583. Escrito antes de 354 d.C.",
+            "id": "npnf204-4-335-338",
+            "titulo": "Carta XLVIII. — Carta de Amun4583. Escrito antes de 354 d.C.",
             "conteudo": [
               {
                 "tipo": "paragrafo",
@@ -14611,7 +14662,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-338",
+            "id": "npnf204-4-335-339",
             "titulo": "Carta XLIX. — Carta a Dracontius4599. Escrito a.d. 354 ou 355.",
             "conteudo": [
               {
@@ -14658,7 +14709,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-339",
+            "id": "npnf204-4-335-340",
             "titulo": "Carta L. — Primeira Carta a Lúcifer4633.",
             "conteudo": [
               {
@@ -14681,7 +14732,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-340",
+            "id": "npnf204-4-335-341",
             "titulo": "Carta LI.—Segunda Carta a Lúcifer.",
             "conteudo": [
               {
@@ -14696,7 +14747,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-341",
+            "id": "npnf204-4-335-342",
             "titulo": "Carta LII.—Primeira Carta aos Monges4641. (Escrito 358–360).",
             "conteudo": [
               {
@@ -14719,7 +14770,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-342",
+            "id": "npnf204-4-335-343",
             "titulo": "Carta LIII. - Segunda Carta 4656 aos Monges.",
             "conteudo": [
               {
@@ -14738,7 +14789,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-343",
+            "id": "npnf204-4-335-344",
             "titulo": "Carta LIV.—A Serapião, a respeito da morte de Ário.",
             "conteudo": [
               {
@@ -14769,7 +14820,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-344",
+            "id": "npnf204-4-335-345",
             "titulo": "Carta LV. — Carta a Rufiniano.",
             "conteudo": [
               {
@@ -14784,7 +14835,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-345",
+            "id": "npnf204-4-335-346",
             "titulo": "Carta LVI. — Ao Imperador Joviano.",
             "conteudo": [
               {
@@ -14859,7 +14910,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-346",
+            "id": "npnf204-4-335-347",
             "titulo": "Carta LVII. — Primeira Carta a Orsisius4693.",
             "conteudo": [
               {
@@ -14874,7 +14925,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-347",
+            "id": "npnf204-4-335-348",
             "titulo": "Carta LVIII. — Segunda Carta a Orsisius.",
             "conteudo": [
               {
@@ -14893,7 +14944,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-348",
+            "id": "npnf204-4-335-349",
             "titulo": "Carta LIX. - Para Epicteto.",
             "conteudo": [
               {
@@ -14948,7 +14999,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-349",
+            "id": "npnf204-4-335-350",
             "titulo": "Carta LX.—A Adelphius4738, Bispo e Confessor: contra os arianos.",
             "conteudo": [
               {
@@ -14995,7 +15046,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-350",
+            "id": "npnf204-4-335-351",
             "titulo": "Carta LXI. — Carta a Máximo. (Escrito por volta de 371 d.C.)",
             "conteudo": [
               {
@@ -15026,7 +15077,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-351",
+            "id": "npnf204-4-335-352",
             "titulo": "Carta LXII.—Para João e Antíoco.4797",
             "conteudo": [
               {
@@ -15045,7 +15096,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-352",
+            "id": "npnf204-4-335-353",
             "titulo": "Carta LXIII. — Carta ao Presbítero Palladius4799.",
             "conteudo": [
               {
@@ -15060,7 +15111,7 @@
             "idioma": "en"
           },
           {
-            "id": "npnf204-4-334-353",
+            "id": "npnf204-4-335-354",
             "titulo": "Carta LXIV.—A Diodoro (fragmento).",
             "conteudo": [
               {
