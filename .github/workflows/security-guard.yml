@@ -111,7 +111,7 @@ jobs:
         run: |
           set -uo pipefail
           CFG=""
-          [ -f .gitleaks.toml ] && CFG="--config .gitleaks.toml"
+          if [ -f .gitleaks.toml ]; then CFG="--config .gitleaks.toml"; fi
           # o exit code do gitleaks precisa ser o exit code do step — nada de
           # comando depois dele, senão o `continue-on-error` registra sucesso.
           if [ -n "${FAIXA:-}" ]; then
@@ -124,6 +124,7 @@ jobs:
       # entram no relatório e vão para a fila do bot Segurança, que olha com
       # contexto às 07:30. Barrar no que é normal treina o time a ignorar.
       - name: Varrer padrões da casa
+        shell: bash {0}
         id: padroes
         continue-on-error: true
         env:
@@ -147,18 +148,25 @@ jobs:
           # $5 é a linha ISENTA e $6 o destino. A isenção do security_invoker é
           # testada no ARQUIVO inteiro, não na linha: a forma canônica da casa
           # quebra a cláusula na linha seguinte ao CREATE OR REPLACE VIEW.
+          # As guardas são `if`, não `[ … ] && … && continue`. O GitHub roda o
+          # step com `bash -e`, e nessa forma a lista inteira devolve 1 quando a
+          # primeira condição é falsa — o que MATA o script em silêncio. Foi o
+          # que aconteceu no primeiro push real do site-ntwkst: o step saiu com
+          # código 1 sem imprimir uma linha, e o guarda barrou um push limpo.
           achar() {
             local regex="$1" explicacao="$2" filtro="${3:-}" excluir="${4:-}"
             local isento_arquivo="${5:-}" destino="${6:-/tmp/padroes.txt}"
+            local arq linha resto
             while IFS= read -r arq; do
-              [ -z "$arq" ] && continue
-              [ -f "$arq" ] || continue
-              [ -n "$filtro" ] && ! echo "$arq" | grep -qE "$filtro" && continue
-              [ -n "$excluir" ] && echo "$arq" | grep -qE "$excluir" && continue
-              [ -n "$isento_arquivo" ] && grep -qEi "$isento_arquivo" "$arq" 2>/dev/null && continue
+              if [ -z "$arq" ] || [ ! -f "$arq" ]; then continue; fi
+              if [ -n "$filtro" ] && ! printf '%s' "$arq" | grep -qE "$filtro"; then continue; fi
+              if [ -n "$excluir" ] && printf '%s' "$arq" | grep -qE "$excluir"; then continue; fi
+              if [ -n "$isento_arquivo" ] && grep -qEi "$isento_arquivo" "$arq" 2>/dev/null; then continue; fi
+              # `|| true`: grep sem achado devolve 1, e com pipefail isso
+              # derruba o pipeline — "não encontrei nada" não é erro aqui.
               grep -nEi "$regex" "$arq" 2>/dev/null | while IFS=: read -r linha resto; do
                 printf '%s:%s  %s\n' "$arq" "$linha" "$explicacao" >> "$destino"
-              done
+              done || true
             done <<< "$ARQUIVOS"
           }
 
@@ -174,7 +182,7 @@ jobs:
           # .env versionado — o achado é o arquivo existir, não o conteúdo:
           # relatar linha a linha encheria o e-mail com o próprio segredo.
           while IFS= read -r arq; do
-            [ -z "$arq" ] && continue
+            if [ -z "$arq" ]; then continue; fi
             case "$arq" in
               .env|.env.*|*/.env|*/.env.*)
                 case "$arq" in *.example|*.sample|*.template) continue ;; esac
@@ -239,6 +247,7 @@ jobs:
       # Reporta, não barra: repo com dívida antiga travaria em todo push, e o
       # guarda viraria ruído. A triagem é do bot Segurança, na rotina das 07:30.
       - name: Inventariar dependência vulnerável
+        shell: bash {0}
         id: dependencia
         continue-on-error: true
         run: |
@@ -256,12 +265,13 @@ jobs:
           [ -s /tmp/dependencia.txt ] && cat /tmp/dependencia.txt || echo "Sem package.json ou sem achado."
 
       - name: Veredito
+        shell: bash {0}
         id: veredito
         run: |
           set -uo pipefail
           FALHAS=""
-          [ "${{ steps.segredo.outcome }}" = "failure" ] && FALHAS="$FALHAS Segredo"
-          [ "${{ steps.padroes.outcome }}" = "failure" ] && FALHAS="$FALHAS Padroes"
+          if [ "${{ steps.segredo.outcome }}" = "failure" ]; then FALHAS="$FALHAS Segredo"; fi
+          if [ "${{ steps.padroes.outcome }}" = "failure" ]; then FALHAS="$FALHAS Padroes"; fi
           FALHAS="$(echo "$FALHAS" | xargs || true)"
           if [ -z "$FALHAS" ]; then
             echo "aprovado=true" >> "$GITHUB_OUTPUT"
@@ -273,6 +283,7 @@ jobs:
           fi
 
       - name: Avisar o Segurança
+        shell: bash {0}
         if: steps.veredito.outputs.aprovado == 'false'
         env:
           GUARD_SECRET: ${{ secrets.SECURITY_GUARD_SECRET }}
