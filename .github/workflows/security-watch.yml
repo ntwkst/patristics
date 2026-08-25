@@ -64,7 +64,7 @@ jobs:
         env:
           GH_EVENTO: ${{ github.event_name }}
           GH_ACAO: ${{ github.event.action }}
-          GH_REF: ${{ github.ref_name }}
+          GH_REF: ${{ github.event.ref || github.ref_name }}
           GH_REF_TYPE: ${{ github.event.ref_type }}
           GH_ATOR: ${{ github.actor }}
           GH_MEMBRO: ${{ github.event.member.login }}
