@@ -1,0 +1,356 @@
+# Guarda de Segurança — braço mecânico do bot Segurança (Diretor de Segurança - CSE).
+#
+# NÃO EDITE ESTE ARQUIVO NO REPO EM QUE ELE ESTÁ RODANDO. Ele é uma cópia.
+# A fonte é `ntwkst/grok-bots`, em `.github/templates/security-guard.yml`; o
+# workflow `security-guard-propagar.yml` reescreve a cópia de todos os repos da
+# org quando a fonte muda. Editar a cópia é perder a edição na próxima
+# propagação — que roda toda segunda 08:00 UTC e também no mesmo minuto em que
+# alguém mexe no template.
+#
+# O que ele faz, em todo push e todo PR:
+#   1. gitleaks sobre o QUE ENTROU (não o repo inteiro) — chave, token, JWT
+#   2. padrões que já morderam esta casa, também só no diff
+#   3. inventário de dependência vulnerável — reporta, não barra
+#
+# Por que só o diff: varrer o repo inteiro deixaria os catorze repos vermelhos
+# no primeiro dia por dívida antiga, e guarda que nasce vermelho vira ruído que
+# todo mundo aprende a ignorar. A dívida acumulada é trabalho do bot Segurança
+# na rotina das 07:30, com prova e contexto — não de um regex no CI.
+#
+# O que ele NÃO alcança: o `git push` em si (bloquear exige branch protection
+# com required status check, decisão do dono, pendente) e o `deploy_project` do
+# Lovable, que é botão à mão. Para o site-ntwkst, o deploy de edge functions
+# depende deste job — lá o guarda barra a publicação de verdade.
+
+name: Guarda de Segurança
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+  workflow_call:
+    # Permite que um workflow de deploy dependa deste resultado — é assim que o
+    # guarda deixa de ser aviso e passa a barrar a publicação. No site-ntwkst,
+    # `deploy-edge-functions.yml` usa isto com `needs`.
+    outputs:
+      aprovado:
+        description: "true quando nenhuma varredura acusou"
+        value: ${{ jobs.seguranca.outputs.aprovado }}
+
+concurrency:
+  group: security-guard-${{ github.ref }}
+  # NÃO cancelar o run anterior. O range varrido é `antes..depois` de cada push:
+  # cancelar o run do push 1 faz os commits dele não serem varridos por ninguém,
+  # porque o run do push 2 começa depois deles. Fila custa minuto de Actions;
+  # cancelar custa um segredo que passa em silêncio.
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  seguranca:
+    name: Varrer
+    runs-on: ubuntu-latest
+    outputs:
+      aprovado: ${{ steps.veredito.outputs.aprovado }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # histórico completo: sem ele não há como comparar com a base do PR
+          # nem seguir um push que trouxe vários commits de uma vez.
+          fetch-depth: 0
+
+      - name: Definir a faixa de commits a varrer
+        id: faixa
+        env:
+          GH_EVENTO: ${{ github.event_name }}
+          GH_ANTES: ${{ github.event.before }}
+          GH_BASE: ${{ github.event.pull_request.base.sha }}
+          GH_HEAD: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          VAZIO="0000000000000000000000000000000000000000"
+          if [ "$GH_EVENTO" = "pull_request" ]; then
+            BASE="$GH_BASE"
+          elif [ -n "${GH_ANTES:-}" ] && [ "$GH_ANTES" != "$VAZIO" ] && git cat-file -e "$GH_ANTES^{commit}" 2>/dev/null; then
+            BASE="$GH_ANTES"
+          else
+            # branch nova, ou base sumiu depois de um force-push: varre só o
+            # commit do topo. Melhor pouco e certo do que o repo inteiro.
+            BASE="$(git rev-parse "${GH_HEAD}^" 2>/dev/null || echo "")"
+          fi
+          if [ -z "$BASE" ]; then
+            echo "faixa=" >> "$GITHUB_OUTPUT"
+            echo "arquivos<<EOF" >> "$GITHUB_OUTPUT"
+            git show --name-only --pretty=format: "$GH_HEAD" >> "$GITHUB_OUTPUT"
+            echo "EOF" >> "$GITHUB_OUTPUT"
+          else
+            echo "faixa=${BASE}..${GH_HEAD}" >> "$GITHUB_OUTPUT"
+            echo "arquivos<<EOF" >> "$GITHUB_OUTPUT"
+            git diff --name-only --diff-filter=ACMR "$BASE" "$GH_HEAD" >> "$GITHUB_OUTPUT"
+            echo "EOF" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Instalar gitleaks
+        run: |
+          set -euo pipefail
+          VER=8.30.1
+          curl -sSfL "https://github.com/gitleaks/gitleaks/releases/download/v${VER}/gitleaks_${VER}_linux_x64.tar.gz" -o /tmp/gitleaks.tar.gz
+          tar -xzf /tmp/gitleaks.tar.gz -C /tmp gitleaks
+          sudo install -m 0755 /tmp/gitleaks /usr/local/bin/gitleaks
+          gitleaks version
+
+      # O binário do gitleaks é livre; a ACTION oficial é que exige licença paga
+      # em repositório de organização. Por isso instalamos o binário na mão.
+      - name: Varrer segredo
+        id: segredo
+        continue-on-error: true
+        env:
+          FAIXA: ${{ steps.faixa.outputs.faixa }}
+        run: |
+          set -uo pipefail
+          CFG=""
+          [ -f .gitleaks.toml ] && CFG="--config .gitleaks.toml"
+          # o exit code do gitleaks precisa ser o exit code do step — nada de
+          # comando depois dele, senão o `continue-on-error` registra sucesso.
+          if [ -n "${FAIXA:-}" ]; then
+            exec gitleaks git $CFG --log-opts="$FAIXA" --report-format json --report-path /tmp/segredo.json --redact --exit-code 1
+          fi
+          exec gitleaks git $CFG --report-format json --report-path /tmp/segredo.json --redact --exit-code 1
+
+      # Dois níveis, de propósito. BARRAM só os padrões que não têm leitura
+      # inocente. Os que dependem de contexto — e portanto de julgamento —
+      # entram no relatório e vão para a fila do bot Segurança, que olha com
+      # contexto às 07:30. Barrar no que é normal treina o time a ignorar.
+      - name: Varrer padrões da casa
+        id: padroes
+        continue-on-error: true
+        env:
+          ARQUIVOS: ${{ steps.faixa.outputs.arquivos }}
+        run: |
+          set -uo pipefail
+          : > /tmp/padroes.txt
+          : > /tmp/observacoes.txt
+
+          # Dois arquivos, dois pesos.
+          #
+          # /tmp/padroes.txt BARRA: construções que não têm leitura inocente.
+          # /tmp/observacoes.txt REPORTA: construções que dependem de contexto —
+          # `GRANT USAGE ON SCHEMA public TO anon` é boilerplate de toda migration
+          # Supabase, `USING (true)` existe em policy pública legítima, e
+          # `auth.uid()` numa migration chamada "add_trigger" é justamente o certo.
+          # Barrar nisso faria o guarda nascer vermelho e ensinaria todo mundo a
+          # ignorá-lo. Esses casos vão para a fila do bot Segurança, que olha com
+          # contexto às 07:30 — que é a diferença entre um regex e um julgamento.
+          #
+          # $5 é a linha ISENTA e $6 o destino. A isenção do security_invoker é
+          # testada no ARQUIVO inteiro, não na linha: a forma canônica da casa
+          # quebra a cláusula na linha seguinte ao CREATE OR REPLACE VIEW.
+          achar() {
+            local regex="$1" explicacao="$2" filtro="${3:-}" excluir="${4:-}"
+            local isento_arquivo="${5:-}" destino="${6:-/tmp/padroes.txt}"
+            while IFS= read -r arq; do
+              [ -z "$arq" ] && continue
+              [ -f "$arq" ] || continue
+              [ -n "$filtro" ] && ! echo "$arq" | grep -qE "$filtro" && continue
+              [ -n "$excluir" ] && echo "$arq" | grep -qE "$excluir" && continue
+              [ -n "$isento_arquivo" ] && grep -qEi "$isento_arquivo" "$arq" 2>/dev/null && continue
+              grep -nEi "$regex" "$arq" 2>/dev/null | while IFS=: read -r linha resto; do
+                printf '%s:%s  %s\n' "$arq" "$linha" "$explicacao" >> "$destino"
+              done
+            done <<< "$ARQUIVOS"
+          }
+
+          ##### BARRA — sem leitura inocente #####
+
+          # service_role ignora RLS e alcança o banco inteiro. Fora de edge
+          # function (que roda no servidor) e do CI, não existe motivo legítimo.
+          achar 'SUPABASE_SERVICE_ROLE_KEY|service_role' \
+                'service_role fora de edge function: essa chave ignora RLS e alcança todo o banco' \
+                '\.(ts|tsx|js|jsx|mjs|py|go|json)$' \
+                '^(supabase/functions/|\.github/|scripts/)'
+
+          # .env versionado — o achado é o arquivo existir, não o conteúdo:
+          # relatar linha a linha encheria o e-mail com o próprio segredo.
+          while IFS= read -r arq; do
+            [ -z "$arq" ] && continue
+            case "$arq" in
+              .env|.env.*|*/.env|*/.env.*)
+                case "$arq" in *.example|*.sample|*.template) continue ;; esac
+                printf '%s:1  arquivo .env versionado: segredo em repositório não se apaga, se rotaciona\n' "$arq" >> /tmp/padroes.txt ;;
+            esac
+          done <<< "$ARQUIVOS"
+
+          ##### REPORTA — precisa de contexto, vai para a fila do Segurança #####
+
+          achar 'verify_jwt\s*=\s*false' \
+                'verify_jwt desligado: o endpoint fica aberto — se for proposital, a autorização tem de estar DENTRO da função' \
+                'config\.toml$' '' '' /tmp/observacoes.txt
+
+          achar 'CREATE\s+OR\s+REPLACE\s+VIEW' \
+                'CREATE OR REPLACE VIEW: sem WITH (security_invoker = true) a view volta a rodar como dono e fura a RLS' \
+                '\.sql$' '' 'security_invoker' /tmp/observacoes.txt
+
+          achar 'USING\s*\(\s*true\s*\)' \
+                'policy com USING (true): confira se a tabela é mesmo pública para o papel dessa policy' \
+                '\.sql$' '' '' /tmp/observacoes.txt
+
+          # `GRANT USAGE ON SCHEMA` é boilerplate e não concede dado; o que
+          # interessa é grant em TABELA, FUNÇÃO ou SEQUÊNCIA para anon.
+          achar 'GRANT[^;]*(SELECT|INSERT|UPDATE|DELETE|ALL|EXECUTE)[^;]*[[:space:]]TO[[:space:]][^;]*anon' \
+                'GRANT de dado para anon: visitante não autenticado passa a alcançar isso' \
+                '\.sql$' '' '' /tmp/observacoes.txt
+
+          achar 'auth\.uid\(\)' \
+                'auth.uid() em contexto de cron/webhook: sem sessão de usuário isso é NULL e o job falha calado' \
+                '(cron|webhook)[^/]*\.(sql|ts)$' '' 'CREATE POLICY|USING|WITH CHECK' /tmp/observacoes.txt
+
+          achar 'dangerouslySetInnerHTML' \
+                'dangerouslySetInnerHTML: se o valor não for constante do código, é XSS' \
+                '\.(tsx|jsx)$' '' '' /tmp/observacoes.txt
+
+          if [ -s /tmp/observacoes.txt ]; then
+            sort -u /tmp/observacoes.txt -o /tmp/observacoes.txt
+            echo "Para a fila do Segurança (não barra este push):"
+            cat /tmp/observacoes.txt
+            echo
+            # Vai também para o Step Summary: é o que o bot Segurança consegue
+            # ler pela API na rotina das 07:30 sem baixar o log inteiro do run.
+            {
+              echo "## Guarda de Segurança — para a fila do CSE"
+              echo
+              echo "Não barrou este push: cada item depende de contexto que regex não tem."
+              echo
+              echo '```'
+              cat /tmp/observacoes.txt
+              echo '```'
+            } >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+          if [ -s /tmp/padroes.txt ]; then
+            sort -u /tmp/padroes.txt -o /tmp/padroes.txt
+            echo "BARRADO — padrões sem leitura inocente no que entrou:"
+            cat /tmp/padroes.txt
+            exit 1
+          fi
+          echo "Nenhum padrão de bloqueio no diff."
+
+      # Reporta, não barra: repo com dívida antiga travaria em todo push, e o
+      # guarda viraria ruído. A triagem é do bot Segurança, na rotina das 07:30.
+      - name: Inventariar dependência vulnerável
+        id: dependencia
+        continue-on-error: true
+        run: |
+          set -uo pipefail
+          : > /tmp/dependencia.txt
+          if [ -f package.json ]; then
+            if [ -f bun.lock ] || [ -f bun.lockb ]; then
+              curl -fsSL https://bun.sh/install | bash >/dev/null 2>&1 || true
+              export PATH="$HOME/.bun/bin:$PATH"
+              bun audit 2>&1 | tail -40 > /tmp/dependencia.txt || true
+            else
+              npm audit --audit-level=critical 2>&1 | tail -40 > /tmp/dependencia.txt || true
+            fi
+          fi
+          [ -s /tmp/dependencia.txt ] && cat /tmp/dependencia.txt || echo "Sem package.json ou sem achado."
+
+      - name: Veredito
+        id: veredito
+        run: |
+          set -uo pipefail
+          FALHAS=""
+          [ "${{ steps.segredo.outcome }}" = "failure" ] && FALHAS="$FALHAS Segredo"
+          [ "${{ steps.padroes.outcome }}" = "failure" ] && FALHAS="$FALHAS Padroes"
+          FALHAS="$(echo "$FALHAS" | xargs || true)"
+          if [ -z "$FALHAS" ]; then
+            echo "aprovado=true" >> "$GITHUB_OUTPUT"
+            echo "Guarda de Segurança: verde."
+          else
+            echo "aprovado=false" >> "$GITHUB_OUTPUT"
+            echo "etapas_falhas=$FALHAS" >> "$GITHUB_OUTPUT"
+            echo "Guarda de Segurança: VERMELHO em $FALHAS"
+          fi
+
+      - name: Avisar o Segurança
+        if: steps.veredito.outputs.aprovado == 'false'
+        env:
+          GUARD_SECRET: ${{ secrets.SECURITY_GUARD_SECRET }}
+          # Interpolação de dado do GitHub vai por env, nunca direto no `run`:
+          # nome de branch e mensagem de commit aceitam aspas e viram injeção.
+          GH_REPO: ${{ github.repository }}
+          GH_BRANCH: ${{ github.ref_name }}
+          GH_SHA: ${{ github.sha }}
+          GH_ATOR: ${{ github.actor }}
+          GH_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          GH_EVENTO: ${{ github.event_name }}
+          FALHAS: ${{ steps.veredito.outputs.etapas_falhas }}
+        run: |
+          set -uo pipefail
+          if [ -z "${GUARD_SECRET:-}" ]; then
+            echo "::error::SECURITY_GUARD_SECRET ausente neste repositório."
+            echo "::error::O guarda achou algo e NÃO conseguiu avisar cse@ntwkst.it."
+            echo "::error::Rode o workflow 'Propagar Guarda de Segurança' em ntwkst/grok-bots"
+            echo "::error::para provisionar o segredo, ou defina-o à mão nos secrets deste repo."
+            echo "::error::Enquanto isso, o achado está apenas no log acima — ninguém foi notificado."
+            exit 0
+          fi
+
+          ACHADOS='[]'
+          for etapa in $FALHAS; do
+            case "$etapa" in
+              Segredo)
+                # o relatório do gitleaks já vem redigido (--redact): a chave não
+                # trafega para dentro do e-mail, só o arquivo, a linha e a regra.
+                SAIDA=$(jq -r '.[] | "\(.File):\(.StartLine)  regra \(.RuleID)"' /tmp/segredo.json 2>/dev/null | head -25)
+                [ -z "$SAIDA" ] && SAIDA="gitleaks acusou, veja o log do run"
+                NOME="Segredo no diff" ;;
+              Padroes)
+                SAIDA=$(head -25 /tmp/padroes.txt 2>/dev/null)
+                NOME="Padrão de risco no diff" ;;
+              *) SAIDA=""; NOME="$etapa" ;;
+            esac
+            ACHADOS=$(echo "$ACHADOS" | jq --arg n "$NOME" --arg s "$SAIDA" '. + [{nome:$n, saida:$s}]')
+          done
+
+          OBS=$(head -15 /tmp/observacoes.txt 2>/dev/null || echo "")
+          if [ -n "$OBS" ]; then
+            ACHADOS=$(echo "$ACHADOS" | jq --arg s "$OBS" \
+              '. + [{nome:"Para a fila (não barrou)", saida:$s}]')
+          fi
+
+          DEP=$(head -20 /tmp/dependencia.txt 2>/dev/null || echo "")
+
+          jq -n \
+            --arg repo "$GH_REPO" --arg branch "$GH_BRANCH" --arg sha "$GH_SHA" \
+            --arg autor "$GH_ATOR" --arg msg "$(git log -1 --pretty=%s)" \
+            --arg run "$GH_RUN_URL" --arg dep "$DEP" \
+            --argjson achados "$ACHADOS" \
+            --argjson bloqueado "$([ "$GH_EVENTO" = "push" ] && echo true || echo false)" \
+            '{repo:$repo, branch:$branch, sha:$sha, autor:$autor, mensagem:$msg,
+              run_url:$run, achados:$achados, dependencias:$dep, deploy_bloqueado:$bloqueado}' \
+            > /tmp/alerta.json
+
+          # `-w` para separar corpo de status: sem isso, um 401 por segredo
+          # errado ou um 500 da function sairiam com exit 0 e o log ficaria mudo.
+          RESP=$(curl -sS -o /tmp/resp.txt -w '%{http_code}' -X POST \
+            "https://vtyentzijjlrehkzsnkr.supabase.co/functions/v1/security-guard-alert" \
+            -H "x-guard-secret: $GUARD_SECRET" \
+            -H "Content-Type: application/json" \
+            -d @/tmp/alerta.json) || RESP="000"
+
+          if [ "${RESP:0:1}" = "2" ]; then
+            echo "Alerta enviado para cse@ntwkst.it (HTTP $RESP)."
+          else
+            echo "::error::O alerta NÃO chegou: HTTP $RESP na security-guard-alert."
+            echo "::error::Resposta: $(head -c 400 /tmp/resp.txt 2>/dev/null)"
+            echo "::error::O achado está no log acima e ninguém foi notificado por e-mail."
+          fi
+
+      # Último passo de propósito: o e-mail já saiu quando o job falha aqui.
+      - name: Barrar
+        if: steps.veredito.outputs.aprovado == 'false'
+        run: |
+          echo "Barrado em: ${{ steps.veredito.outputs.etapas_falhas }}"
+          echo "Corrija e envie de novo. Segredo não se resolve apagando o commit — rotacione a chave."
+          exit 1
