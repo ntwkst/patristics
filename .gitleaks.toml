@@ -1,0 +1,106 @@
+# Regras de segredo da NTWKST — usadas pelo Guarda de Segurança em todos os repos.
+#
+# NÃO EDITE A CÓPIA. A fonte é `ntwkst/grok-bots`, em
+# `.github/templates/gitleaks.toml`; o propagador reescreve as cópias.
+#
+# Allowlist tem motivo escrito, sempre. Entrada sem motivo é buraco que ninguém
+# consegue auditar depois — e o buraco vira o caminho por onde a chave passa.
+
+title = "NTWKST"
+
+[extend]
+# Mantém as ~170 regras nativas do gitleaks (AWS, GCP, Stripe, Slack, GitHub,
+# chave privada PEM, JWT). As de baixo são as que essa base usa e o padrão não cobre.
+useDefault = true
+
+[[rules]]
+id = "ntwkst-resend"
+description = "Chave de API do Resend — envia e-mail em nome de ntwkst.it"
+regex = '''re_[A-Za-z0-9]{8,}_[A-Za-z0-9]{16,}'''
+keywords = ["re_"]
+
+[[rules]]
+id = "ntwkst-supabase-secret"
+description = "Chave secreta do Supabase (formato novo) — ignora RLS"
+regex = '''sb_secret_[A-Za-z0-9_-]{20,}'''
+keywords = ["sb_secret_"]
+
+[[rules]]
+id = "ntwkst-cron-secret"
+description = "Segredo de cron em texto puro — autoriza chamada a edge function interna"
+regex = '''(?i)x-cron-secret["'\s:=]{1,6}[A-Za-z0-9_-]{16,}'''
+keywords = ["cron-secret", "cron_secret"]
+
+[[rules]]
+id = "ntwkst-asaas"
+description = "Chave de API da Asaas — movimenta cobrança e recebimento"
+regex = '''\$aact_[A-Za-z0-9_=+/-]{20,}'''
+keywords = ["aact_"]
+
+[[rules]]
+id = "ntwkst-token-em-url-de-remote"
+description = "Credencial embutida em URL — vaza em git remote -v e em qualquer log"
+regex = '''https://(gh[opusr]_[A-Za-z0-9]{20,}|github_pat_[A-Za-z0-9_]{20,}|[a-zA-Z0-9._-]+:[^@/\s]{8,})@'''
+keywords = ["https://"]
+
+[[rules]]
+id = "ntwkst-chave-corretora"
+description = "Chave de API de corretora (Bybit, Alpaca, Capital.com) — move dinheiro"
+regex = '''(?i)(bybit|alpaca|capital)[_-]?(api)?[_-]?(key|secret)["'\s:=]{1,6}[A-Za-z0-9_-]{20,}'''
+keywords = ["bybit", "alpaca", "capital"]
+
+[[allowlists]]
+description = "Falso positivo conhecido — caminhos, cada entrada com o motivo"
+paths = [
+  # Chave PUBLICÁVEL do Supabase: nasce para ir ao navegador, protegida por RLS.
+  # Bloquear aqui pararia todo repo Lovable, que a escreve no client por padrão.
+  '''src/integrations/supabase/client\.ts''',
+  # Arquivo de exemplo existe para mostrar o formato, com valor de mentira.
+  '''\.env\.example$''',
+  '''\.env\.sample$''',
+  # Arquivo de exemplo de config existe para mostrar o formato: os valores são
+  # instrução para o humano ("COLE_AQUI"), não credencial.
+  '''\.(exemplo|example|sample|template)\.(json|toml|ya?ml|ini)$''',
+  # Lockfile é hash de integridade, não segredo — e é enorme.
+  '''(^|/)(package-lock\.json|bun\.lockb?|yarn\.lock|pnpm-lock\.yaml)$''',
+  # Fixture de teste com token falso; se virar token real, é bug de teste.
+  '''(^|/)(__fixtures__|__mocks__|test/fixtures)/''',
+  # Chave do Firebase para Android: vai dentro do APK, é pública por construção.
+  # A proteção dela é a restrição por SHA do app no console do Google, não o sigilo.
+  '''(^|/)google-services\.json$''',
+  '''(^|/)GoogleService-Info\.plist$''',
+  # Manifesto de asset do agente: os valores são hash SHA-256 de DLL, não credencial.
+  '''(^|/)lhm_assets\.go$''',
+]
+
+# Bloco próprio: sem `regexTarget`, o gitleaks testa contra o SEGREDO capturado.
+# É o alvo certo aqui — todos descrevem o formato do próprio valor.
+[[allowlists]]
+description = "Valores que são públicos ou placeholder, lidos no próprio segredo"
+regexes = [
+  # `sb_publishable_…` é a chave pública do Supabase, por definição.
+  '''sb_publishable_[A-Za-z0-9_-]+''',
+  # Placeholder de documentação — quem escreve SUA_CHAVE_AQUI não vazou nada.
+  # Case-insensitive e aceitando o formato <COLE_A_NOVA_CHAVE> dos nossos runbooks.
+  '''(?i)(sua[_-]?chave|your[_-]?key|placeholder|exemplo|example|xxxx+|<[a-z0-9_ ]+>)''',
+  '''(?i)(cole|preencha|informe|substitua|troque)[_ -]?(aqui|a|o|pela?|por)?[_ -]?[a-z_]*''',
+  '''(?i)(deixe[_ -]?vazio|em[_ -]?branco|to[_ -]?be[_ -]?filled|change[_ -]?me|replace[_ -]?me)''',
+  # JWT com `"role":"anon"` no payload: é a chave PUBLICÁVEL do Supabase, feita
+  # para ir ao navegador e barrada por RLS. Os três encodings cobrem os três
+  # alinhamentos possíveis de base64 — o offset depende do que vem antes no payload.
+  '''(InJvbGUiOiJhbm9u|b2xlIjoiYW5v|cm9sZSI6ImFu)''',
+]
+
+# Bloco separado porque estes precisam ver a LINHA inteira, e o alvo é declarado
+# por bloco. `Deno.env.get(...)` nunca aparece dentro do valor capturado — como
+# regex de segredo, a entrada não suprimia nada e o falso positivo continuava
+# passando, com quem escreveu acreditando que estava tratado.
+[[allowlists]]
+description = "Padrões que só fazem sentido lidos na linha inteira"
+regexTarget = "line"
+regexes = [
+  # Ler variável de ambiente é o jeito CERTO de usar segredo, não um vazamento.
+  '''(Deno\.env\.get|process\.env|os\.environ|getenv)\s*[\(\[]''',
+  # Tipagem e declaração de campo: descreve que existe uma chave, não o valor.
+  '''(interface|type|declare|:\s*string;|\?:\s*string)''',
+]
