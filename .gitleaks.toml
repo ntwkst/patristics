@@ -55,6 +55,10 @@ paths = [
   # Chave PUBLICÁVEL do Supabase: nasce para ir ao navegador, protegida por RLS.
   # Bloquear aqui pararia todo repo Lovable, que a escreve no client por padrão.
   '''src/integrations/supabase/client\.ts''',
+  # Mesma chave, mesmo motivo. Veio da config local do apologeticae, absorvida
+  # aqui quando a fonte passou a valer para todos: a cópia de um repo é
+  # sobrescrita na propagação, então o que ela sabia tem de morar na fonte.
+  '''src/integrations/supabase/auth-middleware\.ts''',
   # Arquivo de exemplo existe para mostrar o formato, com valor de mentira.
   '''\.env\.example$''',
   '''\.env\.sample$''',
