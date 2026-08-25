@@ -89,6 +89,23 @@ regexes = [
   '''(?i)(sua[_-]?chave|your[_-]?key|placeholder|exemplo|example|xxxx+|<[a-z0-9_ ]+>)''',
   '''(?i)(cole|preencha|informe|substitua|troque)[_ -]?(aqui|a|o|pela?|por)?[_ -]?[a-z_]*''',
   '''(?i)(deixe[_ -]?vazio|em[_ -]?branco|to[_ -]?be[_ -]?filled|change[_ -]?me|replace[_ -]?me)''',
+  # Token do compartilhamento PÚBLICO de dados abertos da Receita Federal.
+  # Não é credencial: é o identificador do share, publicado na documentação da
+  # própria RFB, e serve só para baixar a base de CNPJ que qualquer pessoa pode
+  # baixar. Guardá-lo num secret fingiria que é segredo e esconderia de quem
+  # precisa entender o script.
+  '''YggdBLfdninEJX9''',
+  # Credencial que é INTERPOLAÇÃO, não valor: `-u "{TOKEN}:"`, `-u "$USER:$PASS"`,
+  # `-u "${VAR}"`. O que está no arquivo é o nome da variável — o valor vem de
+  # outro lugar em tempo de execução, que é exatamente o jeito certo. Acusar
+  # isso ensina o time a ignorar a regra que existe para pegar o `-u "senha123"`.
+  # O gitleaks captura as ASPAS junto com o valor, então o padrão precisa
+  # começar por elas — foi o que fez a primeira versão não suprimir nada.
+  #
+  # E o teto de 30 caracteres não é enfeite: a chave da Asaas começa com
+  # `$aact_`, e sem o limite este padrão a engolia inteira como se fosse nome
+  # de variável. Nome de variável raramente passa de 30; chave sempre passa.
+  '''^["']?[\{\$][\{]?[A-Za-z_][A-Za-z0-9_]{0,28}[\}]?:?["']?$''',
   # JWT com `"role":"anon"` no payload: é a chave PUBLICÁVEL do Supabase, feita
   # para ir ao navegador e barrada por RLS. Os três encodings cobrem os três
   # alinhamentos possíveis de base64 — o offset depende do que vem antes no payload.
