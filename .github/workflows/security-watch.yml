@@ -1,0 +1,174 @@
+# Vigilância de Repositório — reação imediata a evento perigoso.
+#
+# NÃO EDITE ESTE ARQUIVO NO REPO EM QUE ELE ESTÁ RODANDO. Ele é uma cópia; a
+# fonte é `ntwkst/grok-bots`, em `.github/templates/security-watch.yml`.
+#
+# Diferente do `security-guard.yml`, que lê o CONTEÚDO de um push, este reage a
+# eventos de ADMINISTRAÇÃO do repositório — as coisas que um invasor faz depois
+# de já ter entrado, e que nenhum scanner de diff enxerga:
+#
+#   public   → o repositório virou público
+#   member   → alguém foi adicionado ou removido como colaborador
+#   delete   → uma branch ou tag foi apagada
+#   fork     → alguém forkou (é como se leva o código para fora)
+#
+# Force-push é detectado no `security-guard.yml`, que já roda em todo push:
+# um segundo workflow no mesmo gatilho dobraria o consumo de Actions sem
+# detectar nada a mais.
+#
+# Ele roda com o GITHUB_TOKEN do próprio repositório: NÃO depende de PAT nenhum.
+# Essa foi a escolha de propósito — a defesa mais crítica não pode ficar
+# esperando um token que alguém precisa lembrar de criar.
+#
+# O QUE ESTA CONTA NÃO PERMITE: bloquear force-push ou exigir status check antes
+# do merge. Isso é branch protection, que exige GitHub Pro nos repos privados.
+# Enquanto não houver o plano, a defesa é detectar em segundos, não impedir —
+# e essa diferença precisa estar clara para quem confia neste arquivo.
+
+name: Vigilância de Repositório
+
+on:
+  public:
+  member:
+  delete:
+  fork:
+  workflow_dispatch:
+
+concurrency:
+  # Cada evento é um fato próprio: nenhum cancela o outro.
+  group: security-watch-${{ github.event_name }}-${{ github.sha }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  # `administration: write` existe por uma única razão: devolver o repositório
+  # para privado quando ele virar público. Nenhum outro passo escreve nada.
+  administration: write
+
+jobs:
+  vigiar:
+    name: Reagir
+    runs-on: ubuntu-latest
+    steps:
+      - name: Classificar o evento
+        id: evento
+        shell: bash {0}
+        env:
+          GH_EVENTO: ${{ github.event_name }}
+          GH_ACAO: ${{ github.event.action }}
+          GH_REF: ${{ github.ref_name }}
+          GH_REF_TYPE: ${{ github.event.ref_type }}
+          GH_ATOR: ${{ github.actor }}
+          GH_MEMBRO: ${{ github.event.member.login }}
+          GH_VIS: ${{ github.event.repository.private }}
+        run: |
+          set -uo pipefail
+          GRAVIDADE="nenhuma"; TITULO=""; DETALHE=""
+
+          case "$GH_EVENTO" in
+            public)
+              GRAVIDADE="critico"
+              TITULO="Repositório Passou A Público"
+              DETALHE="O código deste repositório ficou visível para qualquer pessoa na internet. Motores de busca indexam em minutos, e o que for lido não se desfaz tornando o repositório privado de novo."
+              ;;
+            member)
+              GRAVIDADE="critico"
+              TITULO="Colaborador ${GH_ACAO:-alterado}: ${GH_MEMBRO:-desconhecido}"
+              DETALHE="Alguém ganhou ou perdeu acesso a este repositório. Se você não fez isso agora, trate como conta comprometida: quem adiciona colaborador já está dentro."
+              ;;
+            delete)
+              GRAVIDADE="atencao"
+              TITULO="${GH_REF_TYPE:-Referência} Apagada: ${GH_REF:-?}"
+              DETALHE="Apagar branch ou tag é rotina de limpeza, mas também é como se apaga rastro. Confira se era a sua."
+              ;;
+            fork)
+              GRAVIDADE="atencao"
+              TITULO="Repositório Forkado"
+              DETALHE="Um fork leva uma cópia integral do código, com histórico, para outra conta. Em repositório privado, só quem tem acesso consegue — o que torna a pergunta 'quem foi' mais importante que 'como'."
+              ;;
+          esac
+
+          {
+            echo "gravidade=$GRAVIDADE"
+            echo "titulo=$TITULO"
+            echo "detalhe=$DETALHE"
+          } >> "$GITHUB_OUTPUT"
+
+          if [ "$GRAVIDADE" = "nenhuma" ]; then
+            echo "Evento sem gravidade ($GH_EVENTO). Nada a fazer."
+          else
+            echo "[$GRAVIDADE] $TITULO"
+          fi
+
+      # A única ação automática de toda a vigilância, e ela existe por assimetria:
+      # esperar custa código exposto e indexado; errar custa um clique para tornar
+      # público de novo. Nenhum outro caso tem essa conta a favor.
+      - name: Devolver o repositório para privado
+        if: github.event_name == 'public'
+        shell: bash {0}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -uo pipefail
+          echo "Repositório está público. Revertendo para privado AGORA."
+          if gh api -X PATCH "repos/${REPO}" -F private=true >/dev/null 2>&1; then
+            echo "Revertido para privado."
+            echo "Se a exposição foi intencional, torne público de novo pela interface —"
+            echo "e avise o Segurança antes, para a próxima não virar incidente."
+          else
+            echo "::error::NÃO consegui reverter. O repositório continua PÚBLICO."
+            echo "::error::Torne privado à mão agora: https://github.com/${REPO}/settings"
+          fi
+
+      - name: Avisar o Segurança
+        if: steps.evento.outputs.gravidade != 'nenhuma'
+        shell: bash {0}
+        env:
+          GUARD_SECRET: ${{ secrets.SECURITY_GUARD_SECRET }}
+          GH_REPO: ${{ github.repository }}
+          GH_ATOR: ${{ github.actor }}
+          GH_EVENTO: ${{ github.event_name }}
+          GH_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          GRAVIDADE: ${{ steps.evento.outputs.gravidade }}
+          TITULO: ${{ steps.evento.outputs.titulo }}
+          DETALHE: ${{ steps.evento.outputs.detalhe }}
+          REVERTIDO: ${{ github.event_name == 'public' }}
+        run: |
+          set -uo pipefail
+          if [ -z "${GUARD_SECRET:-}" ]; then
+            echo "::error::SECURITY_GUARD_SECRET ausente. O evento aconteceu e NINGUÉM foi avisado."
+            echo "::error::Defina o secret neste repositório: $TITULO"
+            exit 0
+          fi
+
+          jq -n \
+            --arg repo "$GH_REPO" --arg ator "$GH_ATOR" --arg evento "$GH_EVENTO" \
+            --arg titulo "$TITULO" --arg detalhe "$DETALHE" \
+            --arg gravidade "$GRAVIDADE" --arg run "$GH_RUN_URL" \
+            --argjson revertido "${REVERTIDO:-false}" \
+            '{repo:$repo, ator:$ator, evento:$evento, titulo:$titulo,
+              detalhe:$detalhe, gravidade:$gravidade, run_url:$run,
+              acao_tomada: (if $revertido then "Repositório devolvido para privado automaticamente." else null end)}' \
+            > /tmp/watch.json
+
+          RESP=$(curl -sS -o /tmp/resp.txt -w '%{http_code}' -X POST \
+            "https://vtyentzijjlrehkzsnkr.supabase.co/functions/v1/security-watch-alert" \
+            -H "x-guard-secret: $GUARD_SECRET" \
+            -H "Content-Type: application/json" \
+            -d @/tmp/watch.json) || RESP="000"
+
+          if [ "${RESP:0:1}" = "2" ]; then
+            echo "Alerta enviado para cse@ntwkst.it (HTTP $RESP)."
+          else
+            echo "::error::O alerta NÃO chegou: HTTP $RESP."
+            echo "::error::Resposta: $(head -c 400 /tmp/resp.txt 2>/dev/null)"
+          fi
+
+      # Falha o job de propósito quando é crítico: o evento fica vermelho na
+      # lista de execuções, e não some no meio dos verdes de rotina.
+      - name: Marcar como incidente
+        if: steps.evento.outputs.gravidade == 'critico'
+        run: |
+          echo "Incidente registrado: ${{ steps.evento.outputs.titulo }}"
+          exit 1
