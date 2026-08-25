@@ -16,9 +16,14 @@
 # um segundo workflow no mesmo gatilho dobraria o consumo de Actions sem
 # detectar nada a mais.
 #
-# Ele roda com o GITHUB_TOKEN do próprio repositório: NÃO depende de PAT nenhum.
-# Essa foi a escolha de propósito — a defesa mais crítica não pode ficar
-# esperando um token que alguém precisa lembrar de criar.
+# A DETECÇÃO roda com o GITHUB_TOKEN do próprio repositório e não depende de PAT
+# nenhum: o alerta sai em segundos mesmo sem nada configurado.
+#
+# Já a REVERSÃO automática de um repositório que virou público exige um PAT
+# (`ORG_AUTOMATION_TOKEN`), porque mudar visibilidade é permissão de
+# administração, que o GITHUB_TOKEN não tem e não pode receber. Sem o PAT, o
+# alerta sai igual e traz o link direto das configurações — o que muda é quem
+# clica, não se você fica sabendo.
 #
 # O QUE ESTA CONTA NÃO PERMITE: bloquear force-push ou exigir status check antes
 # do merge. Isso é branch protection, que exige GitHub Pro nos repos privados.
@@ -39,11 +44,14 @@ concurrency:
   group: security-watch-${{ github.event_name }}-${{ github.sha }}
   cancel-in-progress: false
 
+# `administration` NÃO é permissão válida de GITHUB_TOKEN — declarar rejeita o
+# workflow inteiro, e ele passa a falhar em todo push sem nem chegar a rodar.
+# Consequência prática: o token do workflow NÃO consegue mudar a visibilidade
+# de um repositório. Reverter exige um PAT, e por isso a reversão automática
+# depende do ORG_AUTOMATION_TOKEN — quando ele não existe, o alerta assume o
+# lugar da ação e diz exatamente o que fazer à mão.
 permissions:
   contents: read
-  # `administration: write` existe por uma única razão: devolver o repositório
-  # para privado quando ele virar público. Nenhum outro passo escreve nada.
-  administration: write
 
 jobs:
   vigiar:
@@ -104,21 +112,32 @@ jobs:
       # esperar custa código exposto e indexado; errar custa um clique para tornar
       # público de novo. Nenhum outro caso tem essa conta a favor.
       - name: Devolver o repositório para privado
+        id: reverter
         if: github.event_name == 'public'
         shell: bash {0}
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.ORG_AUTOMATION_TOKEN }}
           REPO: ${{ github.repository }}
         run: |
           set -uo pipefail
+          if [ -z "${GH_TOKEN:-}" ]; then
+            echo "::error::Repositório PÚBLICO e sem ORG_AUTOMATION_TOKEN para reverter."
+            echo "::error::Mudar visibilidade é permissão de administração, que o token do"
+            echo "::error::workflow não tem. Torne privado à mão AGORA:"
+            echo "::error::https://github.com/${REPO}/settings"
+            echo "revertido=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           echo "Repositório está público. Revertendo para privado AGORA."
           if gh api -X PATCH "repos/${REPO}" -F private=true >/dev/null 2>&1; then
             echo "Revertido para privado."
             echo "Se a exposição foi intencional, torne público de novo pela interface —"
             echo "e avise o Segurança antes, para a próxima não virar incidente."
+            echo "revertido=true" >> "$GITHUB_OUTPUT"
           else
             echo "::error::NÃO consegui reverter. O repositório continua PÚBLICO."
             echo "::error::Torne privado à mão agora: https://github.com/${REPO}/settings"
+            echo "revertido=false" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Avisar o Segurança
@@ -133,7 +152,7 @@ jobs:
           GRAVIDADE: ${{ steps.evento.outputs.gravidade }}
           TITULO: ${{ steps.evento.outputs.titulo }}
           DETALHE: ${{ steps.evento.outputs.detalhe }}
-          REVERTIDO: ${{ github.event_name == 'public' }}
+          REVERTIDO: ${{ steps.reverter.outputs.revertido == 'true' }}
         run: |
           set -uo pipefail
           if [ -z "${GUARD_SECRET:-}" ]; then
