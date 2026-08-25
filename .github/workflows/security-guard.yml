@@ -92,6 +92,34 @@ jobs:
             echo "EOF" >> "$GITHUB_OUTPUT"
           fi
 
+      # Force-push reescreve o histórico: commits somem, e é exatamente assim
+      # que se tenta "apagar" um segredo commitado — sem que a chave deixe de
+      # estar comprometida. Vai aqui, e não num workflow próprio, porque este
+      # já roda em todo push: um segundo run no mesmo gatilho custaria o dobro
+      # de Actions para detectar a mesma coisa.
+      - name: Acusar force-push
+        id: forcepush
+        shell: bash {0}
+        if: github.event.forced == true
+        env:
+          GH_REF: ${{ github.ref_name }}
+          GH_ANTES: ${{ github.event.before }}
+          GH_ATOR: ${{ github.actor }}
+        run: |
+          set -uo pipefail
+          {
+            echo "## Force-push detectado"
+            echo
+            echo "- Branch: \`${GH_REF}\`"
+            echo "- Autor: ${GH_ATOR}"
+            echo "- Estava em: \`${GH_ANTES}\`"
+            echo
+            echo "Apagar o commit não desfaz o vazamento: o objeto sobrevive no reflog,"
+            echo "em qualquer clone e no cache do GitHub. Se foi para esconder um segredo,"
+            echo "a chave continua comprometida e precisa ser rotacionada."
+          } >> "$GITHUB_STEP_SUMMARY"
+          echo "FORCE-PUSH em ${GH_REF} por ${GH_ATOR}, sobre ${GH_ANTES}"
+
       - name: Instalar gitleaks
         run: |
           set -euo pipefail
@@ -272,6 +300,7 @@ jobs:
           FALHAS=""
           if [ "${{ steps.segredo.outcome }}" = "failure" ]; then FALHAS="$FALHAS Segredo"; fi
           if [ "${{ steps.padroes.outcome }}" = "failure" ]; then FALHAS="$FALHAS Padroes"; fi
+          if [ "${{ steps.forcepush.outcome }}" = "success" ]; then FALHAS="$FALHAS ForcePush"; fi
           FALHAS="$(echo "$FALHAS" | xargs || true)"
           if [ -z "$FALHAS" ]; then
             echo "aprovado=true" >> "$GITHUB_OUTPUT"
@@ -295,6 +324,7 @@ jobs:
           GH_ATOR: ${{ github.actor }}
           GH_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
           GH_EVENTO: ${{ github.event_name }}
+          GH_ANTES_SHA: ${{ github.event.before }}
           FALHAS: ${{ steps.veredito.outputs.etapas_falhas }}
         run: |
           set -uo pipefail
@@ -319,6 +349,9 @@ jobs:
               Padroes)
                 SAIDA=$(head -25 /tmp/padroes.txt 2>/dev/null)
                 NOME="Padrão de risco no diff" ;;
+              ForcePush)
+                SAIDA="Histórico reescrito em ${GH_BRANCH}. Estava em ${GH_ANTES_SHA}. Se foi para esconder um segredo, a chave continua comprometida."
+                NOME="Force-push: histórico reescrito" ;;
               *) SAIDA=""; NOME="$etapa" ;;
             esac
             ACHADOS=$(echo "$ACHADOS" | jq --arg n "$NOME" --arg s "$SAIDA" '. + [{nome:$n, saida:$s}]')
